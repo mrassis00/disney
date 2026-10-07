@@ -30,7 +30,7 @@
 * [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
 * [ ] 💳 **Cartão Internacional:** Próxima etapa (*ARQ Finance* / *Nomad* / *Wise* para compras com spread de 0,5% e IOF zero).
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
-* [ ] 🎂 **Reserva Hard Rock Cafe:** Próxima etapa (Reserva no OpenTable para 13/12 às 19h no aniversário do papai).
+* [ ] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** Abrir OpenTable em Outubro/2026 solicitando cabine familiar (*booth*) perto da vitrine do **Michael Jackson** (jaqueta original de *Beat It*). Estacionamento CityWalk 100% grátis após 18h!
 * [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 3 dias antes do primeiro parque às 07h00 pelo app My Disney Experience.
 
 ---

@@ -124,10 +124,11 @@ No domingo, **13 de Dezembro**, a celebração oficial de aniversário do Marcel
 ### Como Fazer a Reserva com Antecedência (Passo a Passo)
 1. **Onde Reservar:** Diretamente pelo site oficial ([hardrockcafe.com/location/orlando](https://www.hardrockcafe.com/location/orlando/)) ou pela plataforma parceira **OpenTable** ([opentable.com](https://www.opentable.com/)).
 2. **Janela de Abertura:** As mesas abrem para reserva com **30 a 60 dias de antecedência** (programar alarme para outubro de 2026).
-3. **Observação no Pedido:** Digite no campo especial:  
-   *`"Celebrating Marcelo's Birthday with family! We would love a table near the classic music memorabilia / pink Cadillac if possible."`*
-4. **Horário Recomendado:** 19h00 ou 19h30.
-5. **Estacionamento no CityWalk:** **100% GRATUITO para todos os veículos a partir das 18h00**!
+3. **Observação no Pedido (Texto Oficial):** Digite no campo especial de observações:  
+   *`"Celebrating Marcelo's Birthday with family (two young kids)! Dad is a massive Michael Jackson fan. We would love a comfortable family booth close to the Michael Jackson memorabilia if possible. Thank you so much!"`*
+4. **Local Recomendado:** Cabine familiar (*booth*) próxima à vitrine da memorabilia do **Michael Jackson** (jaqueta vermelha clássica de *Beat It* e trajes de turnê), evitando as mesas altas do bar central.
+5. **Horário Recomendado:** 19h00 ou 19h30.
+6. **Estacionamento no CityWalk:** **100% GRATUITO para todos os veículos a partir das 18h00**!
 
 ---
 
