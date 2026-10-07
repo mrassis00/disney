@@ -30,7 +30,9 @@
 * [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
 * [ ] 💳 **Cartão Internacional:** Próxima etapa (*ARQ Finance* / *Nomad* / *Wise* para compras com spread de 0,5% e IOF zero).
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
-* [ ] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** Abrir OpenTable em Outubro/2026 solicitando cabine familiar (*booth*) perto da vitrine do **Michael Jackson** (jaqueta original de *Beat It*). Estacionamento CityWalk 100% grátis após 18h!
+* [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
+  * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
+  * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
 * [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 3 dias antes do primeiro parque às 07h00 pelo app My Disney Experience.
 
 ---

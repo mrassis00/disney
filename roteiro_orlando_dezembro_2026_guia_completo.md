@@ -117,18 +117,19 @@ A locação do carro oficial da viagem está **100% confirmada e quitada na Rent
 
 ---
 
-## 2. O Aniversário do Papai Marcelo (13/12) no Hard Rock Cafe
+## 2. O Aniversário do Papai Marcelo (13/12) no Hard Rock Cafe — RESERVA CONFIRMADA! 🎸
 
-No domingo, **13 de Dezembro**, a celebração oficial de aniversário do Marcelo será exclusivamente no lendário **Hard Rock Cafe Orlando (Universal CityWalk)** — o maior Hard Rock Cafe do planeta!
+No domingo, **13 de Dezembro**, a celebração oficial de aniversário do Marcelo será no lendário **Hard Rock Cafe Orlando (Universal CityWalk)** — o maior Hard Rock Cafe do planeta!
 
-### Como Fazer a Reserva com Antecedência (Passo a Passo)
-1. **Onde Reservar:** Diretamente pelo site oficial ([hardrockcafe.com/location/orlando](https://www.hardrockcafe.com/location/orlando/)) ou pela plataforma parceira **OpenTable** ([opentable.com](https://www.opentable.com/)).
-2. **Janela de Abertura:** As mesas abrem para reserva com **30 a 60 dias de antecedência** (programar alarme para outubro de 2026).
-3. **Observação no Pedido (Texto Oficial):** Digite no campo especial de observações:  
-   *`"Celebrating Marcelo's Birthday with family (two young kids)! Dad is a massive Michael Jackson fan. We would love a comfortable family booth close to the Michael Jackson memorabilia if possible. Thank you so much!"`*
-4. **Local Recomendado:** Cabine familiar (*booth*) próxima à vitrine da memorabilia do **Michael Jackson** (jaqueta vermelha clássica de *Beat It* e trajes de turnê), evitando as mesas altas do bar central.
-5. **Horário Recomendado:** 19h00 ou 19h30.
-6. **Estacionamento no CityWalk:** **100% GRATUITO para todos os veículos a partir das 18h00**!
+### 📌 Dados Oficiais da Reserva
+* **Status:** **CONFIRMADA & GARANTIDA NO OPENTABLE ($0,00 — Gratuita)**
+* **Código / Número de Confirmação:** **`1713319`**
+* **Titular:** Marcelo Rodolfo D. (Mesa para 4 pessoas: Marcelo, Thalita, Miguel e Isabela)
+* **Data & Horário:** Domingo, **13/12/2026** às **19h00 / 19h30**
+* **Solicitação Especial Registrada:** Cabine familiar (*booth*) com foco no acervo do **Michael Jackson** (jaqueta clássica de *Beat It* e trajes de palco).
+* 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
+* **Regras Importantes:** Tolerância de 10 minutos de atraso (ligar no `(407) 351-7625` se necessário) e toda a família precisa estar presente na recepção para sentar.
+* **Estacionamento no CityWalk:** **100% GRATUITO para todos os veículos a partir das 18h00**!
 
 ---
 
