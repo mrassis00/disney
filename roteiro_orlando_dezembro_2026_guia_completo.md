@@ -38,10 +38,12 @@
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
 * [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
-* [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
-* [ ] 💳 **Cartão Internacional:** Próxima etapa (*ARQ Finance* / *Nomad* / *Wise* para compras com spread de 0,5% e IOF zero).
+* [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emissão dos Bilhetes de Seguro no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k).
+* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Próxima etapa (Circuito Schwab ➡️ Chase via ACH com 0% IOF/Spread + Wise para remessas do Brasil + Banco Inter para Gift Cards Disney com cashback).
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
-* [ ] 🎂 **Reserva Hard Rock Cafe:** Próxima etapa (Reserva no OpenTable para 13/12 às 19h no aniversário do papai).
+* [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
+  * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da vitrine do Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
+  * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
 * [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 3 dias antes do primeiro parque às 07h00 pelo app My Disney Experience.
 
 ---
@@ -404,5 +406,37 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 60.262 – R$ 68.512** | **~US$ 10.761 – US$ 12.234** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
+
+---
+
+## 10. Estratégia Financeira, Cartões Internacionais & Salas VIP (Plano Mestre)
+
+A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem 100% Gratuito** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
+
+### 💳 1. As 3 Estratégias Campeãs de Gastos em Orlando
+1. **🥇 Estratégia 1: O "Circuito Fechado Americano" (A Campeã — 0% IOF / 0% Spread):**
+   * **Charles Schwab ➡️ Chase Bank:** Transferência doméstica **ACH gratuita** ($0 taxa, 0% IOF, 0% Spread, cai em 1 dia útil).
+   * **No dia a dia em Orlando:** Pagamentos com os cartões de débito físicos do **Chase** e **Wise**. Aceitação 100% garantida em lojas, postos e outlets sem risco de variação cambial.
+   * **Remessas novas do Brasil:** Envio via PIX para o **Wise** (IOF reduzido de 1,1% e spread de ~0,8% a 1%). Do Wise, pode gastar no cartão físico ou transferir via ACH para o Chase.
+2. **🥈 Estratégia 2: Compra de Ingressos com Cashback (Banco Inter / Disney Gift Cards):**
+   * Na Conta Global do **Banco Inter**, comprar **Disney Gift Cards** que oferecem frequentemente **5% a 10% de cashback em dólar**.
+   * Os créditos são usados diretamente na compra dos ingressos no site da Disney ou em refeições e lembrancinhas nos parques.
+3. **🥉 Estratégia 3: Cartão de Crédito Brasileiro como "Escudo e Caução":**
+   * Utilizar o **Santander Black / Visa Infinite / XP** exclusivamente para a caução da locadora AVIS e hotéis. Evita congelar saldo da conta corrente americana e protege contra surpresas. Nunca passar em compras correntes para não pagar 4,38% de IOF + spread bancário.
+
+### 🏥 2. Seguro Viagem Familiar 100% Gratuito (Pelas Bandeiras)
+* **Como funciona:** Como as taxas de embarque das passagens emitidas com milhas foram pagas com o cartão Santander Black / Visa Infinite, toda a família tem direito à cobertura médica internacional oficial da bandeira.
+* **Quem está 100% Coberto:** Marcelo (titular), Thalita (cônjuge) e Miguel (7) e Isabela (5) (filhos dependentes).
+* **Cobertura:** Até **US$ 100.000 a US$ 150.000** por pessoa para despesas médicas hospitalares (DMH), repatriação, extravio de bagagem e atrasos.
+* **Ação Obrigatória:** Acessar o portal de benefícios da bandeira (*Visa Benefícios* ou *Mastercard Travel Services*) antes do embarque e emitir o **Bilhete de Seguro de Viagem** nominal para cada um dos 4 membros da família.
+
+### 🛋️ 3. Roteiro de Salas VIP para os 4 (Marcelo, Thalita, Miguel e Isabela)
+* **Embarque em São Paulo (GRU T3 — United UA 860 às 22:25):**
+  * Usar o **Visa Airport Companion (DragonPass)** via Santander Visa Infinite / XP Infinite: o titular (Marcelo) e o adicional (Thalita) usam 1 acesso próprio e abatem 1 acesso para cada filho. Os 4 entram **100% gratuitos** na *W Premium Lounge* ou *Plaza Premium*.
+* **Conexão em Washington Dulles (IAD — 11h23m):**
+  * Descanso nas salas conveniadas ao DragonPass / Priority Pass (Air France Lounge, Virgin Atlantic Lounge, Turkish Airlines Lounge).
+* **Retorno em Orlando (MCO Terminal B — Delta DL 1742):**
+  * Sala VIP **The Club MCO** (Terminal B) via DragonPass para lanche, bebidas e banheiros calmos antes do voo.
+
 
 

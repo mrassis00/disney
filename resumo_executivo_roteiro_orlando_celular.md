@@ -27,8 +27,8 @@
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
 * [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
-* [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
-* [ ] 💳 **Cartão Internacional:** Próxima etapa (*ARQ Finance* / *Nomad* / *Wise* para compras com spread de 0,5% e IOF zero).
+* [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emitir bilhetes nominais no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k sem custo).
+* [ ] 💳 **Cartão Internacional & Gastos:** Próxima etapa (Circuito Schwab ➡️ Chase via ACH com 0% IOF/Spread + Wise para remessas do Brasil + Banco Inter para Gift Cards Disney com cashback).
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
@@ -118,4 +118,24 @@
 | 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 60.154 – R$ 67.914** | **~US$ 10.752 – US$ 12.149** | **Total consolidado para 20 dias inesquecíveis em família!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
+
+---
+
+## 💳 Guia de Bolso: Dinheiro, Cartões & Salas VIP para a Família
+
+### 1. Como Gastar com Zero IOF e Menor Spread:
+* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compras gerais.
+* **Dinheiro do Brasil:** Enviar PIX para o **Wise** (IOF de apenas 1,1% e spread de ~0,9%). Usar débito Wise ou transferir via ACH para o Chase.
+* **Ingressos Disney com Desconto:** Comprar **Disney Gift Cards** no app da Conta Global do **Banco Inter** para garantir **5% a 10% de cashback em dólar**!
+* **Cartões Santander Black / Visa Infinite / XP:** Deixar **apenas para bloqueio de caução** do carro (AVIS) e hotel (sem bloquear saldo de conta corrente).
+
+### 2. Seguro Viagem Familiar Gratuito (US$ 150.000 por pessoa):
+* As taxas de embarque foram pagas com cartão Black/Infinite.
+* Emitir o **Bilhete de Seguro** no portal Visa/Mastercard antes do embarque cobrindo Marcelo, Thalita, Miguel e Isabela com custo $0!
+
+### 3. Salas VIP para os 4 (Marcelo, Thalita, Miguel e Isabela):
+* **Ida em GRU T3 (United UA 860):** Usar o **Visa Airport Companion (DragonPass)** dos cartões Santander Visa Infinite / XP (titular e adicional usam seus acessos para cobrir os filhos). Família de 4 entra 100% grátis na *W Premium* ou *Plaza Premium*!
+* **Conexão em Washington (IAD):** Salas parceiras DragonPass/Priority Pass para descansar na escala de 11h.
+* **Volta em Orlando (MCO T-B):** Sala *The Club MCO* (Terminal B) via DragonPass.
+
 
