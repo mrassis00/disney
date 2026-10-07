@@ -30,10 +30,12 @@
     * *ATL ➡️ GRU (Voo DL 0269):* Saída Qui 31/12 à noite | Pouso Sex 01/01/2027 às 09:35 em São Paulo GRU T3 (Airbus A330-900neo | Assentos: 38J, 39J + 2).
 * [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (R$ 15.214)!**  
   *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Suíte com 2 camas Queen no quarto privativo + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra oficial da Hilton para estadias de 8+ noites; economia de R$ 1.600!).*
-* [ ] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **PRÉ-SELECIONADO (Decisão Amanhã!)**  
-  *Filtros aplicados e aprovados na Rentcars com balcão e pátio no Aeroporto de Tampa (TPA), devolução no Aeroporto de Orlando (MCO), isenção de IOF, condutor adicional grátis e **todas as proteções inclusas (CDW do veículo + Danos a Terceiros de US$ 1 Milhão)**:*  
-  * **Opção 1 (Campeã de Espaço & Conforto da Família):** Minivan *Chrysler Pacifica da AVIS* por **US$ 981,73** (US$ 51,67/dia).  
-  * **Opção 2 (Estilo SUV Imponente):** SUV 7 Lugares *Chevrolet Traverse da AVIS* por **US$ 1.063,08** (US$ 55,95/dia).
+* [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS!**  
+  * **Código de Reserva / Voucher:** `X4X9T9M`  
+  * **Locadora:** **AVIS Rent a Car** (balcão e pátio no Aeroporto de Tampa TPA, devolução no Aeroporto de Orlando MCO).  
+  * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
+  * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
+  * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
 * [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
 * [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
@@ -71,14 +73,25 @@ A hospedagem oficial da família está **100% confirmada e reservada no Booking.
 
 ---
 
-## 1.1 Aluguel de Veículo: Comparativo Final (Rentcars.com)
+## 1.2 Aluguel de Veículo Confirmado: Chevrolet Traverse (AVIS) — Voucher X4X9T9M
 
-Para a rota **Retirada no Aeroporto de Tampa (TPA) em 12/12 e Devolução no Aeroporto de Orlando (MCO) em 31/12**, selecionamos na Rentcars as duas melhores opções do mercado, já com **Proteção do Veículo e Contra Roubo (CDW) + Proteção Contra Terceiros (SLI de US$ 1 Milhão) + Taxa de Retorno Inclusa + Isenção de IOF + Condutor Adicional Grátis**:
+A locação do carro oficial da viagem está **100% confirmada e quitada na Rentcars** com a **AVIS Rent a Car**:
 
-| Categoria / Modelo | Locadora | Avaliação | Diária Média | Total 19 Dias | Destaque Prático para a Família |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| 🥇 **Chrysler Pacifica (Minivan)** | **AVIS** | **8.0** | **US$ 51,67** | **US$ 981,73** | 🏆 **A Campeã Absoluta:** Sistema *Stow 'n Go* (bancos somem no piso), espaço gigante para 4 malas de 23kg + 4 malas de mão + compras, e portas automáticas de correr que protegem as crianças em estacionamentos. |
-| 🥈 **Chevrolet Traverse (SUV 7 Lugares)** | **AVIS** | **8.0** | **US$ 55,95** | **US$ 1.063,08** | ⭐ **Para Quem Quer Estilo SUV:** Mesma categoria do *Jeep Grand Cherokee L* e *Ford Explorer*, posição de dirigir alta, design imponente e porta-malas amplo rebatendo a 3ª fileira (diferença de apenas US$ 81 para a viagem toda). |
+* **Código da Reserva / Voucher:** `X4X9T9M`
+* **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**
+* **Locadora:** **AVIS Rent a Car** (Atendimento direto no terminal)
+* **Retirada:** **Aeroporto de Tampa (TPA)** no dia **12/12/2026** (Voo United UA 1140 às 20h30)
+* **Devolução:** **Aeroporto de Orlando (MCO)** no dia **31/12/2026** às 15h30 (Voo Delta DL 1742 às 18h45)
+* **Proteções Inclusas:**
+  * ✔️ Proteção do Veículo e Roubo (CDW / LDW)
+  * ✔️ Proteção Contra Terceiros de US$ 1 Milhão (SLI / ALI)
+  * ✔️ Taxa de Retorno Tampa ➡️ Orlando 100% inclusa
+  * ✔️ Condutor Adicional Grátis (Marcelo e Thalita)
+  * ✔️ Isenção de IOF de 4,38%
+* 📄 **Voucher Oficial:** [Acessar Voucher com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M)
+* 📋 **Confirmação:** [Página da Reserva Rentcars](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
+
+---
 
 ### 🎯 Análise Estratégica do Campeão: Homewood Suites by Hilton I-Drive Convention Center
 
@@ -377,7 +390,7 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | :--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
 | 🏨 **Hospedagem (19 noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Suíte privativa com 2 camas Queen + sofá-cama, mini cozinha, café buffet quente Hilton incluso e estacionamento 100% grátis). |
-| 🚗 **Aluguel de Veículo (19 dias)** | *Pré-selecionado* | ~R$ 5.490 – R$ 5.950 | US$ 981 – US$ 1.063 | *Chrysler Pacifica* (US$ 981) ou *Chevrolet Traverse 7 Pax* (US$ 1.063) na Avis via Rentcars com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
+| 🚗 **Aluguel de Veículo (19 dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
 | 🎟️ **Ingressos Disney (4 Dias)** | *Próxima etapa* | ~R$ 12.880 – R$ 14.560 | US$ 2.300 – US$ 2.600 | Animal Kingdom, Hollywood Studios, EPCOT e Magic Kingdom (2 Adultos + 2 Crianças). |
 | 🎟️ **Ingressos Universal (2 Dias)** | *Próxima etapa* | ~R$ 9.240 – R$ 10.920 | US$ 1.650 – US$ 1.950 | 1 Dia Park-to-Park (Studios + Islands) + 1 Dia Epic Universe. |
 | 🐬 **Ingressos SeaWorld (1 Dia)** | *Próxima etapa* | ~R$ 2.016 – R$ 2.464 | US$ 360 – US$ 440 | 1 Dia para toda a família com shows e Vila Sésamo. |

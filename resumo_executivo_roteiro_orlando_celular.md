@@ -19,10 +19,12 @@
     * *ATL ➡️ GRU (Voo DL 0269):* Saída Qui 31/12 à noite | Pouso Sex 01/01/2027 às 09:35 em São Paulo GRU T3 (Airbus A330-900neo | Assentos: 38J, 39J + 2).
 * [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (R$ 15.214)!**  
   *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Suíte ampla com 2 camas Queen no quarto + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra Hilton para estadias de 8+ noites; economia de quase R$ 1.600!).*
-* [ ] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **PRÉ-SELECIONADO (Decisão Amanhã!)**  
-  *Filtros aplicados e confirmados na Rentcars com balcão no aeroporto, Isenção de IOF, Condutor Adicional grátis, Taxa de Retorno inclusa e **Proteções Totais Inclusas (CDW + Danos a Terceiros de US$ 1 Milhão)**:*  
-  * **Opção 1 (Campeã da Família):** Minivan *Chrysler Pacifica da AVIS* por **US$ 981,73** (US$ 51,67/dia).  
-  * **Opção 2 (Estilo SUV):** SUV 7 Lugares *Chevrolet Traverse da AVIS* por **US$ 1.063,08** (US$ 55,95/dia).
+* [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS!**  
+  * **Código de Reserva / Voucher:** `X4X9T9M`  
+  * **Locadora:** **AVIS Rent a Car** (balcão e pátio no Aeroporto de Tampa TPA, devolução no Aeroporto de Orlando MCO).  
+  * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
+  * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
+  * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
 * [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
 * [ ] 🏥 **Seguro Viagem Familiar:** Próxima etapa (Emissão apólice Santander Black + Allianz Travel familiar com telemedicina 24h).
@@ -106,7 +108,7 @@
 | :--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Apenas taxas de embarque pagas no cartão Santander Black. |
 | 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* com café buffet quente para 4 pessoas e estacionamento 100% gratuito. |
-| 🚗 **Aluguel Carro (19 Dias)** | *Pré-selecionado* | ~R$ 5.490 – R$ 5.950 | US$ 981 – US$ 1.063 | *Chrysler Pacifica* (US$ 981) ou *Chevy Traverse* (US$ 1.063) na Avis via Rentcars com proteções totais inclusas. |
+| 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
 | 🎟️ **Ingressos (7 Parques)** | *Próxima etapa* | ~R$ 24.000 – R$ 27.500 | US$ 4.300 – US$ 4.900 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. |
 | 🛒 **Carrinho Duplo (19 Dias)** | *Próxima etapa* | ~R$ 1.050 – R$ 1.250 | US$ 180 – US$ 220 | *City Mini GT2 Double* (Kingdom Strollers) entregue e retirado no hotel com capa e cooler. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.100 – R$ 2.500 | US$ 375 – US$ 450 | Pedágios oficiais via Visitor Toll Pass + combustível + estacionamentos dos parques temáticos. |
