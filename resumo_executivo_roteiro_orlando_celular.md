@@ -25,9 +25,10 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PLANEJADA PARA 27 A 30 DE OUTUBRO DE 2026!**  
-  * *Estratégia:* Conversão de ações na Schwab ➡️ Transferência ACH para o Chase Bank ➡️ Compra em USD com cartão de débito Chase (Sites Oficiais e Undercover Tourist).  
-  * *Zero Bilheteria:* Ingressos vinculados diretamente no *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada direta nas catracas!  
+* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PLANEJADA PARA 28 A 30 DE OUTUBRO DE 2026!**  
+  * *Cronograma:* Venda de ações na Schwab na Segunda 26/10 ➡️ Liquidação T+1 e envio ACH na Terça 27/10 ➡️ Saldo no Chase na Quarta 28/10 e compras até 30/10.  
+  * *Estratégia Mista:* **Universal no Site Oficial** (blindar o Epic Universe), **Disney no Undercover Tourist ou Oficial** (desconto atacadista oficial) e **SeaWorld no Site Oficial**.  
+  * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada 100% direta nas catracas!  
   * *Agendamento Lightning Lane:* 11/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
 * [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emitir bilhetes nominais no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k sem custo).
