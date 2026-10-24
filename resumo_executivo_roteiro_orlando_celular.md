@@ -30,7 +30,9 @@
   * *Estratégia Mista:* **Universal no Site Oficial** (blindar o Epic Universe), **Disney no Undercover Tourist ou Oficial** (desconto atacadista oficial) e **SeaWorld no Site Oficial**.  
   * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada 100% direta nas catracas!  
   * *Agendamento Lightning Lane:* 11/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney).
-* [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
+* [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
+  * *Carrinho:* 1 Baby Jogger Summit X3 Double na Lin Rentals por US$ 130 (com seguro perda/roubo, capa de chuva e porta-copos) entregue no hotel.  
+  * *Booster da Isabela (5 anos):* Despacho 100% gratuito no voo pela United/Delta (US$ 0). A Isabela já sai do Aeroporto de Tampa legalizada e segura na I-4, economizando US$ 64 líquidos (R$ 360)!
 * [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emitir bilhetes nominais no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k sem custo).
 * [ ] 💳 **Cartão Internacional & Gastos:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compras e despesas + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
@@ -116,10 +118,10 @@
 | 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* com café buffet quente para 4 pessoas e estacionamento 100% gratuito. |
 | 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
 | 🎟️ **Ingressos (7 Parques)** | *Próxima etapa* | ~R$ 24.000 – R$ 27.500 | US$ 4.300 – US$ 4.900 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. |
-| 🛒 **Carrinho Duplo (19 Dias)** | *Próxima etapa* | ~R$ 1.050 – R$ 1.250 | US$ 180 – US$ 220 | *City Mini GT2 Double* (Kingdom Strollers) entregue e retirado no hotel com capa e cooler. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.100 – R$ 2.500 | US$ 375 – US$ 450 | Pedágios oficiais via Visitor Toll Pass + combustível + estacionamentos dos parques temáticos. |
 | 🍔 **Alimentação (20 Dias)** | *Estimado* | ~R$ 12.300 – R$ 15.500 | US$ 2.200 – US$ 2.800 | Café buffet quente incluso no hotel + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 60.154 – R$ 67.914** | **~US$ 10.752 – US$ 12.149** | **Total consolidado para 20 dias inesquecíveis em família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 59.832 – R$ 67.414** | **~US$ 10.702 – US$ 12.049** | **Total consolidado para 20 dias inesquecíveis em família!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 

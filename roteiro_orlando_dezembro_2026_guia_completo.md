@@ -48,7 +48,9 @@
   * **Timing de Mercado (Por que comprar no final de Outubro e NÃO esperar Novembro?):** Em outubro os parques aplicam seus aumentos anuais de tabela (diárias de pico em feriados já bateram recorde de até US$ 229). Na alta temporada de Natal/Ano Novo, a Disney e a Universal **NÃO oferecem descontos de Black Friday** para datas de dezembro. Esperar novembro traz apenas o risco de cotas do Epic Universe esgotarem.  
   * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):** Ingressos vinculados aos apps com **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes da Universal. A família passa direto pelas catracas sem parar em guichês de troca.  
   * **Agendamento de Filas Rápidas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
-* [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
+* [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
+  * **Carrinho Duplo:** Aluguel de **1 Baby Jogger Summit X3 Double com a Lin Rentals por US$ 130** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
+  * **Assento de Elevação (Booster da Isabela - 5 anos):** **NÃO ALUGAR (Economia de US$ 64 / R$ 360)!** O booster será **despachado do Brasil no voo 100% GRATUITO** pela United/Delta (itens infantis não contam na franquia de bagagem). Assim, a Isabela viaja segura e 100% legalizada no trajeto noturno de 1h15 do Aeroporto de Tampa até Orlando pela rodovia I-4.
 * [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emissão dos Bilhetes de Seguro no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k).
 * [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compra de ingressos e gastos correntes + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
@@ -409,12 +411,12 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🎟️ **Ingressos Disney (4 Dias)** | *Próxima etapa* | ~R$ 12.880 – R$ 14.560 | US$ 2.300 – US$ 2.600 | Animal Kingdom, Hollywood Studios, EPCOT e Magic Kingdom (2 Adultos + 2 Crianças). |
 | 🎟️ **Ingressos Universal (2 Dias)** | *Próxima etapa* | ~R$ 9.240 – R$ 10.920 | US$ 1.650 – US$ 1.950 | 1 Dia Park-to-Park (Studios + Islands) + 1 Dia Epic Universe. |
 | 🐬 **Ingressos SeaWorld (1 Dia)** | *Próxima etapa* | ~R$ 2.016 – R$ 2.464 | US$ 360 – US$ 440 | 1 Dia para toda a família com shows e Vila Sésamo. |
-| 🛒 **Aluguel Carrinho Duplo (19 dias)** | *Próxima etapa* | ~R$ 1.008 – R$ 1.232 | US$ 180 – US$ 220 | *Kingdom Strollers* (City Mini GT2 Double com capa de chuva e cooler) entregue no hotel. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
 | 🅿️ **Estacionamentos dos Parques** | *Estimado* | ~R$ 1.198 – R$ 1.288 | US$ 214 – US$ 230 | 4 dias Disney (US$ 120) + 2 dias Universal (US$ 64) + 1 dia SeaWorld (US$ 30). |
 | 🛣️ **Pedágios (Visitor Toll Pass)** | *Estimado* | ~R$ 168 – R$ 252 | US$ 30 – US$ 45 | Tag oficial governamental gratuito sem tarifas abusivas de locadora. |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
 | 🍔 **Alimentação Familiar (20 dias)** | *Estimado* | ~R$ 12.320 – R$ 15.680 | US$ 2.200 – US$ 2.800 | Café da manhã buffet gratuito na Hilton + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 60.262 – R$ 68.512** | **~US$ 10.761 – US$ 12.234** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 59.982 – R$ 68.012** | **~US$ 10.711 – US$ 12.144** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 
