@@ -25,15 +25,18 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
+* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PLANEJADA PARA 27 A 30 DE OUTUBRO DE 2026!**  
+  * *Estratégia:* Conversão de ações na Schwab ➡️ Transferência ACH para o Chase Bank ➡️ Compra em USD com cartão de débito Chase (Sites Oficiais e Undercover Tourist).  
+  * *Zero Bilheteria:* Ingressos vinculados diretamente no *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada direta nas catracas!  
+  * *Agendamento Lightning Lane:* 11/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
 * [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emitir bilhetes nominais no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k sem custo).
-* [ ] 💳 **Cartão Internacional & Gastos:** Próxima etapa (Circuito Schwab ➡️ Chase via ACH com 0% IOF/Spread + Wise para remessas do Brasil + Banco Inter para Gift Cards Disney com cashback).
+* [ ] 💳 **Cartão Internacional & Gastos:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compras e despesas + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
   * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
-* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 3 dias antes do primeiro parque às 07h00 pelo app My Disney Experience.
+* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
 
@@ -124,9 +127,10 @@
 ## 💳 Guia de Bolso: Dinheiro, Cartões & Salas VIP para a Família
 
 ### 1. Como Gastar com Zero IOF e Menor Spread:
-* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compras gerais.
+* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compra de ingressos (27 a 30/10) e despesas gerais.
+* **Compra de Ingressos em USD Puro:** Cartão de débito Chase no site da Universal Orlando (garantindo Epic Universe), Disney World (ou Undercover Tourist) e SeaWorld.
+* **Entrada Direta nas Catracas (Zero Bilheteria):** Ingressos vinculados diretamente no celular com *Disney MagicMobile* na Apple Wallet e QR Codes no app da Universal.
 * **Dinheiro do Brasil:** Enviar PIX para o **Wise** (IOF de apenas 1,1% e spread de ~0,9%). Usar débito Wise ou transferir via ACH para o Chase.
-* **Ingressos Disney com Desconto:** Comprar **Disney Gift Cards** no app da Conta Global do **Banco Inter** para garantir **5% a 10% de cashback em dólar**!
 * **Cartões Santander Black / Visa Infinite / XP:** Deixar **apenas para bloqueio de caução** do carro (AVIS) e hotel (sem bloquear saldo de conta corrente).
 
 ### 2. Seguro Viagem Familiar Gratuito (US$ 150.000 por pessoa):

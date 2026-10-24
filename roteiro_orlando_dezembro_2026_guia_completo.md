@@ -36,15 +36,19 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques:** Próxima etapa (Disney 4 dias + Universal 1 dia 2-em-1 + Epic Universe + SeaWorld 1 dia).
+* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic Universe, SeaWorld):** **COMPRA PLANEJADA PARA 27 A 30 DE OUTUBRO DE 2026!**  
+  * **Estratégia 100% em Dólar Puro (USD ➡️ USD):** Pagamento com **cartão de débito do Chase Bank** (saldo oriundo da conversão de ações na Charles Schwab e transferido via ACH gratuito). Zero IOF, zero spread cambial e zero intermediários brasileiros.  
+  * **Onde Comprar:** **Site Oficial da Universal Orlando** (para blindar a entrada no novo *Epic Universe* e pacotes multi-dias); **Site Oficial Disney** ou **Undercover Tourist** (revendedor oficial autorizado com E-Ticket oficial direto); **Site Oficial do SeaWorld**.  
+  * **Entrada Direta na Catraca (Zero Bilheteria / Will Call):** Ingressos vinculados diretamente aos apps com emissão do **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes no aplicativo da Universal/SeaWorld. A família passa direto pelas catracas sem pegar fila de troca de vouchers.  
+  * **Agendamento de Atrações (Lightning Lane):** Janela abre em **11/12/2026 às 07h00 de Orlando (09h00 de Brasília)** — 3 dias antes do primeiro parque Disney (Animal Kingdom em 14/12).
 * [ ] 🛒 **Aluguel do Carrinho Duplo:** Próxima etapa (*Kingdom Strollers - City Mini GT2 Double* entregue no hotel).
 * [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emissão dos Bilhetes de Seguro no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k).
-* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Próxima etapa (Circuito Schwab ➡️ Chase via ACH com 0% IOF/Spread + Wise para remessas do Brasil + Banco Inter para Gift Cards Disney com cashback).
+* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compra de ingressos e gastos correntes + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da vitrine do Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
   * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
-* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 3 dias antes do primeiro parque às 07h00 pelo app My Disney Experience.
+* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
 
@@ -413,14 +417,26 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 
 A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem 100% Gratuito** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
 
-### 💳 1. As 3 Estratégias Campeãs de Gastos em Orlando
+### 💳 1. As 3 Estratégias Campeãs de Gastos & Compra de Ingressos em Orlando
 1. **🥇 Estratégia 1: O "Circuito Fechado Americano" (A Campeã — 0% IOF / 0% Spread):**
-   * **Charles Schwab ➡️ Chase Bank:** Transferência doméstica **ACH gratuita** ($0 taxa, 0% IOF, 0% Spread, cai em 1 dia útil).
-   * **No dia a dia em Orlando:** Pagamentos com os cartões de débito físicos do **Chase** e **Wise**. Aceitação 100% garantida em lojas, postos e outlets sem risco de variação cambial.
+   * **Charles Schwab ➡️ Chase Bank:** Transferência doméstica **ACH gratuita** ($0 taxa, 0% IOF, 0% Spread, cai em 1 dia útil após liquidação das ações).
+   * **Compra dos Ingressos dos Parques e Dia a Dia em Orlando:** Pagamentos com o **cartão de débito do Chase** (dólar com dólar). Aceitação 100% garantida, sem conversão cambial, sem risco de IOF e sem depender de agências intermediárias do Brasil.
    * **Remessas novas do Brasil:** Envio via PIX para o **Wise** (IOF reduzido de 1,1% e spread de ~0,8% a 1%). Do Wise, pode gastar no cartão físico ou transferir via ACH para o Chase.
-2. **🥈 Estratégia 2: Compra de Ingressos com Cashback (Banco Inter / Disney Gift Cards):**
-   * Na Conta Global do **Banco Inter**, comprar **Disney Gift Cards** que oferecem frequentemente **5% a 10% de cashback em dólar**.
-   * Os créditos são usados diretamente na compra dos ingressos no site da Disney ou em refeições e lembrancinhas nos parques.
+2. **🥈 Estratégia 2: Compra Blindada de Ingressos (27 a 30 de Outubro de 2026) & Entrada Direta nas Catracas:**
+   * **Cronograma de Execução Financeira:**
+     * **24 a 26/10:** Venda/liquidação de ações na Charles Schwab para disponibilização dos recursos em conta corrente.
+     * **26 a 27/10:** Transferência ACH gratuita da Schwab para o **Chase Bank**.
+     * **27 a 30/10:** Compra oficial dos ingressos em USD com o cartão de débito Chase.
+   * **Onde Comprar Cada Ingresso (A Fórmula Mais Segura e Econômica):**
+     * **Universal Orlando (1 Dia 2-em-1 + 1 Dia Epic Universe):** **Site Oficial da Universal Orlando**. Essencial para garantir a disponibilidade blindada do *Epic Universe* (sem risco de restrições de revendedores terceiros).
+     * **Disney World (4 Dias Base):** **Site Oficial Disney** ou **Undercover Tourist** (revendedor oficial autorizado na Flórida que emite E-Tickets diretos com código oficial idêntico ao da Disney e economia real de até US$ 60 por ingresso com taxas inclusas).
+     * **SeaWorld Orlando (1 Dia):** **Site Oficial do SeaWorld** (aproveitando tarifas promocionais diretas).
+   * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Zero Filas de Troca "Will Call"):**
+     * **Disney:** No app *My Disney Experience*, vincular os ingressos aos perfis da família e ativar o **Disney MagicMobile**. Adicionar os 4 cartões digitais (Marcelo, Thalita, Miguel e Isabela) à **Apple Wallet / Google Wallet** no iPhone/Android com o *Modo Expresso*. Na catraca do parque, basta encostar o celular no totem luminoso do Mickey — zero parada em guichês!
+     * **Universal:** No app oficial da Universal Orlando, abrir a aba *Wallet / Tickets*. O app gera os QR Codes dinâmicos que são escaneados diretamente nas catracas físicas.
+     * **SeaWorld:** Apresentação do código de barras digital do E-Ticket na catraca pelo celular.
+   * **Agendamento de Filas Rápidas (Lightning Lane):**
+     * Com os ingressos vinculados com antecedência, a janela de agendamento do *Lightning Lane Multi Pass* abre na **Sexta-feira, 11/12/2026, pontualmente às 07h00 de Orlando (09h00 de Brasília)** — 3 dias antes do primeiro parque Disney (Animal Kingdom em 14/12). A família já viaja com 3 atrações garantidas por dia sem filas!
 3. **🥉 Estratégia 3: Cartão de Crédito Brasileiro como "Escudo e Caução":**
    * Utilizar o **Santander Black / Visa Infinite / XP** exclusivamente para a caução da locadora AVIS e hotéis. Evita congelar saldo da conta corrente americana e protege contra surpresas. Nunca passar em compras correntes para não pagar 4,38% de IOF + spread bancário.
 
