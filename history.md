@@ -1387,10 +1387,27 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   6. *Fixar no Vidro e Dirigir:* Grudar com as ventosas atrás do retrovisor interno. Nos pedágios, passar direto pelas faixas "SunPass" ou "E-PASS" sem parar.
   7. *Devolução do Carro (31/12):* Puxar as ventosas do vidro, guardar a caixinha na mala (fica para você para futuras viagens) e devolver o carro na AVIS em Orlando (MCO).
 * **Documentação & Budget Atualizados:**
-  - Checklist oficial atualizado em ambos os guias (`roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`).
-  - Seção 10 do Guia Completo e Guia de Bolso do Resumo Celular enriquecidos com a subseção prática de pedágios para leigos.
-  - Tabela Financeira consolidada atualizada com a linha de pedágios em **US$ 25 (~R$ 140)** e Total Geral atualizado para **~R$ 61.130 – R$ 68.960 / ~US$ 10.916 – US$ 12.314**.
-  - Scripts de compilação executados (HTMLs e PDFs) e novo commit gerado no Git.
+---
+
+## 💬 Interação 44
+
+### 👤 Solicitação do Usuário:
+> Salvar tudo no `history.md` e vou continuar depois.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Sessão Salva e Consolidada com Sucesso:**
+  - Todos os arquivos do projeto (`roteiro_orlando_dezembro_2026_guia_completo.md`, `resumo_executivo_roteiro_orlando_celular.md`, versões HTML e PDFs compilados) estão 100% sincronizados, salvos e com histórico versionado no Git.
+* **Painel de Controle para Retomada (Tudo o que está pronto):**
+  1. ✈️ **Passagens Aéreas:** Emitidas com milhas (United na ida via IAD com conexão no Discovery Space Shuttle / Delta na volta).
+  2. 🏨 **Hospedagem:** *Homewood Suites by Hilton I-Drive* reservado e confirmado no Booking.com (19 noites, café quente incluso, estacionamento 100% gratuito).
+  3. 🚗 **Carro:** *Chevrolet Traverse 7 Lugares* na AVIS confirmado e quitado via Rentcars (Voucher `X4X9T9M`).
+  4. 🎂 **Aniversário Papai:** Hard Rock Cafe Orlando reservado para 13/12 às 19h no OpenTable (`1713319`).
+  5. 🛒 **Carrinho & Assento Criança:** Carrinho duplo *Summit X3 Double* na Lin Rentals (US$ 130 c/ capa e seguro) + Booster da Isabela despachado grátis no voo da United (US$ 0).
+  6. 🏥 **Seguro Viagem & Saúde:** *IMG Patriot America Plus* definido (cobertura US$ 1.000.000, rede UnitedHealthcare PPO, copay US$ 25 no *MD Now Urgent Care* a 4 min do hotel). Contratação programada para 28-30/10 no débito Chase (~US$ 210).
+  7. 🛣️ **Pedágios Flórida:** *SunPass PRO Portable* definido. Trajeto de chegada Tampa ➡️ Orlando na I-4 East 100% livre de pedágios. Caixinha comprada no Publix/Walgreens no domingo 13/12 (US$ 14,95 + US$ 10 de recarga) com placa cadastrada no app até 31/12 (recusar e-Toll na AVIS).
+* **Próxima Etapa no Retorno:**
+  - Execução das compras dos ingressos dos parques e do seguro saúde entre **28 e 30 de Outubro de 2026** (após a liquidação das ações da Schwab e crédito em dólar no Chase Bank).
+
 
 
 
