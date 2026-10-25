@@ -51,8 +51,12 @@
 * [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
   * **Carrinho Duplo:** Aluguel de **1 Baby Jogger Summit X3 Double com a Lin Rentals por US$ 130** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
   * **Assento de Elevação (Booster da Isabela - 5 anos):** **NÃO ALUGAR (Economia de US$ 64 / R$ 360)!** O booster será **despachado do Brasil no voo 100% GRATUITO** pela United/Delta (itens infantis não contam na franquia de bagagem). Assim, a Isabela viaja segura e 100% legalizada no trajeto noturno de 1h15 do Aeroporto de Tampa até Orlando pela rodovia I-4.
-* [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emissão dos Bilhetes de Seguro no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k).
-* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compra de ingressos e gastos correntes + Santander/XP para caução.
+* [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
+  * **Cobertura & Rede:** Teto de **US$ 1.000.000 por pessoa**, operando diretamente na **UnitedHealthcare Options PPO** (a maior rede hospitalar dos EUA).  
+  * **Urgências Infantis (Copay Fixo de US$ 25):** Atendimento direto sem franquia na clínica *MD Now Urgent Care* (a 4 min do hotel) e farmácia *Walgreens 24h* a 2 quadras.  
+  * **Contratação & Pagamento:** Contratação oficial no site da IMG (`imglobal.com`) entre **28 e 30 de Outubro de 2026** paga em Dólar Puro com o **cartão de débito do Chase Bank** (~US$ 210 para os 4 segurados por 20 dias, $0 IOF e $0 taxas).  
+  * **Emergências Graves (Protocolo 911 & Hospitais):** Atendimento prioritário no *Dr. P. Phillips Hospital* (a 5 min) e no *Nemours Children's Hospital* com faturamento direto (*Direct Billing*).
+* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compra de ingressos, seguro e gastos correntes + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da vitrine do Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
@@ -412,11 +416,12 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🎟️ **Ingressos Universal (2 Dias)** | *Próxima etapa* | ~R$ 9.240 – R$ 10.920 | US$ 1.650 – US$ 1.950 | 1 Dia Park-to-Park (Studios + Islands) + 1 Dia Epic Universe. |
 | 🐬 **Ingressos SeaWorld (1 Dia)** | *Próxima etapa* | ~R$ 2.016 – R$ 2.464 | US$ 360 – US$ 440 | 1 Dia para toda a família com shows e Vila Sésamo. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
+| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
 | 🅿️ **Estacionamentos dos Parques** | *Estimado* | ~R$ 1.198 – R$ 1.288 | US$ 214 – US$ 230 | 4 dias Disney (US$ 120) + 2 dias Universal (US$ 64) + 1 dia SeaWorld (US$ 30). |
 | 🛣️ **Pedágios (Visitor Toll Pass)** | *Estimado* | ~R$ 168 – R$ 252 | US$ 30 – US$ 45 | Tag oficial governamental gratuito sem tarifas abusivas de locadora. |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
 | 🍔 **Alimentação Familiar (20 dias)** | *Estimado* | ~R$ 12.320 – R$ 15.680 | US$ 2.200 – US$ 2.800 | Café da manhã buffet gratuito na Hilton + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 59.982 – R$ 68.012** | **~US$ 10.711 – US$ 12.144** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.158 – R$ 69.188** | **~US$ 10.921 – US$ 12.354** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 
@@ -424,12 +429,12 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 
 ## 10. Estratégia Financeira, Cartões Internacionais & Salas VIP (Plano Mestre)
 
-A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem 100% Gratuito** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
+A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem de US$ 1.000.000 (IMG / UnitedHealthcare PPO)** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
 
 ### 💳 1. As 3 Estratégias Campeãs de Gastos & Compra de Ingressos em Orlando
 1. **🥇 Estratégia 1: O "Circuito Fechado Americano" (A Campeã — 0% IOF / 0% Spread):**
    * **Charles Schwab ➡️ Chase Bank:** Transferência doméstica **ACH gratuita** ($0 taxa, 0% IOF, 0% Spread, cai em 1 dia útil após liquidação das ações).
-   * **Compra dos Ingressos dos Parques e Dia a Dia em Orlando:** Pagamentos com o **cartão de débito do Chase** (dólar com dólar). Aceitação 100% garantida, sem conversão cambial, sem risco de IOF e sem depender de agências intermediárias do Brasil.
+   * **Compra dos Ingressos, Seguro Saúde e Dia a Dia em Orlando:** Pagamentos com o **cartão de débito do Chase** (dólar com dólar). Aceitação 100% garantida, sem conversão cambial, sem risco de IOF e sem depender de intermediários brasileiros.
    * **Remessas novas do Brasil:** Envio via PIX para o **Wise** (IOF reduzido de 1,1% e spread de ~0,8% a 1%). Do Wise, pode gastar no cartão físico ou transferir via ACH para o Chase.
 2. **🥈 Estratégia 2: Compra Estruturada dos Ingressos (28 a 30 de Outubro de 2026) — A Estratégia Mista Vencedora:**
    * **Por que a Estratégia é Mista? (O Melhor dos Dois Mundos):**
@@ -440,7 +445,7 @@ A família possui um arsenal financeiro de alto nível para esta viagem. O objet
      * **Segunda-feira 26/10 (09h30 NY / 10h30 Brasília):** Abertura de Wall Street. Marcelo executa a venda das ações na Charles Schwab.
      * **Terça-feira 27/10:** Liquidação da ordem em USD (norma T+1 da SEC). Saldo livre em cash. Marcelo dispara a transferência doméstica **ACH gratuita** da Schwab para o **Chase Bank**.
      * **Quarta-feira 28/10:** Dinheiro creditado na conta corrente do Chase. Cartão de débito Chase pronto e habilitado para compras.
-     * **28 a 30/10:** Janela oficial para efetuar a compra dos ingressos em USD puro (sem IOF e sem spread).
+     * **28 a 30/10:** Janela oficial para efetuar a compra dos ingressos e do seguro IMG em USD puro (sem IOF e sem spread).
    * **Análise de Mercado: É Melhor Comprar no Final de Outubro ou em Novembro (Black Friday)?**
      * **Tendência de Preços nos Parques:** Outubro é historicamente o mês em que a Disney e a Universal aplicam seus **reajustes anuais de tabela** (o ano fiscal da Disney inicia em 1º de outubro). Recentemente, as diárias de pico de feriados atingiram recordes de até **US$ 229 por pessoa/dia** no Magic Kingdom e EPCOT.
      * **O Mito da Black Friday para a Semana de Natal:** Na Disney e na Universal, **NÃO existem promoções de Black Friday para ingressos de altíssima temporada (12 a 31 de dezembro)**. As promoções de Black Friday de revendedores aplicam-se apenas a hotéis ou datas de baixa temporada (janeiro/fevereiro).
@@ -455,11 +460,49 @@ A família possui um arsenal financeiro de alto nível para esta viagem. O objet
 3. **🥉 Estratégia 3: Cartão de Crédito Brasileiro como "Escudo e Caução":**
    * Utilizar o **Santander Black / Visa Infinite / XP** exclusivamente para a caução da locadora AVIS e hotéis. Evita congelar saldo da conta corrente americana e protege contra surpresas. Nunca passar em compras correntes para não pagar 4,38% de IOF + spread bancário.
 
-### 🏥 2. Seguro Viagem Familiar 100% Gratuito (Pelas Bandeiras)
-* **Como funciona:** Como as taxas de embarque das passagens emitidas com milhas foram pagas com o cartão Santander Black / Visa Infinite, toda a família tem direito à cobertura médica internacional oficial da bandeira.
-* **Quem está 100% Coberto:** Marcelo (titular), Thalita (cônjuge) e Miguel (7) e Isabela (5) (filhos dependentes).
-* **Cobertura:** Até **US$ 100.000 a US$ 150.000** por pessoa para despesas médicas hospitalares (DMH), repatriação, extravio de bagagem e atrasos.
-* **Ação Obrigatória:** Acessar o portal de benefícios da bandeira (*Visa Benefícios* ou *Mastercard Travel Services*) antes do embarque e emitir o **Bilhete de Seguro de Viagem** nominal para cada um dos 4 membros da família.
+---
+
+### 🏥 2. Protocolo de Saúde & Emergência Médica em Orlando (IMG Patriot America Plus / UnitedHealthcare PPO)
+
+Como as taxas de embarque não foram pagas no cartão de crédito brasileiro, o seguro saúde da viagem será provido pela **IMG Global (Plano Patriot America Plus)**, a maior seguradora médica para visitantes nos EUA, com mais de 30 anos de mercado e classificação de solidez financeira **A- (Excellent)** pela A.M. Best e Fitch.
+
+#### A) Informações de Contratação & Confiabilidade:
+* **O Site Oficial é Seguro?** **Sim, 100% oficial e auditado.** A contratação é feita direto no portal oficial `imglobal.com`. A apólice é emitida na hora e você recebe o cartão digital com o número da apólice (*Certificate Number*) e o logotipo da **UnitedHealthcare PPO**.
+* **Quando Contratar:** Entre **28 e 30 de Outubro de 2026**, junto com os ingressos, logo após os dólares estarem disponíveis no Chase Bank.
+* **Configuração da Apólice Recomendada:**
+  * *Período:* 11/12/2026 a 01/01/2027 (22 dias de cobertura ampla cobrindo saída e chegada).
+  * *Teto de Cobertura (Policy Maximum):* **US$ 1.000.000 por pessoa** (cobertura milionária para total tranquilidade).
+  * *Deductible (Franquia Geral):* **US$ 0 ou US$ 100** (para clínicas de urgência rápida, o deductible é dispensado e cobra-se apenas o copay de US$ 25).
+  * *Valor Estimado Família (4 pessoas):* **~US$ 210** pagos à vista no cartão de débito do Chase.
+
+#### B) Protocolo para Urgências Leves ou Moderadas (Febre, Dor de Ouvido, Vômito Infantil, Torção Leve nos Parques):
+1. **Onde Ir (A 4 minutos do seu hotel):**  
+   🏥 **MD Now Urgent Care - Dr. Phillips**  
+   📍 *Endereço:* 8972 Turkey Lake Road, Suite A400, Orlando, FL 32819 *(a 2,8 km do Homewood Suites)*.  
+   📞 *Telefone:* (407) 226-1906 | *Horário:* Aberto 7 dias por semana (inclusive noites e fins de semana).  
+   *(Alternativa também na rede: AdventHealth Centra Care Sand Lake / Dr. Phillips).*
+2. **Procedimento no Balcão:**
+   * Apresente a carteirinha digital no celular com o logo da **UnitedHealthcare Options PPO** e o passaporte do paciente.
+   * Diga ao recepcionista: *"We have UnitedHealthcare PPO in-network coverage through IMG."*
+   * Você paga apenas o **copay fixo de US$ 25** no cartão de débito Chase.
+   * Toda a consulta médica, exames clínicos básicos e curativos são faturados diretamente para a seguradora (*Cashless Direct Billing*).
+3. **Medicamentos Prescritos:**
+   * Se o médico receitar antibiótico, antitérmico ou colírio, compre na farmácia **Walgreens 24 Horas** que fica na esquina do hotel (**8900 International Dr, Orlando**).
+   * Pague no débito Chase, guarde o cupom fiscal (*itemized receipt*) e envie pelo app da IMG para reembolso farmacêutico.
+
+#### C) Protocolo para Emergências Graves ou Acidentes (Trauma, Quebra de Osso, Intoxicação Severa):
+1. **Risco Iminente de Vida:** Ligue **911** imediatamente (ou avise a equipe de socorristas de primeiros socorros dentro dos parques Disney/Universal). O socorro e a ambulância prestam atendimento imediato sem exigir pagamento prévio.
+2. **Hospitais de Referência na Rede UnitedHealthcare Próximos do Hotel:**
+   * 🧒 **Para Emergências Pediátricas (O Melhor da Flórida):**  
+     **Nemours Children's Hospital**  
+     📍 *Endereço:* 13535 Nemours Parkway, Orlando, FL 32827 *(Hospital pediátrico de referência mundial com pronto-socorro infantil dedicado 24h)*.
+   * 🏥 **Para Emergências Gerais / Adultos (A 5 minutos do Hotel):**  
+     **Orlando Health Dr. P. Phillips Hospital**  
+     📍 *Endereço:* 9400 Turkey Lake Road, Orlando, FL 32819 *(A apenas 3,5 km do Homewood Suites, com centro de trauma e emergência 24h)*.
+3. **Acionamento da Seguradora (Pre-certification):**
+   * Na admissão do hospital, apresente a carteirinha UnitedHealthcare PPO.
+   * Assim que o paciente estiver sob cuidados médicos, ligue para o número de emergência 24h impresso no verso do cartão IMG (`+1-800-628-4664` ou acione via app).
+   * Informe a admissão hospitalar. A equipe da IMG emite a **Carta de Garantia Financeira (*Letter of Financial Guarantee*)** diretamente ao departamento financeiro do hospital, assumindo as contas da internação e procedimentos até o limite de US$ 1.000.000.
 
 ### 🛋️ 3. Roteiro de Salas VIP para os 4 (Marcelo, Thalita, Miguel e Isabela)
 * **Embarque em São Paulo (GRU T3 — United UA 860 às 22:25):**

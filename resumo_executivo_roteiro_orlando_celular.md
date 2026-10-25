@@ -33,8 +33,10 @@
 * [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
   * *Carrinho:* 1 Baby Jogger Summit X3 Double na Lin Rentals por US$ 130 (com seguro perda/roubo, capa de chuva e porta-copos) entregue no hotel.  
   * *Booster da Isabela (5 anos):* Despacho 100% gratuito no voo pela United/Delta (US$ 0). A Isabela já sai do Aeroporto de Tampa legalizada e segura na I-4, economizando US$ 64 líquidos (R$ 360)!
-* [ ] 🏥 **Seguro Viagem Familiar (100% Gratuito pelas Bandeiras):** Próxima etapa (Emitir bilhetes nominais no portal Visa Infinite / Mastercard Black cobrindo os 4 membros da família até US$ 150k sem custo).
-* [ ] 💳 **Cartão Internacional & Gastos:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compras e despesas + Santander/XP para caução.
+* [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
+  * *Cobertura:* US$ 1.000.000 por pessoa na maior rede médica dos EUA (UnitedHealthcare). Copay de apenas US$ 25 no *MD Now Urgent Care* a 4 min do hotel.  
+  * *Contratação:* 28 a 30 de Outubro de 2026 em Dólar Puro com cartão de débito Chase (~US$ 210 para os 4 segurados por 20 dias).
+* [ ] 💳 **Cartão Internacional & Gastos:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compras, ingressos e seguro + Santander/XP para caução.
 * [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
@@ -119,26 +121,32 @@
 | 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
 | 🎟️ **Ingressos (7 Parques)** | *Próxima etapa* | ~R$ 24.000 – R$ 27.500 | US$ 4.300 – US$ 4.900 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.100 – R$ 2.500 | US$ 375 – US$ 450 | Pedágios oficiais via Visitor Toll Pass + combustível + estacionamentos dos parques temáticos. |
 | 🍔 **Alimentação (20 Dias)** | *Estimado* | ~R$ 12.300 – R$ 15.500 | US$ 2.200 – US$ 2.800 | Café buffet quente incluso no hotel + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 59.832 – R$ 67.414** | **~US$ 10.702 – US$ 12.049** | **Total consolidado para 20 dias inesquecíveis em família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.008 – R$ 68.590** | **~US$ 10.912 – US$ 12.259** | **Total consolidado para 20 dias inesquecíveis em família!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 
 ---
 
-## 💳 Guia de Bolso: Dinheiro, Cartões & Salas VIP para a Família
+## 💳 Guia de Bolso: Dinheiro, Cartões, Saúde & Salas VIP
 
 ### 1. Como Gastar com Zero IOF e Menor Spread:
-* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compra de ingressos (27 a 30/10) e despesas gerais.
+* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compra de ingressos (28 a 30/10), seguro saúde e despesas gerais.
 * **Compra de Ingressos em USD Puro:** Cartão de débito Chase no site da Universal Orlando (garantindo Epic Universe), Disney World (ou Undercover Tourist) e SeaWorld.
 * **Entrada Direta nas Catracas (Zero Bilheteria):** Ingressos vinculados diretamente no celular com *Disney MagicMobile* na Apple Wallet e QR Codes no app da Universal.
 * **Dinheiro do Brasil:** Enviar PIX para o **Wise** (IOF de apenas 1,1% e spread de ~0,9%). Usar débito Wise ou transferir via ACH para o Chase.
 * **Cartões Santander Black / Visa Infinite / XP:** Deixar **apenas para bloqueio de caução** do carro (AVIS) e hotel (sem bloquear saldo de conta corrente).
 
-### 2. Seguro Viagem Familiar Gratuito (US$ 150.000 por pessoa):
-* As taxas de embarque foram pagas com cartão Black/Infinite.
-* Emitir o **Bilhete de Seguro** no portal Visa/Mastercard antes do embarque cobrindo Marcelo, Thalita, Miguel e Isabela com custo $0!
+### 2. Protocolo de Urgência & Saúde em Orlando (Rede UnitedHealthcare PPO):
+* **Clínica Rápida para Crianças (a 4 min do hotel):**  
+  🏥 **MD Now Urgent Care - Dr. Phillips** (8972 Turkey Lake Rd, Suite A400). Aberto 7 dias por semana. Apresentar a carteirinha UnitedHealthcare PPO no celular e pagar **copay fixo de US$ 25** no débito Chase (faturamento direto sem burocracia).
+* **Farmácia 24h na Esquina do Hotel:** **Walgreens 24h** (8900 International Dr). Guardar o cupom fiscal para reembolso de medicamentos na IMG.
+* **Emergências Graves / Hospitais:**  
+  * Adultos e Emergência Geral: **Orlando Health Dr. P. Phillips Hospital** (9400 Turkey Lake Rd - a 5 min do hotel).  
+  * Especializado Infantil: **Nemours Children's Hospital** (Lake Nona - o melhor hospital pediátrico da Flórida).  
+  * Se risco de vida: Ligar **911** imediatamente e depois acionar a IMG (`+1-800-628-4664`).
 
 ### 3. Salas VIP para os 4 (Marcelo, Thalita, Miguel e Isabela):
 * **Ida em GRU T3 (United UA 860):** Usar o **Visa Airport Companion (DragonPass)** dos cartões Santander Visa Infinite / XP (titular e adicional usam seus acessos para cobrir os filhos). Família de 4 entra 100% grátis na *W Premium* ou *Plaza Premium*!
