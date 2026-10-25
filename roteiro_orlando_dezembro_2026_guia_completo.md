@@ -56,8 +56,11 @@
   * **Urgências Infantis (Copay Fixo de US$ 25):** Atendimento direto sem franquia na clínica *MD Now Urgent Care* (a 4 min do hotel) e farmácia *Walgreens 24h* a 2 quadras.  
   * **Contratação & Pagamento:** Contratação oficial no site da IMG (`imglobal.com`) entre **28 e 30 de Outubro de 2026** paga em Dólar Puro com o **cartão de débito do Chase Bank** (~US$ 210 para os 4 segurados por 20 dias, $0 IOF e $0 taxas).  
   * **Emergências Graves (Protocolo 911 & Hospitais):** Atendimento prioritário no *Dr. P. Phillips Hospital* (a 5 min) e no *Nemours Children's Hospital* com faturamento direto (*Direct Billing*).
-* [ ] 💳 **Cartão Internacional & Estratégia de Câmbio:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compra de ingressos, seguro e gastos correntes + Santander/XP para caução.
-* [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
+* [ ] 🛣️ **Pedágios Oficiais da Flórida (SunPass PRO Portátil):** **ESTRATÉGIA DEFINIDA!**  
+  * **Economia Real vs. AVIS:** **RECUSAR terminantemente o "e-Toll Unlimited" no balcão da AVIS** (economia direta de mais de US$ 240 / R$ 1.350!).  
+  * **Trajeto Noturno Tampa ➡️ Orlando (12/12):** 100% livre de pedágio via rodovia interestadual I-4 East (custo US$ 0 e risco zero de multa na noite da chegada).  
+  * **Aparelho Oficial:** Compra do **SunPass PRO portátil com ventosas (US$ 14,95)** via Amazon ou no Publix/Walgreens a 3 min do hotel no domingo 13/12.  
+  * **Como Funciona:** Fixado com ventosas atrás do retrovisor e cadastrado no app oficial SunPass com a placa do SUV Chevrolet Traverse e as datas da locação. Saldo de US$ 15 no débito Chase cobre todos os pedágios da viagem com a tarifa governamental mais barata da Flórida!
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da vitrine do Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
   * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
@@ -418,10 +421,10 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
 | 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
 | 🅿️ **Estacionamentos dos Parques** | *Estimado* | ~R$ 1.198 – R$ 1.288 | US$ 214 – US$ 230 | 4 dias Disney (US$ 120) + 2 dias Universal (US$ 64) + 1 dia SeaWorld (US$ 30). |
-| 🛣️ **Pedágios (Visitor Toll Pass)** | *Estimado* | ~R$ 168 – R$ 252 | US$ 30 – US$ 45 | Tag oficial governamental gratuito sem tarifas abusivas de locadora. |
+| 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **~R$ 140** | **~US$ 25** | Compra do transponder portátil SunPass PRO (US$ 14,95) + US$ 10 de saldo. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
 | 🍔 **Alimentação Familiar (20 dias)** | *Estimado* | ~R$ 12.320 – R$ 15.680 | US$ 2.200 – US$ 2.800 | Café da manhã buffet gratuito na Hilton + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.158 – R$ 69.188** | **~US$ 10.921 – US$ 12.354** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 
@@ -511,6 +514,41 @@ Como as taxas de embarque não foram pagas no cartão de crédito brasileiro, o 
   * Descanso nas salas conveniadas ao DragonPass / Priority Pass (Air France Lounge, Virgin Atlantic Lounge, Turkish Airlines Lounge).
 * **Retorno em Orlando (MCO Terminal B — Delta DL 1742):**
   * Sala VIP **The Club MCO** (Terminal B) via DragonPass para lanche, bebidas e banheiros calmos antes do voo.
+
+### 🛣️ 4. Guia Passo a Passo para Leigos: Pedágios na Flórida com SunPass PRO (Zero Multas e Sem Taxas AVIS)
+
+> [!TIP]
+> **A melhor notícia para quem vai dirigir:** O trajeto inteiro da chegada no sábado à noite (12/12), saindo do Aeroporto de Tampa (TPA) até o hotel em Orlando (Homewood Suites), é feito pela rodovia **Interstate 4 (I-4 Leste)**. A **I-4 é 100% pública e livre de pedágios**! Além disso, o deslocamento diário do hotel para a Disney, Universal, Epic Universe e SeaWorld também **não tem pedágios**. Você não precisa se desesperar no aeroporto nem corre risco de multas na chegada.
+
+O aparelho portátil **SunPass PRO** é a escolha ideal para gastar o mínimo possível (~US$ 25 no total) e evitar as tarifas abusivas da AVIS (*e-Toll* cobra até US$ 15,99 por dia ou US$ 5,95 de taxa diária de conveniência).
+
+#### Passo a Passo Prático:
+1. **Chegada tranquila em Tampa (12/12):**
+   * Retire a minivan na AVIS.
+   * Se o atendente perguntar se quer contratar o pacote de pedágios (*e-Toll*), diga apenas: *"No, thank you. I will use my own transponder."*
+   * Ligue o GPS (Waze ou Google Maps) e dirija até o hotel em Orlando via I-4 East. **Custo de pedágio na primeira noite = US$ 0,00.**
+2. **Onde e como comprar o SunPass PRO (Domingo, 13/12 de manhã):**
+   * Vá ao supermercado **Publix** (há um a 3 minutos do hotel, na International Dr) ou farmácia **Walgreens**.
+   * Vá ao balcão de atendimento ao cliente ou caixa e peça: *"SunPass PRO Portable with suction cups"* (custa **US$ 14,95** + taxa). É uma caixinha branca pequena que vem com duas ventosas transparentes.
+   *(Alternativa: pedir pela Amazon US alguns dias antes da viagem para entregar na recepção do hotel).*
+3. **Instalar o App e Criar a Conta:**
+   * Baixe o aplicativo oficial **SunPass** no celular (disponível na App Store ou Google Play) ou acesse [sunpass.com](https://www.sunpass.com).
+   * Crie seu cadastro (usuário, senha e e-mail).
+   * Cadastre seu cartão para pagamento (cartão de débito em dólar Nomad/Wise/Chase ou cartão de crédito internacional).
+4. **Ativar o Aparelho e Carregar Saldo:**
+   * No app, clique em *"Activate Transponder"*.
+   * Digite o número de série impresso no verso da caixinha do SunPass PRO.
+   * Faça uma recarga inicial pré-paga de **US$ 10,00** (esse valor vira saldo para pagar as tarifas reais dos pedágios).
+5. **Cadastrar a Placa da Minivan Alugada:**
+   * No app, vá na aba de veículos e selecione **"Rental Vehicle"** (Veículo Alugado).
+   * Digite a **Placa (*License Plate*)** e o Estado da placa (geralmente Florida - FL).
+   * Insira a **Data/Hora de Início** (12/12) e a **Data/Hora Exata de Devolução** (31/12 às 16:00).
+   * *Por que isso é fundamental:* O sistema protege você: no momento em que der 16:00 do dia 31/12, a placa é desvinculada automaticamente da sua conta, impedindo que pedágios de futuros motoristas caiam no seu cartão.
+6. **Fixar no Carro e Dirigir Sem Preocupações:**
+   * Grude as ventosas do SunPass PRO na parte superior do para-brisa, logo atrás do espelho retrovisor central.
+   * Quando passar por pedágios expressos (como na volta para o aeroporto de Orlando MCO pela FL-528), basta passar pelas faixas que dizem *"SunPass"* ou *"E-PASS"* sem parar. O leitor lê sua caixinha e desconta a tarifa com desconto estadual.
+   * Na devolução do carro na AVIS em Orlando (MCO), basta puxar as ventosas, guardar o SunPass PRO na mala (ele fica com você para viagens futuras ou pode ser emprestado) e entregar o carro.
+
 
 
 

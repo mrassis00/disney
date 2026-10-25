@@ -36,8 +36,10 @@
 * [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
   * *Cobertura:* US$ 1.000.000 por pessoa na maior rede médica dos EUA (UnitedHealthcare). Copay de apenas US$ 25 no *MD Now Urgent Care* a 4 min do hotel.  
   * *Contratação:* 28 a 30 de Outubro de 2026 em Dólar Puro com cartão de débito Chase (~US$ 210 para os 4 segurados por 20 dias).
-* [ ] 💳 **Cartão Internacional & Gastos:** Circuito Schwab ➡️ Chase via ACH gratuito ($0 taxas) para compras, ingressos e seguro + Santander/XP para caução.
-* [ ] 🛣️ **Passe de Pedágio (Visitor Toll Pass):** Próxima etapa (Agendamento gratuito no app oficial antes do embarque).
+* [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
+  * Recusar o serviço *e-Toll* da AVIS no balcão.  
+  * Trajeto Tampa ➡️ Orlando na chegada (12/12) é via I-4 Leste: **100% gratuito e livre de pedágios**!  
+  * Comprar a caixinha *SunPass PRO Portable* no Publix/Walgreens no domingo 13/12 (US$ 14,95), carregar US$ 10 e cadastrar a placa da minivan no app com data de início e fim (31/12). Gasto total de apenas ~US$ 25 (~R$ 140).
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
   * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
   * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
@@ -122,9 +124,9 @@
 | 🎟️ **Ingressos (7 Parques)** | *Próxima etapa* | ~R$ 24.000 – R$ 27.500 | US$ 4.300 – US$ 4.900 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
 | 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
-| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.100 – R$ 2.500 | US$ 375 – US$ 450 | Pedágios oficiais via Visitor Toll Pass + combustível + estacionamentos dos parques temáticos. |
+| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.220 – R$ 2.870 | US$ 395 – US$ 510 | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
 | 🍔 **Alimentação (20 Dias)** | *Estimado* | ~R$ 12.300 – R$ 15.500 | US$ 2.200 – US$ 2.800 | Café buffet quente incluso no hotel + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.008 – R$ 68.590** | **~US$ 10.912 – US$ 12.259** | **Total consolidado para 20 dias inesquecíveis em família!** |
+| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **Total consolidado para 20 dias inesquecíveis em família!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 
@@ -152,5 +154,14 @@
 * **Ida em GRU T3 (United UA 860):** Usar o **Visa Airport Companion (DragonPass)** dos cartões Santander Visa Infinite / XP (titular e adicional usam seus acessos para cobrir os filhos). Família de 4 entra 100% grátis na *W Premium* ou *Plaza Premium*!
 * **Conexão em Washington (IAD):** Salas parceiras DragonPass/Priority Pass para descansar na escala de 11h.
 * **Volta em Orlando (MCO T-B):** Sala *The Club MCO* (Terminal B) via DragonPass.
+
+### 4. Pedágios & Estradas: Guia Prático SunPass PRO (Zero Multas e Sem Taxas da AVIS):
+* 🛣️ **Tranquilidade na Chegada (12/12):** O trajeto Tampa (TPA) ➡️ Hotel (I-Drive) pela **Interstate 4 (I-4 Leste) é 100% livre de pedágios**. Você não paga nada na primeira noite!
+* 🛑 **No Balcão da AVIS:** Diga *"No, thank you"* para o pacote de pedágios (*e-Toll*).
+* 🛒 **Comprar o Aparelho (13/12 de manhã):** No Publix ou Walgreens perto do hotel, compre a caixinha **SunPass PRO Portable** (com ventosas) por **US$ 14,95**.
+* 📱 **Ativar no App SunPass:** Baixe o app *SunPass*, crie sua conta, adicione **US$ 10** de saldo pré-pago, cadastre o número do aparelho e adicione o veículo como **"Rental Car"** com a placa da minivan e as datas de início e fim da locação (12/12 a 31/12 às 16h).
+* 🚗 **Fixar no Vidro:** Grude no para-brisa com as ventosas atrás do retrovisor. Ao passar por praças de pedágio expressas, passe direto pela faixa SunPass/E-PASS.
+* 📦 **Devolução (31/12):** Ao entregar o carro na AVIS em Orlando (MCO), retire a caixinha do vidro e guarde na mala. O app desvincula a placa automaticamente às 16h!
+
 
 

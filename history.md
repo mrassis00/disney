@@ -1366,6 +1366,34 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   - Resumo de bolso para celular atualizado com os telefones e endereços das clínicas.
   - Script de compilação executado (HTMLs e PDFs) e commit no Git gerado.
 
+---
+
+## 💬 Interação 43
+
+### 👤 Solicitação do Usuário:
+> Atualizar o planejamento com a Opção 1 (SunPass PRO Portable) para os pedágios da Flórida (Tampa TPA ➡️ Orlando ➡️ Parques ➡️ MCO), deixando claro o passo a passo do que fazer para um leigo, sem pagar taxas abusivas da AVIS e com zero risco de multas.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Tranquilidade Imediata para o Motorista (Fato Crucial):**
+  - O trajeto da chegada no sábado à noite (12/12) saindo do Aeroporto de Tampa (TPA) até o hotel em Orlando (Homewood Suites na I-Drive) é feito integralmente pela **Interstate 4 (I-4 Leste)**, que é uma rodovia pública federal **100% livre de pedágios**!
+  - O deslocamento diário do hotel para todos os parques (Disney, Universal, Epic Universe, SeaWorld) e para o Hard Rock Cafe também é feito sem pedágios.
+  - Os pedágios só existem principalmente no trajeto final de devolução do carro até o aeroporto de Orlando (MCO) pela FL-528 Beachline Expressway (~US$ 3,50 a US$ 4,50), ou em caso de saídas acidentais na Turnpike/417.
+* **Passo a Passo Mastigado para Leigos:**
+  1. *No Balcão da AVIS em Tampa:* Recusar o serviço de pedágio (*e-Toll*) dizendo: *"No, thank you. I will use my own transponder."*
+  2. *Primeira Noite (12/12):* Dirigir direto do aeroporto de Tampa ao hotel pela I-4 East com Waze/Google Maps. Custo de pedágio = US$ 0,00.
+  3. *Comprar o SunPass PRO (13/12 de manhã):* No supermercado Publix ou farmácia Walgreens a 3 min do hotel, comprar o **SunPass PRO Portable** (caixinha branca com ventosas) por **US$ 14,95**. *(Ou comprar antes pela Amazon US para entrega no hotel).*
+  4. *Baixar o App e Criar Conta:* No app *SunPass* ou site oficial `sunpass.com`, criar a conta, cadastrar cartão internacional (Chase/Nomad/Wise) e carregar **US$ 10,00** de saldo pré-pago.
+  5. *Cadastrar a Placa do Carro Alugado:* Selecionar "Rental Car", digitar a placa da minivan da AVIS, marcando data/hora de início (12/12) e fim (31/12 às 16h). Isso garante que o carro seja desvinculado automaticamente após a entrega na AVIS, evitando cobranças de futuros motoristas.
+  6. *Fixar no Vidro e Dirigir:* Grudar com as ventosas atrás do retrovisor interno. Nos pedágios, passar direto pelas faixas "SunPass" ou "E-PASS" sem parar.
+  7. *Devolução do Carro (31/12):* Puxar as ventosas do vidro, guardar a caixinha na mala (fica para você para futuras viagens) e devolver o carro na AVIS em Orlando (MCO).
+* **Documentação & Budget Atualizados:**
+  - Checklist oficial atualizado em ambos os guias (`roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`).
+  - Seção 10 do Guia Completo e Guia de Bolso do Resumo Celular enriquecidos com a subseção prática de pedágios para leigos.
+  - Tabela Financeira consolidada atualizada com a linha de pedágios em **US$ 25 (~R$ 140)** e Total Geral atualizado para **~R$ 61.130 – R$ 68.960 / ~US$ 10.916 – US$ 12.314**.
+  - Scripts de compilação executados (HTMLs e PDFs) e novo commit gerado no Git.
+
+
+
 
 
 
