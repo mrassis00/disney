@@ -233,3 +233,7 @@ function Generate-Pdf($htmlPath, $pdfPath) {
 
 Generate-Pdf "$dir\resumo_executivo_roteiro_orlando_celular.html" "$dir\resumo_executivo_roteiro_orlando_celular.pdf"
 Generate-Pdf "$dir\roteiro_orlando_dezembro_2026_guia_completo.html" "$dir\roteiro_orlando_dezembro_2026_guia_completo.pdf"
+if (Test-Path "$dir\VENDAHOJE.html") {
+    Generate-Pdf "$dir\VENDAHOJE.html" "$dir\VENDAHOJE.pdf"
+}
+

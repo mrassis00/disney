@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ordem de Venda Schwab - US$ 18.540 - Viagem Orlando 2026</title>
+<style>
+  :root {
+    --primary: #0f172a;
+    --primary-blue: #1e3a8a;
+    --accent: #2563eb;
+    --success: #15803d;
+    --success-bg: #f0fdf4;
+    --danger: #b91c1c;
+    --danger-bg: #fef2f2;
+    --neutral-bg: #f8fafc;
+    --border: #cbd5e1;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1e293b;
+    background-color: #ffffff;
+    padding: 24px 30px;
+    font-size: 13px;
+    line-height: 1.45;
+  }
+  .header {
+    border-bottom: 2px solid var(--primary-blue);
+    padding-bottom: 14px;
+    margin-bottom: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .title-area h1 {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+  .title-area p {
+    font-size: 12px;
+    color: #475569;
+  }
+  .badge-date {
+    background: #e2e8f0;
+    color: #0f172a;
+    font-weight: 700;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 12px;
+    text-align: right;
+  }
+  .alert-box {
+    background: #eff6ff;
+    border-left: 4px solid var(--accent);
+    padding: 10px 14px;
+    border-radius: 6px;
+    margin-bottom: 18px;
+    font-size: 12px;
+    color: #1e3a8a;
+  }
+  .alert-box strong { color: #0c4a6e; }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 18px;
+    font-size: 12px;
+  }
+  th {
+    background-color: #0f172a;
+    color: #ffffff;
+    text-align: left;
+    padding: 8px 10px;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  th.right, td.right { text-align: right; }
+  th.center, td.center { text-align: center; }
+  td {
+    padding: 7px 10px;
+    border-bottom: 1px solid #e2e8f0;
+    color: #1e293b;
+  }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  .ticker {
+    font-weight: 800;
+    color: #1e3a8a;
+    font-size: 13px;
+  }
+  .loss {
+    color: var(--danger);
+    font-weight: 700;
+  }
+  .gain-neutral {
+    color: #475569;
+    font-weight: 600;
+  }
+  .checkbox {
+    width: 16px;
+    height: 16px;
+    border: 2px solid #64748b;
+    border-radius: 3px;
+    display: inline-block;
+  }
+
+  .totals-card {
+    background: #f8fafc;
+    border: 2px solid #94a3b8;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-bottom: 18px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .total-item {
+    display: flex;
+    flex-direction: column;
+  }
+  .total-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #64748b;
+    margin-bottom: 3px;
+  }
+  .total-val {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--primary-blue);
+  }
+  .total-val.tax-loss {
+    color: #b91c1c;
+    font-size: 18px;
+  }
+  .total-sub {
+    font-size: 11px;
+    color: #64748b;
+    margin-top: 2px;
+  }
+
+  .section-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 4px;
+  }
+
+  .grid-two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .card-box {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 11.5px;
+  }
+  .card-box ul {
+    margin-left: 18px;
+    color: #334155;
+  }
+  .card-box li { margin-bottom: 4px; }
+
+  .footer-steps {
+    background: #f1f5f9;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 11.5px;
+    color: #334155;
+    line-height: 1.5;
+  }
+  .footer-steps strong { color: #0f172a; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="title-area">
+    <h1>📋 ORDEM DE VENDA — LIQUIDEZ VIAGEM ORLANDO 2026</h1>
+    <p>Conta Charles Schwab Joint Tenant | Destino: Transferência ACH para Chase Bank</p>
+  </div>
+  <div class="badge-date">
+    EXECUÇÃO: 27/10/2026<br>
+    PREGÃO NYSE / NASDAQ
+  </div>
+</div>
+
+<div class="alert-box">
+  🎯 <strong>Estratégia Blindada:</strong> Venda concentrada <strong>100% em REITs e ETFs imobiliários</strong> que estão em prejuízo ou no zero-a-zero. <strong>Zero Ações (*Stocks*) vendidas.</strong> Todas as Big Techs (Apple, Amazon, Google, Microsoft, Costco, JPMorgan e Tesla) continuam 100% intactas na carteira!
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th class="center" style="width: 35px;">OK</th>
+      <th>Ticker</th>
+      <th>Nome / Setor</th>
+      <th class="right">Qtd a Vender</th>
+      <th class="right">Preço Ref.</th>
+      <th class="right">Valor Bruto ($)</th>
+      <th class="center">Gain/Loss (%)</th>
+      <th>Status / Motivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">VNQ</td>
+      <td>Vanguard Real Estate Index ETF</td>
+      <td class="right"><strong>105</strong></td>
+      <td class="right">$93.17</td>
+      <td class="right"><strong>$9,782.85</strong></td>
+      <td class="center loss">-10.36%</td>
+      <td><strong>Âncora de caixa</strong> (-$1.130 prejuízo fiscal)</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">XLRE</td>
+      <td>Real Estate Select Sector SPDR</td>
+      <td class="right"><strong>64</strong></td>
+      <td class="right">$42.80</td>
+      <td class="right"><strong>$2,739.20</strong></td>
+      <td class="center gain-neutral">+5.61%</td>
+      <td>Neutro (+$145); redundante com VNQ</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">TRNO</td>
+      <td>Terreno Realty Corp (Industrial)</td>
+      <td class="right"><strong>20</strong></td>
+      <td class="right">$65.00</td>
+      <td class="right"><strong>$1,300.00</strong></td>
+      <td class="center gain-neutral">-0.41%</td>
+      <td><strong>Zero-a-zero</strong> (-$5); saída limpa imediata</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">O</td>
+      <td>Realty Income Corp (Retail Triple Net)</td>
+      <td class="right"><strong>19</strong></td>
+      <td class="right">$57.16</td>
+      <td class="right"><strong>$1,086.04</strong></td>
+      <td class="center loss">-10.79%</td>
+      <td>Setor sob pressão de juros (-$131)</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">VMRK</td>
+      <td>Vivmark Residential REIT</td>
+      <td class="right"><strong>16</strong></td>
+      <td class="right">$62.78</td>
+      <td class="right"><strong>$1,004.48</strong></td>
+      <td class="center loss">-20.80%</td>
+      <td>Residencial em baixa (-$263)</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">PSA</td>
+      <td>Public Storage REIT</td>
+      <td class="right"><strong>3</strong></td>
+      <td class="right">$306.97</td>
+      <td class="right"><strong>$920.91</strong></td>
+      <td class="center gain-neutral">+0.85%</td>
+      <td><strong>Neutro</strong> (+$7); saída sem imposto</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">EXR</td>
+      <td>Extra Space Storage REIT</td>
+      <td class="right"><strong>4</strong></td>
+      <td class="right">$143.37</td>
+      <td class="right"><strong>$573.48</strong></td>
+      <td class="center loss">-11.81%</td>
+      <td>Self-storage em acomodação (-$76)</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">REXR</td>
+      <td>Rexford Industrial Realty</td>
+      <td class="right"><strong>15</strong></td>
+      <td class="right">$38.00</td>
+      <td class="right"><strong>$570.00</strong></td>
+      <td class="center loss">-32.28%</td>
+      <td>Pior ativo da carteira (-$271)</td>
+    </tr>
+    <tr>
+      <td class="center"><span class="checkbox"></span></td>
+      <td class="ticker">AMT</td>
+      <td>American Tower Corp (Telecom)</td>
+      <td class="right"><strong>3</strong></td>
+      <td class="right">$188.28</td>
+      <td class="right"><strong>$564.84</strong></td>
+      <td class="center loss">-20.01%</td>
+      <td>Posição residual fraca (-$141)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="totals-card">
+  <div class="total-item">
+    <div class="total-label">💵 Total Bruto a Receber na Conta:</div>
+    <div class="total-val">US$ 18.541,80</div>
+    <div class="total-sub">Valor líquido suficiente para 100% da viagem + sobra confortável de compras</div>
+  </div>
+  <div class="total-item">
+    <div class="total-label">📉 Resultado Tributário Consolidado:</div>
+    <div class="total-val tax-loss">- US$ 1.867,34</div>
+    <div class="total-sub"><strong>ZERO IMPOSTO A PAGAR</strong> (Gera crédito fiscal de prejuízo para abater lucros futuros)</div>
+  </div>
+</div>
+
+<div class="grid-two">
+  <div class="card-box">
+    <div class="section-title">🛡️ Ativos Mantidos Intactos (Deixados de Fora)</div>
+    <ul>
+      <li><strong>STAG ($726,00):</strong> Mantido em carteira por enquanto (boa pagadora mensal).</li>
+      <li><strong>DLR ($872,65) & EQIX ($967,65):</strong> <strong>NÃO VENDER!</strong> Surfando forte a onda de IA e Data Centers (+38% e +55%).</li>
+      <li><strong>NOBL ($2.914,50):</strong> Reserva de emergência defensiva mantida. Se no futuro quiser mais compras em Orlando, avalia-se depois.</li>
+      <li><strong>AÇÕES INDIVIDUAIS:</strong> AAPL, AMZN, COST, GOOGL, JPM, MSFT e TSLA 100% intocadas.</li>
+    </ul>
+  </div>
+  <div class="card-box">
+    <div class="section-title">🛍️ Destinação do Caixa no Chase Bank</div>
+    <ul>
+      <li><strong>Ingressos dos 7 Parques:</strong> ~US$ 4.500 (Disney, Universal Epic, SeaWorld).</li>
+      <li><strong>Seguro Saúde IMG Patriot:</strong> ~US$ 210 (US$ 1M teto / UnitedHealthcare).</li>
+      <li><strong>Hospedagem Hilton & Despesas:</strong> ~US$ 5.200 (19 noites + alimentação).</li>
+      <li><strong>🎁 SALDO LIVRE PARA COMPRAS NOS EUA:</strong> <strong>~US$ 8.000+</strong> livres para compras nos outlets, eletrônicos, cosméticos e presentes em família!</li>
+    </ul>
+  </div>
+</div>
+
+<div class="footer-steps">
+  <strong>🚀 Passo a Passo Operacional na Charles Schwab:</strong><br>
+  1. No app ou site da Schwab, vá em <strong>Trade ➡️ Stocks & ETFs</strong>.<br>
+  2. Selecione a <strong>Ação de Venda (*Sell*)</strong>, coloque a <strong>Quantidade Exata</strong> de cada linha da tabela acima e selecione o tipo de ordem <strong>Market</strong> (ou <strong>Limit</strong> no preço de mercado) para execução no pregão de hoje.<br>
+  3. Com a liquidação padrão T+1 (amanhã, quarta-feira 28/10), vá em <strong>Transfers & Payments ➡️ Transfer Funds</strong>.<br>
+  4. Selecione transferência <strong>ACH (Free / Sem Taxas)</strong> da Schwab direto para o <strong>Chase Bank</strong>. Saldo disponível em dólar puro para compras e reservas!
+</div>
+
+</body>
+</html>
