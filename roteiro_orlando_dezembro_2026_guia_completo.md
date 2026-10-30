@@ -36,16 +36,17 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic Universe, SeaWorld):** **COMPRA PLANEJADA PARA 28 A 30 DE OUTUBRO DE 2026!**  
-  * **Cronograma Financeiro da Semana:**  
-    * *Segunda 26/10:* Abertura do mercado em Wall Street (09h30 NY) ➡️ Venda/liquidação das ações na Charles Schwab.  
-    * *Terça 27/10:* Liquidação da ordem (norma T+1 da SEC) ➡️ Envio de transferência ACH doméstica gratuita ($0 taxas, $0 IOF) da Schwab para o **Chase Bank**.  
-    * *Quarta 28/10:* Crédito liberado na conta corrente do Chase ➡️ Compra em USD puro com o cartão de débito Chase.  
+* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic Universe, SeaWorld):** **COMPRA PROGRAMADA PARA 02 A 04 DE NOVEMBRO DE 2026!**  
+  * **Status Financeiro em Tempo Real:**  
+    * *Quinta-feira 29/10:* **Ordem de venda executada com sucesso na Charles Schwab no valor total de US$ 18.856,83** (superando a meta inicial em +US$ 315!).  
+    * *Sexta-feira 30/10:* Liquidação da ordem em T+1 (regra SEC) ➡️ Envio de transferência ACH doméstica gratuita ($0 taxas, $0 IOF) da Schwab para o **Chase Bank**.  
+    * *Segunda 02/11 a Terça 03/11:* Crédito liberado na conta corrente do Chase (*O feriado de 02/11 no Brasil não afeta o FedACH e os bancos americanos, que operam normalmente*).  
+    * *Janela de Compra:* Execução imediata em USD puro com o cartão de débito Chase assim que o saldo constar em conta.  
   * **A Estratégia Mista Campeã (Segurança + Economia):**  
     * 🎢 **Universal Orlando (Studios + Islands + Epic Universe):** Compra **DIRETO no Site Oficial da Universal**. Motivo: blindar o acesso garantido ao novo *Epic Universe* (a Universal restringe e controla cotas para revendedores terceiros).  
     * 🏰 **Disney World (4 Dias Base):** Compra no **Undercover Tourist** (economia real de até US$ 60 por ingresso com taxas da Flórida já inclusas, gerando E-Tickets oficiais diretos) **OU no Site Oficial Disney** (se preferir tudo num só cadastro).  
     * 🐬 **SeaWorld Orlando (1 Dia):** Compra no **Site Oficial do SeaWorld** (tarifas promocionais diretas).  
-  * **Timing de Mercado (Por que comprar no final de Outubro e NÃO esperar Novembro?):** Em outubro os parques aplicam seus aumentos anuais de tabela (diárias de pico em feriados já bateram recorde de até US$ 229). Na alta temporada de Natal/Ano Novo, a Disney e a Universal **NÃO oferecem descontos de Black Friday** para datas de dezembro. Esperar novembro traz apenas o risco de cotas do Epic Universe esgotarem.  
+  * **Timing de Mercado (Por que comprar no início de Novembro e NÃO esperar Black Friday?):** Em outubro os parques aplicaram seus aumentos anuais de tabela (diárias de pico em feriados já bateram recorde de até US$ 229). Na alta temporada de Natal/Ano Novo, a Disney e a Universal **NÃO oferecem descontos de Black Friday** para datas de dezembro. Comprar agora entre 02 e 04 de Novembro garante os ingressos do Epic Universe antes do esgotamento das cotas.  
   * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):** Ingressos vinculados aos apps com **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes da Universal. A família passa direto pelas catracas sem parar em guichês de troca.  
   * **Agendamento de Filas Rápidas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 * [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
@@ -54,7 +55,7 @@
 * [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
   * **Cobertura & Rede:** Teto de **US$ 1.000.000 por pessoa**, operando diretamente na **UnitedHealthcare Options PPO** (a maior rede hospitalar dos EUA).  
   * **Urgências Infantis (Copay Fixo de US$ 25):** Atendimento direto sem franquia na clínica *MD Now Urgent Care* (a 4 min do hotel) e farmácia *Walgreens 24h* a 2 quadras.  
-  * **Contratação & Pagamento:** Contratação oficial no site da IMG (`imglobal.com`) entre **28 e 30 de Outubro de 2026** paga em Dólar Puro com o **cartão de débito do Chase Bank** (~US$ 210 para os 4 segurados por 20 dias, $0 IOF e $0 taxas).  
+  * **Contratação & Pagamento:** Contratação oficial no site da IMG (`imglobal.com`) entre **02 e 04 de Novembro de 2026** paga em Dólar Puro com o **cartão de débito do Chase Bank** (~US$ 210 para os 4 segurados por 20 dias, $0 IOF e $0 taxas).  
   * **Emergências Graves (Protocolo 911 & Hospitais):** Atendimento prioritário no *Dr. P. Phillips Hospital* (a 5 min) e no *Nemours Children's Hospital* com faturamento direto (*Direct Billing*).
 * [ ] 🛣️ **Pedágios Oficiais da Flórida (SunPass PRO Portátil):** **ESTRATÉGIA DEFINIDA!**  
   * **Economia Real vs. AVIS:** **RECUSAR terminantemente o "e-Toll Unlimited" no balcão da AVIS** (economia direta de mais de US$ 240 / R$ 1.350!).  
@@ -439,21 +440,21 @@ A família possui um arsenal financeiro de alto nível para esta viagem. O objet
    * **Charles Schwab ➡️ Chase Bank:** Transferência doméstica **ACH gratuita** ($0 taxa, 0% IOF, 0% Spread, cai em 1 dia útil após liquidação das ações).
    * **Compra dos Ingressos, Seguro Saúde e Dia a Dia em Orlando:** Pagamentos com o **cartão de débito do Chase** (dólar com dólar). Aceitação 100% garantida, sem conversão cambial, sem risco de IOF e sem depender de intermediários brasileiros.
    * **Remessas novas do Brasil:** Envio via PIX para o **Wise** (IOF reduzido de 1,1% e spread de ~0,8% a 1%). Do Wise, pode gastar no cartão físico ou transferir via ACH para o Chase.
-2. **🥈 Estratégia 2: Compra Estruturada dos Ingressos (28 a 30 de Outubro de 2026) — A Estratégia Mista Vencedora:**
+2. **🥈 Estratégia 2: Compra Estruturada dos Ingressos (02 a 04 de Novembro de 2026) — A Estratégia Mista Vencedora:**
    * **Por que a Estratégia é Mista? (O Melhor dos Dois Mundos):**
      * 🎢 **Universal Orlando (Site Oficial da Universal):** **COMPRA DIRETA OBRIGATÓRIA.** O novo *Epic Universe* tem cotas de capacidade rigorosamente controladas. A Universal não repassa ingressos avulsos ou de 1 dia com desconto para revendedores terceiros. Comprar direto no site da Universal é a única forma de garantir 100% de disponibilidade para o domingo 27/12 com vinculação automática no app.
      * 🏰 **Disney World (Undercover Tourist ou Site Oficial):** Para os 4 dias de parque base da Disney, o **Undercover Tourist** (revendedor oficial autorizado da Disney nos EUA) repassa descontos atacadistas de **US$ 25 a US$ 60 por ingresso**, com as **taxas da Flórida (6,5%) já inclusas**. Os E-Tickets emitidos pelo Undercover Tourist contêm códigos oficiais idênticos aos da Disney, vinculando em segundos no *My Disney Experience* com entrada direta na catraca e elegibilidade total à *Lightning Lane*. *(Caso prefira unificar tudo sem abrir outro site, comprar no site oficial da Disney é igualmente perfeito, apenas com o valor de tabela cheio).*
      * 🐬 **SeaWorld Orlando (Site Oficial do SeaWorld):** O SeaWorld costuma praticar promoções agressivas diretas em seu site oficial (ingressos promocionais de US$ 55 a US$ 65).
    * **Cronograma Real da Semana de Compra:**
-     * **Segunda-feira 26/10 (09h30 NY / 10h30 Brasília):** Abertura de Wall Street. Marcelo executa a venda das ações na Charles Schwab.
-     * **Terça-feira 27/10:** Liquidação da ordem em USD (norma T+1 da SEC). Saldo livre em cash. Marcelo dispara a transferência doméstica **ACH gratuita** da Schwab para o **Chase Bank**.
-     * **Quarta-feira 28/10:** Dinheiro creditado na conta corrente do Chase. Cartão de débito Chase pronto e habilitado para compras.
-     * **28 a 30/10:** Janela oficial para efetuar a compra dos ingressos e do seguro IMG em USD puro (sem IOF e sem spread).
-   * **Análise de Mercado: É Melhor Comprar no Final de Outubro ou em Novembro (Black Friday)?**
+     * **Quinta-feira 29/10:** Ordem de venda de REITs/ETFs executada com sucesso na Charles Schwab no montante total de **US$ 18.856,83** (superando a meta inicial em +US$ 315!).
+     * **Sexta-feira 30/10:** Liquidação da ordem em USD (norma T+1 da SEC). Saldo livre em cash (*Cash Available for Withdrawal*). Marcelo dispara a transferência doméstica **ACH gratuita** da Schwab para o **Chase Bank**.
+     * **Segunda 02/11 a Terça 03/11:** Dinheiro creditado na conta corrente do Chase (*o feriado de 02/11 no Brasil não afeta o FedACH americano, que funciona normalmente*). Cartão de débito Chase pronto e habilitado para compras.
+     * **02 a 04/11:** Janela oficial para efetuar a compra dos ingressos, reserva do carrinho duplo e do seguro IMG em USD puro (sem IOF e sem spread).
+   * **Análise de Mercado: É Melhor Comprar no Início de Novembro ou Esperar a Black Friday?**
      * **Tendência de Preços nos Parques:** Outubro é historicamente o mês em que a Disney e a Universal aplicam seus **reajustes anuais de tabela** (o ano fiscal da Disney inicia em 1º de outubro). Recentemente, as diárias de pico de feriados atingiram recordes de até **US$ 229 por pessoa/dia** no Magic Kingdom e EPCOT.
      * **O Mito da Black Friday para a Semana de Natal:** Na Disney e na Universal, **NÃO existem promoções de Black Friday para ingressos de altíssima temporada (12 a 31 de dezembro)**. As promoções de Black Friday de revendedores aplicam-se apenas a hotéis ou datas de baixa temporada (janeiro/fevereiro).
-     * **O Risco de Esperar Novembro:** O maior perigo para a família é o **esgotamento da capacidade do Epic Universe** para a última semana de dezembro. Esperar novembro não traz desconto na Disney/Universal e aumenta o risco de congestionamento de datas.
-     * **Veredito Técnico:** **Comprar agora entre 28 e 30 de Outubro é a melhor decisão possível.** Você trava as datas de pico de Natal, protege-se de aumentos de tabela e deixa tudo 100% configurado nos apps com semanas de antecedência.
+     * **O Risco de Esperar Novembro Avançar:** O maior perigo para a família é o **esgotamento da capacidade do Epic Universe** para a última semana de dezembro. Esperar mais dias de novembro não traz desconto na Disney/Universal e aumenta o risco de congestionamento de datas.
+     * **Veredito Técnico:** **Comprar agora entre 02 e 04 de Novembro é a melhor decisão possível.** Você trava as datas de pico de Natal, protege-se de aumentos de tabela e deixa tudo 100% configurado nos apps com semanas de antecedência.
    * **Procedimento de Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):**
      * **Disney:** No app *My Disney Experience*, vincular os ingressos aos perfis e ativar o **Disney MagicMobile**. Adicionar os 4 cartões digitais (Marcelo, Thalita, Miguel e Isabela) à **Apple Wallet / Google Wallet** no iPhone com o *Modo Expresso*. Na catraca física, basta aproximar o topo do celular no globo luminoso do Mickey (validação instantânea de toda a família sem desbloquear a tela).
      * **Universal:** No app oficial da Universal Orlando, abrir a aba *Wallet / Tickets*. Os QR Codes dinâmicos são escaneados diretamente nas catracas dos parques.

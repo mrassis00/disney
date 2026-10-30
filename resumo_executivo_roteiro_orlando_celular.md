@@ -25,8 +25,9 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PLANEJADA PARA 28 A 30 DE OUTUBRO DE 2026!**  
-  * *Cronograma:* Venda de ações na Schwab na Segunda 26/10 ➡️ Liquidação T+1 e envio ACH na Terça 27/10 ➡️ Saldo no Chase na Quarta 28/10 e compras até 30/10.  
+* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PROGRAMADA PARA 02 A 04 DE NOVEMBRO DE 2026!**  
+  * *Status Financeiro:* Venda de ações executada na Schwab na Quinta 29/10 no total de **US$ 18.856,83** ➡️ Liquidação T+1 na Sexta 30/10 ➡️ Transferência ACH gratuita para o Chase Bank.  
+  * *Crédito no Chase:* Segunda 02/11 a Terça 03/11 (*feriado de 02/11 no Brasil não afeta bancos e FedACH nos EUA*).  
   * *Estratégia Mista:* **Universal no Site Oficial** (blindar o Epic Universe), **Disney no Undercover Tourist ou Oficial** (desconto atacadista oficial) e **SeaWorld no Site Oficial**.  
   * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada 100% direta nas catracas!  
   * *Agendamento Lightning Lane:* 11/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney).
@@ -35,7 +36,7 @@
   * *Booster da Isabela (5 anos):* Despacho 100% gratuito no voo pela United/Delta (US$ 0). A Isabela já sai do Aeroporto de Tampa legalizada e segura na I-4, economizando US$ 64 líquidos (R$ 360)!
 * [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
   * *Cobertura:* US$ 1.000.000 por pessoa na maior rede médica dos EUA (UnitedHealthcare). Copay de apenas US$ 25 no *MD Now Urgent Care* a 4 min do hotel.  
-  * *Contratação:* 28 a 30 de Outubro de 2026 em Dólar Puro com cartão de débito Chase (~US$ 210 para os 4 segurados por 20 dias).
+  * *Contratação:* 02 a 04 de Novembro de 2026 em Dólar Puro com cartão de débito Chase (~US$ 210 para os 4 segurados por 20 dias).
 * [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
   * Recusar o serviço *e-Toll* da AVIS no balcão.  
   * Trajeto Tampa ➡️ Orlando na chegada (12/12) é via I-4 Leste: **100% gratuito e livre de pedágios**!  
@@ -116,17 +117,23 @@
 
 ## 💰 Resumo Financeiro & Gastos Consolidados (Tempo Real)
 
+### 💵 Posição de Caixa Realizada no Chase Bank:
+* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*+US$ 315,03 acima da projeção inicial de $18.541*).
+* **Custos Fixos Imediatos da Viagem (Ingressos + Seguro + Carrinho + SunPass):** **~US$ 4.865,00**.
+* **Opção A (Hotel pago no débito Chase ~US$ 2.716):** Sobra líquida livre no Chase = **US$ 11.275,83** (*~US$ 560/dia de compras e alimentação*).
+* **Opção B (Hotel mantido no cartão parcelado/Booking R$ 15.214):** Sobra líquida livre no Chase = **US$ 13.991,83** (*~US$ 700/dia livre nos EUA*).
+
 | Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
 | :--- | :---: | :---: | :---: | :--- |
-| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Apenas taxas de embarque pagas no cartão Santander Black. |
+| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
 | 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* com café buffet quente para 4 pessoas e estacionamento 100% gratuito. |
 | 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
-| 🎟️ **Ingressos (7 Parques)** | *Próxima etapa* | ~R$ 24.000 – R$ 27.500 | US$ 4.300 – US$ 4.900 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. |
+| 🎟️ **Ingressos (7 Parques)** | *02 a 04/11* | ~R$ 24.000 – R$ 25.500 | ~US$ 4.450 – US$ 4.550 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. Débito Chase. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
-| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.220 – R$ 2.870 | US$ 395 – US$ 510 | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
 | 🍔 **Alimentação (20 Dias)** | *Estimado* | ~R$ 12.300 – R$ 15.500 | US$ 2.200 – US$ 2.800 | Café buffet quente incluso no hotel + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **Total consolidado para 20 dias inesquecíveis em família!** |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Coberto c/ Sobra** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **100% coberto pelo caixa gerado na venda da Schwab, com sobra milionária de compras!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 
@@ -135,7 +142,7 @@
 ## 💳 Guia de Bolso: Dinheiro, Cartões, Saúde & Salas VIP
 
 ### 1. Como Gastar com Zero IOF e Menor Spread:
-* **Dinheiro no Charles Schwab:** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Usar o cartão de débito físico do Chase para compra de ingressos (28 a 30/10), seguro saúde e despesas gerais.
+* **Dinheiro no Charles Schwab (US$ 18.856,83):** Transferir via **ACH gratuito** direto para o **Chase Bank** ($0 taxa, 0% IOF, 0% spread). Saldo cai em 02-03/11. Usar o cartão de débito físico do Chase para compra de ingressos (02 a 04/11), seguro saúde e despesas gerais.
 * **Compra de Ingressos em USD Puro:** Cartão de débito Chase no site da Universal Orlando (garantindo Epic Universe), Disney World (ou Undercover Tourist) e SeaWorld.
 * **Entrada Direta nas Catracas (Zero Bilheteria):** Ingressos vinculados diretamente no celular com *Disney MagicMobile* na Apple Wallet e QR Codes no app da Universal.
 * **Dinheiro do Brasil:** Enviar PIX para o **Wise** (IOF de apenas 1,1% e spread de ~0,9%). Usar débito Wise ou transferir via ACH para o Chase.
