@@ -118,10 +118,15 @@
 ## 💰 Resumo Financeiro & Gastos Consolidados (Tempo Real)
 
 ### 💵 Posição de Caixa Realizada no Chase Bank:
-* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*+US$ 315,03 acima da projeção inicial de $18.541*).
+* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*confirmado no extrato oficial da conta conjunta*).
 * **Custos Fixos Imediatos da Viagem (Ingressos + Seguro + Carrinho + SunPass):** **~US$ 4.865,00**.
-* **Opção A (Hotel pago no débito Chase ~US$ 2.716):** Sobra líquida livre no Chase = **US$ 11.275,83** (*~US$ 560/dia de compras e alimentação*).
-* **Opção B (Hotel mantido no cartão parcelado/Booking R$ 15.214):** Sobra líquida livre no Chase = **US$ 13.991,83** (*~US$ 700/dia livre nos EUA*).
+* **Alimentação Realista da Família (20 Dias):** **~US$ 2.100,00** (*Café Hilton grátis + Walmart p/ cozinhar e petiscos na suíte + 1 refeição excelente/dia estilo Olive Garden + guloseimas parques*).
+* **Transporte Corrente (Gasolina + Estacionamentos):** **~US$ 450,00**.
+* **Opção A (Pagando TUDO no Chase, inclusive Hotel Hilton ~US$ 2.716):**
+  * Custo total de toda a viagem = **US$ 10.131,00**.
+  * **Sobra Líquida 100% Livre para Compras no Chase = US$ 8.725,83** (*~US$ 436/dia só para compras da família!*).
+* **Opção B (Mantendo o Hotel no Cartão no Brasil parcelado Booking R$ 15.214):**
+  * **Sobra Líquida 100% Livre para Compras no Chase = US$ 11.441,83** (*~US$ 572/dia só para compras da família!*).
 
 | Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
 | :--- | :---: | :---: | :---: | :--- |
@@ -132,8 +137,8 @@
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
 | 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.220 – R$ 2.870 | US$ 395 – US$ 510 | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
-| 🍔 **Alimentação (20 Dias)** | *Estimado* | ~R$ 12.300 – R$ 15.500 | US$ 2.200 – US$ 2.800 | Café buffet quente incluso no hotel + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Coberto c/ Sobra** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **100% coberto pelo caixa gerado na venda da Schwab, com sobra milionária de compras!** |
+| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.200 – R$ 12.320** | **~US$ 2.000 – US$ 2.200** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Coberto c/ Sobra** | **~R$ 60.788 – R$ 64.990** | **~US$ 10.057 – US$ 10.972** | **100% coberto pelo caixa gerado na Schwab, com sobra massiva para compras nos EUA!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 

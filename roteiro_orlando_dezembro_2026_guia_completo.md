@@ -420,12 +420,12 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🎟️ **Ingressos Universal (2 Dias)** | *Próxima etapa* | ~R$ 9.240 – R$ 10.920 | US$ 1.650 – US$ 1.950 | 1 Dia Park-to-Park (Studios + Islands) + 1 Dia Epic Universe. |
 | 🐬 **Ingressos SeaWorld (1 Dia)** | *Próxima etapa* | ~R$ 2.016 – R$ 2.464 | US$ 360 – US$ 440 | 1 Dia para toda a família com shows e Vila Sésamo. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
-| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PLANEJADO (28-30/10)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
+| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
 | 🅿️ **Estacionamentos dos Parques** | *Estimado* | ~R$ 1.198 – R$ 1.288 | US$ 214 – US$ 230 | 4 dias Disney (US$ 120) + 2 dias Universal (US$ 64) + 1 dia SeaWorld (US$ 30). |
 | 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **~R$ 140** | **~US$ 25** | Compra do transponder portátil SunPass PRO (US$ 14,95) + US$ 10 de saldo. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
-| 🍔 **Alimentação Familiar (20 dias)** | *Estimado* | ~R$ 12.320 – R$ 15.680 | US$ 2.200 – US$ 2.800 | Café da manhã buffet gratuito na Hilton + supermercado Publix + almoços nos parques e jantares selecionados. |
-| 💵 **TOTAL GERAL PREVISTO** | **Em Andamento** | **~R$ 61.130 – R$ 68.960** | **~US$ 10.916 – US$ 12.314** | **Orçamento total completo e de altíssimo nível para as férias da família!** |
+| 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **~R$ 11.200 – R$ 12.320** | **~US$ 2.000 – US$ 2.200** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto c/ Sobra** | **~R$ 60.788 – R$ 64.990** | **~US$ 10.057 – US$ 10.972** | **Totalmente coberto pelos US$ 18.856,83 gerados na venda da Schwab, com sobra livre de US$ 8.700 a US$ 11.400 para compras!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 
