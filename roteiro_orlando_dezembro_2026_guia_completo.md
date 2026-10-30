@@ -28,8 +28,8 @@
     * *MCO ➡️ ATL (Voo DL 1742):* Saída Qui 31/12 às 18:45 de Orlando Terminal B | Pouso às 20:30 em Atlanta (Airbus A321 | Assentos: 17F, 18F + 2).  
     * *Conexão ágil em Atlanta (1h35m).*  
     * *ATL ➡️ GRU (Voo DL 0269):* Saída Qui 31/12 à noite | Pouso Sex 01/01/2027 às 09:35 em São Paulo GRU T3 (Airbus A330-900neo | Assentos: 38J, 39J + 2).
-* [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (R$ 15.214)!**  
-  *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Suíte com 2 camas Queen no quarto privativo + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra oficial da Hilton para estadias de 8+ noites; economia de R$ 1.600!).*
+* [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (US$ 2.914,07 / Cenário 1 em Dólar)!**  
+  *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Opção oficial definida: **Pagar em Dólar no débito Chase (Cenário 1)** com total de **US$ 2.914,07** já com todos os impostos da Flórida inclusos (apenas US$ 153,37/noite para 4 pessoas). Suíte ampla com 2 camas Queen no quarto privativo + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra oficial da Hilton para estadias de 8+ noites; economia de R$ 1.600!).*
 * [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS!**  
   * **Código de Reserva / Voucher:** `X4X9T9M`  
   * **Locadora:** **AVIS Rent a Car** (balcão e pátio no Aeroporto de Tampa TPA, devolução no Aeroporto de Orlando MCO).  
@@ -85,7 +85,7 @@
 
 ## 1.1 Hospedagem Oficial Confirmada: Homewood Suites by Hilton I-Drive Convention Center
 
-A hospedagem oficial da família está **100% confirmada e reservada no Booking.com** por **R$ 15.214** *(~US$ 2.716 / apenas US$ 143/noite para 4 pessoas com café e estacionamento grátis)*:
+A hospedagem oficial da família está **100% confirmada e reservada no Booking.com** por **US$ 2.914,07** já com todas as taxas e impostos da Flórida inclusos *(~R$ 16.318 / apenas US$ 153,37 por noite para 4 pessoas com café da manhã quente e estacionamento grátis)*, com pagamento definido em Dólar Puro no cartão de débito do Chase Bank (Cenário 1):
 
 * **Localização:** 8745 International Drive, Orlando.
 * **Configuração da Suíte:** 2 camas Queen no quarto privativo + sofá-cama Queen na sala + banheiro amplo.
@@ -414,7 +414,7 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | Categoria | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Descrição / Detalhes Operacionais |
 | :--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
-| 🏨 **Hospedagem (19 noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Suíte privativa com 2 camas Queen + sofá-cama, mini cozinha, café buffet quente Hilton incluso e estacionamento 100% grátis). |
+| 🏨 **Hospedagem (19 noites)** | **CONFIRMADA (CENÁRIO 1)** | **~R$ 16.318** | **US$ 2.914,07** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
 | 🚗 **Aluguel de Veículo (19 dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
 | 🎟️ **Ingressos Disney (4 Dias)** | *Próxima etapa* | ~R$ 12.880 – R$ 14.560 | US$ 2.300 – US$ 2.600 | Animal Kingdom, Hollywood Studios, EPCOT e Magic Kingdom (2 Adultos + 2 Crianças). |
 | 🎟️ **Ingressos Universal (2 Dias)** | *Próxima etapa* | ~R$ 9.240 – R$ 10.920 | US$ 1.650 – US$ 1.950 | 1 Dia Park-to-Park (Studios + Islands) + 1 Dia Epic Universe. |
@@ -425,7 +425,7 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **~R$ 140** | **~US$ 25** | Compra do transponder portátil SunPass PRO (US$ 14,95) + US$ 10 de saldo. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
 | 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **~R$ 11.200 – R$ 12.320** | **~US$ 2.000 – US$ 2.200** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto c/ Sobra** | **~R$ 60.788 – R$ 64.990** | **~US$ 10.057 – US$ 10.972** | **Totalmente coberto pelos US$ 18.856,83 gerados na venda da Schwab, com sobra livre de US$ 8.700 a US$ 11.400 para compras!** |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 57.842** | **US$ 10.329,07** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.527,76!** |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 

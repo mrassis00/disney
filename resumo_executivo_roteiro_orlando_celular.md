@@ -17,8 +17,8 @@
     * *MCO ➡️ ATL (Voo DL 1742):* Saída Qui 31/12 às 18:45 de Orlando Terminal B | Pouso às 20:30 em Atlanta (Airbus A321 | Assentos: 17F, 18F + 2).  
     * *Conexão ágil em Atlanta (1h35m).*  
     * *ATL ➡️ GRU (Voo DL 0269):* Saída Qui 31/12 à noite | Pouso Sex 01/01/2027 às 09:35 em São Paulo GRU T3 (Airbus A330-900neo | Assentos: 38J, 39J + 2).
-* [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (R$ 15.214)!**  
-  *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Suíte ampla com 2 camas Queen no quarto + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra Hilton para estadias de 8+ noites; economia de quase R$ 1.600!).*
+* [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (US$ 2.914,07 / Cenário 1 em Dólar)!**  
+  *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Opção oficial definida: **Pagar em Dólar no débito Chase (Cenário 1)** com total final de **US$ 2.914,07** com impostos da Flórida inclusos (apenas US$ 153,37/noite para 4 pessoas). Suíte ampla com 2 camas Queen no quarto + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra Hilton para estadias de 8+ noites; economia de quase R$ 1.600!).*
 * [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS!**  
   * **Código de Reserva / Voucher:** `X4X9T9M`  
   * **Locadora:** **AVIS Rent a Car** (balcão e pátio no Aeroporto de Tampa TPA, devolução no Aeroporto de Orlando MCO).  
@@ -72,7 +72,7 @@
 
 ## 🏨 Hospedagem Oficial Confirmada: Homewood Suites by Hilton I-Drive
 
-* **Valor Fechado no Booking.com:** **R$ 15.214** *(~US$ 2.716 / US$ 143 por noite para 4 pessoas com café da manhã quente incluso diariamente!)*.
+* **Valor Fechado no Booking.com:** **US$ 2.914,07** já com taxas e impostos inclusos *(~R$ 16.318 / apenas US$ 153,37 por noite para 4 pessoas com café quente e estacionamento grátis)* — Escolhido Cenário 1 (pagamento em Dólar no débito Chase).
 * **Endereço:** 8745 International Drive, Orlando.
 * **Configuração Reservada:** Suíte privativa com **2 Camas Queen** + Sofá-Cama na Sala + Banheiro amplo.
 * **Cozinha Completa:** Geladeira duplex de tamanho real, fogão cooktop, micro-ondas, lava-louças e cafeteira.
@@ -117,28 +117,30 @@
 
 ## 💰 Resumo Financeiro & Gastos Consolidados (Tempo Real)
 
-### 💵 Posição de Caixa Realizada no Chase Bank:
-* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*confirmado no extrato oficial da conta conjunta*).
-* **Custos Fixos Imediatos da Viagem (Ingressos + Seguro + Carrinho + SunPass):** **~US$ 4.865,00**.
-* **Alimentação Realista da Família (20 Dias):** **~US$ 2.100,00** (*Café Hilton grátis + Walmart p/ cozinhar e petiscos na suíte + 1 refeição excelente/dia estilo Olive Garden + guloseimas parques*).
-* **Transporte Corrente (Gasolina + Estacionamentos):** **~US$ 450,00**.
-* **Opção A (Pagando TUDO no Chase, inclusive Hotel Hilton ~US$ 2.716):**
-  * Custo total de toda a viagem = **US$ 10.131,00**.
-  * **Sobra Líquida 100% Livre para Compras no Chase = US$ 8.725,83** (*~US$ 436/dia só para compras da família!*).
-* **Opção B (Mantendo o Hotel no Cartão no Brasil parcelado Booking R$ 15.214):**
-  * **Sobra Líquida 100% Livre para Compras no Chase = US$ 11.441,83** (*~US$ 572/dia só para compras da família!*).
+### 💵 Posição de Caixa Realizada no Chase Bank (Cenário 1 Definido):
+* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*confirmado no extrato oficial*).
+* **🏨 Hospedagem Hilton (19 noites c/ impostos):** **US$ 2.914,07** (*pago em Dólar Puro no débito Chase — Cenário 1*).
+* **🎟️ Ingressos 7 Parques (Disney, Universal/Epic, SeaWorld):** **~US$ 4.500,00** (*débito Chase em 02 a 04/11*).
+* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **~US$ 210,00** (*débito Chase*).
+* **🛒 Carrinho Duplo Lin Rentals (19 noites c/ seguro e capa):** **US$ 130,00** (*débito Chase*).
+* **🛣️ SunPass PRO Portable (caixinha + recarga):** **~US$ 25,00**.
+* **🍝 Alimentação Familiar Inteligente (20 Dias):** **~US$ 2.100,00** (*Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden*).
+* **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **~US$ 450,00**.
+* **CUSTO TOTAL ABSOLUTO DE TODA A VIAGEM (100% PAGO EM DÓLAR):** **US$ 10.329,07**.
+* **🎉 SOBRA LÍQUIDA 100% LIVRE SÓ PARA COMPRAS NO CHASE:** **US$ 8.527,76 LIVRES!**  
+  *(Média de **~US$ 426,38 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA!)*
 
 | Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
 | :--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
-| 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA** | **R$ 15.214** | **~US$ 2.716** | *Homewood Suites by Hilton I-Drive Conv. Ctr* com café buffet quente para 4 pessoas e estacionamento 100% gratuito. |
+| 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA (CENÁRIO 1)** | **~R$ 16.318** | **US$ 2.914,07** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Pago em Dólar no débito Chase. Café e estacionamento grátis. |
 | 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
 | 🎟️ **Ingressos (7 Parques)** | *02 a 04/11* | ~R$ 24.000 – R$ 25.500 | ~US$ 4.450 – US$ 4.550 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. Débito Chase. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
 | 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.220 – R$ 2.870 | US$ 395 – US$ 510 | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
 | 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.200 – R$ 12.320** | **~US$ 2.000 – US$ 2.200** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Coberto c/ Sobra** | **~R$ 60.788 – R$ 64.990** | **~US$ 10.057 – US$ 10.972** | **100% coberto pelo caixa gerado na Schwab, com sobra massiva para compras nos EUA!** |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 57.842** | **US$ 10.329,07** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.527,76!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 
