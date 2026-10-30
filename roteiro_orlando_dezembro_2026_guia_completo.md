@@ -1,5 +1,6 @@
 # Guia Definitivo & Roteiro Estratégico: Orlando (12 a 31 de Dezembro de 2026)
-**Planejamento de Alta Performance: Regra 1 Parque / 1 Descanso Estrita, Gestão de Filas sem Estresse, Perfis da Família e Foco nas Crianças**
+**Planejamento de Alta Performance: Regra 1 Parque / 1 Descanso Estrita, Gestão de Filas sem Estresse, Perfis da Família e Foco nas Crianças**  
+> 🏷️ **VERSÃO BETA (29/10/2026):** *Ponto de restauração oficial consolidado pós-venda Schwab (US$ 18.856,83), Cenário 1 definido (Hotel em Dólar US$ 2.914,07), modelo de alimentação inteligente e sobra livre de US$ 8.527,76.*
 
 ---
 

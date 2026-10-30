@@ -1599,6 +1599,40 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   - **Segunda 02/11 a Terça 03/11:** Compensação do crédito no Chase e execução das compras dos Ingressos dos Parques (Universal Epic + Disney Undercover Tourist + SeaWorld) e emissão da apólice IMG Patriot America Plus.
 * **Versões Finais Compiladas e Commit no Git Executado.**
 
+---
+
+## 💬 Interação 50
+
+### 👤 Solicitação do Usuário:
+> Salvar esta versão oficialmente como **Versão Beta**! Criar um ponto de restauração seguro no Git (com tag e branch dedicados), atualizar checklist, cabeçalhos dos documentos e recompilar os arquivos HTML e PDF, para que, caso o usuário queira reverter futuras alterações, possa retornar instantaneamente a este estado exato.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Criação do Ponto de Restauração "Versão Beta" (Baseline Congelado):**
+  - **Identificação nos Documentos:** Todos os cabeçalhos do Guia Completo e do Resumo Executivo para celular receberam a identificação oficial `🏷️ VERSÃO BETA (29/10/2026)`.
+  - **Git Tag Criada:** `v-beta` apontando exatamente para o commit deste estado consolidado.
+  - **Git Branch Criada:** `versao-beta` permitindo alternar ou inspecionar este snapshot a qualquer momento com um simples comando (`git checkout versao-beta`).
+* **Parâmetros Oficiais Congelados na Versão Beta:**
+  - 💵 **Venda Schwab Realizada:** US$ 18.856,83 em cash na conta (...419), com todas as 10 ações mantidas intactas e prejuízo fiscal aproveitado (ZERO IR).
+  - 🏨 **Hospedagem Hilton (Cenário 1 Definido):** Homewood Suites I-Drive por US$ 2.914,07 (19 noites c/ todas as taxas e impostos inclusos), pago em Dólar Puro no cartão Chase Bank.
+  - 🎟️ **Ingressos 7 Parques:** Orçamento de ~US$ 4.500 provisionado no débito Chase (Universal site oficial + Disney Undercover Tourist + SeaWorld oficial).
+  - 🏥 **Seguro Saúde IMG Patriot America Plus:** US$ 210 provisionado no débito Chase (Rede UnitedHealthcare PPO).
+  - 🛒 **Carrinho Lin Rentals + Booster Grátis:** US$ 130 provisionado (Booster despachado grátis no voo).
+  - 🍝 **Alimentação Inteligente:** US$ 2.100 provisionado (Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden).
+  - ⛽ **Transporte Corrente:** US$ 450 (Gasolina + Estacionamentos).
+  - 🛍️ **Sobra Líquida Livre no Chase para Compras:** **US$ 8.527,76 LIVRES** (~US$ 426/dia só para lazer e compras nos EUA).
+* **Kit de Arquivos Compilados com a Marcação Versão Beta:**
+  - `resumo_executivo_roteiro_orlando_celular.pdf` & `.html`
+  - `roteiro_orlando_dezembro_2026_guia_completo.pdf` & `.html`
+* **Instrução Rápida de Restauração (Caso Necessário no Futuro):**
+  - Para restaurar esta versão exata a qualquer momento no Git:
+    ```bash
+    git checkout versao-beta
+    ```
+    ou
+    ```bash
+    git checkout v-beta
+    ```
+
 
 
 

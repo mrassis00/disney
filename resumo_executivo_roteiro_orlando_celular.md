@@ -1,5 +1,6 @@
 # 🌴 Orlando 2026: Resumo Executivo & Roteiro de Bolso
 **Guia Rápido, Visual e Prático para Consulta Fácil no Celular**  
+> 🏷️ **VERSÃO BETA (29/10/2026):** *Ponto de restauração oficial consolidado pós-venda Schwab (US$ 18.856,83), Cenário 1 definido (Hotel em Dólar US$ 2.914,07) e sobra livre de compras de US$ 8.527,76.*  
 *Período: 12 a 31 de Dezembro de 2026 (19 Noites / 20 Dias)*  
 *Viajantes: Marcelo (Papai - Radical & Brisket/IPA), Thalita (Mamãe - Conforto & Skincare/Beleza), Miguel (Filho 7a - Dinos/Carros/Bluey/Gabby), Isabela (Filha 5a - Princesas/Laços/Radical com Papai)*  
 *Regra de Ouro: **1 Dia de Parque / 1 Dia de Descanso** (Zero Cansaço Infantil & Zero Pressão)*
