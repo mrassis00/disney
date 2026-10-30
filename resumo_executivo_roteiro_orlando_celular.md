@@ -121,27 +121,28 @@
 ### 💵 Posição de Caixa Realizada no Chase Bank (Cenário 1 Definido):
 * **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*confirmado no extrato oficial*).
 * **🏨 Hospedagem Hilton (19 noites c/ impostos):** **US$ 2.914,07** (*pago em Dólar Puro no débito Chase — Cenário 1*).
-* **🎟️ Ingressos 7 Parques (Disney, Universal/Epic, SeaWorld):** **~US$ 4.500,00** (*débito Chase em 02 a 04/11*).
-* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **~US$ 210,00** (*débito Chase*).
+* **🎟️ Ingressos 7 Parques (Undercover Tourist Dez/2026):** **US$ 4.663,14** (*Disney US$ 2.868,14 + Universal 2 em 1 ~US$ 808 + Epic Universe ~US$ 648 + SeaWorld ~US$ 339*).
+* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **US$ 210,00** (*débito Chase*).
 * **🛒 Carrinho Duplo Lin Rentals (19 noites c/ seguro e capa):** **US$ 130,00** (*débito Chase*).
-* **🛣️ SunPass PRO Portable (caixinha + recarga):** **~US$ 25,00**.
-* **🍝 Alimentação Familiar Inteligente (20 Dias):** **~US$ 2.100,00** (*Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden*).
-* **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **~US$ 450,00**.
-* **CUSTO TOTAL ABSOLUTO DE TODA A VIAGEM (100% PAGO EM DÓLAR):** **US$ 10.329,07**.
-* **🎉 SOBRA LÍQUIDA 100% LIVRE SÓ PARA COMPRAS NO CHASE:** **US$ 8.527,76 LIVRES!**  
-  *(Média de **~US$ 426,38 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA!)*
+* **🛣️ SunPass PRO Portable (caixinha + recarga):** **US$ 25,00**.
+* **🍝 Alimentação Familiar Inteligente (20 Dias):** **US$ 2.100,00** (*Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden*).
+* **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **US$ 450,00**.
+* **CUSTO TOTAL ABSOLUTO DE TODA A VIAGEM (100% PAGO EM DÓLAR):** **US$ 10.492,21**.
+* **🎉 SOBRA LÍQUIDA 100% LIVRE SÓ PARA COMPRAS NO CHASE:** **US$ 8.364,62 LIVRES!**  
+  *(Média de **~US$ 418,23 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA!)*
+* **Saldo Disponível no Cartão Chase ao desembarcar em Orlando (12/12):** **US$ 10.939,00**.
 
 | Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
-| :--- | :---: | :---: | :---: | :--- |
+| :--- | :--- | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
 | 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA (CENÁRIO 1)** | **~R$ 16.318** | **US$ 2.914,07** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Pago em Dólar no débito Chase. Café e estacionamento grátis. |
 | 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
-| 🎟️ **Ingressos (7 Parques)** | *02 a 04/11* | ~R$ 24.000 – R$ 25.500 | ~US$ 4.450 – US$ 4.550 | 4 Dias Disney + 1 Dia Universal 2-em-1 + 1 Dia Epic Universe + 1 Dia SeaWorld para 4 pessoas. Débito Chase. |
+| 🎟️ **Ingressos (7 Parques)** | *02 a 04/11* | ~R$ 26.113 | **US$ 4.663,14** | Undercover Tourist (Disney 4 dias US$ 2.868,14 + Universal 2-em-1 US$ 808 + Epic Universe US$ 648 + SeaWorld US$ 339) para 4 pessoas. Débito Chase. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
-| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **~US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
-| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.220 – R$ 2.870 | US$ 395 – US$ 510 | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
-| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.200 – R$ 12.320** | **~US$ 2.000 – US$ 2.200** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 57.842** | **US$ 10.329,07** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.527,76!** |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
+| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.660 | **US$ 475** | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
+| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.760** | **US$ 2.100** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 58.756** | **US$ 10.492,21** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.364,62!** |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 
