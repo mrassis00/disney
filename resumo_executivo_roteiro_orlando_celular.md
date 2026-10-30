@@ -89,30 +89,30 @@
 
 ---
 
-## 📅 Tabela Mestra dos 20 Dias (1 Parque / 1 Descanso Estrito)
+## 📅 Tabela Mestra dos 20 Dias — PLANO D+ OFICIAL (Ritmo Perfeito & Economia de US$ 361)
 
 | Data | Dia | Ritmo | Atividade / Parque | Onde Comer | Dica de Conforto para as Crianças |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **12/12** | Sáb | 🏖️ Descanso | **Conexão Washington, Pouso TPA & Hotel** | Jantar Leve / Lanche | Pouso em IAD às 06h30 (passeio no museu do Ônibus Espacial Discovery). Pouso em Tampa às 20h30, pegar o carro no pátio, 1h15 de estrada até o Homewood Suites na I-Drive e descanso. |
-| **13/12** | Dom | 🎂 **Festa!** | **Supermercado + Níver Papai Marcelo** | **Hard Rock Cafe Orlando** | Manhã de compras no **Publix** e piscina no hotel. Às 19h: Jantar festivo de aniversário no Hard Rock (estacionamento grátis). |
-| **14/12** | Seg | 🎡 **PARQUE 1** | **Disney's Animal Kingdom** | **Satu'li Canteen** / Pizzafari | **Bluey & Bingo** no Conservation Station! Miguel escava fósseis no *The Boneyard*. Marcelo e Isa no Avatar. |
-| **15/12** | Ter | 🏖️ Descanso | **Showcase of Citrus & Suncreek IPA**| **Suncreek Brewery** (Clermont) | **Passeio no Monster Truck gigante 4x4** pelos pomares e pântanos! Almoço relax com IPAs artesanais. |
-| **16/12** | Qua | 🎡 **PARQUE 2** | **Universal Studios + Islands (2 em 1)**| **Louie's Italian** (massas) | **A Casa Mágica da Gabby** (DreamWorks Land!), área dos Minions, **Dinossauros do Jurassic Park** e trem Hogwarts. |
-| **17/12** | Qui | 🏖️ Descanso | **Compras no Vineland Outlets** | **Ford's Garage** (temático) | Outlets com estoques de Natal cheios. Cupons VIP Simon (-15% a -25%) na Carter's e Tommy. |
-| **18/12** | Sex | 🎡 **PARQUE 3** | **Disney's Hollywood Studios** | **Woody's Lunch Box** (BBQ) | **Toy Story Land completa**, show dos Carros (*Lightning McQueen*), musical de Frozen com neve e Star Wars. |
-| **19/12** | Sáb | 🏖️ Descanso | **Dezerland Auto Museum & Beleza** | **The Cheesecake Factory** | **O maior museu de carros e Monster Trucks dos EUA** para Miguel + **Ulta Beauty / Sephora** para Thalita. |
-| **20/12** | Dom | 🏖️ Descanso | **Celebration Village Natalina** | **Columbia Restaurant** | Manhã livre de piscina no hotel. Às 16h30: Cidade de Celebration com neve artificial de sabão na rua e carruagens. |
-| **21/12** | Seg | 🎡 **PARQUE 4** | **EPCOT (Vida Marinha & Carros)** | **Regal Eagle BBQ** / Quiosques | Aquário colossal do Nemo (*The Seas*), projetar carros no *Test Track*, *Cosmic Rewind* e **Fogos Luminous às 21h**! |
-| **22/12** | Ter | 🏖️ Descanso | **Winter Garden & Crooked Can IPA** | **Plant Street Market** | Cidadezinha histórica linda com trenzinho grátis para crianças e **High Stepper IPA** no mercado gourmet. |
-| **23/12** | Qua | 🎡 **PARQUE 5** | **Disney's Magic Kingdom (Dia Completo)**| **Columbia Harbour House** | **Dia regular sem festa paga!** Castelo iluminado, princesas, carrinhos Speedway e **Show de Fogos Happily Ever After às 20h**! |
-| **24/12** | Qui | 🏖️ Descanso | **Véspera de Natal & Ceia no Hotel** | Ceia Gourmet na Suíte | Manhã de descanso e piscina. Ceia na suíte com cozinha equipada e troca de presentes sob a árvore em família. |
-| **25/12** | Sex | 🏖️ Descanso | 🎄 **Natal Cênico em Winter Park** | **4 Rivers Smokehouse** | Fuja do caos dos parques! Barco cênico pelos canais arborizados (*Scenic Boat Tour*) e o melhor brisket defumado da Flórida. |
+| **12/12** | Sáb | 🏖️ Descanso | **Conexão Washington, Pouso TPA & Hotel** | Jantar Leve / Lanche | Pouso em IAD às 06h30 (passeio no museu do Ônibus Espacial Discovery). Pouso em Tampa às 20h30, pegar SUV na Avis, 1h15 de estrada até o Homewood Suites I-Drive e descanso. |
+| **13/12** | Dom | 🎂 **Festa!** | **Supermercado + Carrinho + Níver Marcelo** | **Hard Rock Cafe Orlando** | Carrinho duplo Lin Rentals entregue pela manhã. Compras no **Publix** e piscina. Às 19h: Jantar festivo de aniversário no Hard Rock (estacionamento grátis). |
+| **14/12** | Seg | 🎢 **PARQUE 1** | **Universal Studios + Islands (2 em 1)** | **Three Broomsticks** / Louie's | **Lotação 🟢 4/10 (Super vazio!)**: **A Casa Mágica da Gabby** (DreamWorks Land), Minions, **Dinossauros do Jurassic Park** e trem Hogwarts Express! |
+| **15/12** | Ter | 🏖️ Descanso | **Showcase of Citrus & Suncreek IPA**| **Suncreek Brewery** (Clermont) | **Passeio no Monster Truck gigante 4x4** pelos pomares e pântanos! Almoço relax com IPAs artesanais para o papai. |
+| **16/12** | Qua | 🏰 **PARQUE 2** | **Disney's Magic Kingdom (Dia Regular)** | **Columbia Harbour House** | **Início Janela Disney 7 dias (🟢 6/10)!** Princesas (*Fairytale Hall*), pilotar carros no *Speedway*, montanha-russa dos Sete Anões e **Show de Fogos Happily Ever After às 20h**! |
+| **17/12** | Qui | 🏖️ Descanso | **Compras no Vineland Outlets** | **Ford's Garage** (temático) | Dormir até mais tarde pós-fogos. Outlets com estoques cheios antes do Natal. Cupons VIP Simon (-15% a -25%) na Carter's e Tommy. |
+| **18/12** | Sex | 🪐 **PARQUE 3** | **Universal's Epic Universe** | **Toadstool Cafe** / Mead Hall | **Semana 1 vazia (🟢 6/10)!** **Super Nintendo World (Mario Kart e Yoshi)**, Isle of Berk (Dragões com barcos d'água) e espetáculo *The Untrainable Dragon*. |
+| **19/12** | Sáb | 🌳 **PARQUE 4** | **Disney's Animal Kingdom** | **Flame Tree Barbecue** | **O parque mais calmo aos sábados (🟢 6/10)!** Safári africano matinal, escavação de fósseis no *The Boneyard*, Bluey & Bingo e **saída relaxada às 15h30** para a piscina! |
+| **20/12** | Dom | 🏖️ **OURO!** | **DOMINGO DE DESCANSO: Dezerland & Beleza**| **The Cheesecake Factory** | **Fuga da superlotação dominical dos parques!** **Maior museu de carros e Monster Trucks dos EUA** para Miguel e Marcelo + **Ulta/Sephora** para Thalita. |
+| **21/12** | Seg | 🎬 **PARQUE 5** | **Disney's Hollywood Studios** | **Woody's Lunch Box** (BBQ) | **Toy Story Land completa**, show dos Carros (*Lightning McQueen*), musical de Frozen com neve e o show clássico **Fantasmic! às 19h30**. |
+| **22/12** | Ter | 🌐 **PARQUE 6** | **Disney's EPCOT (Fim Janela 7 Dias)** | **Regal Eagle BBQ** / Quiosques | Aquário colossal do Nemo (*The Seas*), *Ratatouille*, *Cosmic Rewind* e **Show de Fogos Luminous às 21h**! *(Encerra a Disney com economia de US$ 361!)* |
+| **23/12** | Qua | 🏖️ Descanso | **Winter Garden & Crooked Can IPA** | **Plant Street Market** | Cidadezinha histórica linda com trenzinho grátis para crianças e **High Stepper IPA** no mercado gourmet. Início do super feriadão de Natal! |
+| **24/12** | Qui | 🏖️ Descanso | **Véspera de Natal & Ceia no Hotel** | Ceia Gourmet na Suíte | Manhã de descanso e piscina aquecida. Ceia na suíte com cozinha equipada e troca de presentes sob a árvore em família. |
+| **25/12** | Sex | 🏖️ Descanso | 🎄 **Natal Cênico em Winter Park** | **The Briarpatch** / Celebration | Barco cênico pelos canais arborizados (*Scenic Boat Tour*) e Celebration à tarde com neve artificial de sabão e carruagens iluminadas. |
 | **26/12** | Sáb | 🏖️ Descanso | **Saldões Pós-Natal & Crayola Exp.** | **The Florida Mall** / Food Hall | Pechinchas de *Boxing Day* (-50% a -70%) nos outlets e **Crayola Experience** (6.500 m² de arte para Isabela e Miguel). |
-| **27/12** | Dom | 🎡 **PARQUE 6** | **Universal's Epic Universe** | **Mead Hall** (banquete viking) | O parque mais moderno do mundo! **Super Nintendo World (Mario Kart real)**, dragões com barcos d'água e carrossel. |
-| **28/12** | Seg | 🏖️ Descanso | **Tour Hotéis de Luxo Disney** | Cafés dos resorts Disney | Tour gratuito: Grand Floridian com a casa gigante de pão de gengibre em tamanho real e passeio no Monotrilho. |
-| **29/12** | Ter | 🐬 **PARQUE 7** | **SeaWorld Orlando** | **Voyager's Smokehouse** | Shows de golfinhos e orcas sentados em estádios (zero filas!), **tocar arraias com a mão**, pinguins, **Vila Sésamo** e fogos no lago! |
-| **30/12** | Qua | 🏖️ Descanso | **Despedida em Disney Springs** | **T-REX Cafe** / **Polite Pig** | Almoço cercado de dinossauros animatrônicos, **The Polite Pig (Brisket/IPA)**, compras de laços, LEGO e malas. |
-| **31/12** | Qui | ✈️ Volta | **Check-out, Voo MCO 18h45** | Aeroporto MCO | Manhã calma, check-out às 12h, entregar o carro no terminal de embarque do MCO às 15h30 e embarque rumo ao Brasil! |
+| **27/12** | Dom | 🐬 **PARQUE 7** | **SeaWorld Orlando** | **Voyager's Smokehouse** | Shows de golfinhos e orcas sentados em estádios (zero filas!), **tocar arraias com a mão**, pinguins no gelo e **Vila Sésamo**. |
+| **28/12** | Seg | 🏖️ Descanso | **Tour Hotéis de Luxo Disney (Grátis)** | Cafés dos resorts Disney | Grand Floridian com a casa gigante de pão de gengibre em tamanho real e fogos do Magic Kingdom assistidos na praia de areia branca do Polynesian Resort! |
+| **29/12** | Ter | 🏖️ Descanso | **Celebration Village & Lazer** | **Columbia Restaurant** | Manhã relaxante na piscina do hotel e compras finais em Celebration e I-Drive. |
+| **30/12** | Qua | 🏖️ Descanso | **Despedida em Disney Springs** | **T-REX Cafe** / **Polite Pig** | Almoço cercado de dinossauros animatrônicos no T-REX, **The Polite Pig (Brisket/IPA)**, compras de LEGO e malas prontas (23 kg). |
+| **31/12** | Qui | ✈️ Volta | **Check-out, Voo MCO 18h45** | Aeroporto MCO | Manhã calma, check-out às 12h, entregar o SUV no terminal de embarque do MCO às 15h30 e embarque no voo Delta DL 1742 rumo ao Brasil! |
 
 ---
 
