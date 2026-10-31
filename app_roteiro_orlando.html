@@ -7,6 +7,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Orlando 2026 • App Oficial da Viagem em Família</title>
+  <link rel="manifest" href="manifest.json">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -696,9 +697,14 @@
         <span class="brand-sub">Família • Guia Cirúrgico</span>
       </div>
     </div>
-    <div class="quick-status">
-      <div class="status-dot"></div>
-      <span id="countdown-days">407 dias</span>
+    <div style="display: flex; gap: 8px; align-items: center;">
+      <div id="network-badge" class="quick-status">
+        <div id="net-dot" class="status-dot"></div>
+        <span id="net-text">Online • Sincronizado</span>
+      </div>
+      <div class="quick-status">
+        <span id="countdown-days">407 dias</span>
+      </div>
     </div>
   </header>
 
@@ -1733,9 +1739,40 @@
       }
     }
 
+    // Service Worker para PWA Offline-First
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then((reg) => console.log('[PWA] Service Worker registrado:', reg.scope))
+          .catch((err) => console.log('[PWA] Erro ao registrar Service Worker:', err));
+      });
+    }
+
+    function updateNetworkStatus() {
+      const isOnline = navigator.onLine;
+      const netDot = document.getElementById('net-dot');
+      const netText = document.getElementById('net-text');
+      if (isOnline) {
+        if (netDot) {
+          netDot.style.background = 'var(--accent-green)';
+          netDot.style.boxShadow = '0 0 8px var(--accent-green)';
+        }
+        if (netText) netText.innerText = 'Online • Sincronizado';
+      } else {
+        if (netDot) {
+          netDot.style.background = 'var(--accent-gold)';
+          netDot.style.boxShadow = '0 0 8px var(--accent-gold)';
+        }
+        if (netText) netText.innerText = '📶 Offline • Cache Local';
+      }
+    }
+    window.addEventListener('online', updateNetworkStatus);
+    window.addEventListener('offline', updateNetworkStatus);
+
     // Inicialização ao carregar página
     window.addEventListener('DOMContentLoaded', () => {
       loadChecklistState();
+      updateNetworkStatus();
 
       // Cálculo de contagem regressiva para 12/12/2026
       const tripDate = new Date('2026-12-12T00:00:00');

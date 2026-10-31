@@ -1,0 +1,18 @@
+{
+  "name": "Orlando 2026 • Família",
+  "short_name": "Orlando 2026",
+  "description": "Roteiro Cirúrgico e Gestão da Viagem em Orlando 2026 para a Família",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "maps/magic_kingdom_master_map.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
