@@ -1986,5 +1986,24 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
      - A pasta `maps/` conta agora com os 7 mapas esquemáticos de fluxo cobrindo todo o roteiro da viagem, integrados ao visualizador dual com suporte a zoom tátil.
 * **Commit Registrado no Git:** Versão operacional da aplicação Web entregue com sucesso.
 
+---
+
+## 💬 Interação 60 (Configuração do Git Remote & Deploy no GitHub Pages)
+
+### 👤 Solicitação do Usuário:
+> "entao vamos de Git. Fazer tudo o que tem que fazer e me ensinar."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Configuração Técnica Realizada:**
+  - Remote adicionado localmente com sucesso: `origin https://github.com/mrassis00/disney.git`.
+  - Tentativa de push inicial identificou que o repositório remoto ainda não foi criado na conta `mrassis00`.
+* **Instrução Passo a Passo para o Usuário:**
+  1. Acessar `https://github.com/new`.
+  2. Nomear o repositório como `disney` (público e vazio, sem README ou .gitignore).
+  3. Clicar em *Create repository*.
+  4. Retornar para que o assistente execute o `git push -u origin main`.
+  5. Ativação do GitHub Pages em *Settings ➔ Pages* (branch `main`).
+
+
 
 
