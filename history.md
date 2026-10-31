@@ -1986,5 +1986,24 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
      - A pasta `maps/` conta agora com os 7 mapas esquemáticos de fluxo cobrindo todo o roteiro da viagem, integrados ao visualizador dual com suporte a zoom tátil.
 * **Commit Registrado no Git:** Versão operacional da aplicação Web entregue com sucesso.
 
+---
+
+## 💬 Interação 60 (Empacotamento Offline Total para Envio no WhatsApp)
+
+### 👤 Solicitação do Usuário:
+> "opcao 2. vamos por este caminho agora. eu consido mandar pra minha esposa tambem?"
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Geração do Arquivo Único Autônomo para WhatsApp:**
+  - Criado o arquivo [`roteiro_orlando_celular_offline.html`](file:///c:/Users/DomínioComp/Desktop/Dev/disney/roteiro_orlando_celular_offline.html) (19,25 MB).
+  - **Tecnologia:** Todas as 7 imagens de mapas em alta definição da pasta `maps/` foram convertidas em Base64 e embutidas diretamente dentro do código HTML.
+  - **Uso no WhatsApp e Envio para a Esposa (Thalita):**
+    * O arquivo pode ser enviado diretamente pelo WhatsApp (Web ou Desktop) como documento/anexo para a Thalita e para o próprio usuário.
+    * No celular (iPhone ou Android), ao tocar no arquivo, ele abre direto no Safari ou Chrome.
+    * Não depende de conexão de internet, nem de servidor ou `localhost`. Funciona 100% offline dentro de qualquer parque ou em Modo Avião.
+    * Dica de atalho no iPhone: Tocar em *Compartilhar ➔ Adicionar à Tela de Início* para criar o ícone de App nativo na tela do celular da Thalita e do Marcelo.
+* **Commit Registrado no Git:** Versão offline empacotada entregue com sucesso.
+
+
 
 
