@@ -1828,3 +1828,47 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   - `build_html.ps1` atualizado com suporte nativo a tags `![alt](url)` para embutir mapas estilizados com bordas arredondadas e sombras.
   - `roteiro_orlando_dezembro_2026_guia_completo.md` reescrito cirurgicamente na Seção 3 com todas as diretrizes operacionais.
   - Script executado com geração dos novos HTMLs e PDFs.
+
+---
+
+## 💬 Interação 56
+
+### 👤 Solicitação do Usuário:
+> Ajustes e aprofundamento estratégico nos parques:
+> 1. **Islands of Adventure & Universal Studios:** Inclusão da montanha-russa do Hulk (Single Rider para Marcelo), simulador dos Transformers (família) e Homem-Aranha (família). Mais atrações para as crianças, horário de fechamento e jantar no CityWalk. Vale a pena dividir Universal Studios e Islands em dias separados?
+> 2. **Epic Universe:** Algo a mais que não vimos? O que não perder? Melhorias no roteiro.
+> 3. **Animal Kingdom:** Por que sair cedo? Ficar até mais tarde, show de encerramento, mais opções para rechear o dia.
+> 4. **Hollywood Studios:** O que mais otimizar e ver? Que horas fecha o parque?
+> 5. **EPCOT:** Filho ama massas, trocar o almoço para o pavilhão da Itália. O que mais fazer para rechear?
+> 6. **SeaWorld:** Almoço vendo tubarões (*Sharks Underwater Grill*): como faz para reservar? Mais atrações.
+> 7. Avaliar probabilidades de sucesso e melhores práticas de influencers (*Orlando Diferente*).
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Refinamento Parque a Parque & Respostas Estratégicas:**
+  - **1. Universal Studios + Islands (Seg 14/12):**
+    - *Inclusões Atendidas:* **Transformers 3D** (Universal Studios, 102 cm — família toda!), **The Amazing Adventures of Spider-Man** (Islands, 102 cm — clássico 3D da Marvel para toda a família), **The Incredible Hulk Coaster** (Marcelo via Single Rider em 12 min), **E.T. Adventure** (voo de bicicleta nas estrelas) e **The High in the Sky Seuss Trolley Train Ride** (trenzinho panorâmico suspenso).
+    - *Horário & Jantar:* Parques abertos das **08h30 às 19h00**. Jantar familiar memorável no **The Toothsome Chocolate Emporium & Savory Feast Kitchen** no CityWalk (fábrica de chocolate steampunk com massas, hambúrgueres gourmet e milkshakes monumentais).
+    - *Dividir em 2 dias ou manter 2 em 1?* **Recomendação Oficial (Orlando Diferente & Experts): MANTER 1 DIA (2 EM 1) NA SEGUNDA 14/12.**
+      - *Motivos:* A segunda-feira 14/12 tem lotação mínima de **🟢 4/10** (dia mais vazio do mês). Como as crianças têm 5 e 7 anos e focam em DreamWorks, Minions, Jurassic Park, Homem-Aranha e Seuss Landing (sem filas de montanhas-russas extremas para eles), o tempo é super folgado.
+      - Além disso, o ingresso *Park-to-Park* é o **único que dá direito a andar no Hogwarts Express** (o trem exige o passe entre os dois parques). Dividir em 2 dias eliminaria o dia de descanso da terça 15/12 (Monster Truck + Cervejaria artesanal Suncreek), gerando cansaço acumulado logo na primeira semana.
+  - **2. Epic Universe (Sex 18/12):**
+    - *Inclusões Imperdíveis:* **Donkey Kong Country: Mine-Cart Madness** (montanha-russa que pula sobre trilhos rompidos!), lanche temático no **Toadstool Cafe** (dentro do cogumelo do Toad), voo acrobático no **Dragon Racer's Rally** e **iluminação noturna mágica do Celestial Park** (as fontes dançantes com projeções e a Stardust Racers cortando o céu com trens iluminados por LED!). Parque aproveitado das 09h00 às 19h30.
+  - **3. Animal Kingdom (Sáb 19/12):**
+    - *Dia Estendido até 18h30/19h00:* O usuário decidiu aproveitar o parque por completo!
+    - *Inclusões Recheadas:* Musical ao vivo **Finding Nemo: The Big Blue... and Beyond!** (teatro climatizado com marionetes marinhas gigantes), **Expedition Everest** (Marcelo Single Rider em 10 min), livrinho de distintivos de escoteiro do Russell **Wilderness Explorers** para Miguel e Isabela carimbarem pelo parque, trilha dos tigres asiáticos **Maharajah Jungle Trek**.
+    - *Encerramento Mágico:* **Tree of Life Awakenings** (projeções no tronco da Árvore da Vida ao anoitecer) e **Pandora à Noite** (a floresta de Avatar brilhando com plantas bioluminescentes e o chão fluorescente).
+  - **4. Hollywood Studios (Seg 21/12):**
+    - *Horário:* Parque opera das **08h30 às 21h00**.
+    - *Inclusões de Peso:* **Indiana Jones Epic Stunt Spectacular** (espetáculo ao vivo com dublês, explosões e a pedra gigante rolando), **Disney Junior Play and Dance!** (festa interativa com DJ para Isabela e Miguel com Mickey, Timon e Doc McStuffins), **Star Tours** (com o Grogu/Baby Yoda) e show de encerramento na fachada do Chinese Theater (*Wonderful World of Animation*) às 21h00 após o **Fantasmic!**.
+  - **5. EPCOT (Ter 22/12):**
+    - *Almoço de Massas do Miguel:* Almoço transferido com louvor para o **Via Napoli Ristorante e Pizzeria (Pavilhão da Itália)**! Espaguete à bolonhesa, fettuccine Alfredo, penne e pizzas napolitanas no forno a lenha. Marcelo ainda degusta chope de IPA no pavilhão americano durante a tarde.
+    - *Inclusões Recheadas:* **Spaceship Earth** (dentro da esfera prateada), **Soarin' Around the World** (voo de asa-delta com aromas), **Club Cool da Coca-Cola** (degustação grátis de refrigerantes do mundo) e postos do **Kidcot Fun Stops**.
+  - **6. SeaWorld (Dom 27/12):**
+    - *Almoço com Tubarões no SHARKS UNDERWATER GRILL:*
+      - *Como Reservar:* Site oficial do SeaWorld ➔ Aba *Dining* ➔ *Sharks Underwater Grill - Priority Seating*.
+      - *Dica dos Especialistas:* Chegar 10 minutos antes no podium da recepção e solicitar mesa colada ao vidro panorâmico (*"Could we please wait for a glass-side table?"*). Se as vagas online esgotarem, chegue na recepção às 11h00 da manhã no dia.
+      - *Inclusões:* **Wild Arctic** (belugas e morsas), **Manatee Rescue** (peixes-boi gigantes) e **Dolphin Nursery** (berçário de golfinhos bebês).
+* **Documentação & Compilação Final:**
+  - `roteiro_orlando_dezembro_2026_guia_completo.md` atualizado com todas as novas atrações, horários e restaurantes.
+  - Script `build_html.ps1` executado, gerando HTML e PDF atualizados (968 KB).
+  - Commit no Git registrado.
