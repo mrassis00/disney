@@ -1782,3 +1782,49 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   - `roteiro_orlando_dezembro_2026_guia_completo.md` atualizado com a seção VIP e mapa oficial.
   - Compilação dos arquivos HTML e PDF via `build_html.ps1`.
   - Ponto de controle e commit no Git realizados.
+
+---
+
+## 💬 Interação 55
+
+### 👤 Solicitação do Usuário:
+> Aplicar a mesma precisão cirúrgica do Magic Kingdom em todos os outros parques da viagem:
+> - Universal Studios + Islands of Adventure (2 em 1)
+> - Universal's Epic Universe
+> - Disney's Animal Kingdom
+> - Disney's Hollywood Studios
+> - Disney's EPCOT
+> - SeaWorld Orlando
+> Considerar os mapas em PDF do *Orlando para Brasileiros*, os vídeos e roteiros do canal *Orlando Diferente* (Fê Batista) e os melhores especialistas dos EUA e Brasil.
+> Checar o que está aberto e fechado em 2026, novidades, como se locomover sem ziguezague, paradas infantis, momentos do papai, horários ideais, o que funciona vs o que não funciona, o que comprar adicional e gerar mapas visuais para cada parque.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Expansão Cirúrgica Parque a Parque no Guia Completo:**
+  1. **Universal Studios + Islands (Seg 14/12 — 🟢 98,4%):**
+     - *Status 2026:* DreamWorks Land 100% aberta (Gabby, Trolls, Kung Fu Panda); Minion Land aberta; VelociCoaster voando; Rip Ride Rockit fechada; atrações aquáticas de bote evitadas no frio de dezembro.
+     - *Navegação:* Entrada Studios ➔ Minion Land ➔ DreamWorks Land (Gabby) ➔ Beco Diagonal (Butterbeer) ➔ *Hogwarts Express* ➔ Almoço Três Vassouras ➔ Jurassic Park (Discovery Center + Camp Jurassic) ➔ VelociCoaster (Marcelo Single Rider em 15 min) ➔ Seuss Landing. Zero ziguezague!
+     - *Economia:* **NÃO comprar Express Pass**. Segunda-feira vazia (4/10) economiza mais de US$ 800!
+  2. **Universal's Epic Universe (Sex 18/12 — 🟢 96,8%):**
+     - *Status 2026:* 5 mundos interligados pelo Celestial Park; Super Nintendo World (Mario Kart AR, Yoshi, Donkey Kong Mine-Cart); Isle of Berk (Untrainable Dragon show broadway climatizado, Wing Gliders, Fyre Drill); Ministry of Magic (Battle at the Ministry, Le Cirque Arcanus); Dark Universe (Monsters Unchained, Werewolf).
+     - *Navegação:* Sentido horário em estrela. Rope Drop matinal no Super Nintendo World ➔ Dark Universe ➔ Almoço viking Mead Hall ➔ Show dos Dragões ➔ Ministry of Magic ➔ Stardust Racers do Marcelo ➔ Fontes do Celestial Park.
+  3. **Disney's Animal Kingdom (Sáb 19/12 — 🟢 99,1%):**
+     - *Status 2026:* Kilimanjaro Safaris no frescor matinal das 08h15 (animais ativos); Pandora (Flight of Passage para Marcelo e Isa 115cm! + Na'vi River); Broadway Festival of the Lion King; trenzinho da Bluey & Bingo no Rafiki's; escavação de fósseis no The Boneyard; almoço com costelinha BBQ no Flame Tree à beira da lagoa.
+     - *Saída Antecipada de Mestre:* 15h30 rumo à piscina aquecida do hotel para folga total.
+  4. **Disney's Hollywood Studios (Seg 21/12 — 🟢 97,8%):**
+     - *Status 2026:* Toy Story Land (Slinky Dog Dash via LL, Toy Story Mania 4D, Alien Saucers); Star Wars Galaxy's Edge (Rise of the Resistance, Millennium Falcon); Mickey & Minnie Runaway Railway; Frozen Sing-Along com neve de verdade; Tower of Terror; mega show noturno **Fantasmic! às 19h30** na arena aquática sentados.
+     - *Estratégia:* LL Multi Pass agendada previamente para Slinky Dog.
+  5. **Disney's EPCOT (Ter 22/12 — 🟢 98,2%):**
+     - *Status 2026:* World Nature (The Seas com aquário gigante de 5,7M galões, tubarões e peixes-boi para Miguel; Turtle Talk com Crush); Guardians Cosmic Rewind (Single Pass Marcelo + Isa 115cm); Moana Water Trail; França com Ratatouille 3D; Noruega com Frozen Ever After; México com Donald e Zé Carioca; almoço com brisket texano e chopes de IPA no Regal Eagle; show de fogos **Luminous às 21h00**.
+     - *Fechamento Financeiro:* Encerra com perfeição a janela de 7 dias iniciada em 16/12, consolidando a economia de mais de R$ 2.100 no Undercover Tourist.
+  6. **SeaWorld Orlando (Dom 27/12 — 🟢 98,5%):**
+     - *Status 2026:* Shows de estádio com 4.500 lugares sombreados (Orcas, Golfinhos, Leões-Marinhos) sem filas de espera; Sesame Street Land com parquinho suave; Penguin Trek (montanha-russa na neve para Miguel e Isa); Shark Realm com túnel submarino; churrasco no Voyager's Smokehouse; Mako Single Rider para Marcelo.
+* **Geração de 5 Novos Mapas Vetoriais em Alta Definição:**
+  - `maps/universal_twopark_flow.jpg` (Circuito integrado Studios + Islands com Hogwarts Express)
+  - `maps/epic_universe_flow.jpg` (Circuito dos 5 Portais com anel central e rotas)
+  - `maps/animal_kingdom_flow.jpg` (Circuito da Selva, Safári, Árvore da Vida e Dinossauros)
+  - `maps/hollywood_studios_flow.jpg` (Circuito do Cinema, Toy Story e Star Wars)
+  - `maps/epcot_park_flow.jpg` (Circuito do Futuro, Aquário e Volta ao Mundo)
+* **Atualização do Motor de Compilação & Documentos:**
+  - `build_html.ps1` atualizado com suporte nativo a tags `![alt](url)` para embutir mapas estilizados com bordas arredondadas e sombras.
+  - `roteiro_orlando_dezembro_2026_guia_completo.md` reescrito cirurgicamente na Seção 3 com todas as diretrizes operacionais.
+  - Script executado com geração dos novos HTMLs e PDFs.

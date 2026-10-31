@@ -166,6 +166,10 @@ function Convert-MdFile($mdPath, $htmlPath, $pageTitle) {
             [void]$sb.AppendLine('<hr>')
             continue
         }
+        if ($trimmed -match '^!\[([^\]]*)\]\(([^)]+)\)$') {
+            [void]$sb.AppendLine("<div style=`"text-align:center; margin:22px 0;`"><img src=`"$($matches[2])`" alt=`"$($matches[1])`" style=`"max-width:100%; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,0.12); border:1px solid #e2e8f0;`"><p style=`"font-size:0.85rem; color:#64748b; margin-top:8px; font-weight:500;`">🗺️ $($matches[1])</p></div>")
+            continue
+        }
 
         $p = $trimmed -replace '\*\*\*([^\*]+)\*\*\*', '<strong><em>$1</em></strong>'
         $p = $p -replace '\*\*([^\*]+)\*\*', '<strong>$1</strong>'
