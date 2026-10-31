@@ -1872,3 +1872,61 @@ Todos os refinamentos foram integrados e todos os arquivos (Markdown, HTML e PDF
   - `roteiro_orlando_dezembro_2026_guia_completo.md` atualizado com todas as novas atrações, horários e restaurantes.
   - Script `build_html.ps1` executado, gerando HTML e PDF atualizados (968 KB).
   - Commit no Git registrado.
+
+---
+
+## 💬 Interação 57 (Reestruturação Arquitetural: App Web HTML5 Offline & Protocolo de Restart)
+
+### 👤 Solicitação do Usuário:
+> 1. **Abolir PDFs de roteiro:** O usuário não quer mais nenhum PDF de roteiro, pois são pesados, demorados para atualizar e ruins de navegar no celular. Quer usar **apenas HTML e imagens**, mantendo o roteiro detalhado tanto para desktop quanto para celular.
+> 2. **Formato App de Navegação no Celular (dentro dos parques):** Reestruturar todo o planejamento como uma aplicação web moderna (PWA / SPA) offline-first:
+>    - **Tier 1 (Camada Superior):** Checklist principal executivo e dashboard.
+>    - **Tier 2 (Páginas Dedicadas de Navegação Fluida):** 
+>      - Uma página dedicada para cada tópico do checklist (Ingressos, Hotel, Carro, Seguro, Finanças, Malas, etc.), detalhando o que comprar, quando comprar, quanto vai gastar, como comprar (passo a passo de compra) e ações recomendadas.
+>      - Uma página dedicada para **cada um dos 7 parques**, com o roteiro passo a passo cirúrgico para se orientar sem se perder, saber onde está cada atração e para onde ir.
+>      - **Probabilidade de Sucesso por Atração:** Incluir a % de chance de realização no horário e mecanismo de contingência: se atrasar ou não conseguir, ter opção de pular direto para a próxima atração sem quebrar o roteiro.
+>      - **Shows e Paradas:** Cruzar horários fixos para não perder nenhuma parada ou show noturno.
+>      - **Descanso Infantil:** Paradas estratégicas de sombra, playgrounds e lanches para Miguel (7 anos) e Isabela (5 anos).
+> 3. **Mapas Oficiais em Português / Originais:** Buscar a origem do mapa em português do Magic Kingdom (`mapa-magic-kingdom-portugues-2025-2026.pdf` de *Orlando Para Brasileiros* / fontes oficiais) ou equivalente em alta resolução para todos os outros parques (Hollywood Studios, EPCOT, Animal Kingdom, Universal Studios, Islands of Adventure, Epic Universe, SeaWorld) e salvar na pasta `maps/` para cruzamento visual com o roteiro.
+> 4. **Restrição Mandatória:** *"Não mudar nada ainda, apenas crie a arquitetura e eu vou ajustar o que precisa antes da implementação."*
+> 5. **Protocolo de Saída e Retorno:** Salvar tudo no `history.md`. Quando o usuário voltar e digitar apenas **`restart`**, trazer imediatamente todo o planejamento arquitetural e as opções de ajuste.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Criação da Arquitetura Funcional e Lógica Completa do Web App:**
+  - **Paradigma:** Single Page Application (SPA) / PWA Offline-First em HTML5 semântico, Vanilla CSS e Vanilla JS, com carregamento instantâneo (< 100ms) sem depender de builds pesados ou conexões lentas no parque.
+  - **Tier 1 (Dashboard Executivo):**
+    - Card Financeiro Vivo: Saldo Schwab transferido ($18.856,83) - Gastos Totais ($10.492,21) = Saldo Livre Chase para Compras ($8.364,62 / ~$418/dia).
+    - Checklist Mestre Interativo com Badges de Status (`A Comprar`, `Reservado`, `A Fazer no D-7`, `No Dia`).
+    - Grid Tátil dos 7 Parques com horários oficiais e probabilidades globais de sucesso.
+  - **Tier 2 (Módulos do Checklist de Gestão & Compras):**
+    - Telas dedicadas para:
+      * *Ingressos & Lightning Lane:* O que, quando (início Nov e D-7 13/12 07h00), quanto ($2.868 Disney + $808 Universal + $648 Epic + $339 SeaWorld + $1.040 LLs), tutorial de compra e vinculação de vouchers.
+      * *Hospedagem:* Villas at Seven Dwarfs, rota GPS, portaria, Walmart a 5 min.
+      * *Carro & Pedágios:* Rentcars / Avis (Suburban/Tahoe) + SunPass Mini.
+      * *Seguro Saúde:* IMG Patriot America Plus ($210) + hospitais pediátricos AdventHealth.
+      * *Finanças & Dólar:* Schwab ACH ➔ Chase Débito + Apple Pay.
+      * *Malas & Farmácia:* Roupas em camadas para frio de dezembro, carrinho duplo, farmácia infantil.
+      * *Reservas Gastronômicas:* Hard Rock (13/12 confirmada), Via Napoli no EPCOT (22/12 12h15) e Sharks Underwater Grill no SeaWorld (27/12 12h00).
+  - **Tier 2 (Páginas Cirúrgicas dos 7 Parques):**
+    - Telas dedicadas para: (1) Universal 2-in-1, (2) Magic Kingdom, (3) Epic Universe, (4) Animal Kingdom, (5) Hollywood Studios, (6) EPCOT, (7) SeaWorld.
+    - Cada parque com:
+      * Visualizador Dual de Mapas (Aba 1: Rota Esquemática GPS já desenhada; Aba 2: Mapa Oficial em Alta Resolução em Português).
+      * Linha do tempo de cards de atrações com hora sugerida, tipo de fila, quem vai e **Probabilidade de Sucesso %**.
+      * Botão de contingência **"Pular Atração"** (o que fazer se a fila estiver grande ou as crianças cansarem sem perder o restante do dia).
+      * Alertas fixos de horários de shows e paradas imperdíveis.
+      * Pausas de descanso estratégico para crianças e momentos de adrenalina para o pai.
+  - **Mapeamento de Mapas Oficiais para a pasta `maps/`:**
+    - Identificados links em *Orlando Para Brasileiros* para download e conversão em WebP/JPG de alta fidelidade: Magic Kingdom, Hollywood Studios, EPCOT, Animal Kingdom, Universal Studios, Islands of Adventure, Epic Universe e SeaWorld.
+* **Perguntas de Alinhamento Submetidas ao Usuário para Validação:**
+  1. Preferência de estrutura de arquivos (Arquivo único SPA autônomo `index.html` vs múltiplos HTMLs).
+  2. Recurso de persistência automática de checkbox no celular via `localStorage`.
+  3. Validação final da inclusão do Hulk Single Rider, Transformers, Homem-Aranha, Via Napoli e Sharks Grill.
+
+---
+
+### 🔄 PROTOCOLO DE RESTART (Gatilho: `restart`):
+Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
+1. Reestabelecer imediatamente o contexto completo da arquitetura proposta.
+2. Apresentar de forma sintetizada a estrutura Tier 1 (Dashboard) e Tier 2 (Checklist + 7 Parques com mapas, probabilidades e botões de pular).
+3. Questionar se o usuário aprova o modelo de **Arquivo Único SPA (`app_roteiro_orlando.html` / `index.html`)** com abas rápidas e imagens em `maps/`, pronto para iniciar o download dos mapas oficiais e a codificação da aplicação web!
+
