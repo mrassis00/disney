@@ -1,0 +1,1753 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Orlando 2026 • App Oficial da Viagem em Família</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-main: #090d16;
+      --bg-card: rgba(22, 30, 49, 0.75);
+      --bg-card-hover: rgba(30, 41, 68, 0.85);
+      --border-card: rgba(255, 255, 255, 0.08);
+      --border-accent: rgba(56, 189, 248, 0.3);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --accent-blue: #38bdf8;
+      --accent-purple: #a855f7;
+      --accent-gold: #fbbf24;
+      --accent-green: #34d399;
+      --accent-red: #f87171;
+      --accent-coral: #fb7185;
+      --gradient-disney: linear-gradient(135deg, #1e3a8a, #3b82f6);
+      --gradient-universal: linear-gradient(135deg, #4c1d95, #7c3aed);
+      --gradient-epic: linear-gradient(135deg, #b45309, #f59e0b);
+      --gradient-marine: linear-gradient(135deg, #0e7490, #06b6d4);
+      --shadow-glow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+      --radius-sm: 8px;
+      --radius-md: 14px;
+      --radius-lg: 20px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      line-height: 1.5;
+      overflow-x: hidden;
+      padding-bottom: 90px;
+      background-image: 
+        radial-gradient(circle at 15% 15%, rgba(56, 189, 248, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 85% 85%, rgba(168, 85, 247, 0.08) 0%, transparent 40%);
+      background-attachment: fixed;
+    }
+
+    h1, h2, h3, h4, .brand-font {
+      font-family: 'Outfit', sans-serif;
+    }
+
+    /* Container Principal */
+    .app-container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 16px;
+    }
+
+    /* Header Fixo e Navegação */
+    .top-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 20px;
+      background: rgba(15, 23, 42, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border-card);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+    }
+
+    .brand-logo {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+    }
+
+    .brand-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    .brand-sub {
+      font-size: 0.72rem;
+      color: var(--accent-blue);
+      font-weight: 500;
+      display: block;
+    }
+
+    .quick-status {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(30, 41, 59, 0.6);
+      padding: 6px 12px;
+      border-radius: 30px;
+      border: 1px solid var(--border-card);
+      font-size: 0.8rem;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--accent-green);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--accent-green);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.5; }
+      50% { opacity: 1; }
+      100% { opacity: 0.5; }
+    }
+
+    /* Barra Inferior (Bottom Nav para Celular) */
+    .bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 70px;
+      background: rgba(15, 23, 42, 0.95);
+      backdrop-filter: blur(20px);
+      border-top: 1px solid var(--border-card);
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      z-index: 1000;
+      max-width: 600px;
+      margin: 0 auto;
+      border-radius: 20px 20px 0 0;
+      box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.5);
+    }
+
+    .nav-btn {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      border: none;
+      color: var(--text-dim);
+      font-size: 0.72rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      padding: 8px 12px;
+      border-radius: 12px;
+      width: 20%;
+    }
+
+    .nav-btn span.icon {
+      font-size: 1.3rem;
+      margin-bottom: 3px;
+      transition: transform 0.2s ease;
+    }
+
+    .nav-btn.active {
+      color: var(--accent-blue);
+    }
+
+    .nav-btn.active span.icon {
+      transform: translateY(-2px);
+      filter: drop-shadow(0 0 8px var(--accent-blue));
+    }
+
+    /* Cards e Containers */
+    .glass-card {
+      background: var(--bg-card);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow-glow);
+      transition: border 0.3s ease;
+    }
+
+    .glass-card:hover {
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    /* Card Financeiro */
+    .finance-banner {
+      background: linear-gradient(135deg, rgba(30, 58, 138, 0.4), rgba(88, 28, 135, 0.4));
+      border: 1px solid var(--border-accent);
+      border-radius: var(--radius-lg);
+      padding: 22px;
+      margin-bottom: 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .finance-banner::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 220px;
+      height: 220px;
+      background: radial-gradient(circle, rgba(56, 189, 248, 0.2) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .finance-metrics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 16px;
+      margin-top: 14px;
+    }
+
+    .metric-box {
+      background: rgba(15, 23, 42, 0.6);
+      padding: 12px 16px;
+      border-radius: var(--radius-sm);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .metric-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .metric-value {
+      font-size: 1.35rem;
+      font-weight: 700;
+      margin-top: 4px;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .val-positive { color: var(--accent-green); }
+    .val-neutral { color: var(--accent-blue); }
+    .val-gold { color: var(--accent-gold); }
+
+    /* Seletor de Telas (Tabs) */
+    .tab-view {
+      display: none;
+    }
+
+    .tab-view.active {
+      display: block;
+      animation: fadeIn 0.25s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Grid de Parques */
+    .parks-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+      margin-top: 14px;
+    }
+
+    .park-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .park-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--accent-blue);
+      box-shadow: 0 10px 25px -5px rgba(56, 189, 248, 0.2);
+    }
+
+    .park-header {
+      height: 100px;
+      position: relative;
+      background-size: cover;
+      background-position: center;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .park-header::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(15, 23, 42, 0.95));
+    }
+
+    .park-badge {
+      position: relative;
+      z-index: 2;
+      align-self: flex-start;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 20px;
+      background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(4px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .park-body {
+      padding: 14px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .park-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .park-date {
+      font-size: 0.8rem;
+      color: var(--accent-blue);
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .park-meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border-card);
+      padding-top: 8px;
+      margin-top: 8px;
+    }
+
+    .prob-tag {
+      color: var(--accent-green);
+      font-weight: 700;
+    }
+
+    /* Checklist Interativo */
+    .checklist-progress-bar {
+      width: 100%;
+      height: 10px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      overflow: hidden;
+      margin: 12px 0 20px 0;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent-blue), var(--accent-green));
+      width: 0%;
+      transition: width 0.4s ease;
+    }
+
+    .check-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 12px;
+      background: rgba(15, 23, 42, 0.4);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-card);
+      margin-bottom: 10px;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+
+    .check-item:hover {
+      background: rgba(30, 41, 59, 0.5);
+    }
+
+    .check-item input[type="checkbox"] {
+      width: 20px;
+      height: 20px;
+      margin-top: 2px;
+      cursor: pointer;
+      accent-color: var(--accent-green);
+    }
+
+    .check-content {
+      flex-grow: 1;
+    }
+
+    .check-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    .check-desc {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .check-tags {
+      display: flex;
+      gap: 6px;
+      margin-top: 6px;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+
+    .tag-blue { background: rgba(56, 189, 248, 0.15); color: var(--accent-blue); }
+    .tag-purple { background: rgba(168, 85, 247, 0.15); color: var(--accent-purple); }
+    .tag-green { background: rgba(52, 211, 153, 0.15); color: var(--accent-green); }
+    .tag-gold { background: rgba(251, 191, 36, 0.15); color: var(--accent-gold); }
+    .tag-red { background: rgba(248, 113, 113, 0.15); color: var(--accent-red); }
+
+    /* Timeline do Parque (Passo a Passo) */
+    .timeline-step {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 16px;
+      position: relative;
+    }
+
+    .step-time-col {
+      width: 70px;
+      flex-shrink: 0;
+      text-align: right;
+    }
+
+    .step-time {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--accent-blue);
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .step-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--accent-blue);
+      position: absolute;
+      left: 78px;
+      top: 4px;
+      box-shadow: 0 0 8px var(--accent-blue);
+    }
+
+    .step-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      padding: 14px 16px;
+      flex-grow: 1;
+      margin-left: 20px;
+      border-left: 3px solid var(--accent-blue);
+    }
+
+    .step-card.special-show {
+      border-left-color: var(--accent-gold);
+      background: rgba(251, 191, 36, 0.05);
+    }
+
+    .step-card.kid-break {
+      border-left-color: var(--accent-green);
+      background: rgba(52, 211, 153, 0.05);
+    }
+
+    .step-card.dad-thrill {
+      border-left-color: var(--accent-red);
+      background: rgba(248, 113, 113, 0.05);
+    }
+
+    .step-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .step-name {
+      font-size: 1rem;
+      font-weight: 700;
+    }
+
+    .step-prob {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent-green);
+      background: rgba(52, 211, 153, 0.15);
+      padding: 2px 6px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    .step-details {
+      font-size: 0.83rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    /* Botão de Pular Atração / Contingência */
+    .skip-btn {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--accent-gold);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.2s;
+    }
+
+    .skip-btn:hover {
+      background: rgba(251, 191, 36, 0.15);
+    }
+
+    .contingency-box {
+      display: none;
+      margin-top: 10px;
+      padding: 10px;
+      background: rgba(251, 191, 36, 0.08);
+      border: 1px dashed var(--accent-gold);
+      border-radius: 8px;
+      font-size: 0.8rem;
+      color: #fef08a;
+    }
+
+    /* Visualizador Dual de Mapas */
+    .map-viewer-wrapper {
+      margin-bottom: 24px;
+      background: rgba(15, 23, 42, 0.8);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      border: 1px solid var(--border-card);
+    }
+
+    .map-tabs {
+      display: flex;
+      border-bottom: 1px solid var(--border-card);
+    }
+
+    .map-tab-btn {
+      flex: 1;
+      padding: 10px;
+      text-align: center;
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .map-tab-btn.active {
+      color: var(--accent-blue);
+      border-bottom: 2px solid var(--accent-blue);
+      background: rgba(56, 189, 248, 0.05);
+    }
+
+    .map-img-container {
+      position: relative;
+      overflow: auto;
+      max-height: 480px;
+      background: #000;
+      text-align: center;
+    }
+
+    .map-img-container img {
+      width: 100%;
+      height: auto;
+      display: block;
+      transition: transform 0.3s ease;
+      cursor: zoom-in;
+    }
+
+    .map-helper {
+      padding: 8px 12px;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    /* Botão de Retorno ao Dashboard */
+    .back-btn {
+      background: rgba(30, 41, 59, 0.8);
+      border: 1px solid var(--border-card);
+      color: var(--text-main);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 16px;
+      transition: background 0.2s;
+    }
+
+    .back-btn:hover {
+      background: rgba(51, 65, 85, 0.8);
+    }
+
+    /* Links e botões de ação */
+    .btn-action {
+      background: linear-gradient(135deg, var(--accent-blue), #2563eb);
+      color: #fff;
+      font-weight: 600;
+      padding: 10px 18px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      font-size: 0.88rem;
+      box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+    }
+
+    /* Responsividade */
+    @media (max-width: 768px) {
+      .app-container {
+        padding: 12px;
+      }
+      .finance-metrics {
+        grid-template-columns: 1fr 1fr;
+      }
+      .metric-value {
+        font-size: 1.15rem;
+      }
+      .parks-grid {
+        grid-template-columns: 1fr;
+      }
+      .step-time-col {
+        width: 55px;
+      }
+      .step-dot {
+        left: 63px;
+      }
+      .step-card {
+        margin-left: 15px;
+        padding: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Header Fixo -->
+  <header class="top-header">
+    <div class="brand" onclick="navigateTo('tab-dashboard')">
+      <div class="brand-logo">🏰</div>
+      <div>
+        <div class="brand-title">Orlando 2026</div>
+        <span class="brand-sub">Família • Guia Cirúrgico</span>
+      </div>
+    </div>
+    <div class="quick-status">
+      <div class="status-dot"></div>
+      <span id="countdown-days">407 dias</span>
+    </div>
+  </header>
+
+  <!-- Container Geral da Aplicação -->
+  <main class="app-container">
+
+    <!-- ========================================== -->
+    <!-- TIER 1: DASHBOARD EXECUTIVO               -->
+    <!-- ========================================== -->
+    <div id="tab-dashboard" class="tab-view active">
+
+      <!-- Banner Financeiro Vivo -->
+      <div class="finance-banner">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h2 style="font-size: 1.25rem; font-weight: 700;">📊 Gestão Financeira ao Vivo</h2>
+          <span class="tag tag-gold">Conta Chase EUA</span>
+        </div>
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+          Depósito via ACH da Charles Schwab liquidado sem IOF. Saldo pronto para débito e compras.
+        </p>
+
+        <div class="finance-metrics">
+          <div class="metric-box">
+            <div class="metric-label">Inflow Schwab Total</div>
+            <div class="metric-value val-neutral">$18.856,83</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Custos da Viagem</div>
+            <div class="metric-value" style="color: var(--accent-coral);">$10.492,21</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Saldo Livre / Compras</div>
+            <div class="metric-value val-positive">$8.364,62</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Budget Médio Diário</div>
+            <div class="metric-value val-gold">~$418 / dia</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Checklist Principal Rápido -->
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h2 style="font-size: 1.2rem; font-weight: 700;">✅ Checklist Mestre da Viagem</h2>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Progresso salvo automaticamente no seu celular</div>
+          </div>
+          <span id="checklist-pct" class="tag tag-green" style="font-size: 0.85rem;">0% Concluído</span>
+        </div>
+
+        <div class="checklist-progress-bar">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+
+        <!-- Itens do Checklist -->
+        <div id="checklist-items-container">
+          <!-- Item 1 -->
+          <div class="check-item" onclick="toggleCheck('chk1')">
+            <input type="checkbox" id="chk1" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Comprar Ingressos Base no Undercover Tourist</div>
+              <div class="check-desc">Disney 4-Day, Universal 2-in-1, Epic Universe e SeaWorld. Total: ~$4.664.</div>
+              <div class="check-tags">
+                <span class="tag tag-blue">Início de Nov/26</span>
+                <span class="tag tag-purple">Economia de R$ 2.100</span>
+                <span class="tag tag-gold" onclick="event.stopPropagation(); navigateTo('tab-ingressos');">Ver Detalhes ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 2 -->
+          <div class="check-item" onclick="toggleCheck('chk2')">
+            <input type="checkbox" id="chk2" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Comprar Lightning Lane Multi Pass & Single Pass</div>
+              <div class="check-desc">No app My Disney Experience às 07h00 de Orlando (D-3 do primeiro dia Disney).</div>
+              <div class="check-tags">
+                <span class="tag tag-red">Domingo 13/12/2026 07:00</span>
+                <span class="tag tag-blue">TRON + Guardians</span>
+                <span class="tag tag-gold" onclick="event.stopPropagation(); navigateTo('tab-ingressos');">Tutorial ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 3 -->
+          <div class="check-item" onclick="toggleCheck('chk3')">
+            <input type="checkbox" id="chk3" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Confirmar Aluguel de Carro (Suburban/Tahoe) na Avis</div>
+              <div class="check-desc">Reserva via Rentcars já assegurada com cobertura total zero franquia.</div>
+              <div class="check-tags">
+                <span class="tag tag-green">Garantido</span>
+                <span class="tag tag-blue" onclick="event.stopPropagation(); navigateTo('tab-carro');">Ver Voucher ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 4 -->
+          <div class="check-item" onclick="toggleCheck('chk4')">
+            <input type="checkbox" id="chk4" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Emitir Seguro Saúde IMG Patriot America Plus</div>
+              <div class="check-desc">Cobertura de $1.000.000 para os 4 integrantes por $210 total.</div>
+              <div class="check-tags">
+                <span class="tag tag-purple">Novembro/26</span>
+                <span class="tag tag-blue" onclick="event.stopPropagation(); navigateTo('tab-seguro');">Contatos & Hospitais ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 5 -->
+          <div class="check-item" onclick="toggleCheck('chk5')">
+            <input type="checkbox" id="chk5" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Jantar Hard Rock Cafe (Aniversário Miguel 7a)</div>
+              <div class="check-desc">Domingo 13/12 às 19h00. Confirmação OpenTable: #1713319.</div>
+              <div class="check-tags">
+                <span class="tag tag-green">Confirmado #1713319</span>
+                <span class="tag tag-gold" onclick="event.stopPropagation(); navigateTo('tab-reservas');">Ver Reserva ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 6 -->
+          <div class="check-item" onclick="toggleCheck('chk6')">
+            <input type="checkbox" id="chk6" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Reservar Almoço no Via Napoli (Itália - EPCOT)</div>
+              <div class="check-desc">Massas artesanais para o Miguel no dia 22/12 às 12h15. Abrir app Disney 60 dias antes.</div>
+              <div class="check-tags">
+                <span class="tag tag-blue">23/10/2026</span>
+                <span class="tag tag-gold" onclick="event.stopPropagation(); navigateTo('tab-reservas');">Ver Detalhes ➔</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Item 7 -->
+          <div class="check-item" onclick="toggleCheck('chk7')">
+            <input type="checkbox" id="chk7" onchange="updateChecklist()">
+            <div class="check-content">
+              <div class="check-title">Reservar Almoço com Tubarões (Sharks Grill SeaWorld)</div>
+              <div class="check-desc">Mesa colada no aquário para o almoço do dia 27/12 às 12h00.</div>
+              <div class="check-tags">
+                <span class="tag tag-blue">Novembro/26</span>
+                <span class="tag tag-gold" onclick="event.stopPropagation(); navigateTo('tab-reservas');">Instruções ➔</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Grid dos 7 Parques -->
+      <h2 style="font-size: 1.25rem; font-weight: 700; margin: 26px 0 14px 0;">🎢 Roteiro Cirúrgico dos 7 Parques</h2>
+      <div class="parks-grid">
+
+        <!-- Parque 1: Universal 2-in-1 -->
+        <div class="park-card" onclick="navigateTo('tab-universal')">
+          <div class="park-header" style="background-image: url('maps/universal_twopark_flow.jpg');">
+            <span class="park-badge">Universal Orlando</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Segunda, 14 de Dezembro</div>
+              <div class="park-title">Universal Studios + Islands 2-em-1</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Hulk (Single Rider), Spider-Man & Transformers (família), Minions, DreamWorks e Hogwarts Express.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 08h30 - 19h00</span>
+              <span class="prob-tag">🟢 98,4% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 2: Magic Kingdom -->
+        <div class="park-card" onclick="navigateTo('tab-magickingdom')">
+          <div class="park-header" style="background-image: url('maps/magic_kingdom_master_map.jpg');">
+            <span class="park-badge">Magic Kingdom</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Quarta, 16 de Dezembro</div>
+              <div class="park-title">Magic Kingdom Clássico</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Fantasyland sem filas, Seven Dwarfs (LL), TRON (Marcelo), Parada das 12h e Fogos às 20h00.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 08h30 - 21h00</span>
+              <span class="prob-tag">🟢 99,2% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 3: Epic Universe -->
+        <div class="park-card" onclick="navigateTo('tab-epic')">
+          <div class="park-header" style="background-image: url('maps/epic_universe_flow.jpg');">
+            <span class="park-badge">Epic Universe</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Sexta, 18 de Dezembro</div>
+              <div class="park-title">Universal Epic Universe</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Super Nintendo (Donkey Kong & Toad Cafe), Como Treinar seu Dragão, Dark Universe e Fontes Noturnas.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 09h00 - 19h30</span>
+              <span class="prob-tag">🟢 96,8% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 4: Animal Kingdom -->
+        <div class="park-card" onclick="navigateTo('tab-animalkingdom')">
+          <div class="park-header" style="background-image: url('maps/animal_kingdom_flow.jpg');">
+            <span class="park-badge">Animal Kingdom</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Sábado, 19 de Dezembro</div>
+              <div class="park-title">Disney's Animal Kingdom</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Safári matinal 08h15, Avatar Flight of Passage, Rei Leão, Nemo e Pandora Bioluminescente à noite.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 08h00 - 18h30</span>
+              <span class="prob-tag">🟢 99,1% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 5: Hollywood Studios -->
+        <div class="park-card" onclick="navigateTo('tab-hollywood')">
+          <div class="park-header" style="background-image: url('maps/hollywood_studios_flow.jpg');">
+            <span class="park-badge">Hollywood Studios</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Segunda, 21 de Dezembro</div>
+              <div class="park-title">Disney's Hollywood Studios</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Slinky Dog (LL), Star Wars Rise, Indiana Jones, Disney Junior Play & Fantasmic! às 21h30.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 08h30 - 21h00</span>
+              <span class="prob-tag">🟢 97,8% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 6: EPCOT -->
+        <div class="park-card" onclick="navigateTo('tab-epcot')">
+          <div class="park-header" style="background-image: url('maps/epcot_park_flow.jpg');">
+            <span class="park-badge">EPCOT</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Terça, 22 de Dezembro</div>
+              <div class="park-title">Disney's EPCOT</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Guardians Cosmic Rewind, Almoço de massas na Itália (Via Napoli), Aquário The Seas e Fogos Luminous.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 08h30 - 21h00</span>
+              <span class="prob-tag">🟢 98,2% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parque 7: SeaWorld -->
+        <div class="park-card" onclick="navigateTo('tab-seaworld')">
+          <div class="park-header" style="background-image: url('maps/seaworld_park_flow.jpg');">
+            <span class="park-badge">SeaWorld</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Domingo, 27 de Dezembro</div>
+              <div class="park-title">SeaWorld Orlando</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Almoço com Tubarões (Sharks Grill), Penguin Trek, Shows de Orcas e Golfinhos, Mako (Marcelo).
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 09h00 - 19h00</span>
+              <span class="prob-tag">🟢 98,5% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- ========================================== -->
+    <!-- TIER 2: MÓDULOS DE GESTÃO DO CHECKLIST     -->
+    <!-- ========================================== -->
+
+    <!-- Módulo 2.1: Ingressos -->
+    <div id="tab-ingressos" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🎟️ Gestão Cirúrgica de Ingressos & Lightning Lane</h2>
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin: 6px 0 16px 0;">
+          Guia exato de compra: o que comprar, prazos, preços discriminados e onde adquirir com máxima economia.
+        </p>
+
+        <div style="overflow-x: auto;">
+          <table style="width: 100%; border-collapse: collapse; font-size: 0.82rem; margin-bottom: 20px;">
+            <thead>
+              <tr style="border-bottom: 1px solid var(--border-card); text-align: left; color: var(--accent-gold);">
+                <th style="padding: 10px;">Ingresso / Experiência</th>
+                <th style="padding: 10px;">Quando Comprar</th>
+                <th style="padding: 10px;">Valor Total</th>
+                <th style="padding: 10px;">Onde / Como Comprar</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px; font-weight: 600;">Disney 4-Day Base Ticket (1 Parque/Dia)</td>
+                <td style="padding: 10px;">Início de Nov/2026</td>
+                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">$2.868,14</td>
+                <td style="padding: 10px;">Undercover Tourist (Economia de R$ 2.100). Vincular no app My Disney Experience.</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px; font-weight: 600;">Universal 2-Park 1-Day Park-to-Park</td>
+                <td style="padding: 10px;">Início de Nov/2026</td>
+                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$808,00</td>
+                <td style="padding: 10px;">Undercover Tourist ou Universal App. Obrigatório Park-to-Park para andar no trem de Harry Potter!</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px; font-weight: 600;">Epic Universe 1-Day Ticket</td>
+                <td style="padding: 10px;">Início de Nov/2026</td>
+                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$648,00</td>
+                <td style="padding: 10px;">Site Oficial Universal / App Universal FL.</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px; font-weight: 600;">SeaWorld Orlando 1-Day Any Day</td>
+                <td style="padding: 10px;">Início de Nov/2026</td>
+                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$339,00</td>
+                <td style="padding: 10px;">Undercover Tourist ou site SeaWorld.</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <td style="padding: 10px; font-weight: 600;">Disney Lightning Lane Multi Pass + Single Pass</td>
+                <td style="padding: 10px; color: var(--accent-coral); font-weight: 700;">13/12/2026 às 07h00</td>
+                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$1.040,00</td>
+                <td style="padding: 10px;">Diretamente no App <em>My Disney Experience</em>. Agendar os 4 dias de uma só vez!</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="glass-card" style="background: rgba(15, 23, 42, 0.5); border-color: var(--accent-blue);">
+          <h3 style="font-size: 1rem; color: var(--accent-blue); margin-bottom: 8px;">📲 Passo a Passo para o Domingo 13/12/2026 (07h00 Orlando / 09h00 Brasília)</h3>
+          <ol style="font-size: 0.83rem; color: var(--text-muted); padding-left: 20px; line-height: 1.6;">
+            <li>Abra o aplicativo <strong>My Disney Experience</strong> logado na conta do Marcelo.</li>
+            <li>Acesse a aba <strong>Lightning Lane</strong> e clique em <em>Purchase</em>.</li>
+            <li>Selecione a família inteira (Marcelo, Thalita, Miguel e Isabela).</li>
+            <li><strong>Magic Kingdom (16/12):</strong> Reserve <em>Seven Dwarfs Mine Train</em> (09h00), <em>Peter Pan</em> e <em>Big Thunder</em>. Adicione 1 Single Pass do TRON para Marcelo (16h45).</li>
+            <li><strong>Hollywood Studios (21/12):</strong> Reserve <em>Slinky Dog Dash</em> (08h45), <em>Toy Story Mania</em> e <em>Mickey & Minnie Railway</em>.</li>
+            <li><strong>EPCOT (22/12):</strong> Reserve 1 Single Pass de <em>Guardians of the Galaxy: Cosmic Rewind</em> para Marcelo + Isabela (115cm).</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Módulo 2.2: Hospedagem -->
+    <div id="tab-hospedagem" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🏡 Hospedagem: Villas at Seven Dwarfs</h2>
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin: 6px 0 16px 0;">
+          Condomínio fechado com casa completa de 3 dormitórios, piscina resort aquecida e cozinha completa.
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+          <div class="metric-box">
+            <div class="metric-label">Endereço GPS</div>
+            <div style="font-size: 0.95rem; font-weight: 600; margin-top: 4px;">2616 Seven Dwarfs Ln, Kissimmee, FL 34746</div>
+            <a href="https://maps.google.com/?q=Villas+at+Seven+Dwarfs+Lane+Kissimmee" target="_blank" class="btn-action" style="margin-top: 10px; font-size: 0.75rem; padding: 6px 12px;">Abrir no Google Maps ➔</a>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Supermercado Mais Próximo</div>
+            <div style="font-size: 0.95rem; font-weight: 600; margin-top: 4px;">Walmart Supercenter (5 minutos)</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">4444 W Vine St, Kissimmee. Aberto 24h para água, frutas e café.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Módulo 2.3: Carro -->
+    <div id="tab-carro" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🚗 Transporte & Pedágios: Suburban / Tahoe</h2>
+        <div style="margin: 14px 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>Locadora:</strong> Avis Rent a Car (Retirada e devolução no Aeroporto MCO).</p>
+          <p><strong>Veículo:</strong> Chevrolet Suburban / Tahoe (SUV Premium para 7 lugares e porta-malas gigante).</p>
+          <p><strong>Pedágios SunPass:</strong> Não contrate o pacote diário caro da Avis ($12/dia). Adquira o <em>SunPass Mini</em> no aeroporto ou Walgreens por $4,99 e recarregue $20 no app do SunPass.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Módulo 2.4: Seguro Saúde -->
+    <div id="tab-seguro" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🛡️ Seguro Saúde & Emergência Pediátrica</h2>
+        <div style="margin: 14px 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>Apólice:</strong> IMG Patriot America Plus ($1.000.000 de cobertura para os 4 integrantes por $210).</p>
+          <p><strong>Hospital Pediátrico de Referência:</strong></p>
+          <div class="metric-box" style="margin-top: 8px;">
+            <div style="font-weight: 700; color: var(--accent-gold);">AdventHealth for Children / Celebration</div>
+            <div style="font-size: 0.8rem; margin-top: 2px;">400 Celebration Pl, Celebration, FL 34747 • Tel: (407) 303-4000</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Módulo 2.7: Reservas Gastronômicas -->
+    <div id="tab-reservas" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🍽️ Reservas Gastronômicas Imperdíveis</h2>
+        
+        <div style="display: flex; flex-direction: column; gap: 14px; margin-top: 14px;">
+          <!-- Hard Rock -->
+          <div class="metric-box" style="border-left: 4px solid var(--accent-green);">
+            <div style="display: flex; justify-content: space-between;">
+              <span style="font-weight: 700; font-size: 1rem;">🎸 Hard Rock Cafe Orlando (Universal CityWalk)</span>
+              <span class="tag tag-green">Confirmado</span>
+            </div>
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+              <strong>Data:</strong> Domingo, 13/12/2026 às 19h00 • <strong>Motivo:</strong> Aniversário do Miguel (7 anos).<br>
+              <strong>Confirmação OpenTable:</strong> <code style="color: var(--accent-gold);">#1713319</code>. Mesa para 4 pessoas.
+            </div>
+          </div>
+
+          <!-- Via Napoli -->
+          <div class="metric-box" style="border-left: 4px solid var(--accent-blue);">
+            <div style="display: flex; justify-content: space-between;">
+              <span style="font-weight: 700; font-size: 1rem;">🍝 Via Napoli Ristorante e Pizzeria (EPCOT - Itália)</span>
+              <span class="tag tag-blue">Agendar 23/10</span>
+            </div>
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+              <strong>Data:</strong> Terça, 22/12/2026 às 12h15 • <strong>Foco:</strong> Massas artesanais e pizza napolitana para o Miguel.<br>
+              <strong>Ação:</strong> Abrir o app My Disney Experience 60 dias antes (23/10/2026) às 06h00 da manhã de Orlando.
+            </div>
+          </div>
+
+          <!-- Sharks Grill -->
+          <div class="metric-box" style="border-left: 4px solid var(--accent-purple);">
+            <div style="display: flex; justify-content: space-between;">
+              <span style="font-weight: 700; font-size: 1rem;">🦈 Sharks Underwater Grill and Bar (SeaWorld)</span>
+              <span class="tag tag-purple">Agendar em Nov</span>
+            </div>
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+              <strong>Data:</strong> Domingo, 27/12/2026 às 12h00 • <strong>Foco:</strong> Comer almoçando colado aos tubarões.<br>
+              <strong>Dica de Mestre:</strong> Reservar <em>Priority Seating</em> no site oficial do SeaWorld ou chegar às 11h00 na recepção pedindo: <em>"Could we please wait for a glass-side table?"</em>.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- ========================================== -->
+    <!-- TIER 2: ROTEIROS DOS 7 PARQUES CIRÚRGICOS  -->
+    <!-- ========================================== -->
+
+    <!-- PARQUE 1: UNIVERSAL 2-IN-1 -->
+    <div id="tab-universal" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-blue);">Universal Studios + Islands of Adventure</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Segunda-feira, 14 de Dezembro de 2026 • Lotação Mínima 🟢 4/10</div>
+          </div>
+          <span class="tag tag-green" style="font-size: 0.85rem;">Probabilidade: 98,4%</span>
+        </div>
+
+        <div style="display: flex; gap: 12px; margin-top: 12px; font-size: 0.8rem; flex-wrap: wrap;">
+          <span class="tag tag-gold">⏰ Horário: 08h30 - 19h00</span>
+          <span class="tag tag-purple">🚂 Hogwarts Express Obrigatório</span>
+          <span class="tag tag-red">⚡ Hulk & VelociCoaster (Marcelo Solo)</span>
+        </div>
+      </div>
+
+      <!-- Visualizador Dual de Mapas -->
+      <div class="map-viewer-wrapper">
+        <div class="map-tabs">
+          <button class="map-tab-btn active" onclick="switchMap('uni-map-flow', this)">🗺️ Rota Esquemática GPS</button>
+          <button class="map-tab-btn" onclick="switchMap('uni-map-oficial', this)">📄 Mapa Oficial em Português</button>
+        </div>
+        <div class="map-img-container">
+          <img id="uni-map-flow" src="maps/universal_twopark_flow.jpg" alt="Mapa Universal" style="display: block;">
+          <div id="uni-map-oficial" style="display: none; padding: 40px 20px; color: var(--text-muted);">
+            <p>🗺️ <strong>Mapa Oficial Universal Orlando Resort</strong></p>
+            <p style="font-size: 0.8rem; margin-top: 8px;">Consulte no App Universal FL ou visualize a rota no mapa esquemático acima.</p>
+          </div>
+        </div>
+        <div class="map-helper">
+          <span>💡 Toque na imagem para ampliar ou use pinça para zoom</span>
+          <span style="color: var(--accent-blue);">Circuito Anti-Ziguezague</span>
+        </div>
+      </div>
+
+      <!-- Passo a Passo Universal -->
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Linha do Tempo Cirúrgica (Passo a Passo)</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">1. Chegada & Rope Drop no Universal Studios</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">Estacionamento central do CityWalk. Caminhada rápida para a entrada do Studios.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">2. Minion Land: Despicable Me & Villain-Con</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Simulador divertido para toda a família logo na entrada. Standby de 15 min.</div>
+          <button class="skip-btn" onclick="toggleContingency('cont-uni-1')">⚡ Se a fila estiver > 35 min...</button>
+          <div id="cont-uni-1" class="contingency-box">
+            Pule direto para o <strong>Transformers 3D</strong> e volte nos Minions às 18h00 antes do fechamento!
+          </div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">3. Transformers: The Ride-3D (Família Toda)</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Altura mínima 102cm (Miguel e Isabela entram com folga!). Imersão 3D épica com Optimus Prime.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header">
+            <span class="step-name">4. DreamWorks Land & E.T. Adventure</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">
+            🧸 <strong>Parada Kids:</strong> Casa de Gabby, montanha-russa do Trolls (Trollercoaster) e Kung Fu Panda. Voo clássico de bicicleta no E.T.
+          </div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">5. Beco Diagonal & Cerveja Amanteigada</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Entrada secreta atrás da parede de tijolos. Dragão soltando fogo real no banco Gringotes. Provar a Butterbeer Frozen!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">6. Embarque no Hogwarts Express (Estação King's Cross)</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Atravessar a Plataforma 9 ¾ rumo a Hogsmeade no Islands of Adventure.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h50</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">7. Almoço no Três Vassouras (Three Broomsticks)</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">Frango assado com costelinha defumada, milho e batatas rústicas em ambiente medieval fresco.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">8. Jurassic Park: Camp Jurassic & Discovery Center</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">Miguel explorando dinossauros em tamanho real e nascimento de velociraptor na incubadora.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">14h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header">
+            <span class="step-name">9. VelociCoaster (Marcelo Single Rider)</span>
+            <span class="step-prob">95% Sucesso</span>
+          </div>
+          <div class="step-details">⚡ <strong>Adrenalina Papai:</strong> Fila Single Rider feita em apenas 15 minutos! Enquanto isso, Thalita e crianças tomam sorvete na sombra.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">10. The Amazing Adventures of Spider-Man</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Marvel Super Hero Island. Altura 102cm (família toda!). Considerado um dos melhores 3Ds do mundo.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">16h20</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header">
+            <span class="step-name">11. The Incredible Hulk Coaster (Marcelo Single Rider)</span>
+            <span class="step-prob">96% Sucesso</span>
+          </div>
+          <div class="step-details">⚡ <strong>Adrenalina Papai:</strong> Disparo de 0 a 67 km/h em 2 segundos. Single Rider feito em 12 minutos.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">17h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header">
+            <span class="step-name">12. Seuss Landing & Trolley Train Ride</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">🧸 <strong>Fechamento Lúdico:</strong> Trenzinho suspenso que anda pelos telhados coloridos e carrossel de criaturas do Dr. Seuss.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">19h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">13. Jantar Festivo no The Toothsome Chocolate Emporium</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">No Universal CityWalk. Fábrica steampunk de doces, hambúrgueres gourmet, massas e milkshakes monumentais!</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- PARQUE 2: MAGIC KINGDOM -->
+    <div id="tab-magickingdom" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-blue);">Magic Kingdom Park</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Quarta-feira, 16 de Dezembro de 2026 • O dia mais mágico!</div>
+          </div>
+          <span class="tag tag-green" style="font-size: 0.85rem;">Probabilidade: 99,2%</span>
+        </div>
+
+        <div style="display: flex; gap: 12px; margin-top: 12px; font-size: 0.8rem; flex-wrap: wrap;">
+          <span class="tag tag-gold">⏰ Horário: 08h30 - 21h00</span>
+          <span class="tag tag-blue">🎭 Parada: 12h00 e 15h00</span>
+          <span class="tag tag-purple">🎆 Fogos: 20h00 Happily Ever After</span>
+        </div>
+      </div>
+
+      <!-- Visualizador Dual de Mapas -->
+      <div class="map-viewer-wrapper">
+        <div class="map-tabs">
+          <button class="map-tab-btn active" onclick="switchMap('mk-map-flow', this)">🗺️ Rota Esquemática GPS</button>
+          <button class="map-tab-btn" onclick="switchMap('mk-map-oficial', this)">📄 Mapa Oficial em Português</button>
+        </div>
+        <div class="map-img-container">
+          <img id="mk-map-flow" src="maps/magic_kingdom_master_map.jpg" alt="Mapa Magic Kingdom" style="display: block;">
+          <div id="mk-map-oficial" style="display: none; padding: 40px 20px; color: var(--text-muted);">
+            <p>🗺️ <strong>Mapa Oficial Magic Kingdom em Português (2025-2026)</strong></p>
+            <p style="font-size: 0.8rem; margin-top: 8px;">Arquivo oficial salvo no seu guia: <code>mapa-magic-kingdom-portugues-2025-2026.pdf</code>.</p>
+          </div>
+        </div>
+        <div class="map-helper">
+          <span>💡 Rota em sentido horário: Fantasyland ➔ Frontierland ➔ Tomorrowland</span>
+          <span style="color: var(--accent-green);">Sem vaivém</span>
+        </div>
+      </div>
+
+      <!-- Passo a Passo Magic Kingdom -->
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Linha do Tempo Cirúrgica (Passo a Passo)</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">1. Chegada no TTC & Ferryboat Romântico</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">Travessia pela Seven Seas Lagoon vendo o Castelo da Cinderela se aproximar.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">2. Seven Dwarfs Mine Train (Lightning Lane Agendada)</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">Entrada VIP direta sem fila de 80 min. O carrinho balança nas curvas da mina de diamantes!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h40</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">3. Peter Pan's Flight & It's a Small World</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">Voo do Peter Pan sobre Londres (via LL) + descanso clássico no barquinho com ar-condicionado.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h50</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header">
+            <span class="step-name">4. Almoço no Columbia Harbour House (2º Andar Secreto)</span>
+            <span class="step-prob">99% Sucesso</span>
+          </div>
+          <div class="step-details">🧸 <strong>Dica dos Especialistas:</strong> Salmão grelhado, camarões e empanados de frango no mezanino vazio, fresco e silencioso.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header">
+            <span class="step-name">5. 🎭 Disney Festival of Fantasy Parade</span>
+            <span class="step-prob">100% Sucesso</span>
+          </div>
+          <div class="step-details">🚨 <strong>NÃO PERDER:</strong> Carros alegóricos monumentais, dragão mecânico da Malévola soltando fogo real, Mickey e Princesas!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h10</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header">
+            <span class="step-name">6. Big Thunder Mountain Railroad (Lightning Lane)</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">O trem desgovernado mais veloz do velho oeste. Miguel e Isabela adoram as curvas!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">16h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header">
+            <span class="step-name">7. TRON Lightcycle / Run (Marcelo Single Pass)</span>
+            <span class="step-prob">98% Sucesso</span>
+          </div>
+          <div class="step-details">⚡ <strong>Adrenalina Papai:</strong> Montaria na moto de luz futurista a 100 km/h. Enquanto isso, Thalita e crianças no Buzz Lightyear Space Ranger Spin!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">20h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header">
+            <span class="step-name">8. 🎆 Mega Show de Fogos: Happily Ever After</span>
+            <span class="step-prob">100% Sucesso</span>
+          </div>
+          <div class="step-details">Posicionar-se na Main Street perto do Casey's Corner às 19h20. O show mais emocionante de toda a Disney!</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Outros Parques: Epic, Animal, Hollywood, Epcot, SeaWorld continuam no mesmo padrão -->
+    <div id="tab-epic" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">Universal Epic Universe</h2>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">Sexta, 18 de Dezembro de 2026 • 5 Mundos pelo Celestial Park</div>
+        <div class="map-img-container" style="border-radius: 12px; margin-bottom: 16px;">
+          <img src="maps/epic_universe_flow.jpg" alt="Mapa Epic Universe">
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>09h00:</strong> Rope Drop no <em>Super Nintendo World</em> (Mario Kart AR & Donkey Kong Mine-Cart Madness).</p>
+          <p><strong>10h50:</strong> Lanche temático no <em>Toadstool Cafe</em>.</p>
+          <p><strong>12h25:</strong> Almoço viking no <em>Mead Hall</em> na Isle of Berk.</p>
+          <p><strong>13h40:</strong> Show broadway <em>The Untrainable Dragon</em> (teatro fechado climatizado).</p>
+          <p><strong>16h15:</strong> <em>Harry Potter: Battle at the Ministry</em>.</p>
+          <p><strong>17h30:</strong> <em>Stardust Racers</em> para Marcelo.</p>
+          <p><strong>19h00:</strong> Show de fontes iluminadas e projeções mágicas no lago do Celestial Park.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="tab-animalkingdom" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-green);">Disney's Animal Kingdom</h2>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">Sábado, 19 de Dezembro de 2026 • Da Selva Matinal até a Pandora Iluminada</div>
+        <div class="map-img-container" style="border-radius: 12px; margin-bottom: 16px;">
+          <img src="maps/animal_kingdom_flow.jpg" alt="Mapa Animal Kingdom">
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>08h15:</strong> <em>Kilimanjaro Safaris</em> logo na abertura (leões, girafas e elefantes ativos!).</p>
+          <p><strong>10h00:</strong> Musical <em>Festival of the Lion King</em> (sentados com ar-condicionado).</p>
+          <p><strong>12h15:</strong> Almoço com costelinha no <em>Flame Tree Barbecue</em> no deck sombreado da lagoa.</p>
+          <p><strong>13h30:</strong> Musical <em>Finding Nemo: The Big Blue... and Beyond!</em>.</p>
+          <p><strong>14h45:</strong> <em>Expedition Everest</em> (Marcelo Single Rider em 10 min).</p>
+          <p><strong>16h45:</strong> <em>Avatar Flight of Passage</em> (Marcelo + Isabela 115cm!).</p>
+          <p><strong>18h00:</strong> <em>Tree of Life Awakenings</em> (projeções no tronco) e passeio na Pandora bioluminescente à noite.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="tab-hollywood" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-coral);">Disney's Hollywood Studios</h2>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">Segunda, 21 de Dezembro de 2026 • Star Wars, Toy Story & Fantasmic!</div>
+        <div class="map-img-container" style="border-radius: 12px; margin-bottom: 16px;">
+          <img src="maps/hollywood_studios_flow.jpg" alt="Mapa Hollywood Studios">
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>08h45:</strong> <em>Slinky Dog Dash</em> via Lightning Lane na Toy Story Land.</p>
+          <p><strong>10h30:</strong> <em>Star Wars: Rise of the Resistance</em> e Millennium Falcon.</p>
+          <p><strong>12h45:</strong> <em>Indiana Jones Epic Stunt Spectacular</em> (dublês, aviões e explosões ao vivo!).</p>
+          <p><strong>14h15:</strong> <em>Disney Junior Play and Dance!</em> para Miguel e Isabela.</p>
+          <p><strong>16h00:</strong> <em>Tower of Terror</em> (elevador que despenca).</p>
+          <p><strong>21h00:</strong> Projeções <em>Wonderful World of Animation</em> no Chinese Theater.</p>
+          <p><strong>21h30:</strong> Espetáculo aquático noturno <strong>Fantasmic!</strong> na arena.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="tab-epcot" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-blue);">Disney's EPCOT</h2>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">Terça, 22 de Dezembro de 2026 • Volta ao Mundo, Massas & Cosmic Rewind</div>
+        <div class="map-img-container" style="border-radius: 12px; margin-bottom: 16px;">
+          <img src="maps/epcot_park_flow.jpg" alt="Mapa EPCOT">
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>09h00:</strong> Aquário <em>The Seas with Nemo & Friends</em> (tubarões gigantes e peixes-boi!).</p>
+          <p><strong>11h00:</strong> <em>Guardians of the Galaxy: Cosmic Rewind</em> (Single Pass para Marcelo e Isabela).</p>
+          <p><strong>12h15:</strong> Almoço de massas no <strong>Via Napoli Ristorante (Itália)</strong> para o Miguel!</p>
+          <p><strong>14h30:</strong> Degustação grátis de refrigerantes no <em>Club Cool da Coca-Cola</em>.</p>
+          <p><strong>16h00:</strong> <em>Remy's Ratatouille Adventure</em> 3D (França) e <em>Frozen Ever After</em> (Noruega).</p>
+          <p><strong>21h00:</strong> Show pirotécnico <strong>Luminous: A Symphony of Us</strong> no lago central.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="tab-seaworld" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-marine);">SeaWorld Orlando</h2>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">Domingo, 27 de Dezembro de 2026 • Ocean Adventure & Almoço com Tubarões</div>
+        <div class="map-img-container" style="border-radius: 12px; margin-bottom: 16px;">
+          <img src="maps/seaworld_park_flow.jpg" alt="Mapa SeaWorld">
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
+          <p><strong>09h30:</strong> <em>Penguin Trek</em> (montanha-russa na neve para as crianças).</p>
+          <p><strong>11h30:</strong> Apresentação monumental das Orcas no estádio sombreado.</p>
+          <p><strong>12h00:</strong> Almoço inesquecível no <strong>Sharks Underwater Grill</strong> (mesa colada no vidro!).</p>
+          <p><strong>13h30:</strong> <em>Dolphin Adventures</em> (show de acrobacias dos golfinhos).</p>
+          <p><strong>14h45:</strong> <em>Wild Arctic</em> (ursos polares, belugas e morsas).</p>
+          <p><strong>16h00:</strong> <em>Mako</em> (Marcelo Single Rider na hiper montanha-russa).</p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Bottom Navigation Bar (Fixo para Celular) -->
+  <nav class="bottom-nav">
+    <button class="nav-btn active" onclick="navigateTo('tab-dashboard')">
+      <span class="icon">🏠</span>
+      <span>Início</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-ingressos')">
+      <span class="icon">🎟️</span>
+      <span>Ingressos</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-universal')">
+      <span class="icon">🎢</span>
+      <span>Parques</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-reservas')">
+      <span class="icon">🍽️</span>
+      <span>Restaurantes</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-seguro')">
+      <span class="icon">🚨</span>
+      <span>Emergência</span>
+    </button>
+  </nav>
+
+  <!-- JavaScript SPA de Alta Performance -->
+  <script>
+    // Navegação Instantânea SPA por Abas
+    function navigateTo(tabId) {
+      document.querySelectorAll('.tab-view').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      const target = document.getElementById(tabId);
+      if (target) {
+        target.classList.add('active');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      // Atualiza botões da barra inferior
+      document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
+      if (tabId === 'tab-dashboard') document.querySelectorAll('.nav-btn')[0].classList.add('active');
+      else if (tabId === 'tab-ingressos') document.querySelectorAll('.nav-btn')[1].classList.add('active');
+      else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld'].includes(tabId)) {
+        document.querySelectorAll('.nav-btn')[2].classList.add('active');
+      } else if (tabId === 'tab-reservas') document.querySelectorAll('.nav-btn')[3].classList.add('active');
+      else if (tabId === 'tab-seguro') document.querySelectorAll('.nav-btn')[4].classList.add('active');
+    }
+
+    // Toggle de Checkbox com persistência no LocalStorage
+    function toggleCheck(id) {
+      const chk = document.getElementById(id);
+      chk.checked = !chk.checked;
+      updateChecklist();
+    }
+
+    function updateChecklist() {
+      const checks = document.querySelectorAll('#checklist-items-container input[type="checkbox"]');
+      let checkedCount = 0;
+      checks.forEach((chk, index) => {
+        localStorage.setItem('orlando_chk_' + chk.id, chk.checked);
+        if (chk.checked) checkedCount++;
+      });
+
+      const pct = Math.round((checkedCount / checks.length) * 100);
+      document.getElementById('checklist-pct').innerText = pct + '% Concluído';
+      document.getElementById('progress-fill').style.width = pct + '%';
+    }
+
+    // Carregar estado salvo ao iniciar
+    function loadChecklistState() {
+      const checks = document.querySelectorAll('#checklist-items-container input[type="checkbox"]');
+      let checkedCount = 0;
+      checks.forEach(chk => {
+        const saved = localStorage.getItem('orlando_chk_' + chk.id);
+        if (saved === 'true') {
+          chk.checked = true;
+          checkedCount++;
+        }
+      });
+      const pct = Math.round((checkedCount / checks.length) * 100);
+      document.getElementById('checklist-pct').innerText = pct + '% Concluído';
+      document.getElementById('progress-fill').style.width = pct + '%';
+    }
+
+    // Contingência / Pular Atração
+    function toggleContingency(boxId) {
+      const box = document.getElementById(boxId);
+      if (box.style.display === 'block') {
+        box.style.display = 'none';
+      } else {
+        box.style.display = 'block';
+      }
+    }
+
+    // Alternar Visualização Dual de Mapas
+    function switchMap(mapIdToShow, btn) {
+      const wrapper = btn.closest('.map-viewer-wrapper');
+      wrapper.querySelectorAll('.map-tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      const imgFlow = wrapper.querySelector('img[id$="-flow"]');
+      const divOficial = wrapper.querySelector('div[id$="-oficial"]');
+
+      if (mapIdToShow.endsWith('-flow')) {
+        imgFlow.style.display = 'block';
+        divOficial.style.display = 'none';
+      } else {
+        imgFlow.style.display = 'none';
+        divOficial.style.display = 'block';
+      }
+    }
+
+    // Inicialização ao carregar página
+    window.addEventListener('DOMContentLoaded', () => {
+      loadChecklistState();
+
+      // Cálculo de contagem regressiva para 12/12/2026
+      const tripDate = new Date('2026-12-12T00:00:00');
+      const now = new Date();
+      const diffTime = tripDate - now;
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+      if (diffDays > 0) {
+        document.getElementById('countdown-days').innerText = diffDays + ' dias para a viagem';
+      } else {
+        document.getElementById('countdown-days').innerText = '🎉 Viagem em andamento!';
+      }
+    });
+  </script>
+</body>
+</html>
