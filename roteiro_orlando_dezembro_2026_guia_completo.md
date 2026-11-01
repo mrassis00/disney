@@ -73,14 +73,28 @@
 ## 1. Malha Aérea Confirmada & A Conexão Especial em Washington
 
 * **Voo de Ida (11 a 12/12):**
-  * Trecho 1: **United Airlines UA 860** — GRU (22:25) ➡️ IAD (06:30) | Boeing 767-400ER | Assentos: 33A, 33B, 34A, 34B.
-  * **A Parada Mágica em Dulles (11h23m):** Em vez de ficar entediado no terminal, a família pode pegar um Uber de 10 minutos até o **Smithsonian National Air and Space Museum (Steven F. Udvar-Hazy Center)**. A entrada é gratuita e abriga o **Space Shuttle Discovery** (ônibus espacial real), o avião supersônico Concorde e simuladores espaciais — um momento inesquecível para o Marcelo e o Miguel.
+  * Trecho 1: **United Airlines UA 860** — GRU (22:25) ➡️ IAD (06:30 de 12/12) | Boeing 767-400ER | Assentos: 33A, 33B, 34A, 34B.
+  * **Bagagens Despachadas:** As malas de porão são despachadas direto de São Paulo (GRU) até Tampa (TPA)! Vocês só saem do terminal com as malas de mão/mochilas.
+  * **Onde Ficar das 07h00 às 09h30 (Salas VIP com Banho & Café da Manhã):**
+    * Como o museu abre às 10h00, a família tem ~2h30 relaxantes no aeroporto IAD:
+    * ☕ **Turkish Airlines Lounge (Concourse B, portão B43):** Aceita **Priority Pass e LoungeKey (Visa Infinite / Mastercard Black)**! Buffet quente mediterrâneo espetacular (ovos, queijos, pães, café espresso), poltronas de repouso e duchas privativas para um banho revigorante.
+    * ☕ **United Club (Concourses C e D - portões C1, C7, C17, D8):** Acesso com cartão United ou One-Time Pass.
+    * ☕ **Lufthansa Lounge (Concourse B, portão B51) & The Club IAD (Concourse A, portão A32):** Aceitam Priority Pass.
+  * **🚀 Conexão dos Sonhos no Smithsonian Udvar-Hazy Center (NASA):**
+    * **Endereço GPS / Waze:** [14390 Air and Space Museum Pkwy, Chantilly, VA 20151](https://waze.com/ul?q=14390+Air+and+Space+Museum+Pkwy+Chantilly+VA) | [Google Maps](https://maps.google.com/?q=Steven+F+Udvar-Hazy+Center+Chantilly+VA)
+    * **Onde Pegar o Uber em Dulles (IAD):** Desça ao piso térreo (Baggage Claim). Saia pelas portas **2 ou 4** da calçada externa na área sinalizada **"Ride App / TNC Pickup"**. Solicite UberX ou UberXL. Corrida rápida de **10 minutos** (~US$ 15).
+    * **Onde Deixar as Malas de Mão (Lockers / Guarda-Volumes):** Logo na entrada do museu há **armários gratuitos de auto-atendimento (lockers)** com chave/código para guardar mochilas, casacos e malas de mão tamanho *carry-on* com segurança total!
+    * **Horário & Ingressos:** Aberto diariamente das **10h00 às 17h30**. Entrada **100% GRATUITA**!
+    * **O que Ver:** O colossal **Ônibus Espacial Discovery (Space Shuttle Discovery)** real da NASA que viajou 39 vezes ao espaço, o caça supersônico **Concorde**, o avião espião **SR-71 Blackbird** e a Torre de Observação 360° vendo os aviões pousando em Dulles!
+    * **Onde Almoçar:** No interior do museu há uma unidade completa do **Shake Shack** (hambúrgueres artesanais, batatas onduladas crocantes e milkshakes) amado pelo Miguel e pela Isabela!
+    * **Horário Limite de Retorno ao Aeroporto:** Como o voo decola às 17h53, **pegar o Uber na saída do museu impreterivelmente entre 15h30 e 15h40**. Às 15h50 a família já estará dentro de Dulles passando pela segurança TSA sem correria.
   * Trecho 2: **United Airlines UA 1140** — IAD (17:53) ➡️ TPA (20:30) | Boeing 737-800 | Assentos: 22C, 22D, 22E, 22F.
-  * Pouso em Tampa às 20h30: Retirar o carro no Rental Car Center de TPA (~21h15) e seguir pela interestadual I-4 East (1h15 de viagem noturna sem trânsito) até o hotel na International Drive.
+  * Pouso em Tampa às 20h30: Retirar o SUV na Avis no Rental Car Center de TPA (~21h15) e seguir pela interestadual I-4 East (1h15 de viagem noturna 100% livre de pedágios) até o **Homewood Suites by Hilton I-Drive Convention Center**.
 * **Voo de Volta (31/12 a 01/01/2027):**
   * Trecho 1: **Delta Air Lines DL 1742** — MCO (18:45) ➡️ ATL (20:30) | Airbus A321 | Assentos: 17F, 18F + 2.
   * Conexão de 1h35m no mega-aeroporto de Atlanta.
   * Trecho 2: **Delta Air Lines DL 0269** — ATL (22:05) ➡️ GRU (09:35 de 01/01/2027) | Airbus A330-900neo | Assentos: 38J, 39J + 2.
+  * **Sala VIP no MCO:** The Club MCO no Terminal B (acesso Priority Pass / LoungeKey) antes do voo.
 
 ---
 

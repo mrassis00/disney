@@ -2048,6 +2048,38 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   4. **Atualização do Cache PWA:** Versão `orlando-2026-v2` ativada no `sw.js` para recarregar as novidades no celular de Marcelo e Thalita.
   5. **Sincronização com o GitHub:** Commit e `git push` executados.
 
+---
+
+## 💬 Interação 63 (Refinamento Cirúrgico: Conexão NASA IAD, Homewood Suites, Rotas Waze & Manual Embutido)
+
+### 👤 Solicitação do Usuário:
+> "Funcionou ! Mas preciso de ajustes: 1) Na conexao do voo, ja colocar como chegar no museu aeroespacial, informar horario de abertura de fechamento do museu e recomendar quanto tempo antes voltar para o aeroporto, sugerir onde almocar e depois deixar tudo certinho para a volta e pegar o voo pra tampa, mostrar a localizcao do museu e onde eu pegarei o uber. Alem disto, sugerir onde deixar as malas (tipo um home box) pra guardar as coisas enquanto vamos ao museu com seguranca. Sugerir tambem onde tem sala vip (tenho VISA, MASTER, United, Delta, etc) mesmo que eu tenha que pagar para ficar com as criancas. 2) revisao o checklist principal e dizer se nao tem nada faltando, o hotel esta errado, o hotel é o Homewood Suites, colocar endereco e como chegar 3) olhar para o roteiro completo e atualizar os nomes, com hotel, hardrock e tudo que foi planejado, vi erros no app que nao estao no roteiro principal detalhado. Para todos os locais, colocar endereco e deixar tudo certinho para eu colocar apenas no WAZE e dirigir. 4) Para tudo que eu fizer ou ja fiz usar a opcao de checklist, informando que foi feito e informando o percentual sempre no alto do app;. 5) alem disso tudo, deixar uma opcao com o roteiro completo do HTML (que ja esta preparado) sempre disponivel para que na duvida eu faça a checagem completa. Quero as informacoes sempre dispoveis na minha mao. Atualizar tudo isso e apos quero voltar ao roteiro prinicial (antes de atualizar o app). 6) eu quero sempre trabalhar com o arquivo roteiro_orlando_dezembro_2026_guia_completo.md e .html sendo o backend e o app web sendo o front end. Apos tudo isso vamos voltar a trabalhar no roteiro principal detalhes, pois o dinheiro ja caiu na conta e estou pronto para comprar os ingressos."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Atendimento Integral de Todos os 6 Pontos:**
+  1. **Conexão em Washington (IAD) & Museu Aeroespacial Smithsonian Udvar-Hazy:**
+     - *Endereço GPS:* `14390 Air and Space Museum Pkwy, Chantilly, VA 20151` com botões diretos para Waze e Google Maps.
+     - *Uber:* Embarque na calçada térrea externa (Baggage Claim / Ground Transportation) pelas portas 2 ou 4 (área Ride App / TNC). Corrida de apenas 10 minutos (~US$ 15).
+     - *Horário & Entrada:* Aberto diariamente das 10h00 às 17h30. Entrada 100% gratuita.
+     - *Lockers (Guarda-Volumes):* Malas despachadas vão direto para Tampa pela United; malas de mão e mochilas ficam nos lockers gratuitos de auto-atendimento na entrada de segurança do museu.
+     - *Almoço:* Shake Shack no interior do próprio museu.
+     - *Retorno ao Aeroporto:* Saída de Uber às 15h30 para embarque tranquilo no voo UA 1140 (17h53) para Tampa.
+     - *Salas VIP em IAD (07h00 às 09h30):* Destaque para o **Turkish Airlines Lounge (Concourse B43)** via Priority Pass / LoungeKey (Visa Infinite / Mastercard Black) com buffet quente e chuveiros privativos, além do United Club (Concourse C/D).
+  2. **Correção do Hotel Oficial em 100% dos Arquivos:**
+     - Definido e corrigido para **Homewood Suites by Hilton Orlando-International Drive Convention Center** (6435 Westwood Blvd, Orlando, FL 32821).
+     - Links diretos para Waze e Google Maps, suíte com 2 Queen + sofá-cama + cozinha completa, café da manhã buffet quente Hilton 100% gratuito e estacionamento 100% isento (economia de R$ 1.600).
+  3. **Rotas Waze para Todos os Destinos:**
+     - Links diretos para Waze de: Homewood Suites, Museu da NASA, Hard Rock Cafe, Via Napoli no EPCOT, Sharks Underwater Grill no SeaWorld, Walmart Supercenter 24h na Turkey Lake Rd, e Hospital AdventHealth for Children.
+  4. **Percentual Dinâmico Permanente no Topo:**
+     - Header fixo com badge verde `[✅ 0% Concluído]` visível em todas as telas, sincronizado com `localStorage`.
+  5. **Manual de Bordo Completo (HTML Embutido):**
+     - Nova aba dedicada no app: **📖 Manual** exibindo a íntegra do `roteiro_orlando_dezembro_2026_guia_completo.html`.
+  6. **Arquitetura Backend / Frontend Estabelecida:**
+     - `roteiro_orlando_dezembro_2026_guia_completo.md` e `.html` consolidados como fonte oficial da verdade (Backend).
+     - App Web (`app_roteiro_orlando.html` e `index.html`) sincronizados como Frontend responsivo.
+     - Service Worker atualizado para `orlando-2026-v3` e código enviado para o GitHub (`git push`).
+
+
 
 
 

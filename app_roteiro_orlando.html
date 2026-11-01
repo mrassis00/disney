@@ -63,13 +63,13 @@
       padding: 16px;
     }
 
-    /* Top Header Fixo */
+    /* Top Header Fixo com Percentual Sempre Visível */
     .top-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 12px 20px;
-      background: rgba(15, 23, 42, 0.9);
+      padding: 10px 16px;
+      background: rgba(15, 23, 42, 0.94);
       backdrop-filter: blur(16px);
       border-bottom: 1px solid var(--border-card);
       position: sticky;
@@ -115,15 +115,30 @@
       align-items: center;
     }
 
+    .header-badge-progress {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(52, 211, 153, 0.15);
+      border: 1px solid rgba(52, 211, 153, 0.3);
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--accent-green);
+      cursor: pointer;
+      box-shadow: 0 0 10px rgba(52, 211, 153, 0.15);
+    }
+
     .quick-status {
       display: flex;
       align-items: center;
       gap: 6px;
       background: rgba(30, 41, 59, 0.6);
-      padding: 5px 12px;
-      border-radius: 30px;
+      padding: 5px 10px;
+      border-radius: 20px;
       border: 1px solid var(--border-card);
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       font-weight: 600;
     }
 
@@ -142,7 +157,7 @@
       100% { opacity: 0.5; }
     }
 
-    /* Bottom Nav para Celular */
+    /* Barra Inferior (Bottom Nav) */
     .bottom-nav {
       position: fixed;
       bottom: 0;
@@ -170,17 +185,17 @@
       background: transparent;
       border: none;
       color: var(--text-dim);
-      font-size: 0.7rem;
+      font-size: 0.68rem;
       font-weight: 600;
       cursor: pointer;
       transition: all 0.2s ease;
-      padding: 6px 10px;
+      padding: 6px 8px;
       border-radius: 12px;
-      width: 16.6%;
+      width: 14.2%;
     }
 
     .nav-btn span.icon {
-      font-size: 1.3rem;
+      font-size: 1.25rem;
       margin-bottom: 2px;
       transition: transform 0.2s ease;
     }
@@ -345,7 +360,43 @@
       font-size: 0.8rem;
     }
 
-    /* Checklist Interativo Fase a Fase */
+    /* Botões GPS Waze e Google Maps */
+    .gps-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn-waze {
+      background: linear-gradient(135deg, #33ccff, #0099ff);
+      color: #090d16;
+      font-weight: 700;
+      padding: 8px 14px;
+      border-radius: 8px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.82rem;
+      box-shadow: 0 4px 12px rgba(0, 153, 255, 0.3);
+    }
+
+    .btn-gmaps {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #fff;
+      font-weight: 600;
+      padding: 8px 14px;
+      border-radius: 8px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.82rem;
+    }
+
+    /* Checklist Master Fase a Fase */
     .phase-filters {
       display: flex;
       gap: 8px;
@@ -407,7 +458,7 @@
 
     .check-card.completed {
       border-left: 4px solid var(--accent-green);
-      opacity: 0.85;
+      opacity: 0.9;
     }
 
     .check-card.skipped {
@@ -599,7 +650,7 @@
       font-weight: 700;
     }
 
-    /* Timeline do Parque */
+    /* Timeline dos Parques */
     .timeline-step {
       display: flex;
       gap: 16px;
@@ -685,64 +736,12 @@
       line-height: 1.4;
     }
 
-    .skip-btn {
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      color: var(--accent-gold);
-      font-size: 0.75rem;
-      font-weight: 600;
-      padding: 4px 10px;
-      border-radius: 6px;
-      cursor: pointer;
-      margin-top: 8px;
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      transition: all 0.2s;
-    }
-
-    .contingency-box {
-      display: none;
-      margin-top: 10px;
-      padding: 10px;
-      background: rgba(251, 191, 36, 0.08);
-      border: 1px dashed var(--accent-gold);
-      border-radius: 8px;
-      font-size: 0.8rem;
-      color: #fef08a;
-    }
-
-    /* Visualizador Dual de Mapas */
     .map-viewer-wrapper {
       margin-bottom: 24px;
       background: rgba(15, 23, 42, 0.8);
       border-radius: var(--radius-md);
       overflow: hidden;
       border: 1px solid var(--border-card);
-    }
-
-    .map-tabs {
-      display: flex;
-      border-bottom: 1px solid var(--border-card);
-    }
-
-    .map-tab-btn {
-      flex: 1;
-      padding: 10px;
-      text-align: center;
-      background: transparent;
-      border: none;
-      color: var(--text-muted);
-      font-size: 0.85rem;
-      font-weight: 600;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .map-tab-btn.active {
-      color: var(--accent-blue);
-      border-bottom: 2px solid var(--accent-blue);
-      background: rgba(56, 189, 248, 0.05);
     }
 
     .map-img-container {
@@ -759,15 +758,6 @@
       display: block;
       transition: transform 0.3s ease;
       cursor: zoom-in;
-    }
-
-    .map-helper {
-      padding: 8px 12px;
-      font-size: 0.75rem;
-      color: var(--text-dim);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
     }
 
     .back-btn {
@@ -814,7 +804,7 @@
 </head>
 <body>
 
-  <!-- Top Header Fixo -->
+  <!-- Top Header Fixo com Percentual Sempre Visível -->
   <header class="top-header">
     <div class="brand" onclick="navigateTo('tab-dashboard')">
       <div class="brand-logo">🏰</div>
@@ -824,12 +814,13 @@
       </div>
     </div>
     <div class="header-badges">
+      <div id="header-progress-badge" class="header-badge-progress" onclick="navigateTo('tab-checklist')">
+        <span>✅</span>
+        <span id="header-progress-text">0% Concluído</span>
+      </div>
       <div id="network-badge" class="quick-status">
         <div id="net-dot" class="status-dot"></div>
         <span id="net-text">Online</span>
-      </div>
-      <div class="quick-status">
-        <span id="countdown-days">407 dias</span>
       </div>
     </div>
   </header>
@@ -871,16 +862,35 @@
         </div>
       </div>
 
-      <!-- Resumo do Voo de Ida e Volta -->
-      <div class="glass-card" style="border-left: 4px solid var(--accent-blue);">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-          <h3 style="font-size: 1.1rem; font-weight: 700;">✈️ Voos & Conexão dos Sonhos</h3>
-          <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Boarding Pass ➔</span>
+      <!-- Card Rápido de Voos & Hotel Oficial -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 20px;">
+        
+        <!-- Voo -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-blue);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">✈️ Voo de Ida & Conexão</h3>
+            <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Boarding Pass ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>GRU ➔ IAD (United UA 860):</strong> Sex 11/12 22h25.<br>
+            <strong>Conexão dos Sonhos:</strong> Museu da NASA (Ônibus Espacial Discovery) a 10 min de Uber.<br>
+            <strong>IAD ➔ Tampa (UA 1140):</strong> Pouso às 20h30.
+          </p>
         </div>
-        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 6px;">
-          <strong>Ida (Sex 11/12):</strong> GRU ➔ Washington (IAD) com <em>Conexão de 11h no Museu Espacial da NASA</em> ➔ Tampa (TPA). Retirada da Suburban na Avis.<br>
-          <strong>Volta (Qui 31/12):</strong> Orlando (MCO) Terminal B ➔ Atlanta (ATL) ➔ São Paulo (GRU).
-        </p>
+
+        <!-- Hotel Homewood Suites -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-gold);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">🏨 Hotel Oficial Confirmado</h3>
+            <span class="tag tag-gold" onclick="navigateTo('tab-hospedagem')" style="cursor: pointer;">Ver Hotel & Waze ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>Homewood Suites by Hilton I-Drive Convention Center</strong><br>
+            📍 6435 Westwood Blvd, Orlando, FL 32821.<br>
+            ☕ Café buffet quente Hilton grátis • 🚗 Estacionamento 100% grátis!
+          </p>
+        </div>
+
       </div>
 
       <!-- Checklist Master Progress -->
@@ -899,7 +909,7 @@
 
         <div style="text-align: center; margin-top: 10px;">
           <button class="phase-btn active" onclick="navigateTo('tab-checklist')" style="font-size: 0.85rem; padding: 8px 18px;">
-            Acessar Checklist Completo por Fases (30 Etapas) ➔
+            Acessar Checklist Completo por Fases (22 Etapas) ➔
           </button>
         </div>
       </div>
@@ -1047,14 +1057,14 @@
 
 
     <!-- ========================================== -->
-    <!-- ABA 2: VOOS & LOGÍSTICA DE VIAGEM         -->
+    <!-- ABA 2: VOOS & CONEXÃO DETALHADA EM IAD     -->
     <!-- ========================================== -->
     <div id="tab-voos" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       
-      <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 6px;">✈️ Logística dos Voos & Embarque</h2>
+      <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 6px;">✈️ Logística dos Voos, Conexão NASA & Salas VIP</h2>
       <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px;">
-        Embarque com assentos marcados para a família, conexão espacial e retirada do carro.
+        Guia cirúrgico de como sair do aeroporto, ir ao museu, onde comer, onde deixar as malas e salas VIP.
       </p>
 
       <!-- Voo de Ida: Trecho 1 -->
@@ -1096,7 +1106,7 @@
           </div>
           <div>
             <span style="color: var(--text-dim);">Bagagem Despachada:</span>
-            <div style="font-weight: 700;">23kg por adulto</div>
+            <div style="font-weight: 700;">Direto para Tampa!</div>
           </div>
           <div>
             <span style="color: var(--text-dim);">Item Infantil Grátis:</span>
@@ -1105,16 +1115,76 @@
         </div>
       </div>
 
-      <!-- Dica da Conexão em Washington -->
+      <!-- Salas VIP em Dulles IAD -->
+      <div class="glass-card" style="border-left: 4px solid var(--accent-purple);">
+        <h3 style="font-size: 1.1rem; font-weight: 700; color: var(--accent-purple);">☕ Onde Ficar das 07h00 às 09h30 (Salas VIP com Banho & Café)</h3>
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+          Como o museu da NASA abre às 10h00, a família tem ~2h30 livres no aeroporto para tomar um banho e café da manhã:
+        </p>
+        <div style="margin-top: 12px; display: flex; flex-direction: column; gap: 10px;">
+          <div class="metric-box">
+            <div style="display: flex; justify-content: space-between;">
+              <strong style="color: var(--accent-green);">1. Turkish Airlines Lounge (Concourse B, portão B43) ⭐ MELHOR ESCOLHA</strong>
+              <span class="tag tag-green">Priority Pass / LoungeKey</span>
+            </div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
+              Acesso gratuito via <strong>Visa Infinite / Mastercard Black</strong>. Tem buffet quente mediterrâneo espetacular (ovos, queijos, pães quentes, café espresso), poltronas relaxantes e <strong>chuveiros privativos</strong> para quem quiser tomar banho após a noite no avião.
+            </div>
+          </div>
+
+          <div class="metric-box">
+            <div style="display: flex; justify-content: space-between;">
+              <strong style="color: var(--accent-blue);">2. United Club (Concourses C e D - portões C1, C7, C17, D8)</strong>
+              <span class="tag tag-blue">United Club / One-Time Pass</span>
+            </div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
+              Acesso com cartão United ou passe. Muito espaçoso, snacks, café e Wi-Fi de alta velocidade.
+            </div>
+          </div>
+
+          <div class="metric-box">
+            <div style="display: flex; justify-content: space-between;">
+              <strong style="color: var(--accent-gold);">3. Lufthansa Business Lounge (Concourse B, portão B51) & The Club IAD (A32)</strong>
+              <span class="tag tag-gold">Priority Pass</span>
+            </div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
+              Alternativas confortáveis para café e descanso.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Guia Completo do Museu da NASA Udvar-Hazy -->
       <div class="glass-card" style="border: 1px solid var(--accent-gold); background: rgba(251, 191, 36, 0.05);">
-        <div style="display: flex; gap: 10px; align-items: center;">
-          <span style="font-size: 1.8rem;">🚀</span>
+        <div style="display: flex; gap: 12px; align-items: flex-start;">
+          <span style="font-size: 2.2rem;">🚀</span>
           <div>
-            <h4 style="font-size: 1rem; font-weight: 700; color: var(--accent-gold);">Conexão Mágica de 11h23m em Washington (06h30 às 17h53)</h4>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
-              O maior museu aeroespacial do mundo, o <strong>Smithsonian Steven F. Udvar-Hazy Center</strong>, fica a apenas <strong>10 minutos de Uber do aeroporto IAD</strong>! Entrada 100% gratuita. Miguel (7 anos) e Marcelo vão ver de pertinho o <strong>Ônibus Espacial Discovery real da NASA</strong> e o caça supersônico <strong>Concorde</strong> enquanto esperam o voo para a Flórida!
+            <h3 style="font-size: 1.15rem; font-weight: 800; color: var(--accent-gold);">Guia Passo a Passo: Museu Aeroespacial Smithsonian Udvar-Hazy</h3>
+            <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+              O maior museu aeroespacial do mundo fica a apenas <strong>10 minutos de Uber do aeroporto IAD</strong>.
             </p>
           </div>
+        </div>
+
+        <div style="margin-top: 14px; display: flex; flex-direction: column; gap: 10px; font-size: 0.82rem; color: var(--text-muted); line-height: 1.6;">
+          <p>📍 <strong>Endereço para Waze / Uber:</strong> <code>14390 Air and Space Museum Pkwy, Chantilly, VA 20151</code></p>
+          
+          <div class="gps-buttons">
+            <a href="https://waze.com/ul?q=14390+Air+and+Space+Museum+Pkwy+Chantilly+VA" target="_blank" class="btn-waze">🚗 Abrir Museu no Waze</a>
+            <a href="https://maps.google.com/?q=Steven+F+Udvar-Hazy+Center+Chantilly+VA" target="_blank" class="btn-gmaps">📍 Abrir no Google Maps</a>
+          </div>
+
+          <p>🚗 <strong>Onde Pegar o Uber no Aeroporto IAD:</strong> Desça para o piso inferior (Baggage Claim / Ground Transportation). Saia pelas portas **2 ou 4** da calçada externa na área sinalizada **"Ride App / TNC Pickup"**. Peça UberX ou UberXL. A corrida custa ~$15 e leva 10 minutos!</p>
+
+          <p>🧳 <strong>Onde Deixar as Malas (Lockers / Guarda-Volumes):</strong><br>
+          • <em>Malas Despachadas Grandes:</em> Vão direto de GRU até Tampa pela United! Não precisa pegar em Dulles.<br>
+          • <em>Malas de Mão e Mochilas:</em> Logo na entrada de segurança do museu há **armários gratuitos de auto-atendimento (lockers)** com chave/código para guardar mochilas, casacos e malas de mão com segurança total!</p>
+
+          <p>⏰ <strong>Horário & Entrada:</strong> Aberto diariamente das **10h00 às 17h30**. Entrada **100% GRATUITA** (não precisa pagar ingresso!).</p>
+
+          <p>🍔 <strong>Onde Almoçar no Museu:</strong> Dentro do próprio museu há uma unidade completa do **Shake Shack** (hambúrgueres artesanais, batatas onduladas crocantes, hot dogs e milkshakes) amado pelo Miguel e pela Isabela!</p>
+
+          <p>🚨 <strong>Horário Recomendado de Volta ao Aeroporto:</strong> Como o voo para Tampa decola às 17h53, **pegar o Uber na saída do museu impreterivelmente entre 15h30 e 15h40**. Às 15h50 a família já estará dentro de Dulles passando pela segurança TSA tranquilamente!</p>
         </div>
       </div>
 
@@ -1161,7 +1231,7 @@
           </div>
           <div>
             <span style="color: var(--text-dim);">Destino Final:</span>
-            <div style="font-weight: 700;">Kissimmee via I-4 (1h15)</div>
+            <div style="font-weight: 700;">Homewood Suites via I-4</div>
           </div>
         </div>
       </div>
@@ -1209,7 +1279,7 @@
           </div>
           <div>
             <span style="color: var(--text-dim);">Chegada no Brasil:</span>
-            <div style="font-weight: 700;">Ano Novo com a família</div>
+            <div style="font-weight: 700;">Ano Novo em casa!</div>
           </div>
         </div>
       </div>
@@ -1218,7 +1288,86 @@
 
 
     <!-- ========================================== -->
-    <!-- ABA 3: CHECKLIST MASTER END-TO-END        -->
+    <!-- ABA 3: HOTEL OFICIAL HOMEWOOD SUITES       -->
+    <!-- ========================================== -->
+    <div id="tab-hospedagem" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      
+      <div class="glass-card" style="border-left: 4px solid var(--accent-gold);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-gold);">Homewood Suites by Hilton Orlando-I-Drive Convention Center</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 2px;">
+              Hospedagem Oficial Confirmada no Booking.com • 19 Noites (12 a 31/12/2026)
+            </div>
+          </div>
+          <span class="tag tag-green">Confirmado • US$ 2.914,07</span>
+        </div>
+
+        <div style="margin-top: 14px; font-size: 0.84rem; color: var(--text-muted); line-height: 1.6;">
+          <p>📍 <strong>Endereço Oficial:</strong> <code>6435 Westwood Blvd, Orlando, FL 32821</code></p>
+          <p>📞 <strong>Telefone:</strong> +1 (407) 351-1177</p>
+
+          <div class="gps-buttons">
+            <a href="https://waze.com/ul?q=6435+Westwood+Blvd+Orlando+FL" target="_blank" class="btn-waze">🚗 Dirigir no Waze</a>
+            <a href="https://maps.google.com/?q=Homewood+Suites+by+Hilton+Orlando+International+Drive+Convention+Center" target="_blank" class="btn-gmaps">📍 Abrir no Google Maps</a>
+          </div>
+        </div>
+
+        <div class="finance-metrics" style="margin-top: 16px;">
+          <div class="metric-box">
+            <div class="metric-label">Café da Manhã</div>
+            <div class="metric-value val-positive">100% Grátis</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 2px;">Buffet quente diário Hilton</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Estacionamento</div>
+            <div class="metric-value val-positive">100% Grátis</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 2px;">Regra Hilton 8+ noites (Economia de R$ 1.600)</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Configuração Suíte</div>
+            <div style="font-size: 1rem; font-weight: 700; margin-top: 4px; color: var(--accent-blue);">2 Queen + Sofá-Cama</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 2px;">Quarto privativo + sala + cozinha completa</div>
+          </div>
+        </div>
+
+        <!-- Proximidade dos Locais e Waze -->
+        <h3 style="font-size: 1.05rem; font-weight: 700; margin: 20px 0 10px 0;">🗺️ Proximidade e Rotas Waze do Hotel para os Destinos:</h3>
+        
+        <div style="display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>SeaWorld Orlando:</strong> 4 minutos (2,8 km)</div>
+            <a href="https://waze.com/ul?q=7007+Sea+World+Dr+Orlando+FL" target="_blank" class="tag tag-blue">Waze ➔</a>
+          </div>
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>Epic Universe:</strong> 6 minutos (3,5 km)</div>
+            <a href="https://waze.com/ul?q=Epic+Universe+Orlando" target="_blank" class="tag tag-blue">Waze ➔</a>
+          </div>
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>Universal Studios & CityWalk:</strong> 10 minutos (8,5 km)</div>
+            <a href="https://waze.com/ul?q=6050+Universal+Blvd+Orlando+FL" target="_blank" class="tag tag-blue">Waze ➔</a>
+          </div>
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>Walmart Supercenter 24h:</strong> 5 minutos (3,5 km) • 8990 Turkey Lake Rd</div>
+            <a href="https://waze.com/ul?q=8990+Turkey+Lake+Rd+Orlando+FL" target="_blank" class="tag tag-blue">Waze ➔</a>
+          </div>
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>Hospital Pediátrico AdventHealth:</strong> 6 minutos (3,5 km) • 9400 Turkey Lake Rd</div>
+            <a href="https://waze.com/ul?q=9400+Turkey+Lake+Rd+Orlando+FL" target="_blank" class="tag tag-red">Waze Emergência ➔</a>
+          </div>
+          <div class="metric-box" style="display: flex; justify-content: space-between; align-items: center;">
+            <div><strong>Disney Magic Kingdom / Epcot:</strong> 14 a 16 minutos (14 km)</div>
+            <a href="https://waze.com/ul?q=Magic+Kingdom+Auto+Plaza" target="_blank" class="tag tag-blue">Waze ➔</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <!-- ========================================== -->
+    <!-- ABA 4: CHECKLIST MASTER END-TO-END        -->
     <!-- ========================================== -->
     <div id="tab-checklist" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
@@ -1235,7 +1384,6 @@
         <div id="full-progress-fill" class="progress-fill"></div>
       </div>
 
-      <!-- Filtros por Fase -->
       <div class="phase-filters">
         <button class="phase-btn active" onclick="filterPhase('all', this)">Todas as Etapas</button>
         <button class="phase-btn" onclick="filterPhase('fase1', this)">1. Documentos & Compras</button>
@@ -1245,10 +1393,9 @@
         <button class="phase-btn" onclick="filterPhase('fase5', this)">5. Retorno & Réveillon</button>
       </div>
 
-      <!-- Container dos Itens do Checklist -->
       <div id="full-checklist-container">
 
-        <!-- FASE 1: DOCUMENTOS & COMPRAS -->
+        <!-- FASE 1 -->
         <div class="check-card" data-phase="fase1" id="card-c1">
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c1')"></div>
@@ -1342,7 +1489,7 @@
           </div>
         </div>
 
-        <!-- FASE 2: MALAS & PREPARAÇÃO DA CASA -->
+        <!-- FASE 2 -->
         <div class="check-card" data-phase="fase2" id="card-c6">
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c6')"></div>
@@ -1412,7 +1559,7 @@
           </div>
         </div>
 
-        <!-- FASE 3: EMBARQUE & CONEXÃO ESPACIAL -->
+        <!-- FASE 3 -->
         <div class="check-card" data-phase="fase3" id="card-c10">
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c10')"></div>
@@ -1459,7 +1606,7 @@
                 <button class="btn-skip" onclick="skipTask('c12')">Pular</button>
               </div>
               <div id="det-c12" class="check-details-body">
-                Deixar as malas de mão no guarda-volumes do aeroporto de Dulles. O museu abre às 10h00. Almoço na praça de alimentação do museu (Shake Shack). Retorno a IAD às 15h30 para o próximo voo.
+                Deixar as malas de mão nos lockers gratuitos do museu. Almoço no Shake Shack. Retorno a IAD às 15h30 para o próximo voo.
               </div>
             </div>
           </div>
@@ -1480,13 +1627,13 @@
           </div>
         </div>
 
-        <!-- FASE 4: CHEGADA & PARQUES -->
+        <!-- FASE 4 -->
         <div class="check-card" data-phase="fase4" id="card-c14">
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c14')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c14')">14. Retirada do SUV Suburban/Tahoe na Avis Tampa</div>
-              <div class="check-desc">Instalar o booster da Isabela no banco de trás e ligar o GPS rumo a Orlando.</div>
+              <div class="check-title" onclick="toggleTask('c14')">14. Retirada do SUV na Avis Tampa & Instalar Booster</div>
+              <div class="check-desc">Vá direto ao pátio Avis Preferred, pegue o SUV e ligue o Waze rumo ao Homewood Suites.</div>
               <div class="check-actions">
                 <span class="tag tag-green">Fase 4</span>
                 <span class="tag tag-blue">Sáb, 12/12 21h15</span>
@@ -1494,7 +1641,7 @@
                 <button class="btn-skip" onclick="skipTask('c14')">Pular</button>
               </div>
               <div id="det-c14" class="check-details-body">
-                Com o cadastro Avis Preferred no app, você vai direto para o pátio de carros no andar térreo do aeroporto TPA, sem fila de guichê. O nome do Marcelo aparece no painel eletrônico com a vaga designada.
+                O trajeto de Tampa até o Homewood Suites I-Drive é feito pela rodovia I-4 East (1h15 de viagem, pista reta e 100% livre de pedágios!).
               </div>
             </div>
           </div>
@@ -1504,15 +1651,15 @@
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c15')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c15')">15. Parada no Walmart Supercenter (Kissimmee)</div>
-              <div class="check-desc">Compras rápidas de café da manhã, água em fardos, frutas e snacks.</div>
+              <div class="check-title" onclick="toggleTask('c15')">15. Parada no Walmart Supercenter (Turkey Lake Rd)</div>
+              <div class="check-desc">A apenas 5 min do hotel. Comprar fardos de água, frutas e snacks.</div>
               <div class="check-actions">
                 <span class="tag tag-green">Fase 4</span>
                 <button class="btn-detail" onclick="toggleDetails('det-c15')">Lista de Compras ▾</button>
                 <button class="btn-skip" onclick="skipTask('c15')">Pular</button>
               </div>
               <div id="det-c15" class="check-details-body">
-                Walmart aberto 24h a 5 min da casa (4444 W Vine St). Comprar: 2 fardos de garrafinhas de água para levar aos parques (pode entrar com comida e bebida!), pão, ovos, queijo, café, protetor solar Banana Boat e frutas.
+                Walmart aberto 24h (8990 Turkey Lake Rd). Comprar: 2 fardos de garrafinhas de água para levar aos parques, pães, frutas, iogurtes e protetor solar Banana Boat.
               </div>
             </div>
           </div>
@@ -1522,11 +1669,11 @@
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c16')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c16')">16. Check-in na Casa no Villas at Seven Dwarfs</div>
-              <div class="check-desc">Digitar código da porta eletrônica, descarregar malas e descanso!</div>
+              <div class="check-title" onclick="toggleTask('c16')">16. Check-in no Homewood Suites by Hilton I-Drive</div>
+              <div class="check-desc">6435 Westwood Blvd. Estacionamento gratuito e descanso merecido!</div>
               <div class="check-actions">
                 <span class="tag tag-green">Fase 4</span>
-                <span class="tag tag-gold">2616 Seven Dwarfs Ln</span>
+                <span class="tag tag-gold">Estacionamento Grátis</span>
                 <button class="btn-skip" onclick="skipTask('c16')">Pular</button>
               </div>
             </div>
@@ -1559,7 +1706,7 @@
             <div class="custom-checkbox" onclick="toggleTask('c18')"></div>
             <div class="check-main">
               <div class="check-title" onclick="toggleTask('c18')">18. Jantar de Aniversário do Miguel no Hard Rock Cafe (19h00)</div>
-              <div class="check-desc">Comemoração dos 7 anos com hambúrguer lendário e sobremesa com vela!</div>
+              <div class="check-desc">No CityWalk da Universal. Comemoração dos 7 anos com sobremesa e vela!</div>
               <div class="check-actions">
                 <span class="tag tag-green">Confirmado #1713319</span>
                 <span class="tag tag-gold">Dom, 13/12</span>
@@ -1569,13 +1716,13 @@
           </div>
         </div>
 
-        <!-- FASE 5: RETORNO & RÉVEILLON -->
+        <!-- FASE 5 -->
         <div class="check-card" data-phase="fase5" id="card-c19">
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c19')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c19')">19. Check-out no Villas at Seven Dwarfs (Até 10h00)</div>
-              <div class="check-desc">Recolher lixo, trancar portas e conferir armários para não esquecer nada.</div>
+              <div class="check-title" onclick="toggleTask('c19')">19. Check-out no Homewood Suites by Hilton (Até 11h00)</div>
+              <div class="check-desc">Recolher pertences, conferir cofres e gavetas. Despedida do hotel.</div>
               <div class="check-actions">
                 <span class="tag tag-red">Fase 5</span>
                 <span class="tag tag-gold">Qui, 31/12</span>
@@ -1637,98 +1784,91 @@
 
     </div>
 
-    <!-- MÓDULOS DE GESTÃO DO CHECKLIST (INGRESSOS, HOSPEDAGEM, ETC) -->
-    <div id="tab-ingressos" class="tab-view">
+    <!-- ========================================== -->
+    <!-- ABA 5: MANUAL COMPLETO DE BORDO (HTML)     -->
+    <!-- ========================================== -->
+    <div id="tab-manual" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      
       <div class="glass-card">
-        <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🎟️ Gestão Cirúrgica de Ingressos & Lightning Lane</h2>
-        <div style="overflow-x: auto; margin-top: 14px;">
-          <table style="width: 100%; border-collapse: collapse; font-size: 0.82rem; margin-bottom: 20px;">
-            <thead>
-              <tr style="border-bottom: 1px solid var(--border-card); text-align: left; color: var(--accent-gold);">
-                <th style="padding: 10px;">Ingresso / Experiência</th>
-                <th style="padding: 10px;">Quando Comprar</th>
-                <th style="padding: 10px;">Valor Total</th>
-                <th style="padding: 10px;">Onde Comprar</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <td style="padding: 10px; font-weight: 600;">Disney 4-Day Base Ticket (1 Parque/Dia)</td>
-                <td style="padding: 10px;">Início Nov/2026</td>
-                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">$2.868,14</td>
-                <td style="padding: 10px;">Undercover Tourist (Economia de R$ 2.100).</td>
-              </tr>
-              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <td style="padding: 10px; font-weight: 600;">Universal 2-Park 1-Day Park-to-Park</td>
-                <td style="padding: 10px;">Início Nov/2026</td>
-                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$808,00</td>
-                <td style="padding: 10px;">Undercover Tourist. Exigido para andar no Hogwarts Express!</td>
-              </tr>
-              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <td style="padding: 10px; font-weight: 600;">Epic Universe 1-Day Ticket</td>
-                <td style="padding: 10px;">Início Nov/2026</td>
-                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$648,00</td>
-                <td style="padding: 10px;">Site Oficial Universal / App Universal FL.</td>
-              </tr>
-              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <td style="padding: 10px; font-weight: 600;">SeaWorld Orlando 1-Day Ticket</td>
-                <td style="padding: 10px;">Início Nov/2026</td>
-                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$339,00</td>
-                <td style="padding: 10px;">Undercover Tourist ou site SeaWorld.</td>
-              </tr>
-              <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <td style="padding: 10px; font-weight: 600;">Disney Lightning Lane Multi Pass + Single Pass</td>
-                <td style="padding: 10px; color: var(--accent-coral); font-weight: 700;">13/12/2026 às 07h00</td>
-                <td style="padding: 10px; color: var(--accent-green); font-weight: 700;">~$1.040,00</td>
-                <td style="padding: 10px;">App My Disney Experience para os 4 dias.</td>
-              </tr>
-            </tbody>
-          </table>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-blue);">📖 Manual de Bordo Completo (Backend Oficial)</h2>
+            <div style="font-size: 0.82rem; color: var(--text-muted);">Texto integral e minucioso sincronizado diretamente com o arquivo mestre</div>
+          </div>
+          <a href="roteiro_orlando_dezembro_2026_guia_completo.html" target="_blank" class="tag tag-blue" style="text-decoration: none; padding: 6px 12px; font-size: 0.78rem;">Abrir Guia em Aba Separada ↗</a>
+        </div>
+        
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin: 12px 0 16px 0;">
+          Caso você tenha qualquer dúvida sobre orçamentos, regras de locação, história das atrações ou queira ler o roteiro corrido, consulte o quadro abaixo:
+        </p>
+
+        <div style="background: rgba(15, 23, 42, 0.9); border-radius: 12px; border: 1px solid var(--border-card); overflow: hidden; height: 650px;">
+          <iframe src="roteiro_orlando_dezembro_2026_guia_completo.html" style="width: 100%; height: 100%; border: none;"></iframe>
         </div>
       </div>
     </div>
 
-    <!-- MÓDULOS DE RESTAURANTES & EMERGÊNCIA -->
+    <!-- MÓDULO RESTAURANTES & RESERVAS -->
     <div id="tab-reservas" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
         <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--accent-blue);">🍽️ Reservas Gastronômicas Imperdíveis</h2>
         <div style="display: flex; flex-direction: column; gap: 14px; margin-top: 14px;">
+          
           <div class="metric-box" style="border-left: 4px solid var(--accent-green);">
-            <div style="display: flex; justify-content: space-between;">
-              <span style="font-weight: 700; font-size: 1rem;">🎸 Hard Rock Cafe Orlando (CityWalk)</span>
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 6px;">
+              <div>
+                <span style="font-weight: 700; font-size: 1rem;">🎸 Hard Rock Cafe Orlando (Universal CityWalk)</span>
+                <div style="font-size: 0.78rem; color: var(--text-muted);">📍 6050 Universal Blvd, Orlando, FL 32819</div>
+              </div>
               <span class="tag tag-green">Confirmado</span>
             </div>
-            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 6px;">
               <strong>Data:</strong> Domingo, 13/12/2026 às 19h00 • <strong>Aniversário do Miguel (7 anos)</strong>.<br>
-              <strong>Confirmação OpenTable:</strong> <code style="color: var(--accent-gold);">#1713319</code>. Mesa para 4.
+              <strong>Confirmação OpenTable:</strong> <code style="color: var(--accent-gold);">#1713319</code>. Mesa para 4.<br>
+              <div class="gps-buttons" style="margin-top: 6px;">
+                <a href="https://waze.com/ul?q=6050+Universal+Blvd+Orlando+FL" target="_blank" class="btn-waze" style="font-size: 0.75rem; padding: 4px 10px;">Waze Hard Rock</a>
+              </div>
             </div>
           </div>
+
           <div class="metric-box" style="border-left: 4px solid var(--accent-blue);">
-            <div style="display: flex; justify-content: space-between;">
-              <span style="font-weight: 700; font-size: 1rem;">🍝 Via Napoli Ristorante e Pizzeria (EPCOT - Itália)</span>
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 6px;">
+              <div>
+                <span style="font-weight: 700; font-size: 1rem;">🍝 Via Napoli Ristorante e Pizzeria (EPCOT - Itália)</span>
+                <div style="font-size: 0.78rem; color: var(--text-muted);">📍 Pavilhão da Itália, EPCOT World Showcase</div>
+              </div>
               <span class="tag tag-blue">Agendar 23/10</span>
             </div>
-            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
-              <strong>Data:</strong> Terça, 22/12/2026 às 12h15 • Massas e pizza napolitana para o Miguel.<br>
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 6px;">
+              <strong>Data:</strong> Terça, 22/12/2026 às 12h15 • Massas artesanais e pizza napolitana para o Miguel!<br>
               <strong>Ação:</strong> Abrir o app My Disney Experience 60 dias antes (23/10/2026 às 06h00 Orlando).
             </div>
           </div>
+
           <div class="metric-box" style="border-left: 4px solid var(--accent-purple);">
-            <div style="display: flex; justify-content: space-between;">
-              <span style="font-weight: 700; font-size: 1rem;">🦈 Sharks Underwater Grill and Bar (SeaWorld)</span>
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 6px;">
+              <div>
+                <span style="font-weight: 700; font-size: 1rem;">🦈 Sharks Underwater Grill and Bar (SeaWorld)</span>
+                <div style="font-size: 0.78rem; color: var(--text-muted);">📍 7007 Sea World Dr, Orlando, FL 32821</div>
+              </div>
               <span class="tag tag-purple">Agendar em Nov</span>
             </div>
-            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+            <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 6px;">
               <strong>Data:</strong> Domingo, 27/12/2026 às 12h00 • Almoço colado aos tubarões.<br>
-              <strong>Dica de Ouro:</strong> Chegar às 11h00 na recepção pedindo mesa colada ao vidro panorâmico.
+              <strong>Dica de Ouro:</strong> Chegar às 11h00 na recepção pedindo mesa colada ao vidro panorâmico.<br>
+              <div class="gps-buttons" style="margin-top: 6px;">
+                <a href="https://waze.com/ul?q=7007+Sea+World+Dr+Orlando+FL" target="_blank" class="btn-waze" style="font-size: 0.75rem; padding: 4px 10px;">Waze SeaWorld</a>
+              </div>
             </div>
           </div>
+
         </div>
       </div>
     </div>
 
+    <!-- MÓDULO EMERGÊNCIA -->
     <div id="tab-seguro" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1737,18 +1877,24 @@
           <p><strong>Seguro Saúde:</strong> IMG Patriot America Plus ($1.000.000 de cobertura).</p>
           <p><strong>Assistência Médica 24h em Português:</strong> +1 (317) 655-4500</p>
           <div class="metric-box" style="margin-top: 10px;">
-            <div style="font-weight: 700; color: var(--accent-gold);">Hospital Pediátrico de Referência: AdventHealth for Children</div>
-            <div style="font-size: 0.8rem; margin-top: 2px;">400 Celebration Pl, Celebration, FL 34747 • Tel: (407) 303-4000 (A 12 min de Seven Dwarfs)</div>
+            <div style="font-weight: 700; color: var(--accent-gold);">Hospital Pediátrico de Referência: AdventHealth for Children (Celebration)</div>
+            <div style="font-size: 0.8rem; margin-top: 2px;">400 Celebration Pl, Celebration, FL 34747 • Tel: (407) 303-4000</div>
+            <div class="gps-buttons" style="margin-top: 6px;">
+              <a href="https://waze.com/ul?q=400+Celebration+Pl+Celebration+FL" target="_blank" class="btn-waze">🚗 Waze Hospital Celebration</a>
+            </div>
           </div>
           <div class="metric-box" style="margin-top: 10px;">
-            <div style="font-weight: 700; color: var(--accent-blue);">Avis Rent a Car Assistência na Estrada:</div>
-            <div style="font-size: 0.8rem; margin-top: 2px;">1-800-352-7900 (Disponível 24h nos EUA)</div>
+            <div style="font-weight: 700; color: var(--accent-gold);">Hospital Mais Próximo do Hotel: AdventHealth Dr. Phillips</div>
+            <div style="font-size: 0.8rem; margin-top: 2px;">9400 Turkey Lake Rd, Orlando, FL 32819 (Apenas 6 min do Homewood Suites!)</div>
+            <div class="gps-buttons" style="margin-top: 6px;">
+              <a href="https://waze.com/ul?q=9400+Turkey+Lake+Rd+Orlando+FL" target="_blank" class="btn-waze">🚗 Waze Dr. Phillips</a>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- PÁGINAS DOS 7 PARQUES (MANTIDAS COM MAPAS E TIMELINES) -->
+    <!-- PÁGINAS DOS 7 PARQUES (MANTIDAS COM MAPAS) -->
     <div id="tab-universal" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1761,9 +1907,7 @@
         </div>
       </div>
       <div class="map-viewer-wrapper">
-        <div class="map-img-container">
-          <img src="maps/universal_twopark_flow.jpg" alt="Mapa Universal">
-        </div>
+        <div class="map-img-container"><img src="maps/universal_twopark_flow.jpg" alt="Mapa Universal"></div>
       </div>
       <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
       <div class="timeline-step">
@@ -1842,9 +1986,7 @@
         </div>
       </div>
       <div class="map-viewer-wrapper">
-        <div class="map-img-container">
-          <img src="maps/magic_kingdom_master_map.jpg" alt="Mapa Magic Kingdom">
-        </div>
+        <div class="map-img-container"><img src="maps/magic_kingdom_master_map.jpg" alt="Mapa Magic Kingdom"></div>
       </div>
       <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
       <div class="timeline-step">
@@ -1889,7 +2031,7 @@
       </div>
     </div>
 
-    <!-- DEMAIS PARQUES RESUMIDOS -->
+    <!-- EPIC UNIVERSE -->
     <div id="tab-epic" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1901,6 +2043,7 @@
       </div>
     </div>
 
+    <!-- ANIMAL KINGDOM -->
     <div id="tab-animalkingdom" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1912,6 +2055,7 @@
       </div>
     </div>
 
+    <!-- HOLLYWOOD STUDIOS -->
     <div id="tab-hollywood" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1923,6 +2067,7 @@
       </div>
     </div>
 
+    <!-- EPCOT -->
     <div id="tab-epcot" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1934,6 +2079,7 @@
       </div>
     </div>
 
+    <!-- SEAWORLD -->
     <div id="tab-seaworld" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
@@ -1947,7 +2093,7 @@
 
   </main>
 
-  <!-- Bottom Navigation Bar com 6 Abas -->
+  <!-- Bottom Navigation Bar com 7 Abas -->
   <nav class="bottom-nav">
     <button class="nav-btn active" onclick="navigateTo('tab-dashboard')">
       <span class="icon">🏠</span>
@@ -1956,6 +2102,10 @@
     <button class="nav-btn" onclick="navigateTo('tab-voos')">
       <span class="icon">✈️</span>
       <span>Voos</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-hospedagem')">
+      <span class="icon">🏨</span>
+      <span>Hotel</span>
     </button>
     <button class="nav-btn" onclick="navigateTo('tab-checklist')">
       <span class="icon">✅</span>
@@ -1967,16 +2117,15 @@
     </button>
     <button class="nav-btn" onclick="navigateTo('tab-reservas')">
       <span class="icon">🍽️</span>
-      <span>Restaurantes</span>
+      <span>Gourmet</span>
     </button>
-    <button class="nav-btn" onclick="navigateTo('tab-seguro')">
-      <span class="icon">🚨</span>
-      <span>Emergência</span>
+    <button class="nav-btn" onclick="navigateTo('tab-manual')">
+      <span class="icon">📖</span>
+      <span>Manual</span>
     </button>
   </nav>
 
   <script>
-    // Navegação Instantânea SPA por Abas
     function navigateTo(tabId) {
       document.querySelectorAll('.tab-view').forEach(tab => tab.classList.remove('active'));
       const target = document.getElementById(tabId);
@@ -1988,14 +2137,14 @@
       document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
       if (tabId === 'tab-dashboard') document.querySelectorAll('.nav-btn')[0].classList.add('active');
       else if (tabId === 'tab-voos') document.querySelectorAll('.nav-btn')[1].classList.add('active');
-      else if (tabId === 'tab-checklist') document.querySelectorAll('.nav-btn')[2].classList.add('active');
+      else if (tabId === 'tab-hospedagem') document.querySelectorAll('.nav-btn')[2].classList.add('active');
+      else if (tabId === 'tab-checklist') document.querySelectorAll('.nav-btn')[3].classList.add('active');
       else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld'].includes(tabId)) {
-        document.querySelectorAll('.nav-btn')[3].classList.add('active');
-      } else if (tabId === 'tab-reservas') document.querySelectorAll('.nav-btn')[4].classList.add('active');
-      else if (tabId === 'tab-seguro') document.querySelectorAll('.nav-btn')[5].classList.add('active');
+        document.querySelectorAll('.nav-btn')[4].classList.add('active');
+      } else if (tabId === 'tab-reservas') document.querySelectorAll('.nav-btn')[5].classList.add('active');
+      else if (tabId === 'tab-manual') document.querySelectorAll('.nav-btn')[6].classList.add('active');
     }
 
-    // Toggle de Tarefa do Checklist com LocalStorage
     function toggleTask(taskId) {
       const card = document.getElementById('card-' + taskId);
       const checkbox = card.querySelector('.custom-checkbox');
@@ -2034,7 +2183,6 @@
       }
     }
 
-    // Filtro por Fase do Checklist
     function filterPhase(phase, btn) {
       document.querySelectorAll('.phase-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
@@ -2049,7 +2197,6 @@
       });
     }
 
-    // Atualização de Progresso Geral
     function updateChecklistProgress() {
       const cards = document.querySelectorAll('#full-checklist-container .check-card');
       let completedCount = 0;
@@ -2059,6 +2206,7 @@
       const pct = Math.round((completedCount / cards.length) * 100);
 
       const pctText = pct + '% Concluído';
+      if (document.getElementById('header-progress-text')) document.getElementById('header-progress-text').innerText = pctText;
       if (document.getElementById('dash-checklist-pct')) document.getElementById('dash-checklist-pct').innerText = pctText;
       if (document.getElementById('full-checklist-pct')) document.getElementById('full-checklist-pct').innerText = pctText;
       if (document.getElementById('dash-progress-fill')) document.getElementById('dash-progress-fill').style.width = pct + '%';
@@ -2082,7 +2230,6 @@
       updateChecklistProgress();
     }
 
-    // Service Worker PWA Offline-First
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
@@ -2100,13 +2247,13 @@
           netDot.style.background = 'var(--accent-green)';
           netDot.style.boxShadow = '0 0 8px var(--accent-green)';
         }
-        if (netText) netText.innerText = 'Online • Sincronizado';
+        if (netText) netText.innerText = 'Online';
       } else {
         if (netDot) {
           netDot.style.background = 'var(--accent-gold)';
           netDot.style.boxShadow = '0 0 8px var(--accent-gold)';
         }
-        if (netText) netText.innerText = '📶 Offline • Cache Local';
+        if (netText) netText.innerText = '📶 Offline';
       }
     }
     window.addEventListener('online', updateNetworkStatus);
@@ -2121,9 +2268,7 @@
       const diffTime = tripDate - now;
       const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
       if (diffDays > 0) {
-        document.getElementById('countdown-days').innerText = diffDays + ' dias para a viagem';
-      } else {
-        document.getElementById('countdown-days').innerText = '🎉 Viagem em andamento!';
+        if (document.getElementById('countdown-days')) document.getElementById('countdown-days').innerText = diffDays + ' dias';
       }
     });
   </script>
