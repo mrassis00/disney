@@ -2104,6 +2104,47 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 2. Perguntar diretamente ao usuário: **"Quais são os pontos específicos que você deseja trabalhar ou ajustar agora antes de irmos para a compra dos ingressos?"**.
 3. Aguardar as diretrizes do usuário para refinar os detalhes solicitados.
 
+---
+
+## 💬 Interação 65 (Congelamento de Estado para Compra dos Ingressos & Protocolo de Restart)
+
+### 👤 Solicitação do Usuário:
+> "salvar tudo no history, eu vou sair agora. quando eu voltar e digitar restart quero voltar deste ponto, pois vou comprar os tickets hoje."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Estado Congelado & 100% Protegido para a Retomada:**
+  - **Saldo em Caixa:** **US$ 18.856,83** líquidos na conta corrente do **Chase Bank**, prontos para débito em dólares e Apple Pay com **0% IOF e $0 spread**.
+  - **Pilares Logísticos Concluídos:**
+    1. ✈️ Voos United (GRU ➔ IAD ➔ TPA) e Delta (MCO ➔ ATL ➔ GRU) com assentos marcados e conexão no Museu da NASA (Smithsonian Udvar-Hazy) em Washington detalhada.
+    2. 🏨 Homewood Suites by Hilton I-Drive Convention Center (19 noites, US$ 2.914,07, suíte completa com cozinha, café buffet quente grátis e estacionamento isento).
+    3. 🚗 SUV Chevrolet Traverse 7 lugares na AVIS via Rentcars (Voucher `X4X9T9M`) com seguro total ($1M terceiros + CDW) e taxa de devolução inclusa.
+    4. 🎂 Hard Rock Cafe Universal CityWalk confirmado para domingo 13/12 às 19h00 (OpenTable `#1713319`).
+    5. 📱 App PWA Offline no ar em `https://mrassis00.github.io/disney/` com rotas Waze, checklist dinâmico e manual completo embutido.
+
+* **🎯 Dossier Pronto para Execução Imediata na Compra de Ingressos (Ao Retornar):**
+  1. **Disney 4-Day Base Ticket (1 parque/dia):**
+     - Canal: *Undercover Tourist* (~US$ 2.868,14 total para a família: Marcelo, Thalita, Miguel 7a e Isabela 5a).
+     - Parques: Animal Kingdom (14/12), EPCOT (18/12), Magic Kingdom (21/12) e Hollywood Studios (22/12).
+  2. **Universal 2-Park 1-Day Park-to-Park:**
+     - Canal: Site Oficial Universal Orlando (~US$ 808 total).
+     - Data sugerida: Quarta 16/12 (permite o trem *Hogwarts Express* entre Universal Studios e Islands of Adventure).
+  3. **Universal Epic Universe 1-Day Ticket:**
+     - Canal: Site Oficial Universal Orlando (~US$ 648 total).
+     - Data planejada para o parque revolucionário.
+  4. **SeaWorld Orlando 1-Day Ticket:**
+     - Canal: Site Oficial SeaWorld ou Undercover Tourist (~US$ 339 total).
+  5. **Seguro Viagem Internacional (Saúde/Emergência US$ 1.000.000):**
+     - Canal: *IMG Patriot America Plus* no site `imglobal.com` (~US$ 210 total para os 4).
+
+---
+
+### 🔄 PROTOCOLO DE RESTART DEFINITIVO (Gatilho: `restart`):
+Quando o usuário retornar e digitar **`restart`**, o assistente irá:
+1. **Saudar o usuário imediatamente** confirmando que o saldo de **US$ 18.856,83 no Chase Bank** está pronto.
+2. **Apresentar a fila cirúrgica de compras de ingressos** em ordem de prioridade (Undercover Tourist para Disney ➔ Site Oficial Universal para Epic & Park-to-Park ➔ SeaWorld ➔ Seguro IMG Patriot).
+3. **Guiar passo a passo** cada carrinho de compras com dados dos passageiros, seleção de datas e pagamento direto no débito Chase sem taxas extras.
+
+
 
 
 
