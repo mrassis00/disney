@@ -127,10 +127,10 @@
 * **🛣️ SunPass PRO Portable (caixinha + recarga):** **US$ 25,00**.
 * **🍝 Alimentação Familiar Inteligente (20 Dias):** **US$ 2.100,00** (*Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden*).
 * **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **US$ 450,00**.
-* **CUSTO TOTAL ABSOLUTO DE TODA A VIAGEM (100% PAGO EM DÓLAR):** **US$ 10.492,21**.
-* **🎉 SOBRA LÍQUIDA 100% LIVRE SÓ PARA COMPRAS NO CHASE:** **US$ 8.364,62 LIVRES!**  
-  *(Média de **~US$ 418,23 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA!)*
-* **Saldo Disponível no Cartão Chase ao desembarcar em Orlando (12/12):** **US$ 10.939,00**.
+* **CUSTO TOTAL DA VIAGEM:** **US$ 10.492,21**, dos quais **US$ 1.116,23 (carro)** foram pagos no cartão de crédito brasileiro. **Sai do Chase: US$ 9.375,98**.
+* **🎉 SOBRA ESTIMADA NO CHASE PARA COMPRAS:** **US$ 9.480,85** (de US$ 18.856,83), antes de Lightning Lane e extras.  
+  *(Média de **~US$ 474 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA.)*
+* **Saldo previsto no Chase ao desembarcar (12/12), se nada além do plano for gasto:** **US$ 9.480,85**.
 
 | Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
 | :--- | :--- | :---: | :---: | :--- |
@@ -142,7 +142,7 @@
 | 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.660 | **US$ 475** | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
 | 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.760** | **US$ 2.100** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 58.756** | **US$ 10.492,21** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.364,62!** |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Chase + cartão BR (carro)** | **~R$ 58.756** | **US$ 10.492,21** | **Sai do Chase: US$ 9.375,98** (total menos o carro de US$ 1.116,23, já pago no cartão de crédito brasileiro). **Sobra estimada no Chase = US$ 9.480,85**, antes de Lightning Lane e extras. |
 
 *\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
 

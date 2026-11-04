@@ -624,7 +624,7 @@ Abaixo está o quadro consolidado com os gastos reais já contratados e as previ
 | 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **~R$ 140** | **US$ 25** | Compra do transponder portátil SunPass PRO (US$ 14,95) + US$ 10 de saldo. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
 | ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
 | 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **~R$ 11.760** | **US$ 2.100** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **100% Coberto no Chase** | **~R$ 58.756** | **US$ 10.492,21** | **100% coberto pelo caixa de US$ 18.856,83 no Chase. Sobra líquida 100% livre só para compras nos EUA = US$ 8.364,62!** |
+| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Chase + cartão BR (carro)** | **~R$ 58.756** | **US$ 10.492,21** | **Sai do Chase: US$ 9.375,98** (total menos o carro de US$ 1.116,23, já pago no cartão de crédito brasileiro). **Sobra estimada no Chase (de US$ 18.856,83) = US$ 9.480,85**, antes de Lightning Lane e extras. |
 
 *\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
 

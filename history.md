@@ -2189,3 +2189,26 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 * **Datas vigentes dos parques:** Universal 14/12, Magic Kingdom 16/12, Epic 18/12, Animal Kingdom 19/12, Hollywood Studios 21/12, EPCOT 22/12, SeaWorld 27/12. As datas da Interação 65 estão desatualizadas.
 * **Pendências conhecidas:** valores e política de reembolso da Undercover não confirmados ao vivo; validade de 7 dias do ingresso Disney a confirmar no checkout; saldo financeiro do app ainda considera o carro como pago pelo Chase (foi pago no cartão BR); `sw.js` ainda em cache v3.
 * **Seguro:** mantido IMG Patriot America Plus (~US$ 210 total da família), a contratar.
+
+
+---
+
+## 💬 Interação 68 (Revalidação do Plano com o novo modelo — alertas antes da compra)
+
+### 👤 Solicitação do Usuário:
+> Revalidar todo o plano com o modelo atualizado (checklist, roteiros, probabilidades), verificar nos sites oficiais o que mudou e mostrar qualquer alerta antes da decisão. Incluir as pendências do baseline.
+
+### 🤖 Resposta do Assistente (Antigravity):
+* Criado `REVALIDACAO_BETA2.md` com alertas por impacto, calendário proposto, risco por dia, checklist de execução e orçamento corrigido. **Nenhum preço foi confirmado**: as páginas oficiais de ingressos são renderizadas por JavaScript e a Undercover Tourist bloqueou o acesso automático (403, não contornado).
+* **Aplicado (aprovado pelo usuário):** saldo do Chase corrigido para o carro pago no cartão BR (sai do Chase US$ 9.375,98; sobra estimada US$ 9.480,85) no app, no guia e no resumo; cache do Service Worker subiu para `orlando-2026-v4`.
+* **Alertas críticos (aguardam decisão):**
+  1. 21/12 (Hollywood Studios) é noite de Jollywood Nights; proposta: EPCOT em 21/12 e Hollywood em 22/12.
+  2. Epic Universe 1 dia: fontes conflitam sobre ingresso avulso e preço; conferir o calendário da Universal para 18/12 e comparar pacotes.
+  3. Lei da Virgínia exige assento para menores de 8 anos (Miguel e Isabela) no trecho IAD ↔ museu.
+  4. Museu Udvar-Hazy sem armários públicos (o plano dizia que havia).
+  5. IMG com franquia US$ 0 não tem copay de US$ 25; usar franquia de US$ 100.
+  6. Estacionamento grátis do hotel não confirmado (exposição US$ 285).
+  7. Scenic Boat Tour fechado em 25/12.
+* **Confirmados:** janela de 7 dias do ingresso Disney de 4 dias; Magic Kingdom em 16/12 não é noite de festa; reembolso de 95% da Undercover (365 dias, sem uso e sem alteração pela Disney); Hogwarts Express exige Park-to-Park; Festival of the Holidays de 27/11 a 30/12.
+* As porcentagens de sucesso do roteiro não têm base estatística e foram substituídas por nível de risco com motivo.
+* As datas da Interação 65 estão desatualizadas; valem as do `BETA2_BASELINE.md`, com a troca proposta de 21/12 e 22/12 pendente de aprovação.
