@@ -2174,3 +2174,18 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 
 
 
+
+
+---
+
+## 💬 Interação 67 (Baseline Beta 2 — Congelamento antes da troca de LLM)
+
+### 👤 Solicitação do Usuário:
+> "Salvar o plano atual como Beta 2 baseline e listar tudo o que foi feito antes de troca de LLM."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* Criado `BETA2_BASELINE.md` com a fotografia do plano (reservas quitadas, ingressos e seguro ainda por comprar, calendário vigente), o resumo de tudo que foi feito nas Interações 1–66 e na sessão de 04/11, e a lista de pontos não verificados.
+* Tag Git `Beta2` criada sobre o commit com este registro.
+* **Datas vigentes dos parques:** Universal 14/12, Magic Kingdom 16/12, Epic 18/12, Animal Kingdom 19/12, Hollywood Studios 21/12, EPCOT 22/12, SeaWorld 27/12. As datas da Interação 65 estão desatualizadas.
+* **Pendências conhecidas:** valores e política de reembolso da Undercover não confirmados ao vivo; validade de 7 dias do ingresso Disney a confirmar no checkout; saldo financeiro do app ainda considera o carro como pago pelo Chase (foi pago no cartão BR); `sw.js` ainda em cache v3.
+* **Seguro:** mantido IMG Patriot America Plus (~US$ 210 total da família), a contratar.
