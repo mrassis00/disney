@@ -2138,11 +2138,33 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 
 ---
 
-### 🔄 PROTOCOLO DE RESTART DEFINITIVO (Gatilho: `restart`):
-Quando o usuário retornar e digitar **`restart`**, o assistente irá:
-1. **Saudar o usuário imediatamente** confirmando que o saldo de **US$ 18.856,83 no Chase Bank** está pronto.
-2. **Apresentar a fila cirúrgica de compras de ingressos** em ordem de prioridade (Undercover Tourist para Disney ➔ Site Oficial Universal para Epic & Park-to-Park ➔ SeaWorld ➔ Seguro IMG Patriot).
-3. **Guiar passo a passo** cada carrinho de compras com dados dos passageiros, seleção de datas e pagamento direto no débito Chase sem taxas extras.
+## 💬 Interação 66 (Integração Total da Reserva do Carro Quitado no Cartão BR no Plano e Web App)
+
+### 👤 Solicitação do Usuário:
+> "Atualizar todo plano e o app web com minha reserva do carro que ja esta quitada por cartao de credito brasileiro., Os dados estao neste link. https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M"
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Status da Reserva Incorporado:**
+  - **Voucher Oficial Rentcars:** `X4X9T9M` (100% quitado no cartão de crédito brasileiro, sem IOF e sem pendências financeiras).
+  - **Locadora:** AVIS Rent a Car.
+  - **Veículo:** Chevrolet Traverse ou SUV Similar (7 Lugares — perfeito para 4 passageiros rebatendo a 3ª fileira para até 8 malas grandes).
+  - **Retirada:** Aeroporto de Tampa (TPA) no sábado 12/12/2026 após voo UA 1140 (20h30).
+  - **Devolução:** Aeroporto de Orlando (MCO) na quinta 31/12/2026 às 15h30 (Terminal B).
+  - **Coberturas Inclusas:** Proteção Total CDW/LDW + Danos a Terceiros de US$ 1.000.000 (SLI/ALI), taxa de retorno Tampa ➔ Orlando inclusa, condutor adicional gratuito (Thalita).
+* **Atualizações Realizadas no Web App (`app_roteiro_orlando.html` e `index.html`):**
+  1. **Novo Card no Dashboard Principal:** Card dedicado ao SUV quitado com link direto para o voucher e detalhes.
+  2. **Nova Aba Completa de Navegação (`tab-carro`):**
+     - Botão `🚗 Carro` adicionado na barra inferior fixa de navegação.
+     - Tela com dados completos da reserva, links para o voucher online, checklist do que apresentar no balcão da AVIS (CNH Marcelo, CNH Thalita, passaporte e cartão físico para caução), instruções para recusar o *e-Toll* e rota Waze Tampa ➔ Orlando pela I-4 East (100% livre de pedágios).
+  3. **Checklist Sincronizado:**
+     - Etapa 14 atualizada com o número do voucher `X4X9T9M`, orientações de retirada e link direto.
+     - Etapa 21 atualizada com instruções da devolução no Terminal B em MCO e retirada do transponder SunPass PRO.
+  4. **Correção de Nomes:** Ajustada a menção do aniversário de 13/12 para o Papai Marcelo.
+* **Compilação e Publicação:**
+  - `build_html.ps1` executado com sucesso atualizando os arquivos HTML e PDFs.
+  - `app_roteiro_orlando.html` espelhado em `index.html`.
+  - Git commit e push realizados para deploy automático no GitHub Pages.
+
 
 
 

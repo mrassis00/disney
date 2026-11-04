@@ -862,19 +862,32 @@
         </div>
       </div>
 
-      <!-- Card Rápido de Voos & Hotel Oficial -->
+      <!-- Card Rápido de Voos, Carro & Hotel Oficial -->
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 20px;">
         
         <!-- Voo -->
         <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-blue);">
           <div style="display: flex; justify-content: space-between; align-items: center;">
             <h3 style="font-size: 1.05rem; font-weight: 700;">✈️ Voo de Ida & Conexão</h3>
-            <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Boarding Pass ➔</span>
+            <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Voos ➔</span>
           </div>
           <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
             <strong>GRU ➔ IAD (United UA 860):</strong> Sex 11/12 22h25.<br>
             <strong>Conexão dos Sonhos:</strong> Museu da NASA (Ônibus Espacial Discovery) a 10 min de Uber.<br>
             <strong>IAD ➔ Tampa (UA 1140):</strong> Pouso às 20h30.
+          </p>
+        </div>
+
+        <!-- Carro SUV Quitado -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-green);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">🚗 SUV 7 Lugares Quitado</h3>
+            <span class="tag tag-green" onclick="navigateTo('tab-carro')" style="cursor: pointer;">Ver Voucher ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>Chevrolet Traverse ou SUV Similar (AVIS)</strong><br>
+            📄 Voucher Rentcars: <code style="color: var(--accent-gold); font-weight: 700;">X4X9T9M</code> (Cartão BR Quitado)<br>
+            🛫 Retirada TPA (12/12) ➔ 🛬 Devolução MCO (31/12). CDW + US$ 1M Danos a Terceiros inclusos!
           </p>
         </div>
 
@@ -1288,6 +1301,79 @@
 
 
     <!-- ========================================== -->
+    <!-- ABA NOVA: LOCAÇÃO DE VEÍCULO AVIS/RENTCARS -->
+    <!-- ========================================== -->
+    <div id="tab-carro" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      
+      <div class="glass-card" style="border-left: 4px solid var(--accent-green);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-green);">🚗 Chevrolet Traverse ou SUV Similar (7 Lugares)</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 2px;">
+              Locadora Oficial: <strong>AVIS Rent a Car</strong> • Intermediadora: <strong>Rentcars</strong>
+            </div>
+          </div>
+          <span class="tag tag-green">Quitado Cartão BR • Voucher X4X9T9M</span>
+        </div>
+
+        <div style="margin-top: 14px; font-size: 0.86rem; color: var(--text-muted); line-height: 1.6;">
+          <p>📄 <strong>Código da Reserva / Voucher:</strong> <code style="color: var(--accent-gold); font-size: 1.05rem; font-weight: 800;">X4X9T9M</code></p>
+          <p>💳 <strong>Status Financeiro:</strong> 100% pago e quitado no cartão de crédito brasileiro (sem IOF, sem custos pendentes na locadora!).</p>
+          <p>👥 <strong>Capacidade:</strong> 7 Passageiros (Ideal para 4 pessoas com a 3ª fileira rebatida para acomodar até 8 malas grandes com conforto total).</p>
+          
+          <div class="gps-buttons" style="margin-top: 10px;">
+            <a href="https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M" target="_blank" class="btn-gmaps" style="background: rgba(16, 185, 129, 0.2); border-color: var(--accent-green); color: #fff;">📄 Abrir Voucher Rentcars Oficial</a>
+            <a href="https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M" target="_blank" class="btn-waze" style="background: rgba(59, 130, 246, 0.2); border-color: var(--accent-blue); color: #fff;">📋 Ver Página de Confirmação</a>
+          </div>
+        </div>
+
+        <div class="finance-metrics" style="margin-top: 16px;">
+          <div class="metric-box">
+            <div class="metric-label">Retirada (Início)</div>
+            <div style="font-size: 0.95rem; font-weight: 700; color: var(--accent-blue); margin-top: 2px;">Aeroporto Tampa (TPA)</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">Sáb, 12/12/2026 após voo UA 1140 (20h30)</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Devolução (Término)</div>
+            <div style="font-size: 0.95rem; font-weight: 700; color: var(--accent-coral); margin-top: 2px;">Aeroporto Orlando (MCO)</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">Qui, 31/12/2026 às 15h30 (Terminal B)</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Seguros Inclusos</div>
+            <div class="metric-value val-positive">Total ($1M Terceiros)</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">CDW/LDW + SLI/ALI $1.000.000 inclusos</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Taxa de Retorno</div>
+            <div class="metric-value val-positive">100% Inclusa</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">Tampa ➔ Orlando sem cobrança extra</div>
+          </div>
+        </div>
+
+        <!-- Instruções de Retirada e Dicas Práticas -->
+        <h3 style="font-size: 1.05rem; font-weight: 700; margin: 20px 0 10px 0; color: var(--accent-gold);">📋 O Que Apresentar no Balcão da AVIS (Tampa TPA):</h3>
+        <div style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.7;">
+          <p>1️⃣ <strong>CNH do Marcelo</strong> (física original válida) + <strong>Passaporte Original</strong>.</p>
+          <p>2️⃣ <strong>Voucher Rentcars</strong> (código <code>X4X9T9M</code> — no celular ou impresso).</p>
+          <p>3️⃣ <strong>Cartão de Crédito Físico Santander Black</strong> (apenas para o caução temporário de ~$100 a $200, liberado na devolução).</p>
+          <p>4️⃣ <strong>Condutor Adicional Grátis:</strong> Apresentar a CNH da <strong>Thalita</strong> para cadastrá-la gratuitamente como segunda motorista oficial.</p>
+          <p>5️⃣ <strong>Dica de Ouro dos Pedágios:</strong> Se o atendente oferecer o transponder <em>e-Toll</em>, diga educadamente: <em>"No, thank you. I will use my own transponder."</em> (Vamos usar o <strong>SunPass PRO Portable</strong> de $14,95, economizando mais de R$ 1.350!).</p>
+        </div>
+
+        <h3 style="font-size: 1.05rem; font-weight: 700; margin: 20px 0 10px 0; color: var(--accent-blue);">🛣️ Rota de Saída Tampa ➔ Homewood Suites Orlando:</h3>
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 8px;">
+          A viagem de Tampa até a International Drive é feita 100% pela rodovia federal <strong>Interstate 4 (I-4 East)</strong>, que é uma pista reta, moderna e <strong>100% LIVRE DE PEDÁGIOS</strong>!
+        </p>
+        <div class="gps-buttons">
+          <a href="https://waze.com/ul?q=6435+Westwood+Blvd+Orlando+FL" target="_blank" class="btn-waze">🚗 Abrir Trajeto TPA ➔ Hotel no Waze</a>
+          <a href="https://maps.google.com/?q=Homewood+Suites+by+Hilton+Orlando+International+Drive+Convention+Center" target="_blank" class="btn-gmaps">📍 Abrir no Google Maps</a>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- ========================================== -->
     <!-- ABA 3: HOTEL OFICIAL HOMEWOOD SUITES       -->
     <!-- ========================================== -->
     <div id="tab-hospedagem" class="tab-view">
@@ -1632,16 +1718,18 @@
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c14')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c14')">14. Retirada do SUV na Avis Tampa & Instalar Booster</div>
-              <div class="check-desc">Vá direto ao pátio Avis Preferred, pegue o SUV e ligue o Waze rumo ao Homewood Suites.</div>
+              <div class="check-title" onclick="toggleTask('c14')">14. Retirada do SUV na Avis Tampa (Voucher X4X9T9M) & Booster</div>
+              <div class="check-desc">Carro quitado no cartão BR. Vá ao pátio da AVIS, pegue o Chevrolet Traverse 7 Pax e ligue o Waze rumo ao hotel.</div>
               <div class="check-actions">
-                <span class="tag tag-green">Fase 4</span>
+                <span class="tag tag-green">Fase 4 • Quitado</span>
                 <span class="tag tag-blue">Sáb, 12/12 21h15</span>
-                <button class="btn-detail" onclick="toggleDetails('det-c14')">Dica Avis Preferred ▾</button>
+                <button class="btn-detail" onclick="toggleDetails('det-c14')">Ver Voucher & Dicas ▾</button>
                 <button class="btn-skip" onclick="skipTask('c14')">Pular</button>
               </div>
               <div id="det-c14" class="check-details-body">
-                O trajeto de Tampa até o Homewood Suites I-Drive é feito pela rodovia I-4 East (1h15 de viagem, pista reta e 100% livre de pedágios!).
+                <strong>Voucher Rentcars:</strong> <a href="https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M" target="_blank" style="color: var(--accent-gold); font-weight: 700;">Abrir Voucher X4X9T9M</a>.<br>
+                Apresentar: CNH do Marcelo, CNH da Thalita (condutora extra grátis), passaporte e cartão Santander Black físico para caução.<br>
+                Recusar <em>e-Toll</em> no balcão. O trajeto de Tampa até o Homewood Suites I-Drive é feito pela rodovia I-4 East (1h15 de viagem, pista reta e 100% livre de pedágios!).
               </div>
             </div>
           </div>
@@ -1705,8 +1793,8 @@
           <div class="check-header">
             <div class="custom-checkbox" onclick="toggleTask('c18')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c18')">18. Jantar de Aniversário do Miguel no Hard Rock Cafe (19h00)</div>
-              <div class="check-desc">No CityWalk da Universal. Comemoração dos 7 anos com sobremesa e vela!</div>
+              <div class="check-title" onclick="toggleTask('c18')">18. Jantar de Aniversário do Papai Marcelo no Hard Rock Cafe (19h00)</div>
+              <div class="check-desc">No CityWalk da Universal. Celebração de aniversário do Marcelo com a família! Mesa reservada (#1713319).</div>
               <div class="check-actions">
                 <span class="tag tag-green">Confirmado #1713319</span>
                 <span class="tag tag-gold">Dom, 13/12</span>
@@ -1755,11 +1843,15 @@
             <div class="custom-checkbox" onclick="toggleTask('c21')"></div>
             <div class="check-main">
               <div class="check-title" onclick="toggleTask('c21')">21. Devolução do Carro na Avis MCO Terminal B (15h30)</div>
-              <div class="check-desc">Abastecer o tanque antes de entrar no aeroporto. Devolução rápida no pátio.</div>
+              <div class="check-desc">Abastecer o tanque antes de entrar no aeroporto. Devolução rápida no pátio AVIS MCO (Voucher X4X9T9M).</div>
               <div class="check-actions">
                 <span class="tag tag-red">Fase 5</span>
                 <span class="tag tag-blue">Qui, 31/12 15h30</span>
+                <button class="btn-detail" onclick="toggleDetails('det-c21')">Ver Detalhes ▾</button>
                 <button class="btn-skip" onclick="skipTask('c21')">Pular</button>
+              </div>
+              <div id="det-c21" class="check-details-body">
+                Retirar o SunPass PRO do vidro e guardar na mala antes de entregar o veículo. Taxa de retorno Tampa ➔ Orlando já inclusa e quitada.
               </div>
             </div>
           </div>
@@ -1825,7 +1917,7 @@
               <span class="tag tag-green">Confirmado</span>
             </div>
             <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 6px;">
-              <strong>Data:</strong> Domingo, 13/12/2026 às 19h00 • <strong>Aniversário do Miguel (7 anos)</strong>.<br>
+              <strong>Data:</strong> Domingo, 13/12/2026 às 19h00 • <strong>Aniversário do Papai Marcelo</strong>.<br>
               <strong>Confirmação OpenTable:</strong> <code style="color: var(--accent-gold);">#1713319</code>. Mesa para 4.<br>
               <div class="gps-buttons" style="margin-top: 6px;">
                 <a href="https://waze.com/ul?q=6050+Universal+Blvd+Orlando+FL" target="_blank" class="btn-waze" style="font-size: 0.75rem; padding: 4px 10px;">Waze Hard Rock</a>
@@ -2102,6 +2194,10 @@
     <button class="nav-btn" onclick="navigateTo('tab-voos')">
       <span class="icon">✈️</span>
       <span>Voos</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-carro')">
+      <span class="icon">🚗</span>
+      <span>Carro</span>
     </button>
     <button class="nav-btn" onclick="navigateTo('tab-hospedagem')">
       <span class="icon">🏨</span>
