@@ -26,12 +26,15 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic, SeaWorld):** **COMPRA PROGRAMADA PARA 02 A 04 DE NOVEMBRO DE 2026!**  
-  * *Status Financeiro:* Venda de ações executada na Schwab na Quinta 29/10 no total de **US$ 18.856,83** ➡️ Liquidação T+1 na Sexta 30/10 ➡️ Transferência ACH gratuita para o Chase Bank.  
-  * *Crédito no Chase:* Segunda 02/11 a Terça 03/11 (*feriado de 02/11 no Brasil não afeta bancos e FedACH nos EUA*).  
-  * *Estratégia Mista:* **Universal no Site Oficial** (blindar o Epic Universe), **Disney no Undercover Tourist ou Oficial** (desconto atacadista oficial) e **SeaWorld no Site Oficial**.  
-  * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal. Entrada 100% direta nas catracas!  
-  * *Agendamento Lightning Lane:* 11/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney).
+* [x] 🎟️ **Ingressos dos 8 Parques (Disney, Universal/Epic, SeaWorld + Busch Gardens):** **COMPRADOS & QUITADOS NO UNDERCOVER TOURIST (`#248579-110526`)!**  
+  * *Pedido Oficial Undercover Tourist:* **`248579-110526`** | E-Tickets enviados para `marcelo.simul@gmail.com`.  
+  * *Valor Final Pago no Cartão:* **US$ 4.675,40** (impostos inclusos, com cupom `LOYAL20` de `-US$ 25,04` e economia total de **US$ 900,00** vs. bilheteria + 12 créditos de US$ 20 no *DiningDollars.com*).  
+  * *Pacotes Adquiridos (4 Pessoas — 2 Adultos + 2 Crianças):*  
+    * 🏰 **Disney (4-Day Base Ticket — US$ 2.868,14):** Janela **16/12 a 22/12/2026** (16/12 Magic Kingdom, 19/12 Animal Kingdom, 21/12 EPCOT, 22/12 Hollywood Studios).  
+    * 🎢 **Universal (1-Day Park-to-Park + 1-Day Epic Universe — US$ 1.440,94):** Janela **14/12 a 17/12/2026** (14/12 Studios + Islands c/ Hogwarts Express e 17/12 Epic Universe).  
+    * 🐬 **SeaWorld Orlando + Busch Gardens Tampa (Two-Park Promo — US$ 391,36):** 1º uso em **27/12 (SeaWorld)** e 2º uso em **29/12 (Busch Gardens)** (janela de 14 dias após o 1º uso).  
+  * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal/SeaWorld. Entrada 100% direta nas catracas!  
+  * *Agendamento Lightning Lane:* 13/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney em 16/12).
 * [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
   * *Carrinho:* 1 Baby Jogger Summit X3 Double na Lin Rentals por US$ 130 (com seguro perda/roubo, capa de chuva e porta-copos) entregue no hotel.  
   * *Booster da Isabela (5 anos):* Despacho 100% gratuito no voo pela United/Delta (US$ 0). A Isabela já sai do Aeroporto de Tampa legalizada e segura na I-4, economizando US$ 64 líquidos (R$ 360)!
@@ -98,8 +101,8 @@
 | **14/12** | Seg | 🟢 **4/10** | ⭐⭐⭐⭐⭐ **🟢 98,4%** | 🎢 **PARQUE 1 — Universal Studios + Islands (2-em-1):** Casa da Gabby, Minions, Jurassic Park, Homem-Aranha e trem *Hogwarts Express*! | **Three Broomsticks** / Toothsome |
 | **15/12** | Ter | 🟢 Livre | ⭐⭐⭐⭐⭐ **99,0%** | 🏖️ **Descanso 1:** Passeio no **Monster Truck 4x4** pelos pomares (*Showcase of Citrus*) + tarde relax de IPAs artesanais | **Suncreek Brewery** (Clermont) |
 | **16/12** | Qua | 🟢 **6/10** | ⭐⭐⭐⭐⭐ **🟢 99,2%** | 🏰 **PARQUE 2 — Disney's Magic Kingdom (Dia 1 Janela Disney):** Dia regular sem festa privada! Princesas, Sete Anões, *Speedway*, TRON e **Fogos Happily Ever After às 20h** | **Columbia Harbour House** |
-| **17/12** | Qui | 🟢 Livre | ⭐⭐⭐⭐⭐ **99,5%** | 🏖️ **Descanso 2:** Dormir até mais tarde pós-fogos + Compras no *Vineland Premium Outlets* com estoque cheio pré-Natal | **Ford's Garage** (temático) |
-| **18/12** | Sex | 🟢 **6/10** | ⭐⭐⭐⭐⭐ **🟢 96,8%** | 🪐 **PARQUE 3 — Universal's Epic Universe:** *Super Nintendo World* (Mario Kart e Donkey Kong), *Isle of Berk* (Dragões e show teatral) e fontes iluminadas à noite | **Mead Hall** / Toadstool Cafe |
+| **17/12** | Qui | 🟢 **5/10** | ⭐⭐⭐⭐⭐ **🟢 97,5%** | 🪐 **PARQUE 3 — Universal's Epic Universe (Dia 2 — Fim Janela Universal):** *Super Nintendo World* (Mario Kart e Donkey Kong), *Isle of Berk* (Dragões e show teatral) e fontes iluminadas à noite | **Mead Hall** / Toadstool Cafe |
+| **18/12** | Sex | 🟢 Livre | ⭐⭐⭐⭐⭐ **99,5%** | 🏖️ **Descanso 2:** Dormir até mais tarde + Compras no *Vineland Premium Outlets* com estoque cheio pré-Natal e descanso para o Safári | **Ford's Garage** (temático) |
 | **19/12** | Sáb | 🟢 **6/10** | ⭐⭐⭐⭐⭐ **🟢 99,1%** | 🌳 **PARQUE 4 — Disney's Animal Kingdom (Dia 2 Janela Disney):** Safári africano às 08h10, *Flight of Passage* com a Isa, *Bluey & Bingo*, fósseis no *Boneyard* e Pandora iluminada | **Flame Tree Barbecue** |
 | **20/12** | Dom | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **99,5%** | 🏖️ **Descanso de Ouro (Zero Parque no Domingo!):** Maior museu de carros e Monster Trucks dos EUA (*Dezerland*) + *Ulta/Sephora* para Thalita + Piscina | **The Cheesecake Factory** |
 | **21/12** | Seg | 🟡 **7/10** | ⭐⭐⭐⭐⭐ **🟢 98,2%** | 🌐 **PARQUE 5 — Disney's EPCOT (Dia 3 Janela Disney):** Aquário gigante do Nemo (*The Seas*), *Cosmic Rewind*, *Ratatouille* e **Fogos Luminous às 21h** | **Via Napoli (Itália)** / Regal Eagle |
@@ -108,9 +111,9 @@
 | **24/12** | Qui | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **99,5%** | 🎄 **Véspera de Natal:** Manhã de descanso e piscina aquecida + Ceia gourmet na suíte equipada e troca de presentes | Ceia Gourmet na Suíte |
 | **25/12** | Sex | 🔴 *Fuga 10/10!* | ⭐⭐⭐⭐⭐ **99,0%** | 🎅 **Dia de Natal Mágico:** Passeio natalino tranquilo na Park Ave e tarde/noite em **Celebration** com neve artificial de sabão e carruagens | **The Briarpatch** / Celebration |
 | **26/12** | Sáb | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **98,5%** | 🛍️ **Descanso 7:** Saldões pós-Natal (*Boxing Day*) nos outlets + **Crayola Experience** (6.500 m² de arte para Isabela e Miguel) | **The Florida Mall** |
-| **27/12** | Dom | 🟡 **8/10** *(Estádios)* | ⭐⭐⭐⭐⭐ **🟢 98,5%** | 🐬 **PARQUE 7 — SeaWorld Orlando:** Shows sentados em estádios de 5.000 lugares (zero filas!), tocar arraias, *Penguin Trek* e show noturno das orcas **Miracles** | **Sharks Underwater Grill** |
+| **27/12** | Dom | 🟡 **8/10** *(Estádios)* | ⭐⭐⭐⭐⭐ **🟢 98,5%** | 🐬 **PARQUE 7 — SeaWorld Orlando (1º uso Combo):** Shows sentados em estádios de 5.000 lugares (zero filas!), tocar arraias, *Penguin Trek* e show noturno das orcas **Miracles** | **Sharks Underwater Grill** |
 | **28/12** | Seg | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **99,0%** | 🏖️ **Descanso 8:** Tour gratuito pelos Resorts de Luxo Disney (Casa de Gengibre gigante no *Grand Floridian* + fogos na praia do *Polynesian*) | Cafés dos Resorts Disney |
-| **29/12** | Ter | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **99,5%** | 🏖️ **Descanso 9:** Manhã relaxante na piscina do hotel + *Celebration Village* e compras finais na I-Drive | **Columbia Restaurant** |
+| **29/12** | Ter | 🟡 **8/10** | ⭐⭐⭐⭐⭐ **🟢 98,0%** | 🦒 **PARQUE 8 — Busch Gardens Tampa (2º uso Combo):** Trenzinho pela savana africana (girafas, zebras, rinocerontes), Vila Sésamo, Cangurus, Teleférico e Montanhas-Russas | **Zambia Smokehouse** (BBQ) |
 | **30/12** | Qua | 🔴 *Fuga!* | ⭐⭐⭐⭐⭐ **99,0%** | 🦖 **Despedida em Disney Springs:** Almoço com dinossauros animatrônicos, *The Polite Pig* (Brisket/IPA), compras de LEGO e malas prontas (23 kg) | **T-REX Cafe** / **Polite Pig** |
 | **31/12** | Qui | 🟢 Livre | ⭐⭐⭐⭐⭐ **99,0%** | ✈️ **Retorno:** Check-out às 12h ➔ Devolução do SUV na AVIS MCO às 15h30 ➔ Voo Delta DL 1742 às 18h45 rumo ao Brasil! | Aeroporto MCO / Sala VIP |
 
@@ -118,33 +121,34 @@
 
 ## 💰 Resumo Financeiro & Gastos Consolidados (Tempo Real)
 
-### 💵 Posição de Caixa Realizada no Chase Bank (Cenário 1 Definido):
-* **Entrada Real da Venda Schwab (29/10/2026):** **US$ 18.856,83** (*confirmado no extrato oficial*).
-* **🏨 Hospedagem Hilton (19 noites c/ impostos):** **US$ 2.914,07** (*pago em Dólar Puro no débito Chase — Cenário 1*).
-* **🎟️ Ingressos 7 Parques (Undercover Tourist Dez/2026):** **US$ 4.663,14** (*Disney US$ 2.868,14 + Universal 2 em 1 ~US$ 808 + Epic Universe ~US$ 648 + SeaWorld ~US$ 339*).
-* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **US$ 210,00** (*débito Chase*).
-* **🛒 Carrinho Duplo Lin Rentals (19 noites c/ seguro e capa):** **US$ 130,00** (*débito Chase*).
+### 💵 Posição de Caixa Realizada no Chase Bank (Atualizado em 05/11/2026):
+* **Saldo Real Atual Disponível no Chase:** **US$ 14.200,07** *(já descontado o pagamento dos ingressos)*.
+* **🎟️ Ingressos 8 Parques (Undercover Tourist — Pedido `#248579-110526`):** **US$ 4.675,40** *(PAGO E LIQUIDADO)*.
+* **🏨 Hospedagem Hilton (19 noites c/ impostos):** **US$ 2.914,07** *(a ser debitado na estadia/check-in no débito Chase — Cenário 1)*.
+* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **US$ 210,00** *(débito Chase)*.
+* **🛒 Carrinho Duplo Lin Rentals (19 noites c/ seguro e capa):** **US$ 130,00** *(débito Chase)*.
 * **🛣️ SunPass PRO Portable (caixinha + recarga):** **US$ 25,00**.
-* **🍝 Alimentação Familiar Inteligente (20 Dias):** **US$ 2.100,00** (*Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden*).
+* **🍝 Alimentação Familiar Inteligente (20 Dias):** **US$ 2.100,00** *(Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden)*.
 * **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **US$ 450,00**.
-* **CUSTO TOTAL DA VIAGEM:** **US$ 10.492,21**, dos quais **US$ 1.116,23 (carro)** foram pagos no cartão de crédito brasileiro. **Sai do Chase: US$ 9.375,98**.
-* **🎉 SOBRA ESTIMADA NO CHASE PARA COMPRAS:** **US$ 9.480,85** (de US$ 18.856,83), antes de Lightning Lane e extras.  
-  *(Média de **~US$ 474 por dia** para compras na Sephora, farmácias, outlets, brinquedos e lazer em família nos EUA.)*
-* **Saldo previsto no Chase ao desembarcar (12/12), se nada além do plano for gasto:** **US$ 9.480,85**.
+* **🚗 Aluguel SUV 7 Lugares AVIS (Rentcars `X4X9T9M`):** **US$ 1.116,23** *(100% PAGO e quitado antecipadamente no cartão BR)*.
+* **📉 CUSTOS PENDENTES A SAIR DO CHASE:** **US$ 5.829,07** *(Hotel $2.914,07 + Seguro $210 + Carrinho $130 + SunPass $25 + Alimentação $2.100 + Gasolina/Estac. $450)*.
+* **🎉 SALDO LIVRE LÍQUIDO REAL NO CHASE PARA COMPRAS:** **US$ 8.371,00** *(US$ 14.200,07 em conta − US$ 5.829,07 previstos)*.  
+  *(Média de **~US$ 418 por dia** para compras na Sephora, outlets, eletrônicos, farmácias e extras!)*
+* **💵 CUSTO TOTAL INTEGRAL DA VIAGEM (Tudo Incluso, com Carro Pago):** **US$ 11.620,70** *(~R$ 63.449 na cotação oficial do dia US$ 1 = R$ 5,46)*.
 
-| Item da Viagem | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Observações / Detalhes |
+| Item da Viagem | Status | Valor em Dólar (USD) | Valor em Reais (R$)* | Observações / Detalhes |
 | :--- | :--- | :---: | :---: | :--- |
-| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
-| 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA (CENÁRIO 1)** | **~R$ 16.318** | **US$ 2.914,07** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Pago em Dólar no débito Chase. Café e estacionamento grátis. |
-| 🚗 **Aluguel Carro (19 Dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno. |
-| 🎟️ **Ingressos (7 Parques)** | *02 a 04/11* | ~R$ 26.113 | **US$ 4.663,14** | Undercover Tourist (Disney 4 dias US$ 2.868,14 + Universal 2-em-1 US$ 808 + Epic Universe US$ 648 + SeaWorld US$ 339) para 4 pessoas. Débito Chase. |
-| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
-| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **US$ 210** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Pago no débito Chase. |
-| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | ~R$ 2.660 | **US$ 475** | Estacionamentos parques (SeaWorld/outros) + Gasolina (~US$ 110) + SunPass PRO (~US$ 25). |
-| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **~R$ 11.760** | **US$ 2.100** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Chase + cartão BR (carro)** | **~R$ 58.756** | **US$ 10.492,21** | **Sai do Chase: US$ 9.375,98** (total menos o carro de US$ 1.116,23, já pago no cartão de crédito brasileiro). **Sobra estimada no Chase = US$ 9.480,85**, antes de Lightning Lane e extras. |
+| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **US$ 0 (Milhas)** | **R$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
+| 🚗 **Aluguel Carro (19 Dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno inclusos. |
+| 🎟️ **Ingressos (8 Parques)** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Pago no Undercover Tourist!** (Disney 4 dias US$ 2.868,14 + Universal P2P & Epic US$ 1.440,94 + SeaWorld & Busch Gardens US$ 391,36 − Promo LOYAL20 US$ 25,04). |
+| 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA (CENÁRIO 1)** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Débito Chase. Café quente diário e estacionamento grátis. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **US$ 130,00** | **R$ 709,80** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (05/11)** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Débito Chase. |
+| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | **US$ 475,00** | **R$ 2.593,50** | Estacionamentos (SeaWorld/Busch) + Gasolina (~US$ 150) + SunPass PRO (~US$ 25). |
+| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
+| 💵 **CUSTO TOTAL GERAL DA VIAGEM** | **Integral (Tudo Incluso)** | **US$ 11.620,70** | **R$ 63.449,02** | **Total geral somando o carro quitado e os gastos do Chase.** |
 
-*\*Conversão estimada de referência: US$ 1,00 = R$ 5,60.*
+*\*Conversão oficial do dia: US$ 1,00 = R$ 5,46.*
 
 ---
 

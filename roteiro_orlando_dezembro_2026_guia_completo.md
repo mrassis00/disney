@@ -37,19 +37,15 @@
   * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
   * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
   * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
-* [ ] 🎟️ **Ingressos dos Parques (Disney, Universal/Epic Universe, SeaWorld):** **COMPRA PROGRAMADA PARA 02 A 04 DE NOVEMBRO DE 2026!**  
-  * **Status Financeiro em Tempo Real:**  
-    * *Quinta-feira 29/10:* **Ordem de venda executada com sucesso na Charles Schwab no valor total de US$ 18.856,83** (superando a meta inicial em +US$ 315!).  
-    * *Sexta-feira 30/10:* Liquidação da ordem em T+1 (regra SEC) ➡️ Envio de transferência ACH doméstica gratuita ($0 taxas, $0 IOF) da Schwab para o **Chase Bank**.  
-    * *Segunda 02/11 a Terça 03/11:* Crédito liberado na conta corrente do Chase (*O feriado de 02/11 no Brasil não afeta o FedACH e os bancos americanos, que operam normalmente*).  
-    * *Janela de Compra:* Execução imediata em USD puro com o cartão de débito Chase assim que o saldo constar em conta.  
-  * **A Estratégia Mista Campeã (Segurança + Economia):**  
-    * 🎢 **Universal Orlando (Studios + Islands + Epic Universe):** Compra **DIRETO no Site Oficial da Universal**. Motivo: blindar o acesso garantido ao novo *Epic Universe* (a Universal restringe e controla cotas para revendedores terceiros).  
-    * 🏰 **Disney World (4 Dias Base):** Compra no **Undercover Tourist** (economia real de até US$ 60 por ingresso com taxas da Flórida já inclusas, gerando E-Tickets oficiais diretos) **OU no Site Oficial Disney** (se preferir tudo num só cadastro).  
-    * 🐬 **SeaWorld Orlando (1 Dia):** Compra no **Site Oficial do SeaWorld** (tarifas promocionais diretas).  
-  * **Timing de Mercado (Por que comprar no início de Novembro e NÃO esperar Black Friday?):** Em outubro os parques aplicaram seus aumentos anuais de tabela (diárias de pico em feriados já bateram recorde de até US$ 229). Na alta temporada de Natal/Ano Novo, a Disney e a Universal **NÃO oferecem descontos de Black Friday** para datas de dezembro. Comprar agora entre 02 e 04 de Novembro garante os ingressos do Epic Universe antes do esgotamento das cotas.  
-  * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):** Ingressos vinculados aos apps com **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes da Universal. A família passa direto pelas catracas sem parar em guichês de troca.  
-  * **Agendamento de Filas Rápidas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
+* [x] 🎟️ **Ingressos dos 8 Parques (Disney, Universal/Epic Universe, SeaWorld + Busch Gardens):** **COMPRADOS & QUITADOS NO UNDERCOVER TOURIST (`#248579-110526`)!**  
+  * **Confirmação Oficial do Pedido:** **`248579-110526`** (05/11/2026) | E-Tickets enviados para `marcelo.simul@gmail.com`.  
+  * **Valor Final Pago (Taxes & Fees Inclusos):** **US$ 4.675,40** (Subtotal US$ 4.700,44 − Desconto Cupom `LOYAL20` de US$ 25,04). Economia real de **US$ 900,00** vs. bilheteria + 12 créditos de US$ 20 no *DiningDollars.com*.  
+  * **Pacotes Emitidos para a Família (2 Adultos + 2 Crianças de 3 a 9 anos):**  
+    * 🏰 **Disney World (4-Day Theme Park Base Ticket — US$ 2.868,14):** Válido de **16/12 a 22/12/2026** (16/12 Magic Kingdom, 19/12 Animal Kingdom, 21/12 EPCOT, 22/12 Hollywood Studios).  
+    * 🎢 **Universal Orlando (1-Day Park-to-Park + 1-Day Epic Universe — US$ 1.440,94):** Válido de **14/12 a 17/12/2026** (14/12 Universal Studios + Islands of Adventure com *Hogwarts Express* e 17/12 Universal Epic Universe).  
+    * 🐬 **SeaWorld Orlando & Busch Gardens Tampa (Two-Park Ticket Promo — US$ 391,36):** 1ª visita em **27/12/2026 (SeaWorld Orlando)** e 2ª visita em **29/12/2026 (Busch Gardens Tampa)** (janela de 14 dias corridos após o 1º uso).  
+  * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):** Ingressos vinculados aos apps com **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes da Universal/SeaWorld. A família passa direto pelas catracas sem parar em guichês de troca.  
+  * **Agendamento de Filas Rápidas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque Disney em 16/12).
 * [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
   * **Carrinho Duplo:** Aluguel de **1 Baby Jogger Summit X3 Double com a Lin Rentals por US$ 130** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
   * **Assento de Elevação (Booster da Isabela - 5 anos):** **NÃO ALUGAR (Economia de US$ 64 / R$ 360)!** O booster será **despachado do Brasil no voo 100% GRATUITO** pela United/Delta (itens infantis não contam na franquia de bagagem). Assim, a Isabela viaja segura e 100% legalizada no trajeto noturno de 1h15 do Aeroporto de Tampa até Orlando pela rodovia I-4.
@@ -170,9 +166,19 @@ No domingo, **13 de Dezembro**, a celebração oficial de aniversário do Marcel
 
 ---
 
-## 3. Os 7 Parques/Expedições Selecionados & Roteiros Operacionais
+## 3. Os 8 Parques Selecionados & Roteiros Operacionais (Com Mapas PNG & PDFs)
 
-Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o perfil exato da família), selecionamos a combinação perfeita de 7 parques/expedições que cobrem 100% dos interesses infantis e dos pais sem sobrecarga:
+Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o perfil exato da família), selecionamos a combinação perfeita de **8 parques** que cobrem 100% dos interesses infantis e dos pais sem sobrecarga, com **mapas de alta resolução integrados (PNG/JPG e PDF original)**:
+
+* 🗺️ **Mapa Geral de Mapas e PDFs Integrados:**  
+  * [Magic Kingdom Map (JPG)](maps/magic_kingdom_master_map.jpg) | [Guia PDF Original (MK)](maps/MK_0626_PG-DIGITAL.pdf)  
+  * [Animal Kingdom Map (JPG)](maps/animal_kingdom_flow.jpg) | [Guia PDF Original (AK)](maps/DAK_0526_PG_DIGITAL.pdf)  
+  * [EPCOT Map (JPG)](maps/epcot_park_flow.jpg) | [Guia PDF Original (EPCOT)](maps/EPCOT-guidemap_0726_PG-DIGITAL.pdf)  
+  * [Hollywood Studios Map (JPG)](maps/hollywood_studios_flow.jpg) | [Guia PDF Original (HS)](maps/DHS_052626_PG-KM.pdf)  
+  * [Universal 2-em-1 Map (JPG)](maps/universal_twopark_flow.jpg) | [Universal Studios PDF](maps/universal-studios-florida-park-map_PT.pdf) | [Islands of Adventure PDF](maps/islands-of-adventure-park-map-english.pdf)  
+  * [Epic Universe Map (JPG)](maps/epic_universe_flow.jpg) | [Epic Universe PDF Original](maps/universal-epic-universe-park-map-english.pdf)  
+  * [SeaWorld Orlando Map (JPG)](maps/seaworld_park_map_2026.jpg) | [SeaWorld PDF de Alta Resolução](maps/2420x1895_swo_2026_jan_map-688107_SeaWorld_PDF.jpg)  
+  * [Busch Gardens Tampa Map (PNG/JPG)](maps/busch_gardens_park_map.jpg) | [Busch Gardens Tampa 2000px](maps/2000x1300_Park_Map-659100_Busch.png)
 
 ---
 
@@ -277,8 +283,8 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 ---
 
-### 🪐 PARQUE 3: Universal’s Epic Universe (Sexta, 18/12 — O CIRCUITO DOS 5 PORTAIS)
-* **Por que neste dia?** Sexta-feira da Semana 1 pré-pico de Natal (🟢 **6/10**). Como o parque abriu em maio de 2025, os fluxos já estão estabilizados e a data antes das férias escolares permite aproveitar as novidades com tranquilidade.
+### 🪐 PARQUE 3: Universal’s Epic Universe (Quinta, 17/12 — O CIRCUITO DOS 5 PORTAIS)
+* **Por que neste dia?** Quinta-feira da Semana 1 pré-pico de Natal (🟢 **5/10**), ainda mais vazia que a sexta-feira e perfeitamente dentro da janela de 4 dias do ingresso Universal (14/12 a 17/12), deixando a sexta-feira livre para compras e descanso antes do Animal Kingdom!
 * **Horário de Funcionamento:** Das **09h00 às 21h00** (parque aberto à noite com show de iluminação nas fontes!).
 * **Status Operacional 2026 (Os 5 Mundos Interligados):**
   * 🟢 **Celestial Park (Hub Central):** Fontes dançantes *Astronomica*, carrossel astronômico *Constellation Carousel* e montanha-russa de duelo estelar *Stardust Racers* (com show de LEDs nos trens à noite).
@@ -467,6 +473,10 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 ### 🐬 PARQUE 7: SeaWorld Orlando (Domingo, 27/12 — SHOWS DE ESTÁDIO, SHARKS GRILL & VIDA MARINHA)
 * **Por que neste dia?** Domingo pós-Natal (🟡 **8/10**). Em dias de alta lotação geral em Orlando, **o SeaWorld é a escolha mais inteligente de todas**, pois **85% das experiências principais ocorrem em mega estádios de 4.000 a 5.000 lugares (Orcas e Golfinhos)**, onde a família entra e senta confortavelmente sem enfrentar as filas quilométricas dos brinquedos tradicionais!
+* **Horário de Funcionamento:** Das **09h00 às 19h00**.
+* **Mapas Oficiais Integrados (Originais):**  
+  * 🗺️ **Mapa Visual PNG/JPG:** [maps/seaworld_park_map_2026.jpg](maps/seaworld_park_map_2026.jpg) *(ou [maps/seaworld_park_flow.jpg](maps/seaworld_park_flow.jpg))*  
+  * 📄 **Guia Original em PDF de Alta Resolução:** [maps/2420x1895_swo_2026_jan_map-688107_SeaWorld_PDF.jpg](maps/2420x1895_swo_2026_jan_map-688107_SeaWorld_PDF.jpg)
 * **Status Operacional 2026 (Aberto vs Fechado vs Novidades):**
   * 🟢 **Sharks Underwater Grill and Bar:** O restaurante mais impressionante do parque, com mesas coladas no vidro panorâmico de um aquário gigante cheio de tubarões vivos nadando ao lado das mesas!
   * 🟢 **Mega Shows de Estádio & Natal:** *Orca Encounter* (baleias orcas), *Dolphin Adventures* (golfinhos saltadores), *Sea Lion & Otter Spotlight* e o retorno do emocionante show noturno natalino das orcas **"Miracles"** na *Christmas Celebration*!
@@ -509,6 +519,49 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 ---
 
+### 🦒 PARQUE 8: Busch Gardens Tampa Bay (Terça, 29/12 — NATUREZA AFRICANA, VILA SÉSAMO & ADRENALINA EXTREMA)
+* **Por que neste dia?** Terça-feira entre o Natal e o Ano Novo (🟡 **8/10**). Estratégia perfeita: após um dia de descanso total na segunda (28/12), a família faz o agradável bate-volta de 1h15 pela rodovia I-4 West até Tampa. O Busch Gardens é o parque ideal para a família pois une **o maior safári aberto da Flórida (Serengeti Plain)**, uma **área gigante da Vila Sésamo (Sesame Street Safari of Fun) para as crianças** e as **montanhas-russas mais premiadas do mundo para o Papai Marcelo e a corajosa Isabela**!
+* **Horário de Funcionamento:** Das **10h00 às 19h00**.
+* **Distância & Rota GPS:** Aprox. 115 km (1h15 de viagem do Homewood Suites via I-4 West livre de pedágios).  
+  * 📍 **Endereço:** `10165 N McKinley Dr, Tampa, FL 33612`  
+  * 🚗 **Waze:** [Waze Busch Gardens](https://waze.com/ul?q=10165+N+McKinley+Dr+Tampa+FL)
+* **Mapas Mestres Oficiais Integrados:**  
+  * 🗺️ **Mapa Oficial em Alta Resolução (PNG/JPG):** [maps/busch_gardens_park_map.jpg](maps/busch_gardens_park_map.jpg) *(ou [maps/2000x1300_Park_Map-659100_Busch.png](maps/2000x1300_Park_Map-659100_Busch.png))*  
+  * 📄 **Guia Digital dos Setores:** Marrocos, Bird Gardens, Sesame Street, Stanleyville, Jungala, Congo, Pantopia, Nairobi, Edge of Africa e Serengeti Plain.
+* **Status Operacional 2026 (Atrações em Família & Extremas):**
+  * 🟢 **Serengeti Plain & Serengeti Express Train:** Trem a vapor de 65 acres onde girafas, zebras, avestruzes e rinocerontes pastam soltos ao lado dos trilhos.
+  * 🟢 **Sesame Street Safari of Fun:** Área infantil gigante com a montanha-russa suave *Air Grover* (ideal para crianças), carrossel, brinquedões temáticos e fotos com personagens.
+  * 🟢 **Animal Habitats & Edge of Africa:** Encontros com leões, suricatos, hipopótamos na água, flamingos e área interativa onde é possível caminhar entre cangurus e lêmures (*Bird Gardens & Kangaroos*).
+  * 🟢 **Skyride (Teleférico Panorâmico):** Vista aérea relaxante de toda a savana com as girafas correndo embaixo.
+  * 🟢 **Montanhas-Russas Lendárias do Papai Marcelo & Isabela:**
+    * *Cheetah Hunt:* Montanha-russa de triplo lançamento magnético suave, inspirada na arrancada do guepardo (Isabela 122cm vai com o papai!).
+    * *Iron Gwazi:* A montanha-russa híbrida mais rápida e íngreme do mundo (queda de 91° a 122 km/h — Single Rider rápido do Marcelo!).
+    * *SheiKra:* Queda vertical de 90 graus mergulhando no subsolo com splash d'água.
+    * *Cobra's Curse:* Montanha-russa familiar de elevador vertical que gira para trás e para frente.
+* **Roteiro Cirúrgico Passo a Passo (Família + Radical):**
+  1. **08h15 - Saída do Hotel:** Saída relaxada após o café quente no Hilton pela I-4 West (livre de pedágios). Chegada ao parque às 09h40.
+  2. **10h00 - Entrada no Parque (Morocco & Cheetah Hunt):**
+     * 10h05: Entrada direta escaneando o voucher do Undercover Tourist (`#248579-110526`) no celular.
+     * 10h15: 🐆 **Cheetah Hunt & Cheetah Run:** Assistir aos guepardos velozes. Marcelo e Isabela embarcam na Cheetah Hunt (ou Marcelo faz Single Rider em 10 min).
+  3. **11h00 - 12h00 (Serengeti Express Train & Edge of Africa):**
+     * 11h05: **Serengeti Express Train (Estação Nairobi):** Embarque de toda a família no trem a vapor. As crianças vão fascinadas vendo girafas comendo folhas a poucos metros dos vagões!
+     * 11h40: **Edge of Africa:** Caminhada sombreada vendo leões africanos, suricatos e hipopótamos nadando em aquário transparente.
+  4. **12h15 - 13h15 (Almoço Temático no Zambia Smokehouse):**
+     * 12h15: Almoço no **Zambia Smokehouse** (costelinhas BBQ defumadas, frango assado e pratos infantis com vista para as manobras da SheiKra).
+  5. **13h30 - 15h15 (Sesame Street Safari of Fun & Bird Gardens):**
+     * 13h30: **Sesame Street Safari of Fun:** Isabela e Miguel brincam na montanha-russa *Air Grover*, tiram fotos com Elmo e Big Bird e aproveitam o parquinho sombreado.
+     * 14h30: **Kangaroos & Bird Gardens:** Caminhada tranquila entre os cangurus e wallabies soltos no gramado.
+  6. **15h30 - 16h30 (Pantopia & Teleférico Skyride):**
+     * 15h30: **Skyride (Teleférico Panorâmico):** Voo relaxante nas gôndolas com visão aérea de todo o safári.
+     * 16h00: ⚡ *Momento Radical do Papai (Iron Gwazi ou SheiKra):* Marcelo vai no Single Rider da lendária **Iron Gwazi** e na queda livre da **SheiKra**.
+  7. **17h00:** Comprinhas no *Emporium* marroquino da saída e retorno tranquilo pela I-4 para relaxar na suíte em Orlando.
+* **O que FUNCIONA vs O que NÃO FUNCIONA no Busch Gardens:**
+  * 🟢 **FUNCIONA:** Pegar o trem Serengeti logo pela manhã com os animais mais ativos; aproveitar a Vila Sésamo no início da tarde; usar Single Rider nas montanhas-russas extremas (Gwazi/SheiKra); almoçar costelinha no Zambia Smokehouse.
+  * 🔴 **NÃO FUNCIONA:** Tentar fazer a família inteira andar a pé pelo parque todo debaixo de sol sem pegar o trem ou teleférico; tentar levar o Miguel em brinquedos de looping (mantenha-o no trem e na Vila Sésamo).
+* **Probabilidade de Sucesso:** **🟢 98,0%**.
+
+---
+
 ## 4. Tabela de Gestão de Tempo das Atrações Mandatórias
 
 | Parque | Atração Mandatória | Foco / Quem Vai | Duração da Atração | Fila com Estratégia |
@@ -533,6 +586,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 | **SeaWorld** | *Stingray Lagoon (Tocar Arraias)*| Miguel & Isabela | 25 min | **Zero (Tanque aberto)** |
 | **SeaWorld** | *Shows de Golfinhos e Orcas* | Toda a Família | 25 min cada | **Zero (Chegar 15 min antes)**|
 | **SeaWorld** | *Holiday Reflections (Fogos)* | Toda a Família | 15 min | **Zero (Sobre o lago)** |
+| **Busch Gardens** | *Serengeti Express Train (Savana)* | Toda a Família | 25 min | **5 a 10 min** |
+| **Busch Gardens** | *Sesame Street (Air Grover)* | Miguel & Isabela | 3 min | **5 a 10 min** |
+| **Busch Gardens** | *Cheetah Hunt* | Marcelo & Isabela | 4 min | **15 a 20 min** |
+| **Busch Gardens** | *Iron Gwazi (Radical Extremo)* | Marcelo (Single Rider) | 3 min | **10 a 15 min (Single)** |
+| **Busch Gardens** | *Skyride (Teleférico Panorâmico)* | Toda a Família | 8 min | **5 a 10 min** |
 
 ---
 
@@ -543,8 +601,8 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 * **14/12 (Seg) — 🎡 PARQUE 1: Universal Studios + Islands of Adventure (2 em 1):** **Lotação 🟢 4/10 (Super vazio!)**: **A Casa Mágica da Gabby** na DreamWorks Land, Minions, **Dinossauros do Jurassic Park** e trem Hogwarts Express entre os parques!
 * **15/12 (Ter) — 🏖️ DESCANSO 1: Showcase of Citrus (Clermont) & Suncreek IPA:** Passeio no **Monster Truck gigante 4x4** pelos pomares e pântanos de Clermont ([showcaseofcitrus.com](https://www.showcaseofcitrus.com/)) + almoço com IPAs na **Suncreek Brewery**.
 * **16/12 (Qua) — 🎡 PARQUE 2: Disney's Magic Kingdom (Dia Regular):** **INÍCIO DA JANELA DISNEY 7 DIAS (🟢 6/10)!** Princesas (*Fairytale Hall*), pilotar carros no *Speedway*, montanha-russa dos Sete Anões, doces na Main Street e o lendário show de fogos **Happily Ever After às 20h00** no Castelo!
-* **17/12 (Qui) — 🏖️ DESCANSO 2: Compras no Vineland Outlets & Ford's Garage:** Dormir até mais tarde após os fogos. Outlets com estoques cheios antes do Natal. Cupons VIP (-15% a -25%) e almoço temático no **Ford's Garage**.
-* **18/12 (Sex) — 🎡 PARQUE 3: Universal's Epic Universe:** **VANTAGEM MÁXIMA DA SEMANA 1 (🟢 6/10)!** **Super Nintendo World (Mario Kart e Yoshi)**, Isle of Berk (Como Treinar o Seu Dragão com batalha de canhões d'água e show de teatro) e carrossel estelar.
+* **17/12 (Qui) — 🎡 PARQUE 3: Universal's Epic Universe (2º Uso e Fim da Janela Universal):** **VANTAGEM MÁXIMA DA SEMANA 1 (🟢 5/10)!** **Super Nintendo World (Mario Kart e Donkey Kong)**, Isle of Berk (Como Treinar o Seu Dragão com batalha de canhões d'água e show de teatro) e fontes iluminadas à noite.
+* **18/12 (Sex) — 🏖️ DESCANSO 2: Compras no Vineland Outlets & Ford's Garage:** Dormir até mais tarde. Outlets com estoques cheios antes do Natal. Cupons VIP (-15% a -25%), almoço temático no **Ford's Garage** e descanso para o Safári de sábado.
 * **19/12 (Sáb) — 🎡 PARQUE 4: Disney's Animal Kingdom (Dia Calmo aos Sábados):** **🟢 6/10 — O parque mais tranquilo da Disney aos sábados!** Safári na savana africana, **Bluey & Bingo**, escavação de fósseis de T-Rex no *The Boneyard*, Avatar com Isabela e costelinha no *Flame Tree BBQ*. **Saída relaxada às 15h30** para aproveitar a piscina do hotel!
 * **20/12 (Dom) — 🏖️ DESCANSO 3: DOMINGO DE OURO (Fuga dos Parques):** **Fuga total da superlotação dominical!** **O maior museu de carros e Monster Trucks dos EUA** para Miguel e Marcelo ([dezerlandpark.com](https://dezerlandpark.com/)) + **Ulta Beauty / Sephora** para a mamãe Thalita.
 * **21/12 (Seg) — 🎡 PARQUE 5: Disney's EPCOT:** *(Invertido estrategicamente para fugir do fechamento antecipado do Jollywood Nights no HS!)* **Aquário gigante do Nemo (The Seas com tartarugas/tubarões)**, almoço de massas no *Via Napoli* (Itália), *Ratatouille* em Paris, montanha-russa *Guardians of the Galaxy: Cosmic Rewind*, comidinhas natalinas pelo World Showcase e o emocionante show de fogos noturno **Luminous (~21h00)**.
@@ -553,10 +611,10 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 * **24/12 (Qui) — 🏖️ DESCANSO 5: Véspera de Natal: Spa & Ceia na Suíte:** Manhã de piscina aquecida no hotel. Ceia caseira de Natal em família com troca de presentes sob a árvore.
 * **25/12 (Sex) — 🏖️ DESCANSO 6: Dia de Natal Mágico em Celebration & Passeio em Família:** Fuja do caos dos parques! Manhã tranquila de Natal, almoço especial e tarde/noite em **Celebration** com neve artificial de sabão (*Now Snowing*), carruagens e iluminação natalina.
 * **26/12 (Sáb) — 🏖️ DESCANSO 7: Saldões de Fim de Ano (Boxing Day):** Compras sem pressa com descontos agressivos pós-Natal e tarde relaxante na piscina.
-* **27/12 (Dom) — 🐬 PARQUE 7: SeaWorld Orlando:** Shows de golfinhos e orcas sentados em estádios (zero filas!), almoço no *Sharks Underwater Grill*, **tocar arraias na mão**, pinguins e espetáculos natalinos (**Miracles** e **Holiday Reflections**).
+* **27/12 (Dom) — 🐬 PARQUE 7: SeaWorld Orlando (1º Uso Combo):** Shows de golfinhos e orcas sentados em estádios (zero filas!), almoço no *Sharks Underwater Grill*, **tocar arraias na mão**, pinguins e espetáculos natalinos (**Miracles** e **Holiday Reflections**).
 * **28/12 (Seg) — 🏖️ DESCANSO 8: Tour dos Resorts de Luxo Disney (Gratuito):** Grand Floridian com a casa gigante de pão de gengibre em tamanho real e fogos do Magic Kingdom assistidos na praia de areia branca do Polynesian Resort!
-* **29/12 (Ter) — 🏖️ DESCANSO 9: Celebration Village & Lazer em Família:** Manhã relaxante na piscina do hotel e compras finais em Celebration e I-Drive.
-* **30/12 (Qua) — 🏖️ DESCANSO 10: Despedida em Disney Springs:** Almoço cercado de dinossauros animatrônicos no **T-REX Cafe**, **The Polite Pig (Brisket/IPA)**, compras de laços, LEGO e malas prontas (23 kg).
+* **29/12 (Ter) — 🦒 PARQUE 8: Busch Gardens Tampa (2º Uso Combo):** Bate-volta tranquilo a Tampa! Trenzinho pela savana africana (girafas, zebras, rinocerontes), Vila Sésamo para a Isa e o Miguel, Cangurus, Teleférico e Montanhas-Russas.
+* **30/12 (Qua) — 🏖️ DESCANSO 9: Despedida em Disney Springs:** Almoço cercado de dinossauros animatrônicos no **T-REX Cafe**, **The Polite Pig (Brisket/IPA)**, compras de laços, LEGO e malas prontas (23 kg).
 * **31/12 (Qui) — ✈️ Check-out & Voo de Retorno:** Devolver SUV no aeroporto MCO às 15h30 e embarque no voo Delta DL 1742 às 18h45 rumo ao Brasil!
 
 
@@ -611,23 +669,27 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 Abaixo está o quadro consolidado com os gastos reais já contratados e as previsões orçamentárias detalhadas em Reais (R$) e Dólares (USD):
 
-| Categoria | Status | Valor em Reais (R$) | Valor em Dólar (USD)* | Descrição / Detalhes Operacionais |
-| :--- | :---: | :---: | :---: | :--- |
-| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **R$ 0 (Milhas)** | **US$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
-| 🏨 **Hospedagem (19 noites)** | **CONFIRMADA (CENÁRIO 1)** | **~R$ 16.318** | **US$ 2.914,07** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
-| 🚗 **Aluguel de Veículo (19 dias)** | **CONFIRMADO** | **~R$ 6.250** | **US$ 1.116,23** | **Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
-| 🎟️ **Ingressos Disney (4 Dias Base)** | **COTADO UNDERCOVER** | **~R$ 16.061** | **US$ 2.868,14** | `4-Day Base Ticket` para 4 pessoas (2 adultos + 2 crianças) com início em 16/12 e janela de 7 dias. Economia de US$ 361 garantida! |
-| 🎟️ **Ingressos Universal (2 Dias)** | **COTADO UNDERCOVER** | **~R$ 8.154** | **~US$ 1.456,00** | 1 Dia Park-to-Park (Studios + Islands em 14/12: ~US$ 808) + 1 Dia Epic Universe (em 18/12: ~US$ 648) para 4 pessoas. |
-| 🐬 **Ingressos SeaWorld (1 Dia)** | **COTADO UNDERCOVER** | **~R$ 1.898** | **~US$ 339,00** | 1 Dia Single Day Ticket para 4 pessoas no dia 27/12 com shows de estádio inclusos. |
-| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **~R$ 728** | **US$ 130** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
-| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PROGRAMADO (02-04/11)** | **~R$ 1.176** | **US$ 210** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
-| 🅿️ **Estacionamentos dos Parques** | *Estimado* | ~R$ 1.198 – R$ 1.288 | US$ 214 – US$ 230 | 4 dias Disney (US$ 120) + 2 dias Universal (US$ 64) + 1 dia SeaWorld (US$ 30). |
-| 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **~R$ 140** | **US$ 25** | Compra do transponder portátil SunPass PRO (US$ 14,95) + US$ 10 de saldo. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
-| ⛽ **Combustível Estimado** | *Estimado* | ~R$ 728 – R$ 952 | US$ 130 – US$ 170 | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias. |
-| 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **~R$ 11.760** | **US$ 2.100** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
-| 💵 **TOTAL GERAL PREVISTO DA VIAGEM** | **Chase + cartão BR (carro)** | **~R$ 58.756** | **US$ 10.492,21** | **Sai do Chase: US$ 9.375,98** (total menos o carro de US$ 1.116,23, já pago no cartão de crédito brasileiro). **Sobra estimada no Chase (de US$ 18.856,83) = US$ 9.480,85**, antes de Lightning Lane e extras. |
+### 💵 Posição de Caixa Real no Chase Bank (05/11/2026):
+* **Saldo Disponível em Conta no Chase Hoje:** **US$ 14.200,07** *(já deduzidos os US$ 4.675,40 dos ingressos pagos no Undercover Tourist)*.
+* **Custos Pendentes a Débito no Chase:** **US$ 5.829,07** *(Hotel Hilton US$ 2.914,07 + Seguro US$ 210,00 + Carrinho Lin Rentals US$ 130,00 + SunPass US$ 25,00 + Alimentação US$ 2.100,00 + Gasolina/Estacionamentos US$ 450,00)*.
+* **🎉 Saldo Líquido Restante no Chase para Compras:** **US$ 8.371,00** *(Média de **~US$ 418 por dia** para compras na Sephora, outlets, eletrônicos, farmácias e lazer familiar)*.
+* **💵 Custo Total Geral da Viagem (Integral com Carro Quitado):** **US$ 11.620,70** *(~R$ 63.449 na cotação oficial do dia US$ 1,00 = R$ 5,46)*.
 
-*\*Conversão de referência estimada: US$ 1,00 = R$ 5,60.*
+| Categoria | Status | Valor em Dólar (USD) | Valor em Reais (R$)* | Descrição / Detalhes Operacionais |
+| :--- | :---: | :---: | :---: | :--- |
+| ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **US$ 0 (Milhas)** | **R$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
+| 🚗 **Aluguel de Veículo (19 dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
+| 🎟️ **Ingressos dos 8 Parques** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Comprado no Undercover Tourist!** (Disney 4d US$ 2.868,14 + Universal 2d US$ 1.440,94 + SeaWorld & Busch US$ 391,36 − Promo LOYAL20 US$ 25,04). Economia de US$ 900 vs. bilheteria! |
+| 🏨 **Hospedagem (19 noites)** | **CONFIRMADA (CENÁRIO 1)** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **US$ 130,00** | **R$ 709,80** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
+| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PROGRAMADO (05/11)** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
+| 🅿️ **Estacionamentos dos Parques** | *Estimado* | **US$ 225,00** | **R$ 1.228,50** | Estacionamentos (SeaWorld/Busch Gardens) + eventuais extras. |
+| 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **US$ 25,00** | **R$ 136,50** | Compra do transponder portátil SunPass PRO (US$ 14,95) + saldo recarga. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
+| ⛽ **Combustível Estimado** | *Estimado* | **US$ 225,00** | **R$ 1.228,50** | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias incluindo bate-volta a Tampa. |
+| 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
+| 💵 **CUSTO TOTAL GERAL DA VIAGEM** | **Integral (Tudo Incluso)** | **US$ 11.620,70** | **R$ 63.449,02** | **Custo total da viagem somando o carro quitado e as despesas em USD.** |
+
+*\*Conversão oficial do dia: US$ 1,00 = R$ 5,46.*
 
 ---
 

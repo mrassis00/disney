@@ -844,22 +844,24 @@
 
         <div class="finance-metrics">
           <div class="metric-box">
-            <div class="metric-label">Inflow Schwab Total</div>
-            <div class="metric-value val-neutral">$18.856,83</div>
+            <div class="metric-label">Saldo em Conta Chase Hoje</div>
+            <div class="metric-value val-neutral">$14.200,07</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Ingressos ($4.675,40) já pagos e liquidados</div>
           </div>
           <div class="metric-box">
-            <div class="metric-label">Custos no Chase</div>
-            <div class="metric-value" style="color: var(--accent-coral);">$9.375,98</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Total da viagem $10.492,21 − carro $1.116,23 (pago no cartão BR)</div>
+            <div class="metric-label">Custos Pendentes no Chase</div>
+            <div class="metric-value" style="color: var(--accent-coral);">$5.829,07</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Hotel $2.914,07 + Seguro $210 + Despesas $2.705</div>
           </div>
           <div class="metric-box">
             <div class="metric-label">Saldo Livre / Compras</div>
-            <div class="metric-value val-positive">$9.480,85</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Estimativa, antes de Lightning Lane e extras</div>
+            <div class="metric-value val-positive">$8.371,00</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Livre no Chase pós-custos previstos</div>
           </div>
           <div class="metric-box">
             <div class="metric-label">Budget Médio Diário</div>
-            <div class="metric-value val-gold">~$474 / dia</div>
+            <div class="metric-value val-gold">~$418 / dia</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Total viagem: $11.620,70 (c/ carro pago)</div>
           </div>
         </div>
       </div>
@@ -929,8 +931,8 @@
         </div>
       </div>
 
-      <!-- Grid dos 7 Parques -->
-      <h2 style="font-size: 1.25rem; font-weight: 700; margin: 26px 0 14px 0;">🎢 Roteiro Cirúrgico dos 7 Parques</h2>
+      <!-- Grid dos 8 Parques -->
+      <h2 style="font-size: 1.25rem; font-weight: 700; margin: 26px 0 14px 0;">🎢 Roteiro Cirúrgico dos 8 Parques (Quitados #248579-110526)</h2>
       <div class="parks-grid">
 
         <div class="park-card" onclick="navigateTo('tab-universal')">
@@ -977,7 +979,7 @@
           </div>
           <div class="park-body">
             <div>
-              <div class="park-date">Sexta, 18 de Dezembro</div>
+              <div class="park-date">Quinta, 17 de Dezembro</div>
               <div class="park-title">Universal Epic Universe</div>
               <div style="font-size: 0.8rem; color: var(--text-muted);">
                 Super Nintendo (Donkey Kong & Toad Cafe), Como Treinar seu Dragão, Dark Universe e Fontes Noturnas.
@@ -985,7 +987,7 @@
             </div>
             <div class="park-meta">
               <span>⏰ 09h00 - 19h30</span>
-              <span class="prob-tag">🟢 96,8% Sucesso</span>
+              <span class="prob-tag">🟢 97,5% Sucesso</span>
             </div>
           </div>
         </div>
@@ -1062,6 +1064,25 @@
             <div class="park-meta">
               <span>⏰ 09h00 - 19h00</span>
               <span class="prob-tag">🟢 98,5% Sucesso</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="park-card" onclick="navigateTo('tab-buschgardens')">
+          <div class="park-header" style="background-image: url('maps/busch_gardens_park_map.jpg');">
+            <span class="park-badge" style="background: rgba(217, 119, 6, 0.85); color: #fff;">Busch Gardens Tampa</span>
+          </div>
+          <div class="park-body">
+            <div>
+              <div class="park-date">Terça, 29 de Dezembro</div>
+              <div class="park-title">Busch Gardens Tampa Bay</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">
+                Trenzinho Serengeti Express (girafas e zebras), Vila Sésamo, Cangurus, Teleférico e Montanhas-Russas.
+              </div>
+            </div>
+            <div class="park-meta">
+              <span>⏰ 10h00 - 19h00</span>
+              <span class="prob-tag">🟢 98,0% Sucesso</span>
             </div>
           </div>
         </div>
@@ -1521,20 +1542,24 @@
           </div>
         </div>
 
-        <div class="check-card" data-phase="fase1" id="card-c3">
+        <div class="check-card completed" data-phase="fase1" id="card-c3">
           <div class="check-header">
-            <div class="custom-checkbox" onclick="toggleTask('c3')"></div>
+            <div class="custom-checkbox checked" onclick="toggleTask('c3')"></div>
             <div class="check-main">
-              <div class="check-title" onclick="toggleTask('c3')">3. Comprar Ingressos Base no Undercover Tourist</div>
-              <div class="check-desc">Disney 4-Day, Universal 2-in-1, Epic Universe e SeaWorld. Total: ~$4.664.</div>
+              <div class="check-title" onclick="toggleTask('c3')">3. Ingressos dos 8 Parques Comprados no Undercover Tourist (#248579-110526)</div>
+              <div class="check-desc">Disney 4-Day ($2.868,14), Universal P2P + Epic ($1.440,94), SeaWorld + Busch Gardens ($391,36) − Cupom LOYAL20 ($25,04). Total Pago: $4.675,40.</div>
               <div class="check-actions">
-                <span class="tag tag-blue">Fase 1</span>
-                <span class="tag tag-green">Economia de R$ 2.100</span>
-                <button class="btn-detail" onclick="toggleDetails('det-c3')">Instruções ▾</button>
+                <span class="tag tag-green">Quitado • Pedido #248579-110526</span>
+                <span class="tag tag-gold">Economia de US$ 900</span>
+                <button class="btn-detail" onclick="toggleDetails('det-c3')">Detalhes & Pedido ▾</button>
                 <button class="btn-skip" onclick="skipTask('c3')">Pular</button>
               </div>
               <div id="det-c3" class="check-details-body">
-                Compre no início de novembro. Vincule imediatamente os números de confirmação no app <em>My Disney Experience</em> e no app da Universal.
+                <strong>Pedido Oficial Undercover Tourist:</strong> <code>248579-110526</code> (E-Tickets enviados para <code>marcelo.simul@gmail.com</code>).<br>
+                • <strong>Disney 4-Day Base:</strong> Janela 16/12 a 22/12/2026 (MK 16/12, AK 19/12, EPCOT 21/12, HS 22/12).<br>
+                • <strong>Universal 2-Day (P2P + Epic):</strong> Janela 14/12 a 17/12/2026 (Studios+Islands 14/12 e Epic Universe 17/12).<br>
+                • <strong>SeaWorld + Busch Gardens:</strong> 27/12 (SeaWorld) e 29/12 (Busch Gardens Tampa).<br>
+                Vincule os números de confirmação no app <em>My Disney Experience</em> e no app da Universal.
               </div>
             </div>
           </div>
@@ -2129,7 +2154,7 @@
     <div id="tab-epic" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">Epic Universe (Sex 18/12)</h2>
+        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">Epic Universe (Qui 17/12)</h2>
         <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/epic_universe_flow.jpg" alt="Epic"></div>
         <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
           Mario Kart AR & Donkey Kong Mine-Cart no Super Nintendo World ➔ Lanche no Toadstool Cafe ➔ Show Untrainable Dragon na Isle of Berk ➔ Harry Potter Battle at the Ministry ➔ Stardust Racers (Marcelo) ➔ Show das fontes iluminadas às 19h00.
@@ -2173,15 +2198,160 @@
       </div>
     </div>
 
-    <!-- SEAWORLD -->
+    <!-- SEAWORLD ORLANDO -->
     <div id="tab-seaworld" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-marine);">SeaWorld Orlando (Dom 27/12)</h2>
-        <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/seaworld_park_flow.jpg" alt="SeaWorld"></div>
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
-          Montanha-russa na neve Penguin Trek ➔ Show das Orcas ➔ Almoço espetacular no Sharks Underwater Grill colado aos tubarões ➔ Golfinhos Dolphin Adventures ➔ Mako (Marcelo Single Rider).
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-marine);">🐬 SeaWorld Orlando</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Domingo, 27 de Dezembro de 2026 • Shows de Estádio & Almoço com Tubarões</div>
+          </div>
+          <div style="display: flex; gap: 6px;">
+            <a href="maps/2420x1895_swo_2026_jan_map-688107_SeaWorld_PDF.jpg" target="_blank" class="tag tag-blue" style="text-decoration: none; padding: 6px 10px;">📄 Mapa HD</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/seaworld_park_map_2026.jpg" alt="Mapa SeaWorld 2026"></div>
+      </div>
+
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h05</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">1. Stingray Lagoon & Dolphin Nursery</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Tocar arraias mansas na água e ver filhotinhos de golfinho nadando com as mamães.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">2. Dolphin Adventures (Estádio Sombreado)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Acrobacias espetaculares de golfinhos com araras sobrevoando a plateia. Zero fila!</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">3. Almoço com Tubarões no Sharks Underwater Grill</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Mesa colada ao vidro panorâmico de tubarões gigantes. O sonho do Miguel!</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">4. Sesame Street Land & Manatee Rescue</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Vila Sésamo colorida, fotos com Elmo e trenzinho Choo Choo Train para as crianças.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">5. Orca Encounter (Estádio das Baleias)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Assentos intermediários secos para ver as orcas gigantes saltando sem se molhar no frio.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">16h35</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">6. Penguin Trek & Shark Realm</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">Montanha-russa na neve até os pinguins reais + túnel 360° cercado por tubarões.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">17h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">7. Mako Hipercoaster (Marcelo Single Rider)</span><span class="step-prob">96% Sucesso</span></div>
+          <div class="step-details">A mais alta e rápida de Orlando feita em 12 minutos via Single Rider.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BUSCH GARDENS TAMPA -->
+    <div id="tab-buschgardens" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">🦒 Busch Gardens Tampa Bay</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Terça, 29 de Dezembro de 2026 • Savana Africana, Vila Sésamo & Montanhas-Russas</div>
+          </div>
+          <div style="display: flex; gap: 6px;">
+            <a href="https://waze.com/ul?q=10165+N+McKinley+Dr+Tampa+FL" target="_blank" class="tag tag-blue" style="text-decoration: none; padding: 6px 10px;">🚗 Waze Tampa</a>
+            <a href="maps/busch_gardens_park_map.jpg" target="_blank" class="tag tag-gold" style="text-decoration: none; padding: 6px 10px;">🗺️ Mapa HD</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/busch_gardens_park_map.jpg" alt="Mapa Busch Gardens Tampa"></div>
+      </div>
+
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">1. Cheetah Hunt & Cheetah Run</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Assistir à corrida dos guepardos. Marcelo e Isabela (122cm) na montanha-russa suave de triplo disparo.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h05</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">2. Serengeti Express Train (Savana Africana)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Toda a família a bordo do trem a vapor vendo girafas, zebras e rinocerontes soltos a poucos metros!</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">3. Edge of Africa: Leões, Suricatos & Hipos</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Caminhada fresca vendo leões descansando na sombra e hipopótamos gigantes nadando na água.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">4. Almoço BBQ no Zambia Smokehouse</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Costelinhas BBQ defumadas e frango com vista privilegiada para o mergulho vertical da SheiKra.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">5. Sesame Street Safari of Fun & Cangurus</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Montanha-russa infantil Air Grover, parquinhos com Elmo e caminhada entre cangurus australianos soltos.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">6. Skyride (Teleférico Panorâmico)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Gôndolas sobrevoando o safári da planície africana com visão aérea de todo o parque.</div>
+        </div>
+      </div>
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">16h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">7. Iron Gwazi & SheiKra (Momento Papai Radical)</span><span class="step-prob">96% Sucesso</span></div>
+          <div class="step-details">Marcelo encara a queda de 91° da Iron Gwazi e o mergulho de 90° da SheiKra em Single Rider.</div>
+        </div>
       </div>
     </div>
 
@@ -2237,7 +2407,7 @@
       else if (tabId === 'tab-voos') document.querySelectorAll('.nav-btn')[1].classList.add('active');
       else if (tabId === 'tab-hospedagem') document.querySelectorAll('.nav-btn')[2].classList.add('active');
       else if (tabId === 'tab-checklist') document.querySelectorAll('.nav-btn')[3].classList.add('active');
-      else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld'].includes(tabId)) {
+      else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld', 'tab-buschgardens'].includes(tabId)) {
         document.querySelectorAll('.nav-btn')[4].classList.add('active');
       } else if (tabId === 'tab-reservas') document.querySelectorAll('.nav-btn')[5].classList.add('active');
       else if (tabId === 'tab-manual') document.querySelectorAll('.nav-btn')[6].classList.add('active');
