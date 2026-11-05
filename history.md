@@ -2245,3 +2245,23 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   - **Seguro IMG:** Selecionar franquia de US$ 100 para garantir copay de US$ 25 no *MD Now Urgent Care*.
   - **Checklist Passo a Passo:** Pronto para guiar o usuário site por site a partir de agora.
 
+---
+
+## 💬 Interação 70 (Protocolo de Reinicialização da Máquina e Gatilho Restart)
+
+### 👤 Solicitação do Usuário:
+> "vou resetar o computador, quando eu digitar a palavra restart quero voltar exatamente neste ponto e quero que execute o texto 'Pode aplicar todas as trocas e oficializar novo roteiro como atualizado. Alem disto, pode apagar a versao PDF dos roteiros que esta aqui na pasta, so quero os HTMLs para usar no WebApp. Depois deste interacao vou nos sites e vou um a um para confirmar se tem algo de errado, favor me guiar desde do voo ate todas as etapas.'"
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **Status Congelado & Garantido:**
+  1. Os PDFs de roteiro (`resumo_executivo_roteiro_orlando_celular.pdf` e `roteiro_orlando_dezembro_2026_guia_completo.pdf`) já foram deletados com sucesso da pasta do projeto.
+  2. A troca dos dias **21/12 (EPCOT)** e **22/12 (Hollywood Studios)** está validada e pronta para aplicação nos cards de visualização do `app_roteiro_orlando.html` e `index.html`.
+  3. Todo o histórico e progresso estão salvos localmente e versionados no Git.
+* **Gatilho de Retorno (`restart`):**
+  - Ao reiniciar e enviar a mensagem **`restart`**, o assistente irá:
+    1. Confirmar imediatamente o reinício e o acolhimento do comando.
+    2. Aplicar a troca 21/12 (EPCOT) e 22/12 (Hollywood Studios) diretamente no Web App (`app_roteiro_orlando.html` e `index.html`).
+    3. Recompilar os arquivos e fazer o push para o GitHub Pages.
+    4. Iniciar o guiamento passo a passo em cada site (Voos ➔ AVIS ➔ Homewood Suites ➔ Undercover Disney ➔ Universal/Epic ➔ SeaWorld ➔ Seguro IMG).
+
+
