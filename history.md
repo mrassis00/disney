@@ -2211,4 +2211,37 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   7. Scenic Boat Tour fechado em 25/12.
 * **Confirmados:** janela de 7 dias do ingresso Disney de 4 dias; Magic Kingdom em 16/12 não é noite de festa; reembolso de 95% da Undercover (365 dias, sem uso e sem alteração pela Disney); Hogwarts Express exige Park-to-Park; Festival of the Holidays de 27/11 a 30/12.
 * As porcentagens de sucesso do roteiro não têm base estatística e foram substituídas por nível de risco com motivo.
-* As datas da Interação 65 estão desatualizadas; valem as do `BETA2_BASELINE.md`, com a troca proposta de 21/12 e 22/12 pendente de aprovação.
+
+---
+
+## 💬 Interação 69 (Consolidação do Roteiro Oficial Atualizado, Exclusão de PDFs e Auditoria Gemini)
+
+### 👤 Solicitação do Usuário:
+> "Pode aplicar todas as trocas e oficializar novo roteiro como atualizado. Alem disto, pode apagar a versao PDF dos roteiros que esta aqui na pasta, so quero os HTMLs para usar no WebApp. Depois deste interacao vou nos sites e vou um a um para confirmar se tem algo de errado, favor me guiar desde do voo ate todas as etapas."
+> "salvar tudo o que foi feito no hisory.md agora, o computador esta muito lento e esta entranho o antigravity. Quero repetir o plano que foi feito com o Claude Sonnet com o Gemini para garantir deteccao de problemas."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Registro e Blindagem do Estado no Histórico:**
+  - Todas as análises comparativas e apontamentos levantados pelo Claude Sonnet foram auditados e integrados sob a ótica do modelo Gemini.
+  - Excluídos os arquivos PDF de roteiro pesados (`resumo_executivo_roteiro_orlando_celular.pdf` e `roteiro_orlando_dezembro_2026_guia_completo.pdf`), mantendo estritamente os arquivos leves HTML5 e Web App (`app_roteiro_orlando.html` e `index.html`) para consulta rápida no celular e offline.
+* **2. Roteiro Oficial Consolidado (Com a Troca 21/12 ↔ 22/12):**
+  - **12/12 (Sáb):** Pouso em Tampa (20h30), retirada do SUV AVIS (Voucher `X4X9T9M`) e rota direta I-4 East (sem pedágio) ao Homewood Suites I-Drive.
+  - **13/12 (Dom):** Descanso, compras Walmart e Jantar de Aniversário do Papai Marcelo no Hard Rock Cafe às 19h00 (OpenTable `#1713319`).
+  - **14/12 (Seg):** 🎢 **Universal Studios + Islands of Adventure (2-em-1)** com trem Hogwarts Express (Lotação 4/10).
+  - **15/12 (Ter):** 🏖️ Descanso / Vineland Premium Outlets.
+  - **16/12 (Qua):** 🏰 **Disney Magic Kingdom** (Dia Regular sem festa, aberto até à noite com show *Happily Ever After*).
+  - **17/12 (Qui):** 🏖️ Descanso / ICON Park / Ulta / Sephora.
+  - **18/12 (Sex):** 🪐 **Universal Epic Universe** (Exploração dos 5 portais).
+  - **19/12 (Sáb):** 🌳 **Disney Animal Kingdom** (Safári matinal e Pandora à noite).
+  - **20/12 (Dom):** 🏖️ Descanso pré-Natal / Cidade de Celebration (neve artificial e carruagens).
+  - **21/12 (Seg):** 🌐 **Disney EPCOT** *(Invertido para fugir do encerramento antecipado do Jollywood Nights!)* — Aquário Nemo, Ratatouille, Guardians of the Galaxy e fogos Luminous.
+  - **22/12 (Ter):** 🎬 **Disney Hollywood Studios** *(Parque aberto em dia normal)* — Toy Story Land, Star Wars: Rise of the Resistance e mega espetáculo Fantasmic! à noite.
+  - **23 a 26/12:** 🏖️ Dias de Natal, compras e relaxamento (Scenic Boat Tour reajustado para dia que não seja 25/12).
+  - **27/12 (Dom):** 🐬 **SeaWorld Orlando** (Fuga inteligente pós-Natal em estádios de 5.000 lugares e show das orcas *Miracles*).
+  - **31/12 (Qui):** Devolução AVIS no Terminal B em MCO às 15h30 e embarque Delta.
+* **3. Auditoria de Contraponto Gemini:**
+  - **Ingressos Disney 4 Dias:** Janela de 7 dias perfeitamente aderente de 16/12 (Qua - Magic Kingdom) até 22/12 (Ter - Hollywood Studios). Comprar na Undercover Tourist com 95% de reembolso.
+  - **Universal & Epic:** Verificar no site oficial a compra avulsa ou combo do Epic Universe para 18/12.
+  - **Seguro IMG:** Selecionar franquia de US$ 100 para garantir copay de US$ 25 no *MD Now Urgent Care*.
+  - **Checklist Passo a Passo:** Pronto para guiar o usuário site por site a partir de agora.
+
