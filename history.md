@@ -2264,4 +2264,26 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
     3. Recompilar os arquivos e fazer o push para o GitHub Pages.
     4. Iniciar o guiamento passo a passo em cada site (Voos ➔ AVIS ➔ Homewood Suites ➔ Undercover Disney ➔ Universal/Epic ➔ SeaWorld ➔ Seguro IMG).
 
+---
+
+## 💬 Interação 71 (Execução do Protocolo Restart: Aplicação Oficial de Todas as Trocas, Limpeza de PDFs & Guiamento Completo)
+
+### 👤 Solicitação do Usuário:
+> `restart` (Executando comando engatilhado: *"Pode aplicar todas as trocas e oficializar novo roteiro como atualizado. Alem disto, pode apagar a versao PDF dos roteiros que esta aqui na pasta, so quero os HTMLs para usar no WebApp. Depois deste interacao vou nos sites e vou um a um para confirmar se tem algo de errado, favor me guiar desde do voo ate todas as etapas."*)
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Aplicação Integral de Todas as Trocas (No Guia Completo, Resumo Executivo e Web App PWA):**
+  - **Troca 21/12 ↔ 22/12:** Oficializado **EPCOT na Segunda, 21/12** e **Hollywood Studios na Terça, 22/12** (fugindo do encerramento antecipado às 19h da festa *Disney Jollywood Nights* em 21/12 e garantindo o *Fantasmic!* e o parque completo em 22/12).
+  - **Reserva Via Napoli (EPCOT):** Atualizada no módulo Gourmet do App para **Segunda, 21/12 às 12h15** (janela de 60 dias já aberta).
+  - **Natal (23/12 e 25/12):** *Scenic Boat Tour* de Winter Park movido para Quarta 23/12 (já que fecha em 25/12), deixando Sexta 25/12 para almoço natalino na Park Ave e tarde/noite mágica em Celebration com neve de sabão.
+  - **Conexão IAD / Museu Udvar-Hazy:** Atualizado com o aviso de que o museu Smithsonian não possui armários públicos (levar apenas mochilas leves) e alerta sobre a regra de assentos infantis da Virgínia (< 8 anos).
+  - **Hollywood Studios & SeaWorld:** Textos de atrações atualizados (*Indiana Jones* sem a cena da pedra rolante, inclusão de *Rock 'n' Roller Coaster Starring The Muppets* reaberta em maio/2026, e destaque do show noturno de orcas *Miracles* no SeaWorld).
+  - **Seguro IMG Patriot America Plus:** Fixada a recomendação de **franquia de US$ 100** para ativar a regra de copay fixo de US$ 25 no Urgent Care.
+* **2. Exclusão Definitiva dos PDFs de Roteiro:**
+  - Removidos `roteiro_orlando_dezembro_2026_guia_completo.pdf` e `resumo_executivo_roteiro_orlando_celular.pdf`, e desativada a geração automática de PDFs no `build_html.ps1`.
+  - Mantidos exclusivamente os HTMLs leves (`roteiro_orlando_dezembro_2026_guia_completo.html`, `resumo_executivo_roteiro_orlando_celular.html`, `app_roteiro_orlando.html` e `index.html`) com Service Worker atualizado para `orlando-2026-v5`.
+* **3. Roteiro Guiado Etapa por Etapa (Do Voo até os Ingressos e Seguro):**
+  - Entregue o roteiro sequencial completo de conferência e compra site por site.
+
+
 

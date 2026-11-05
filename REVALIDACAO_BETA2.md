@@ -119,3 +119,4 @@ As porcentagens antigas (98,4%, 99,2% etc.) **não têm base estatística**; era
 - Se o IMG tem atendimento 24h em português (o app diz que sim; não confirmei).
 - Regras de acesso a resorts da Disney para quem não é hóspede (relevante para o passeio de 27/12 pelo Grand Floridian).
 - Se não é preciso reserva de parque nos ingressos de 2026 (Disney e Universal).
+

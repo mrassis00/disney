@@ -212,32 +212,6 @@ $css
 $dir = $PSScriptRoot
 Convert-MdFile "$dir\resumo_executivo_roteiro_orlando_celular.md" "$dir\resumo_executivo_roteiro_orlando_celular.html" "Orlando 2026 - Resumo Executivo para Celular"
 Convert-MdFile "$dir\roteiro_orlando_dezembro_2026_guia_completo.md" "$dir\roteiro_orlando_dezembro_2026_guia_completo.html" "Orlando 2026 - Guia Definitivo e Roteiro Completo"
+# Geração de PDFs desativada por solicitação do usuário (apenas HTMLs leves para o WebApp)
 
-# Gerar PDFs via Edge/Chrome
-function Generate-Pdf($htmlPath, $pdfPath) {
-    $browser = $null
-    if (Test-Path "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe") {
-        $browser = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
-    } elseif (Test-Path "C:\Program Files\Google\Chrome\Application\chrome.exe") {
-        $browser = "C:\Program Files\Google\Chrome\Application\chrome.exe"
-    }
-
-    if ($browser) {
-        $tempDir = Join-Path $env:TEMP "browser_pdf_$([System.IO.Path]::GetRandomFileName())"
-        New-Item -ItemType Directory -Path $tempDir -Force | Out-Null
-        $resolvedHtml = (Resolve-Path $htmlPath).Path.Replace('\', '/')
-        $proc = Start-Process -FilePath $browser -ArgumentList "--headless=new", "--disable-gpu", "--no-sandbox", "--no-pdf-header-footer", "--user-data-dir=`"$tempDir`"", "--print-to-pdf=`"$pdfPath`"", "`"file:///$resolvedHtml`"" -PassThru
-        $proc.WaitForExit(20000)
-        Remove-Item -Path $tempDir -Recurse -Force -ErrorAction SilentlyContinue
-        if (Test-Path $pdfPath) {
-            Write-Output "PDF Atualizado: $pdfPath ($((Get-Item $pdfPath).Length) bytes)"
-        }
-    }
-}
-
-Generate-Pdf "$dir\resumo_executivo_roteiro_orlando_celular.html" "$dir\resumo_executivo_roteiro_orlando_celular.pdf"
-Generate-Pdf "$dir\roteiro_orlando_dezembro_2026_guia_completo.html" "$dir\roteiro_orlando_dezembro_2026_guia_completo.pdf"
-if (Test-Path "$dir\VENDAHOJE.html") {
-    Generate-Pdf "$dir\VENDAHOJE.html" "$dir\VENDAHOJE.pdf"
-}
 
