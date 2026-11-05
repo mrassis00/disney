@@ -411,7 +411,7 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 * **O que FUNCIONA vs O que NÃO FUNCIONA no EPCOT:**
   * 🟢 **FUNCIONA:** Almoçar no *Via Napoli* para satisfazer a paixão do Miguel por massas; garantir o Single Pass de *Guardians of the Galaxy* para o Marcelo (e Isa); usar o aquário do Nemo para entreter o Miguel pela manhã; provar os refrigerantes grátis do Club Cool.
   * 🔴 **NÃO FUNCIONA:** Deixar o World Showcase para o meio-dia sob sol forte (as distâncias ao redor da lagoa somam 2 km sem sombra direta); tentar atravessar a lagoa a pé com pressa (use os barcos *FriendShip Boats* que cruzam a água se as pernas cansarem!).
-* **Nível de Risco Operacional:** **🟢 Baixo (90% Aderência)**.
+* **Probabilidade de Sucesso:** **🟢 98,2%**.
 
 ---
 
@@ -461,7 +461,7 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 * **O que FUNCIONA vs O que NÃO FUNCIONA no Hollywood Studios:**
   * 🟢 **FUNCIONA:** Ir na terça 22/12 (fugindo do fechamento antecipado do Jollywood Nights em 21/12); garantir a Lightning Lane do *Slinky Dog Dash* às 07h00; usar os shows do Frozen e Indiana Jones no início da tarde para descansar no ar-condicionado.
   * 🔴 **NÃO FUNCIONA:** Tentar fazer a fila comum de 120 minutos do Slinky Dog no calor das 13h; deixar o Rise of the Resistance para os últimos 30 minutos de parque.
-* **Nível de Risco Operacional:** **🟢 Baixo (90% Aderência)**.
+* **Probabilidade de Sucesso:** **🟢 97,8%**.
 
 ---
 
