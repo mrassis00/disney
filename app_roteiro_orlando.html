@@ -832,108 +832,16 @@
     <!-- ========================================== -->
     <div id="tab-dashboard" class="tab-view active">
 
-      <!-- Card Financeiro Vivo -->
-      <div class="finance-banner">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-          <h2 style="font-size: 1.25rem; font-weight: 700;">📊 Gestão Financeira ao Vivo</h2>
-          <span class="tag tag-gold">Conta Chase EUA</span>
+      <!-- Grid dos 8 Parques (NO TOPO DO APP) -->
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+        <div>
+          <h2 style="font-size: 1.35rem; font-weight: 800; color: var(--accent-blue);">🎢 Roteiro Cirúrgico dos 8 Parques</h2>
+          <div style="font-size: 0.8rem; color: var(--text-muted);">Ingressos 100% Quitados (#248579-110526) • Toque para ver o mapa e a rota com horários</div>
         </div>
-        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
-          Depósito via ACH da Charles Schwab liquidado sem IOF. Saldo em dólar pronto no débito e Apple Pay.
-        </p>
-
-        <div class="finance-metrics">
-          <div class="metric-box">
-            <div class="metric-label">Saldo em Conta Chase Hoje</div>
-            <div class="metric-value val-neutral">$14.200,07</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Ingressos ($4.675,40) já pagos e liquidados</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Custos Pendentes no Chase</div>
-            <div class="metric-value" style="color: var(--accent-coral);">$5.829,07</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Hotel $2.914,07 + Seguro $210 + Despesas $2.705</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Saldo Livre / Compras</div>
-            <div class="metric-value val-positive">$8.371,00</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Livre no Chase pós-custos previstos</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Budget Médio Diário</div>
-            <div class="metric-value val-gold">~$418 / dia</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Total viagem: $11.620,70 (c/ carro pago)</div>
-          </div>
-        </div>
+        <span class="tag tag-green" style="font-size: 0.8rem;">8 Parques Quitados</span>
       </div>
 
-      <!-- Card Rápido de Voos, Carro & Hotel Oficial -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 20px;">
-        
-        <!-- Voo -->
-        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-blue);">
-          <div style="display: flex; justify-content: space-between; align-items: center;">
-            <h3 style="font-size: 1.05rem; font-weight: 700;">✈️ Voo de Ida & Conexão</h3>
-            <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Voos ➔</span>
-          </div>
-          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
-            <strong>GRU ➔ IAD (United UA 860):</strong> Sex 11/12 22h25.<br>
-            <strong>Conexão dos Sonhos:</strong> Museu da NASA (Ônibus Espacial Discovery) a 10 min de Uber.<br>
-            <strong>IAD ➔ Tampa (UA 1140):</strong> Pouso às 20h30.
-          </p>
-        </div>
-
-        <!-- Carro SUV Quitado -->
-        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-green);">
-          <div style="display: flex; justify-content: space-between; align-items: center;">
-            <h3 style="font-size: 1.05rem; font-weight: 700;">🚗 SUV 7 Lugares Quitado</h3>
-            <span class="tag tag-green" onclick="navigateTo('tab-carro')" style="cursor: pointer;">Ver Voucher ➔</span>
-          </div>
-          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
-            <strong>Chevrolet Traverse ou SUV Similar (AVIS)</strong><br>
-            📄 Voucher Rentcars: <code style="color: var(--accent-gold); font-weight: 700;">X4X9T9M</code> (Cartão BR Quitado)<br>
-            🛫 Retirada TPA (12/12) ➔ 🛬 Devolução MCO (31/12). CDW + US$ 1M Danos a Terceiros inclusos!
-          </p>
-        </div>
-
-        <!-- Hotel Homewood Suites -->
-        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-gold);">
-          <div style="display: flex; justify-content: space-between; align-items: center;">
-            <h3 style="font-size: 1.05rem; font-weight: 700;">🏨 Hotel Oficial Confirmado</h3>
-            <span class="tag tag-gold" onclick="navigateTo('tab-hospedagem')" style="cursor: pointer;">Ver Hotel & Waze ➔</span>
-          </div>
-          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
-            <strong>Homewood Suites by Hilton I-Drive Convention Center</strong><br>
-            📍 6435 Westwood Blvd, Orlando, FL 32821.<br>
-            ☕ Café buffet quente Hilton grátis • 🚗 Estacionamento 100% grátis!
-          </p>
-        </div>
-
-      </div>
-
-      <!-- Checklist Master Progress -->
-      <div class="glass-card">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-          <div>
-            <h2 style="font-size: 1.2rem; font-weight: 700;">✅ Checklist Master End-to-End</h2>
-            <div style="font-size: 0.8rem; color: var(--text-muted);">Desde sair de casa até o retorno • Salvo no seu celular</div>
-          </div>
-          <span id="dash-checklist-pct" class="tag tag-green" style="font-size: 0.85rem;">0% Concluído</span>
-        </div>
-
-        <div class="checklist-progress-bar">
-          <div id="dash-progress-fill" class="progress-fill"></div>
-        </div>
-
-        <div style="text-align: center; margin-top: 10px;">
-          <button class="phase-btn active" onclick="navigateTo('tab-checklist')" style="font-size: 0.85rem; padding: 8px 18px;">
-            Acessar Checklist Completo por Fases (22 Etapas) ➔
-          </button>
-        </div>
-      </div>
-
-      <!-- Grid dos 8 Parques -->
-      <h2 style="font-size: 1.25rem; font-weight: 700; margin: 26px 0 14px 0;">🎢 Roteiro Cirúrgico dos 8 Parques (Quitados #248579-110526)</h2>
-      <div class="parks-grid">
+      <div class="parks-grid" style="margin-top: 0; margin-bottom: 24px;">
 
         <div class="park-card" onclick="navigateTo('tab-universal')">
           <div class="park-header" style="background-image: url('maps/universal_twopark_flow.jpg');">
@@ -1050,7 +958,7 @@
         </div>
 
         <div class="park-card" onclick="navigateTo('tab-seaworld')">
-          <div class="park-header" style="background-image: url('maps/seaworld_park_flow.jpg');">
+          <div class="park-header" style="background-image: url('maps/seaworld_park_map_2026.jpg');">
             <span class="park-badge">SeaWorld</span>
           </div>
           <div class="park-body">
@@ -1087,6 +995,105 @@
           </div>
         </div>
 
+      </div>
+
+      <!-- Card Financeiro Vivo -->
+      <div class="finance-banner">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h2 style="font-size: 1.25rem; font-weight: 700;">📊 Gestão Financeira ao Vivo</h2>
+          <span class="tag tag-gold">Conta Chase EUA</span>
+        </div>
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+          Depósito via ACH da Charles Schwab liquidado sem IOF. Saldo em dólar pronto no débito e Apple Pay.
+        </p>
+
+        <div class="finance-metrics">
+          <div class="metric-box">
+            <div class="metric-label">Budget Total Disponível</div>
+            <div class="metric-value val-neutral">$19.991,70</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Chase $14.200 + Ingressos $4.675 + Carro $1.116</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Já Quitado / Pago</div>
+            <div class="metric-value" style="color: var(--accent-green);">$5.791,63</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Ingressos $4.675,40 + Carro SUV $1.116,23</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Compromissado (Chase)</div>
+            <div class="metric-value" style="color: var(--accent-coral);">$5.829,07</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Hotel Hilton $2.914 + Seguro $210 + Gastos $2.705</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Livre para Gastar</div>
+            <div class="metric-value val-positive">$8.371,00</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Livre no Chase pós-contas (~$418,55/dia compras)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card Rápido de Voos, Carro & Hotel Oficial -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 20px;">
+        
+        <!-- Voo -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-blue);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">✈️ Voo de Ida & Conexão</h3>
+            <span class="tag tag-blue" onclick="navigateTo('tab-voos')" style="cursor: pointer;">Ver Voos ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>GRU ➔ IAD (United UA 860):</strong> Sex 11/12 22h25.<br>
+            <strong>Conexão dos Sonhos:</strong> Museu da NASA (Ônibus Espacial Discovery) a 10 min de Uber.<br>
+            <strong>IAD ➔ Tampa (UA 1140):</strong> Pouso às 20h30.
+          </p>
+        </div>
+
+        <!-- Carro SUV Quitado -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-green);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">🚗 SUV 7 Lugares Quitado</h3>
+            <span class="tag tag-green" onclick="navigateTo('tab-carro')" style="cursor: pointer;">Ver Voucher ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>Chevrolet Traverse ou SUV Similar (AVIS)</strong><br>
+            📄 Voucher Rentcars: <code style="color: var(--accent-gold); font-weight: 700;">X4X9T9M</code> (Cartão BR Quitado)<br>
+            🛫 Retirada TPA (12/12) ➔ 🛬 Devolução MCO (31/12). CDW + US$ 1M Danos a Terceiros inclusos!
+          </p>
+        </div>
+
+        <!-- Hotel Homewood Suites -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-gold);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">🏨 Hotel Oficial Confirmado</h3>
+            <span class="tag tag-gold" onclick="navigateTo('tab-hospedagem')" style="cursor: pointer;">Ver Hotel & Waze ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>Homewood Suites by Hilton I-Drive Convention Center</strong><br>
+            📍 6435 Westwood Blvd, Orlando, FL 32821.<br>
+            ☕ Café buffet quente Hilton grátis • 🚗 Estacionamento 100% grátis!
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Checklist Master Progress -->
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h2 style="font-size: 1.2rem; font-weight: 700;">✅ Checklist Master End-to-End</h2>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Desde sair de casa até o retorno • Salvo no seu celular</div>
+          </div>
+          <span id="dash-checklist-pct" class="tag tag-green" style="font-size: 0.85rem;">0% Concluído</span>
+        </div>
+
+        <div class="checklist-progress-bar">
+          <div id="dash-progress-fill" class="progress-fill"></div>
+        </div>
+
+        <div style="text-align: center; margin-top: 10px;">
+          <button class="phase-btn active" onclick="navigateTo('tab-checklist')" style="font-size: 0.85rem; padding: 8px 18px;">
+            Acessar Checklist Completo por Fases (22 Etapas) ➔
+          </button>
+        </div>
       </div>
 
     </div>
@@ -2154,11 +2161,107 @@
     <div id="tab-epic" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">Epic Universe (Qui 17/12)</h2>
-        <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/epic_universe_flow.jpg" alt="Epic"></div>
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
-          Mario Kart AR & Donkey Kong Mine-Cart no Super Nintendo World ➔ Lanche no Toadstool Cafe ➔ Show Untrainable Dragon na Isle of Berk ➔ Harry Potter Battle at the Ministry ➔ Stardust Racers (Marcelo) ➔ Show das fontes iluminadas às 19h00.
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-gold);">🪐 Universal’s Epic Universe</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Quinta-feira, 17 de Dezembro de 2026 • O Circuito dos 5 Portais & Super Nintendo</div>
+          </div>
+          <span class="tag tag-green">Probabilidade: 96,8%</span>
+        </div>
+      </div>
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/epic_universe_flow.jpg" alt="Epic Universe Flow"></div>
+      </div>
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">1. Portal 1: Super Nintendo World & Mario Kart</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Entrada pelo Portal Verde. Ativação das Power-Up Bands nos blocos sonoros + Mario Kart: Bowser’s Challenge com óculos de realidade aumentada!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h50</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">2. Donkey Kong Mine-Cart Madness & Yoshi</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">A novíssima montanha-russa do carrinho de mina que simula saltar trilhos rompidos + voo suave em família sobre o vilarejo no Yoshi's Adventure.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h50</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">3. Parada Infantil: Toadstool Cafe</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">Hambúrguer com chapéu de cogumelo do Mario, batatas douradas e fotos ao vivo com Mario, Luigi e Princesa Peach!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h20</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">4. Portal 2: Dark Universe (Monstros Clássicos)</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">Montanha-russa familiar do Lobisomem Curse of the Werewolf + Marcelo no simulador hiper-realista Monsters Unchained (Single Rider 15 min).</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h25</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">5. Portal 3: Almoço Viking no Mead Hall (Isle of Berk)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Grande salão viking climatizado: carnes nobres grelhadas, linguiças artesanais e cardápio infantil farto para as crianças descansarem.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">6. 🎭 Mega Espetáculo Broadway: The Untrainable Dragon</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Teatro refrigerado de ponta com dragões em tamanho real voando sobre a plateia! Uma das maiores emoções de Orlando para Thalita e as crianças.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">14h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">7. Hiccup’s Wing Gliders & Batalha Naval Fyre Drill</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Montanha-russa familiar voando sobre as águas com o Banguela + barquinhos com canhões de água interativos para o Miguel.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h35</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">8. Portal 4: The Wizarding World - Ministry of Magic</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">A Paris mágica dos anos 1920, show Le Cirque Arcanus e o revolucionário elevador omnidirecional em Harry Potter and the Battle at the Ministry.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">17h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">9. Portal 5: Stardust Racers (Marcelo Single Ride)</span><span class="step-prob">96% Sucesso</span></div>
+          <div class="step-details">Montanha-russa de duelo estelar duplo a 100 km/h com iluminação LED nos trilhos. Enquanto isso, Thalita e crianças no Constellation Carousel!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">19h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">10. ✨ Show Noturno das Fontes Cósmicas (Celestial Park)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Fontes dançantes, projeções de estrelas, música orquestrada épica e o céu iluminado por feixes de LED. Saída suave às 19h30!</div>
+        </div>
       </div>
     </div>
 
@@ -2166,11 +2269,107 @@
     <div id="tab-animalkingdom" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-green);">Animal Kingdom (Sáb 19/12)</h2>
-        <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/animal_kingdom_flow.jpg" alt="Animal Kingdom"></div>
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
-          Safári Kilimanjaro às 08h15 ➔ Festival do Rei Leão ➔ Almoço Flame Tree BBQ ➔ Musical Procurando Nemo ➔ Expedition Everest (Marcelo) ➔ Avatar Flight of Passage ➔ Projeções na Árvore da Vida e Pandora bioluminescente até 18h30.
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-green);">🌳 Disney’s Animal Kingdom</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Sábado, 19 de Dezembro de 2026 • Expedição na Selva, Pandora & Luzes Noturnas</div>
+          </div>
+          <span class="tag tag-green">Probabilidade: 99,1%</span>
+        </div>
+      </div>
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/animal_kingdom_flow.jpg" alt="Animal Kingdom Flow"></div>
+      </div>
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">1. Kilimanjaro Safaris Matinal (África)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Caminhão de safári aberto na savana no horário em que leões, girafas e elefantes estão comendo e super ativos. Zero calor e animais soltos!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">2. Gorilla Falls & Livreto Wilderness Explorers</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Trilha com filhotes de gorila e hipopótamos na água. Miguel e Isabela recebem o livro de distintivos de escoteiro do Russell (UP).</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">3. Pandora: Na'vi River Journey</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Barquinho suave e mágico navegando pela floresta bioluminescente de Avatar com o xamã animatrônico mais perfeito do mundo.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h20</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">4. Avatar Flight of Passage (Marcelo & Isabela 115cm)</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Voo 3D hiper-realista no dorso do banshee alado sobre os desfiladeiros de Pandora! Thalita e Miguel tiram fotos nas montanhas flutuantes.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">5. 🎭 Festival of the Lion King (África)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Teatro circular refrigerado com acrobatas fantasiados de macacos em trapézios, pássaros voando e cantores ao vivo cantando Hakuna Matata!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">6. 🍖 Almoço BBQ no Flame Tree Barbecue (Mesa Secreta)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Costelinhas St. Louis defumadas com molho barbecue especial. Mesa no deque inferior à beira da lagoa, na sombra com vista para o Everest!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h35</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">7. 🎭 Musical Finding Nemo: The Big Blue... and Beyond!</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Espetáculo de 25 min com marionetes marinhas gigantes iluminadas, ar-condicionado potente e descanso ideal para as crianças.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">14h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">8. Expedition Everest (Marcelo Single Rider) + Tigres</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">Marcelo enfrenta o Yeti na montanha-russa do Everest em 10 min. Em seguida, trilha asiática dos tigres de bengala no Maharajah Jungle Trek.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h05</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">9. Trenzinho Rafiki's (Bluey & Bingo) & The Boneyard</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Trenzinho ecológico até a área interativa da Bluey & Bingo + Miguel escava fósseis de T-Rex na areia do The Boneyard com picolé na sombra.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">17h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">10. ✨ Tree of Life Awakenings & Pandora à Noite</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Projeções mágicas de luzes e espíritos na Árvore da Vida + caminhada inesquecível pelo chão brilhante e plantas bioluminescentes de Pandora!</div>
+        </div>
       </div>
     </div>
 
@@ -2178,11 +2377,107 @@
     <div id="tab-epcot" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-blue);">EPCOT (Seg 21/12)</h2>
-        <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/epcot_park_flow.jpg" alt="EPCOT"></div>
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
-          Aquário The Seas com tubarões ➔ Guardians of the Galaxy: Cosmic Rewind ➔ Almoço de massas no Via Napoli (Itália) para o Miguel ➔ Refrigerantes grátis no Club Cool ➔ Ratatouille na França ➔ Fogos Luminous às 21h00.
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-blue);">🌐 Disney’s EPCOT</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Segunda-feira, 21 de Dezembro de 2026 • Volta ao Mundo, Aquário Gigante & Almoço na Itália</div>
+          </div>
+          <span class="tag tag-green">Probabilidade: 98,2%</span>
+        </div>
+      </div>
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/epcot_park_flow.jpg" alt="EPCOT Flow"></div>
+      </div>
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">1. Spaceship Earth (A Grande Esfera Prateada)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Passeio relaxante no carrinho dentro da geosfera do EPCOT descobrindo a história da humanidade e criando o futuro nas telas touch.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h20</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">2. The Seas with Nemo & Aquário dos Tubarões</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Passeio na concha do mar que sai direto no 2º maior aquário dos EUA. O Miguel vai pirar vendo tubarões, raias e peixes-boi colados no vidro!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">3. Turtle Talk with Crush & Soarin' Around the World</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Bate-papo ao vivo com a tartaruga Crush que conversa com Miguel e Isa + voo suave de asa-delta em tela IMAX sobrevoando as maravilhas do mundo.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h05</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">4. 🚀 Guardians of the Galaxy: Cosmic Rewind</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">A melhor montanha-russa do planeta: lançamento reverso no espaço ao som de clássicos dos anos 80! Exige 107 cm — Marcelo e Isabela (115 cm).</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h45</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">5. 🥤 Club Cool da Coca-Cola (Degustação Grátis)</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Degustação 100% gratuita e ilimitada de refrigerantes exóticos de 8 países do mundo. Diversão e hidratação garantida para as crianças!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">6. 🍝 Almoço no Via Napoli Ristorante (Itália)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">O restaurante italiano nº 1 da Disney! Miguel saboreia generoso espaguete à bolonhesa/Alfredo e toda a família curte pizzas napolitanas a lenha.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">14h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">7. Remy’s Ratatouille Adventure (França)</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Carrinhos 3D em formato de ratinho deslizando sem trilhos pela cozinha do restaurante Gusteau + sorvete na tradicional L'Artisan des Glaces!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h50</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">8. Frozen Ever After (Noruega) & Gran Fiesta (México)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Passeio de barco pelo palácio de gelo de Arendelle com Elsa e Olaf + barco fresco no escuro da pirâmide maia com Donald e Zé Carioca (zero fila).</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">17h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">9. 🍺 World Showcase & Festival of the Holidays</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Passeio pelos pavilhões natalinos: chope artesanal IPA no pavilhão dos EUA para o Marcelo, pretzels quentinhos na Alemanha e carimbos no Kidcot.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">21h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">10. 🎆 Mega Show Noturno LUMINOUS: The Symphony of Us</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Grande espetáculo de fogos de artifício, fontes iluminadas dançantes e trilha sonora Disney na lagoa do World Showcase. Saída suave às 21h30!</div>
+        </div>
       </div>
     </div>
 
@@ -2190,11 +2485,107 @@
     <div id="tab-hollywood" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar ao Painel</button>
       <div class="glass-card">
-        <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-coral);">Hollywood Studios (Ter 22/12 — Dia Completo Sem Festa Jollywood!)</h2>
-        <div class="map-img-container" style="border-radius: 12px; margin: 12px 0;"><img src="maps/hollywood_studios_flow.jpg" alt="Hollywood Studios"></div>
-        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6;">
-          Slinky Dog Dash na Toy Story Land ➔ Star Wars Rise of the Resistance ➔ Dublês do Indiana Jones (acrobacias e explosões) ➔ Disney Junior Play & Dance ➔ Tower of Terror / Rock 'n' Roller Coaster Muppets ➔ Fantasmic! à noite.
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h2 style="font-size: 1.4rem; font-weight: 800; color: var(--accent-coral);">🎬 Disney’s Hollywood Studios</h2>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Terça-feira, 22 de Dezembro de 2026 • Dia Completo Regular (Sem Festa Privada Jollywood!)</div>
+          </div>
+          <span class="tag tag-green">Probabilidade: 97,8%</span>
+        </div>
+      </div>
+      <div class="map-viewer-wrapper">
+        <div class="map-img-container"><img src="maps/hollywood_studios_flow.jpg" alt="Hollywood Studios Flow"></div>
+      </div>
+      <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 14px;">📍 Rota Cirúrgica Passo a Passo</h3>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">08h35</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">1. Toy Story Land: Slinky Dog Dash (Lightning Lane)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Montanha-russa do cão de mola que faz Isabela e Miguel gargalharem! Entrada rápida sem encarar a fila comum matinal de 90 min.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">09h10</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">2. Toy Story Mania! & Alien Swirling Saucers</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">Competição 4D em família atirando tortas e dardos com óculos 3D + rodopio musical nos pratos dos alienígenas verdes do Buzz!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">10h35</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">3. Star Wars: Millennium Falcon Smugglers Run</span><span class="step-prob">98% Sucesso</span></div>
+          <div class="step-details">A lendária Millennium Falcon em tamanho real! Miguel assume como piloto oficial comandando o hiperdrive, Isabela e Thalita operam os escudos.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">11h25</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card">
+          <div class="step-header"><span class="step-name">4. Star Tours 3D (Com Grogu / Baby Yoda)</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Simulador de voo espacial com 250 variações de história e mensagens holográficas do Baby Yoda e Mandalorian. Climatizado e zero fila!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">12h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">5. 🥩 Almoço no ABC Commissary / Woody's Lunch Box</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">BBQ Beef Brisket Melt (sanduíche quente de brisket desfiado com queijo derretido) e pratos infantis completos em salão com ar-condicionado.</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">13h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">6. ❄️ For the First Time in Forever: A Frozen Sing-Along</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Teatro refrigerado espetacular com os historiadores de Arendelle, canções ao vivo com Anna e Elsa e neve de verdade caindo sobre a plateia!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">14h15</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">7. 🎬 Indiana Jones Epic Stunt Spectacular</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Acrobacias de cinema em grande escala, dublês ao vivo, efeitos de fogo e aviões com a trilha clássica de John Williams!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">15h20</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card kid-break">
+          <div class="step-header"><span class="step-name">8. Disney Junior Play & Dance! + Runaway Railway</span><span class="step-prob">99% Sucesso</span></div>
+          <div class="step-details">Festa dançante com bolhas para as crianças + Mickey & Minnie’s Runaway Railway no Chinese Theater (viagem sem trilhos dentro do desenho!).</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">16h30</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card dad-thrill">
+          <div class="step-header"><span class="step-name">9. ⚡ Tower of Terror & Rise of the Resistance</span><span class="step-prob">97% Sucesso</span></div>
+          <div class="step-details">Marcelo na icônica queda livre do elevador na Tower of Terror. Em seguida, toda a família na maior atração do mundo: Star Wars Rise of the Resistance!</div>
+        </div>
+      </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col"><div class="step-time">20h00</div></div>
+        <div class="step-dot"></div>
+        <div class="step-card special-show">
+          <div class="step-header"><span class="step-name">10. 🎆 Mega Espetáculo Aquático Noturno: FANTASMIC!</span><span class="step-prob">100% Sucesso</span></div>
+          <div class="step-details">Arena com 10.000 assentos sentados. Mickey Feiticeiro combate dragões gigantes com projeções na água, fogos e o barco a vapor com todos os personagens!</div>
+        </div>
       </div>
     </div>
 
@@ -2415,17 +2806,18 @@
 
     function toggleTask(taskId) {
       const card = document.getElementById('card-' + taskId);
+      if (!card) return;
       const checkbox = card.querySelector('.custom-checkbox');
       const isCompleted = card.classList.contains('completed');
 
       if (isCompleted) {
         card.classList.remove('completed');
-        checkbox.classList.remove('checked');
+        if (checkbox) checkbox.classList.remove('checked');
         localStorage.setItem('task_' + taskId, 'pending');
       } else {
         card.classList.remove('skipped');
         card.classList.add('completed');
-        checkbox.classList.add('checked');
+        if (checkbox) checkbox.classList.add('checked');
         localStorage.setItem('task_' + taskId, 'completed');
       }
       updateChecklistProgress();
@@ -2433,9 +2825,10 @@
 
     function skipTask(taskId) {
       const card = document.getElementById('card-' + taskId);
+      if (!card) return;
       const checkbox = card.querySelector('.custom-checkbox');
       card.classList.remove('completed');
-      checkbox.classList.remove('checked');
+      if (checkbox) checkbox.classList.remove('checked');
       card.classList.toggle('skipped');
       const isSkipped = card.classList.contains('skipped');
       localStorage.setItem('task_' + taskId, isSkipped ? 'skipped' : 'pending');
@@ -2444,6 +2837,7 @@
 
     function toggleDetails(detId) {
       const det = document.getElementById(detId);
+      if (!det) return;
       if (det.style.display === 'block') {
         det.style.display = 'none';
       } else {
@@ -2471,7 +2865,7 @@
       cards.forEach(card => {
         if (card.classList.contains('completed')) completedCount++;
       });
-      const pct = Math.round((completedCount / cards.length) * 100);
+      const pct = cards.length > 0 ? Math.round((completedCount / cards.length) * 100) : 0;
 
       const pctText = pct + '% Concluído';
       if (document.getElementById('header-progress-text')) document.getElementById('header-progress-text').innerText = pctText;
@@ -2489,10 +2883,17 @@
         const checkbox = card.querySelector('.custom-checkbox');
 
         if (status === 'completed') {
+          card.classList.remove('skipped');
           card.classList.add('completed');
-          checkbox.classList.add('checked');
+          if (checkbox) checkbox.classList.add('checked');
         } else if (status === 'skipped') {
+          card.classList.remove('completed');
           card.classList.add('skipped');
+          if (checkbox) checkbox.classList.remove('checked');
+        } else if (status === 'pending') {
+          card.classList.remove('completed');
+          card.classList.remove('skipped');
+          if (checkbox) checkbox.classList.remove('checked');
         }
       });
       updateChecklistProgress();

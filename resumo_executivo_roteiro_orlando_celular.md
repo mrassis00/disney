@@ -10,45 +10,14 @@
 ## 📋 Checklist Oficial do Planejamento (Status em Tempo Real)
 
 * [x] ✈️ **Passagens Aéreas (100% Emitidas com Milhas):** **CONCLUÍDO!**  
-  * **Ida (United Airlines - Econômica XN):**  
-    * *GRU ➡️ IAD (Voo UA 860):* Saída Sex 11/12 às 22:25 | Pouso Sáb 12/12 às 06:30 em Washington Dulles (Boeing 767-400ER | Assentos: 33A, 33B, 34A, 34B).  
-    * *Conexão em Washington (11h23m):* Oportunidade mágica de visitar o museu aeroespacial do Smithsonian (*Udvar-Hazy Center*) a 10 min do aeroporto com o Ônibus Espacial Discovery de verdade!  
-    * *IAD ➡️ TPA (Voo UA 1140):* Saída Sáb 12/12 às 17:53 | Pouso Sáb 12/12 às 20:30 no Aeroporto de Tampa (Boeing 737-800 | Assentos: 22C, 22D, 22E, 22F).
-  * **Volta (Delta Air Lines - Delta Main NU):**  
-    * *MCO ➡️ ATL (Voo DL 1742):* Saída Qui 31/12 às 18:45 de Orlando Terminal B | Pouso às 20:30 em Atlanta (Airbus A321 | Assentos: 17F, 18F + 2).  
-    * *Conexão ágil em Atlanta (1h35m).*  
-    * *ATL ➡️ GRU (Voo DL 0269):* Saída Qui 31/12 à noite | Pouso Sex 01/01/2027 às 09:35 em São Paulo GRU T3 (Airbus A330-900neo | Assentos: 38J, 39J + 2).
 * [x] 🏨 **Hospedagem Oficial:** **CONCLUÍDO NO BOOKING (US$ 2.914,07 / Cenário 1 em Dólar)!**  
-  *Homewood Suites by Hilton Orlando-International Drive Convention Center reservado (12 a 31/12 - 19 noites). Opção oficial definida: **Pagar em Dólar no débito Chase (Cenário 1)** com total final de **US$ 2.914,07** com impostos da Flórida inclusos (apenas US$ 153,37/noite para 4 pessoas). Suíte ampla com 2 camas Queen no quarto + sofá-cama na sala, cozinha completa com geladeira duplex grande, café da manhã buffet quente Hilton incluso diariamente e **estacionamento 100% gratuito** (regra Hilton para estadias de 8+ noites; economia de quase R$ 1.600!).*
-* [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS!**  
-  * **Código de Reserva / Voucher:** `X4X9T9M`  
-  * **Locadora:** **AVIS Rent a Car** (balcão e pátio no Aeroporto de Tampa TPA, devolução no Aeroporto de Orlando MCO).  
-  * **Veículo:** **Chevrolet Traverse ou SUV Similar (7 Lugares)**.  
-  * **Proteções 100% Inclusas:** CDW (Veículo) + SLI (Danos a Terceiros de US$ 1 Milhão) + Taxa de Retorno Tampa ➡️ Orlando + Condutor Adicional Grátis + Isenção de IOF.  
-  * 📄 [Ver Voucher Oficial com Número de Retirada](https://www.rentcars.com/pt-br/cliente/minhas-reservas/reserva/voucher/X4X9T9M) | 📋 [Página de Confirmação](https://www.rentcars.com/pt-br/reserva/confirmacao/X4X9T9M)
+* [x] 🚗 **Aluguel do Carro (Tampa ➡️ Orlando):** **CONCLUÍDO & CONFIRMADO NA RENTCARS (Voucher `X4X9T9M`)!**  
 * [x] 🎟️ **Ingressos dos 8 Parques (Disney, Universal/Epic, SeaWorld + Busch Gardens):** **COMPRADOS & QUITADOS NO UNDERCOVER TOURIST (`#248579-110526`)!**  
-  * *Pedido Oficial Undercover Tourist:* **`248579-110526`** | E-Tickets enviados para `marcelo.simul@gmail.com`.  
-  * *Valor Final Pago no Cartão:* **US$ 4.675,40** (impostos inclusos, com cupom `LOYAL20` de `-US$ 25,04` e economia total de **US$ 900,00** vs. bilheteria + 12 créditos de US$ 20 no *DiningDollars.com*).  
-  * *Pacotes Adquiridos (4 Pessoas — 2 Adultos + 2 Crianças):*  
-    * 🏰 **Disney (4-Day Base Ticket — US$ 2.868,14):** Janela **16/12 a 22/12/2026** (16/12 Magic Kingdom, 19/12 Animal Kingdom, 21/12 EPCOT, 22/12 Hollywood Studios).  
-    * 🎢 **Universal (1-Day Park-to-Park + 1-Day Epic Universe — US$ 1.440,94):** Janela **14/12 a 17/12/2026** (14/12 Studios + Islands c/ Hogwarts Express e 17/12 Epic Universe).  
-    * 🐬 **SeaWorld Orlando + Busch Gardens Tampa (Two-Park Promo — US$ 391,36):** 1º uso em **27/12 (SeaWorld)** e 2º uso em **29/12 (Busch Gardens)** (janela de 14 dias após o 1º uso).  
-  * *Zero Bilheteria:* Ingressos vinculados diretamente no celular com *Disney MagicMobile* (Apple Wallet / Google Wallet) e QR Codes da Universal/SeaWorld. Entrada 100% direta nas catracas!  
-  * *Agendamento Lightning Lane:* 13/12/2026 às 07h00 de Orlando (3 dias antes do primeiro parque Disney em 16/12).
+* [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE (`#1713319`)!**  
 * [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
-  * *Carrinho:* 1 Baby Jogger Summit X3 Double na Lin Rentals por US$ 130 (com seguro perda/roubo, capa de chuva e porta-copos) entregue no hotel.  
-  * *Booster da Isabela (5 anos):* Despacho 100% gratuito no voo pela United/Delta (US$ 0). A Isabela já sai do Aeroporto de Tampa legalizada e segura na I-4, economizando US$ 64 líquidos (R$ 360)!
 * [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
-  * *Cobertura:* US$ 1.000.000 por pessoa na maior rede médica dos EUA (UnitedHealthcare). Copay de apenas US$ 25 no *MD Now Urgent Care* a 4 min do hotel.  
-  * *Contratação:* 02 a 04 de Novembro de 2026 em Dólar Puro com cartão de débito Chase (~US$ 210 para os 4 segurados por 20 dias).
 * [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
-  * Recusar o serviço *e-Toll* da AVIS no balcão.  
-  * Trajeto Tampa ➡️ Orlando na chegada (12/12) é via I-4 Leste: **100% gratuito e livre de pedágios**!  
-  * Comprar a caixinha *SunPass PRO Portable* no Publix/Walgreens no domingo 13/12 (US$ 14,95), carregar US$ 10 e cadastrar a placa da minivan no app com data de início e fim (31/12). Gasto total de apenas ~US$ 25 (~R$ 140).
-* [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE!**  
-  * *Confirmação:* **`1713319`** | 4 pessoas | Cabine familiar solicitada perto da memorabilia de Michael Jackson (*Beat It*). Estacionamento Universal CityWalk 100% grátis após 18h!  
-  * 📄 [Ver Confirmação no OpenTable](https://www.opentable.com/booking/view?rid=213622&confirmationNumber=1713319&securityToken=01xSYMC_klup2JpSqYDOTBtJHFE4mi9WdOv9ST5BOTNFI1) | 📋 [Arquivo de Detalhes da Reserva](file:///c:/Users/DomínioComp/Desktop/Dev/disney/reserva_hard_rock_cafe_aniversario.md)
-* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
+* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
 
@@ -119,34 +88,31 @@
 
 ---
 
-## 💰 Resumo Financeiro & Gastos Consolidados (Tempo Real)
+## 💰 Resumo Financeiro & Gestão de Caixa (Tempo Real)
 
-### 💵 Posição de Caixa Realizada no Chase Bank (Atualizado em 05/11/2026):
-* **Saldo Real Atual Disponível no Chase:** **US$ 14.200,07** *(já descontado o pagamento dos ingressos)*.
-* **🎟️ Ingressos 8 Parques (Undercover Tourist — Pedido `#248579-110526`):** **US$ 4.675,40** *(PAGO E LIQUIDADO)*.
-* **🏨 Hospedagem Hilton (19 noites c/ impostos):** **US$ 2.914,07** *(a ser debitado na estadia/check-in no débito Chase — Cenário 1)*.
-* **🏥 Seguro Saúde IMG Patriot America Plus (Rede UnitedHealthcare):** **US$ 210,00** *(débito Chase)*.
-* **🛒 Carrinho Duplo Lin Rentals (19 noites c/ seguro e capa):** **US$ 130,00** *(débito Chase)*.
-* **🛣️ SunPass PRO Portable (caixinha + recarga):** **US$ 25,00**.
-* **🍝 Alimentação Familiar Inteligente (20 Dias):** **US$ 2.100,00** *(Café Hilton grátis + Walmart na suíte + 1 refeição/dia estilo Olive Garden)*.
-* **⛽ Gasolina (3-4 tanques) + Estacionamentos:** **US$ 450,00**.
-* **🚗 Aluguel SUV 7 Lugares AVIS (Rentcars `X4X9T9M`):** **US$ 1.116,23** *(100% PAGO e quitado antecipadamente no cartão BR)*.
-* **📉 CUSTOS PENDENTES A SAIR DO CHASE:** **US$ 5.829,07** *(Hotel $2.914,07 + Seguro $210 + Carrinho $130 + SunPass $25 + Alimentação $2.100 + Gasolina/Estac. $450)*.
-* **🎉 SALDO LIVRE LÍQUIDO REAL NO CHASE PARA COMPRAS:** **US$ 8.371,00** *(US$ 14.200,07 em conta − US$ 5.829,07 previstos)*.  
-  *(Média de **~US$ 418 por dia** para compras na Sephora, outlets, eletrônicos, farmácias e extras!)*
-* **💵 CUSTO TOTAL INTEGRAL DA VIAGEM (Tudo Incluso, com Carro Pago):** **US$ 11.620,70** *(~R$ 63.449 na cotação oficial do dia US$ 1 = R$ 5,46)*.
+### 💵 Quadro Executivo de Orçamento & Liquidez:
+* **🏦 Budget Total da Viagem (Chase Atual + Carro Quitado + Ingressos Pagos):** **US$ 19.991,70** *(~R$ 109.154 na cotação oficial de R$ 5,46)*  
+  *(Composição: Saldo em conta Chase US$ 14.200,07 + Ingressos já pagos US$ 4.675,40 + Carro quitado no cartão BR US$ 1.116,23)*
+* **💳 Total Já Pago / Quitado:** **US$ 5.791,63** *(~R$ 31.622)*  
+  *(Ingressos Undercover `#248579-110526`: US$ 4.675,40 + Carro AVIS `X4X9T9M`: US$ 1.116,23)*
+* **📑 Total Compromissado (Custos Fixos Previstos a Sair do Chase):** **US$ 5.829,07** *(~R$ 31.826)*  
+  *(Hotel Hilton US$ 2.914,07 + Seguro IMG US$ 210,00 + Carrinho Lin Rentals US$ 130,00 + SunPass US$ 25,00 + Alimentação 20d US$ 2.100,00 + Combustível/Estac. US$ 450,00)*
+* **🎉 Total Livre para Gastar / Compras:** **US$ 8.371,00** *(~R$ 45.705)*  
+  *(Dinheiro limpo e livre no Chase após todos os compromissos da viagem estarem 100% quitados! Média diária de **~US$ 418,55 / dia**)*
+* **💵 Custo Total da Viagem (Pago + Compromissado):** **US$ 11.620,70** *(~R$ 63.449)*
 
 | Item da Viagem | Status | Valor em Dólar (USD) | Valor em Reais (R$)* | Observações / Detalhes |
 | :--- | :--- | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **US$ 0 (Milhas)** | **R$ 0 (Milhas)** | Emitidas com milhas (United na ida / Delta na volta). Taxas de embarque pagas no cartão Santander Black. |
 | 🚗 **Aluguel Carro (19 Dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Terceiros US$ 1M + Taxa de Retorno inclusos. |
 | 🎟️ **Ingressos (8 Parques)** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Pago no Undercover Tourist!** (Disney 4 dias US$ 2.868,14 + Universal P2P & Epic US$ 1.440,94 + SeaWorld & Busch Gardens US$ 391,36 − Promo LOYAL20 US$ 25,04). |
-| 🏨 **Hospedagem (19 Noites)** | **CONFIRMADA (CENÁRIO 1)** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Débito Chase. Café quente diário e estacionamento grátis. |
-| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **US$ 130,00** | **R$ 709,80** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
-| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **PROGRAMADO (05/11)** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Débito Chase. |
-| 🅿️ **Estacionamentos + Pedágios + Gasolina** | *Estimado* | **US$ 475,00** | **R$ 2.593,50** | Estacionamentos (SeaWorld/Busch) + Gasolina (~US$ 150) + SunPass PRO (~US$ 25). |
-| 🍝 **Alimentação Inteligente (20 Dias)** | *Estimado* | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
-| 💵 **CUSTO TOTAL GERAL DA VIAGEM** | **Integral (Tudo Incluso)** | **US$ 11.620,70** | **R$ 63.449,02** | **Total geral somando o carro quitado e os gastos do Chase.** |
+| 🏨 **Hospedagem (19 Noites)** | **COMPROMISSADO** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Débito Chase. Café quente diário e estacionamento grátis. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **COMPROMISSADO** | **US$ 130,00** | **R$ 709,80** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **COMPROMISSADO** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Débito Chase. |
+| 🅿️ **Estacionamentos + Pedágios + Gasolina** | **COMPROMISSADO** | **US$ 475,00** | **R$ 2.593,50** | Estacionamentos (SeaWorld/Busch) + Gasolina (~US$ 150) + SunPass PRO (~US$ 25). |
+| 🍝 **Alimentação Inteligente (20 Dias)** | **COMPROMISSADO** | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
+| 💵 **CUSTO TOTAL DA VIAGEM** | **Pago + Compromissado** | **US$ 11.620,70** | **R$ 63.449,02** | **Total geral somando o carro quitado, ingressos e os custos do Chase.** |
+| 🛍️ **SALDO LIVRE P/ COMPRAS NO CHASE** | **Livre / Desimpedido** | **US$ 8.371,00** | **R$ 45.705,66** | **Disponível para compras, presentes, farmácias, outlets e lazer.** |
 
 *\*Conversão oficial do dia: US$ 1,00 = R$ 5,46.*
 

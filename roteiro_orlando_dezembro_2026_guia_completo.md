@@ -667,27 +667,33 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 ## 9. Resumo Financeiro & Investimento Consolidado (Tempo Real)
 
-Abaixo está o quadro consolidado com os gastos reais já contratados e as previsões orçamentárias detalhadas em Reais (R$) e Dólares (USD):
+Abaixo está o quadro executivo consolidado com o saldo real do Chase, o valor do carro quitado, os valores pagos, compromissados e o montante livre para gastar em Dólares (USD) e Reais (R$):
 
-### 💵 Posição de Caixa Real no Chase Bank (05/11/2026):
-* **Saldo Disponível em Conta no Chase Hoje:** **US$ 14.200,07** *(já deduzidos os US$ 4.675,40 dos ingressos pagos no Undercover Tourist)*.
-* **Custos Pendentes a Débito no Chase:** **US$ 5.829,07** *(Hotel Hilton US$ 2.914,07 + Seguro US$ 210,00 + Carrinho Lin Rentals US$ 130,00 + SunPass US$ 25,00 + Alimentação US$ 2.100,00 + Gasolina/Estacionamentos US$ 450,00)*.
-* **🎉 Saldo Líquido Restante no Chase para Compras:** **US$ 8.371,00** *(Média de **~US$ 418 por dia** para compras na Sephora, outlets, eletrônicos, farmácias e lazer familiar)*.
-* **💵 Custo Total Geral da Viagem (Integral com Carro Quitado):** **US$ 11.620,70** *(~R$ 63.449 na cotação oficial do dia US$ 1,00 = R$ 5,46)*.
+### 💵 Quadro Executivo de Orçamento & Liquidez:
+* **🏦 Budget Total da Viagem (Chase Atual + Carro Quitado + Ingressos Pagos):** **US$ 19.991,70** *(~R$ 109.154 na cotação oficial de R$ 5,46)*  
+  *(Composição: Saldo em conta Chase US$ 14.200,07 + Ingressos pagos US$ 4.675,40 + Carro quitado no cartão BR US$ 1.116,23)*
+* **💳 Total Já Pago / Quitado:** **US$ 5.791,63** *(~R$ 31.622)*  
+  *(Ingressos Undercover `#248579-110526`: US$ 4.675,40 + Carro AVIS `X4X9T9M`: US$ 1.116,23)*
+* **📑 Total Compromissado (Custos Fixos a Debitar do Chase):** **US$ 5.829,07** *(~R$ 31.826)*  
+  *(Hotel Hilton US$ 2.914,07 + Seguro IMG US$ 210,00 + Carrinho Lin Rentals US$ 130,00 + SunPass US$ 25,00 + Alimentação 20d US$ 2.100,00 + Combustível/Estac. US$ 450,00)*
+* **🎉 Total Livre para Gastar / Compras:** **US$ 8.371,00** *(~R$ 45.705)*  
+  *(Dinheiro desimpedido no Chase após a liquidação de todos os compromissos da viagem! Média diária de **~US$ 418,55 / dia**)*
+* **💵 Custo Total da Viagem (Pago + Compromissado):** **US$ 11.620,70** *(~R$ 63.449)*
 
 | Categoria | Status | Valor em Dólar (USD) | Valor em Reais (R$)* | Descrição / Detalhes Operacionais |
 | :--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **US$ 0 (Milhas)** | **R$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
 | 🚗 **Aluguel de Veículo (19 dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
 | 🎟️ **Ingressos dos 8 Parques** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Comprado no Undercover Tourist!** (Disney 4d US$ 2.868,14 + Universal 2d US$ 1.440,94 + SeaWorld & Busch US$ 391,36 − Promo LOYAL20 US$ 25,04). Economia de US$ 900 vs. bilheteria! |
-| 🏨 **Hospedagem (19 noites)** | **CONFIRMADA (CENÁRIO 1)** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
-| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **PRÉ-RESERVADO** | **US$ 130,00** | **R$ 709,80** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
-| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **PROGRAMADO (05/11)** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
-| 🅿️ **Estacionamentos dos Parques** | *Estimado* | **US$ 225,00** | **R$ 1.228,50** | Estacionamentos (SeaWorld/Busch Gardens) + eventuais extras. |
-| 🛣️ **Pedágios Oficiais (SunPass PRO)** | **ESTRATÉGIA DEFINIDA** | **US$ 25,00** | **R$ 136,50** | Compra do transponder portátil SunPass PRO (US$ 14,95) + saldo recarga. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
-| ⛽ **Combustível Estimado** | *Estimado* | **US$ 225,00** | **R$ 1.228,50** | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias incluindo bate-volta a Tampa. |
-| 🍝 **Alimentação Inteligente (20 dias)** | *Estimado* | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
-| 💵 **CUSTO TOTAL GERAL DA VIAGEM** | **Integral (Tudo Incluso)** | **US$ 11.620,70** | **R$ 63.449,02** | **Custo total da viagem somando o carro quitado e as despesas em USD.** |
+| 🏨 **Hospedagem (19 noites)** | **COMPROMISSADO** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **COMPROMISSADO** | **US$ 130,00** | **R$ 709,80** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
+| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **COMPROMISSADO** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
+| 🅿️ **Estacionamentos dos Parques** | **COMPROMISSADO** | **US$ 225,00** | **R$ 1.228,50** | Estacionamentos (SeaWorld/Busch Gardens) + eventuais extras. |
+| 🛣️ **Pedágios Oficiais (SunPass PRO)** | **COMPROMISSADO** | **US$ 25,00** | **R$ 136,50** | Compra do transponder portátil SunPass PRO (US$ 14,95) + saldo recarga. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
+| ⛽ **Combustível Estimado** | **COMPROMISSADO** | **US$ 225,00** | **R$ 1.228,50** | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias incluindo bate-volta a Tampa. |
+| 🍝 **Alimentação Inteligente (20 dias)** | **COMPROMISSADO** | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis diariamente** + compras no **Walmart/Publix** para cozinhar e petiscos na cozinha da suíte + **1 refeição sentada de alto nível/dia** (estilo Olive Garden / Texas Roadhouse / Ford's Garage / BBQ). |
+| 💵 **CUSTO TOTAL DA VIAGEM** | **Pago + Compromissado** | **US$ 11.620,70** | **R$ 63.449,02** | **Custo total da viagem somando o carro quitado, ingressos e as despesas em USD.** |
+| 🛍️ **SALDO LIVRE P/ COMPRAS NO CHASE** | **Livre / Desimpedido** | **US$ 8.371,00** | **R$ 45.705,66** | **Disponível para compras, presentes, farmácias, outlets e lazer.** |
 
 *\*Conversão oficial do dia: US$ 1,00 = R$ 5,46.*
 
