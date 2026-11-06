@@ -4495,18 +4495,6 @@
       }
       else if (tabId === 'tab-reservas' && navBtns[6]) navBtns[6].classList.add('active');
       else if (tabId === 'tab-manual' && navBtns[7]) navBtns[7].classList.add('active');
-    });
-      }
-
-      document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
-      if (tabId === 'tab-dashboard') document.querySelectorAll('.nav-btn')[0].classList.add('active');
-      else if (tabId === 'tab-voos') document.querySelectorAll('.nav-btn')[1].classList.add('active');
-      else if (tabId === 'tab-hospedagem') document.querySelectorAll('.nav-btn')[2].classList.add('active');
-      else if (tabId === 'tab-checklist') document.querySelectorAll('.nav-btn')[3].classList.add('active');
-      else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld', 'tab-buschgardens'].includes(tabId)) {
-        document.querySelectorAll('.nav-btn')[4].classList.add('active');
-      } else if (tabId === 'tab-reservas') document.querySelectorAll('.nav-btn')[5].classList.add('active');
-      else if (tabId === 'tab-manual') document.querySelectorAll('.nav-btn')[6].classList.add('active');
     }
 
     function toggleTask(taskId) {
