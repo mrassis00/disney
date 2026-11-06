@@ -2287,3 +2287,95 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 
 
 
+
+---
+
+## 💬 Interação 72 (Auditoria de Bagagens, Protocolo de Segurança das Crianças e Reformulação Total do Web App PWA & Backend)
+
+### 👤 Solicitações do Usuário:
+1. **Franquias de Bagagem & Otimização da Conexão em Washington (IAD):**
+   - Checagem detalhada das regras de bagagem das companhias aéreas (United na ida e Delta na volta) para volumes despachados e de cabine (quilos e dimensões).
+   - Definição do cenário de bagagens para otimizar o tempo líquido da conexão de 8h15 em Washington Dulles (IAD) com crianças, sem perder tempo ou correr riscos.
+   - Avaliação do descarte total do Cenário B (Casa Branca) em prol do Cenário A (Smithsonian Udvar-Hazy / NASA + Shake Shack), com plano matador para as malas.
+   - Ensino de responsabilidade de viagem para as crianças cuidarem de suas próprias coisinhas.
+2. **Atualização Demográfica dos Filhos:**
+   - Correção e oficialização das idades no planejamento: **Miguel com 7 anos** (~1,25 m) e **Isabela com 5 anos** (~1,15 m).
+3. **Protocolo de Segurança das Crianças (Benchmark Anti-Perda & Anti-Sequestro):**
+   - Criação de um plano preventivo cirúrgico e objetivo para segurança das crianças em Orlando (dentro e fora dos parques).
+   - Avaliação e benchmark de dispositivos físicos de segurança (Apple AirTags com fixação inviolável: palmilhas com compartimento oculto nos tênis, pulseiras com fecho reforçado de fivela e broches camuflados).
+   - Tabela de compras da Amazon.com com valores estimados apenas para as crianças.
+   - Mensagem formatada em Markdown pronta para envio à esposa (Thalita) via WhatsApp.
+4. **Comando "Update All" e Reformulação Estrutural do Web App (`index.html` / `app_roteiro_orlando.html`):**
+   - Incorporar o **Checklist Master End-to-End** diretamente na primeira página do Web App, renomeando-a para **"Home"**.
+   - Criar aba e ícone dedicado para **💰 Finanças** na navegação e no painel de cards rápidos da Home.
+   - Renomear a aba e ícone "Manual" para **📖 Master**.
+   - **Fim da Visão Executiva nos Parques:** Substituição de todos os resumos superficiais por roteiros operacionais cirúrgicos **turn-by-turn (minuto a minuto)** para os 8 parques, com horários de abertura/fechamento, entrada/saída de cada brinquedo, duração de parada, restrições de altura e caixas de **💡 Decisão Rápida do Especialista**.
+   - Atualização completa do backend Markdown (`.md`), compilação via `build_html.ps1`, sincronização dos HTMLs e push para o repositório GitHub.
+
+---
+
+### 🤖 Resposta & Execução do Assistente (Antigravity):
+
+#### 1. Franquia de Bagagens & Estratégia de Conexão Oficial (Opção 1)
+* **Auditoria de Franquias:**
+  * **Voo de Ida (United Airlines UA 860 / UA 1140):** 
+    - *Despachada:* Até 2 malas de 23 kg (158 cm lineares) por passageiro elegíveis. As malas despachadas em Guarulhos (GRU) seguem retidas no sistema United até o destino final (Tampa - TPA), não precisando ser retiradas nem redespachadas durante a conexão doméstica em Washington Dulles (IAD).
+    - *Cabine:* 1 mala de mão de até 56 x 35 x 23 cm (sem limite de peso na United) + 1 item pessoal (mochila pequena até 43 x 25 x 22 cm sob o assento).
+  * **Voo de Retorno (Delta Air Lines DL 231 / DL 105):** 
+    - *Despachada:* 2 malas de 23 kg por passageiro de Orlando (MCO) direto a GRU.
+    - *Cabine:* 1 mala de mão (56 x 35 x 23 cm) + 1 item pessoal por pessoa.
+* **A Estratégia Vencedora (Opção 1 Oficializada):**
+  - **Na Ida (GRU ➔ IAD ➔ TPA):** A família embarca com **apenas 4 mochilas leves nos ombros** (Marcelo, Thalita, Miguel 7a e Isabela 5a) e **zero malas de rodinhas na cabine**.
+  - **Eliminação de Lockers e Perrengues:** O Museu Udvar-Hazy (Smithsonian NASA) proíbe malas de rodinhas e não oferece lockers públicos. Com as 4 mochilas leves nas costas, a família passa direto na revista do museu sem custo e sem depender de lockers externos no aeroporto.
+  - **Descarte da Casa Branca:** Cenário B 100% descartado (evita 80 km de trânsito pesado na rodovia I-66 e risco de perder o voo das 18h15). Mantido exclusivamente o **Cenário A: Conexão dos Sonhos na NASA + Almoço Shake Shack** (Uber a apenas 10-12 min de IAD, US$ 20-25 por trecho).
+  - **Malas de Rodinhas para a Volta:** Compra de 2 a 4 malas de bordo duráveis nos outlets de Orlando (Ross, TJ Maxx, Samsonite Outlet) para acomodar as compras da viagem e serem despachadas no voo Delta de volta.
+
+#### 2. Protocolo de Segurança das Crianças (Benchmark Anti-Perda)
+* **Diagnóstico Realista:** Os parques da Disney, Universal e SeaWorld possuem sistemas avançados de contra-inteligência e segurança (câmeras faciais, policiais à paisana e cães K9); o risco real é desorientação momentânea em aglomerações. O risco externo (outlets, postos, hipermercados) requer vigilância máxima e física dos pais.
+* **Sistema Triplo Anti-Perda Apple AirTag:**
+  1. *Palmilha com Compartimento Oculto (Kids Shoe Insoles):* AirTag embutido anatomicamente sob o calcanhar do tênis. Invisível e impossível de ser retirado sem desamarrar o calçado.
+  2. *Pulseira com Fivela Inviolável de Aço/Pino Duplo:* Silicone médico resistente no pulso com trava tipo relógio que a criança não consegue abrir puxando; gravação interna com telefone dos pais (+55 DDI).
+  3. *Broche Camuflado Magnético:* Preso por dentro do forro da bermuda/cintura com trava antifurto idêntica à de lojas de departamento.
+* **Investimento Amazon US para as Crianças (~US$ 119,97 total):**
+  - *Apple AirTag 4-Pack:* ~US$ 79,99 (2 para os filhos + 2 para mochilas).
+  - *2x Palmilhas Anatômicas com Compartimento Kids:* ~US$ 19,99.
+  - *2x Pulseiras de Silicone com Fivela de Aço Inviolável:* ~US$ 19,99.
+* **4 Protocolos Operacionais Diários:**
+  - *Protocolo 1 (Foto Matinal Diária):* Foto de corpo inteiro de Miguel e Isabela todo dia antes de sair do quarto para agilizar identificação visual pela segurança em < 60s.
+  - *Protocolo 2 (Treinamento dos Filhos):* Regra da Árvore (congelar no lugar ao se perder); os 2 Heróis Seguros (crachá oficial Disney/Universal ou uma mãe empurrando carrinho com filhos); grito de alerta contra estranhos: "VOCÊ NÃO É MEU PAI!".
+  - *Protocolo 3 (Blindagem em Banheiros):* Nunca deixar as crianças sozinhas (Miguel com o Papai, Isa com a Mamãe).
+  - *Protocolo 4 (Regra de Ouro da Identificação):* NUNCA colocar o nome das crianças visível em roupas, bonés ou mochilas.
+
+#### 3. Reformulação Radical do Web App PWA & Backend
+* **Home com Checklist Integrado:**
+  - A primeira tela do aplicativo foi renomeada para **"Home"**.
+  - O **Checklist Master End-to-End (22 Etapas)** foi incorporado diretamente na Home com filtros dinâmicos por fase (Todas, Documentos & Compras, Malas & Casa, Embarque & Conexão, Chegada & Parques, Retorno & Réveillon), caixas de seleção interativas que salvam o progresso em tempo real no `localStorage` do celular e barra de progresso sincronizada no topo fixo.
+* **Nova Aba e Ícone de Gestão Financeira (💰 Finanças):**
+  - Adicionado ícone próprio na barra inferior de navegação e card rápido no grid da Home.
+  - Criada a aba `<div id="tab-financas">` detalhando:
+    - *Budget Total:* US$ 19.991,70
+    - *Total Quitado:* US$ 5.791,63 (8 parques + SUV Traverse Avis)
+    - *Compromissado Chase:* US$ 5.829,07 (Hilton $2.914,07 + Seguro $210 + Gastos $2.705)
+    - *Saldo 100% Livre no Débito Chase/Apple Pay:* **US$ 8.371,00** (~US$ 418,55/dia para compras e refeições livres sem incidência de IOF via ACH Schwab).
+    - Guia de gorjetas (18-20% garçom vs 0% balcão) e imposto de vendas (6,5% Orange County).
+* **Renomeação para 📖 Master:**
+  - Aba e ícone de documentação integral renomeados de "Manual" para **Master** (`📖 Guia Master Completo`).
+* **Roteiros Minuto a Minuto (Turn-by-Turn) dos 8 Parques no Web App:**
+  - Eliminados os textos executivos genéricos. Todas as 8 abas de parques (`tab-universal`, `tab-magickingdom`, `tab-epic`, `tab-animalkingdom`, `tab-epcot`, `tab-hollywood`, `tab-seaworld`, `tab-buschgardens`) foram reconstruídas com:
+    - Horários precisos de chegada, abertura, desfiles e encerramento.
+    - Linha do tempo passo a passo com faixas de horário (`08h30 - 09h15`), tempo de parada (`⏱️ 45 min`), etiquetas de público/altura (Miguel 7a, Isa 5a, Marcelo, Thalita).
+    - Mapas visuais oficiais integrados com fluxo de navegação.
+    - Recomendações de almoço e jantar com pratos sugeridos e assentos climatizados.
+    - Caixas de **💡 Decisão Rápida do Especialista** para direcionar ações imediatas em caso de filas ou mudanças de clima.
+
+#### 4. Sincronização e Deploy
+* **Arquivos Backend Atualizados:**
+  - `roteiro_orlando_dezembro_2026_guia_completo.md`
+  - `resumo_executivo_roteiro_orlando_celular.md`
+* **Compilação de HTMLs:**
+  - Executado `build_html.ps1` com geração com sucesso de `roteiro_orlando_dezembro_2026_guia_completo.html` e `resumo_executivo_roteiro_orlando_celular.html`.
+* **Sincronização dos Web Apps:**
+  - `index.html` e `app_roteiro_orlando.html` atualizados para 247.363 bytes cada.
+* **Versionamento & Git:**
+  - Efetuado commit: `feat(webapp): Home com checklist integrado, gestao financeira Chase, guia Master e roteiros operacionais passo a passo dos 8 parques`.
+  - Push concluído com sucesso para `origin/main` no repositório GitHub.
