@@ -1,11 +1,11 @@
 # 📌 Checkpoint de Retomada Imediata — Viagem Orlando Dezembro 2026
 
-**Data de Consolidação:** 05/11/2026 às 23:51  
+**Data de Consolidação:** 06/11/2026 às 00:00 (Fechamento Noturno)  
 **Status do Repositório Git:** 100% Limpo e Sincronizado com `origin/main` (`https://github.com/mrassis00/disney.git`)  
 **Últimos Commits:** 
-- `feat(webapp): gestao financeira no topo da Home, aba dedicada Checklist e abas superiores 1 a 1 nos 8 parques`
+- `docs: consolidar fechamento noturno e Interacao 75 no history.md e checkpoint`
+- `6d2bee8` — *feat(webapp): gestao financeira no topo da Home, aba dedicada Checklist e abas superiores 1 a 1 nos 8 parques*
 - `6ffda44` — *fix(webapp): corrigir SyntaxError no script de navegacao JS e subir cache sw para v6*
-- `8021129` — *docs: registrar Interacao 72 no history.md com bagagens, seguranca infantil, financas e novo webapp*
 **Web App em Produção:** [https://mrassis00.github.io/disney](https://mrassis00.github.io/disney)
 
 ---
