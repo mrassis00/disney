@@ -17,6 +17,9 @@
 * [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
 * [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
 * [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
+* [x] 🧳 **Estratégia Oficial de Bagagens na Ida (Opção 1 Escolhida — Risco Zero):** **DEFINIDO!** A família viaja **sem malas de rodinhas na cabine na ida**, apenas com **4 mochilas leves** (uma para cada). Miguel (7a) e Isabela (5a) levam suas próprias mochilinhas com fone, agasalho e tablet. Entram direto no museu da NASA no raio-X, sem lockers e sem risco!  
+* [ ] 📁 **Pasta da Imigração CBP (Dulles IAD):** **NOVO!** Passaportes, reservas Hilton/Avis/Ingressos, seguro IMG e extrato Chase na mochila do Marcelo.  
+* [ ] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags & Palmilhas):** **NOVO!** 4 Apple AirTags + palmilhas com compartimento oculto + pulseiras reforçadas + fotos matinais diárias com a roupa do dia.  
 * [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
@@ -30,16 +33,30 @@
 
 ---
 
-## ✈️ Detalhes Oficiais dos Voos (Milhas) & Conexão Mágica em Washington
+## ✈️ Detalhes dos Voos, Franquia de Bagagem & Conexão em Washington
 
-* **Voo de Ida (United Airlines):**  
-  * `11/12 22:25` GRU ➡️ `12/12 06:30` Washington (IAD) | Voo UA 860 | Boeing 767-400ER (Assentos 33A, 33B, 34A, 34B).  
-  * 🚀 **Dica de Ouro na Conexão de 11h23m:** O colossal museu aeroespacial **Smithsonian Steven F. Udvar-Hazy Center** fica a apenas **10 minutos de Uber/ônibus do Aeroporto de Dulles (IAD)**! Entrada 100% gratuita. Miguel e Marcelo poderão ver o **Ônibus Espacial Discovery real da NASA**, o caça supersônico **Concorde** e aviões históricos enquanto aguardam o voo.  
-  * `12/12 17:53` IAD ➡️ `12/12 20:30` Tampa (TPA) | Voo UA 1140 | Boeing 737-800 (Assentos 22C, 22D, 22E, 22F).
-* **Voo de Volta (Delta Air Lines):**  
-  * `31/12 18:45` Orlando (MCO) Terminal B ➡️ `31/12 20:30` Atlanta (ATL) | Voo DL 1742 | Airbus A321 (Assentos 17F, 18F...).  
-  * Conexão rápida de 1h35m em Atlanta.  
-  * `31/12 22:05` Atlanta (ATL) ➡️ `01/01/2027 09:35` São Paulo (GRU) T3 | Voo DL 0269 | Airbus A330-900neo (Assentos 38J, 39J...).
+### 🧳 1. Franquia Oficial de Bagagem (United e Delta)
+* **Malas Despachadas:** **1 mala de até 23 kg (50 lbs) por passageiro** (Total: 4 malas = 92 kg). Na ida, as malas vão direto de GRU até Tampa (re-despacho automático na alfândega de Dulles).
+* **Malas de Bordo (Bin do Avião):** **1 mala por passageiro (56 x 35 x 23 cm) SEM LIMITE DE PESO EM KG** na United e Delta.
+* **Item Pessoal (Sob o Assento):** **1 mochila/bolsa por passageiro (43 x 25 x 22 cm)**.
+* **Itens Infantis Extras:** **1 Booster + 1 Carrinho por criança despachados 100% GRÁTIS** (não descontam da cota!).
+
+### 🎒 2. Estratégia das 4 Mochilas na Cabine (Opção 1 Escolhida — Autonomia & Agilidade)
+* **Miguel (7a) e Isabela (5a):** Cada um leva sua própria mochilinha leve nas costas (2 a 3 kg) com: 1 muda de roupa, casaco quentinho, fones de ouvido, tablet com desenhos offline, livrinho/gibi e garrafinha vazia.
+* **Pais:** Mochila do Marcelo (notebook, powerbank e Pasta de Documentos) + Bolsa da Thalita (cuidados, remedinhos infantis e agasalho).
+
+### 🛡️ 3. Passo a Passo da Imigração dos EUA (CBP Dulles)
+* **A Pasta Física:** 4 Passaportes com visto, confirmações Hilton, Avis, Undercover Tourist, seguro IMG e extrato Chase ($14.200).
+* **Guichê Familiar:** Todos juntos. Marcelo responde calmo em inglês: *"Vacation in Orlando with the kids, staying 20 days at Homewood Suites by Hilton"*. Biometria e fotos digitais.
+
+### 🚀 4. Conexão Oficial em Washington (IAD — 100% NASA Udvar-Hazy & Shake Shack)
+* **Decisão:** **Casa Branca 100% descartada** (elimina 100 km de estrada, trânsito, frio de 2°C a 8°C e fotos de longe atrás de grades).
+* **Foco Único:** **Smithsonian Steven F. Udvar-Hazy Center (NASA)** a apenas **10 a 12 min de Uber de Dulles**.
+* **Cronograma:** Pouso 06h30 ➔ Imigração CBP e malas despachadas transferidas para Tampa ➔ Café e banho quente no Turkish Airlines Lounge ➔ 10h00 entrada no Udvar-Hazy (Ônibus Espacial Discovery, caça Concorde e Torre de Observação de aeronaves) ➔ 12h30 almoço no **Shake Shack** interno ➔ 15h15 retorno ao aeroporto com 2h20 de folga antes do voo das 17h53 para Tampa!
+
+### 🧳 5. O Plano Matador de Bagagens (Risco Zero Absoluto)
+* **A Regra da TSA:** Dulles (IAD) e o museu da NASA **não possuem lockers públicos**. Malas de rodinhas não entram no museu.
+* 🏆 **Opção 1 Escolhida Oficialmente ("Sem dor de cabeça com lockers"):** A família viaja na ida **SEM malas com rodinhas na cabine**, apenas com **4 mochilas leves nas costas** (uma para cada um). As mochilas entram livremente no museu da NASA após o raio-X, custo zero com depósitos, risco zero de perda ou roubo, e máxima agilidade no Uber. Se quiserem malas de bordo, compram nos outlets de Orlando para o retorno!
 
 ---
 
@@ -148,6 +165,20 @@
 * 📱 **Ativar no App SunPass:** Baixe o app *SunPass*, crie sua conta, adicione **US$ 10** de saldo pré-pago, cadastre o número do aparelho e adicione o veículo como **"Rental Car"** com a placa da minivan e as datas de início e fim da locação (12/12 a 31/12 às 16h).
 * 🚗 **Fixar no Vidro:** Grude no para-brisa com as ventosas atrás do retrovisor. Ao passar por praças de pedágio expressas, passe direto pela faixa SunPass/E-PASS.
 * 📦 **Devolução (31/12):** Ao entregar o carro na AVIS em Orlando (MCO), retire a caixinha do vidro e guarde na mala. O app desvincula a placa automaticamente às 16h!
+
+### 5. Protocolo de Segurança das Crianças (AirTags, Palmilhas & Prevenção):
+* **📡 Rastreamento Invisível no Tênis (Apple AirTag na Rede Find My):**
+  1. **Palmilhas com Compartimento Oculto:** O AirTag fica embutido embaixo do calcanhar no tênis de Miguel (7a) e Isabela (5a). Ninguém vê e é impossível arrancar sem desamarrar o calçado.
+  2. **Pulseira com Fivela de Relógio:** Fecho reforçado no pulso que a criança não consegue abrir puxando.
+  3. **Monitoramento nos iPhones:** Marcelo e Thalita recebem alertas se a criança se afastar mais de 25 metros (*Notify When Left Behind*).
+* **🛑 Regra de Ouro da Identificação:** NUNCA colocar o nome da criança visível na roupa ou mochila (estranhos usam o nome para atrair). Usar pulseiras com telefone gravado no verso (*"IF LOST, CALL PARENTS: [fone]"*).
+* **📸 Foto Matinal Obrigatória:** Todo dia de manhã no hotel, tirar foto de corpo inteiro das crianças com a roupa do dia para busca policial imediata pelas câmeras da Disney se necessário.
+* **🌲 A Regra da "Árvore" & Os 2 Heróis:** Treinar Miguel e Isabela: se não virem os pais, congelem no lugar como uma árvore. Pedir socorro a quem tem o **crachá oficial da Disney/Universal** ou a **uma mãe empurrando carrinho com crianças**.
+* **🚻 Banheiros Públicos:** Crianças NUNCA entram sozinhas! Miguel com o Papai Marcelo e Isabela com a Mamãe Thalita.
+* **🛒 O Que Comprar no Amazon.com (Apenas para as 2 Crianças — Total ~US$ 119):**
+  * 1 Apple AirTag Pack de 4: **US$ 79,99** (2 nos tênis das crianças + 2 sobram p/ mochilas/carro).
+  * 2 Pares de Palmilhas Infantis com compartimento oculto: **US$ 29,99**.
+  * 1 Kit com 2 Pulseiras Infantis de Silicone com Fivela: **US$ 9,99**.
 
 
 
