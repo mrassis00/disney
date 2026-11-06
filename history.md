@@ -2400,3 +2400,36 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
 * **3. Atualização do Service Worker & PWA:**
   - Versão do cache em `sw.js` incrementada para `orlando-2026-v6`.
   - Garante que os dispositivos (celular e desktop) limpem o cache anterior e carreguem o script corrigido automaticamente.
+
+
+---
+
+## 💬 Interação 74 (Nova Arquitetura de Navegação: Gestão Financeira no Topo da Home, Aba Dedicada Checklist e Sub-navegação com Abas Superiores dos 8 Parques)
+
+### 👤 Solicitação do Usuário:
+> "colocar a gestao financeira na parte que cima da home (antes de tudo) e os outros paineis na sequencia. Criar uma nova aba ao lado do topico home chamado 'CheckList' e mover toda a secao que esta na hora do Checklist Master da Viagem para esta nova aba. Na aba Parques, criar abas internas (em cima) para cada parque com cada roteiro, pois neste momento so esta aparecendo o Universal. Eu quero manter o mesmo estilo, mas quero trocar os parques e ver as informacoes 1 a 1"
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Reorganização Estrutural da Home (`tab-dashboard`):**
+  - **1º Painel no Topo Absoluto:** O card de **Gestão Financeira ao Vivo** (`.finance-banner`) agora abre no início de tudo na Home, exibindo as métricas principais do Chase ($19.991 disponível, $5.791 quitado, $5.829 compromissado e **$8.371 livres para compras e refeições**).
+  - **2º Painel:** Grid visual dos 8 Parques com capas fotográficas, links e métricas de sucesso.
+  - **3º Painel:** Cards rápidos de atalho para Voos (Conexão IAD/NASA), Carro SUV AVIS (Voucher `X4X9T9M`), Hotel Homewood Suites e Finanças Detalhadas.
+  - **4º Painel:** Card Resumo / Teaser com progresso em tempo real e botão de chamada de 1 toque para o Checklist Master (`navigateTo('tab-checklist')`).
+* **2. Nova Aba Dedicada `tab-checklist` & Bottom Nav Atualizado:**
+  - Todo o Checklist Master (as 22 etapas end-to-end, filtros dinâmicos de fase, checkboxes interativos que salvam no `localStorage`, tags e dicas expansíveis) foi extraído para sua própria aba dedicada: `<div id="tab-checklist" class="tab-view">`.
+  - A barra inferior de navegação (`bottom-nav`) agora conta com **9 botões** com layout balanceado (`flex: 1`):
+    - `🏠 Home` | `✅ Checklist` | `✈️ Voos` | `🚗 Carro` | `🏨 Hotel` | `💰 Finanças` | `🎢 Parques` | `🍽️ Gourmet` | `📖 Master`.
+* **3. Abas Internas Superiores nos Parques (Sub-navegação 1 a 1):**
+  - Criado o componente de sub-navegação `.park-subnav-container` fixado no topo de cada um dos 8 parques (`tab-universal`, `tab-magickingdom`, `tab-epic`, `tab-animalkingdom`, `tab-epcot`, `tab-hollywood`, `tab-seaworld`, `tab-buschgardens`).
+  - O seletor superior possui 8 pílulas deslizáveis horizontalmente com o mesmo visual glassmorphism dark:
+    1. `🎢 1. Universal (14/12)`
+    2. `🏰 2. Magic Kingdom (16/12)`
+    3. `🪐 3. Epic Universe (18/12)`
+    4. `🌳 4. Animal Kingdom (19/12)`
+    5. `🌐 5. EPCOT (21/12)`
+    6. `🎬 6. Hollywood (22/12)`
+    7. `🐬 7. SeaWorld (27/12)`
+    8. `🐆 8. Busch Gardens (29/12)`
+  - A função `navigateTo()` sincroniza automaticamente o estado `.active` e rola a aba do parque para o centro da visualização. Permite alternar os parques com 1 clique e inspecionar cada roteiro, cronograma e mapa individualmente sem sair da seção de parques!
+* **4. Atualização de Cache PWA:**
+  - `sw.js` atualizado para o cache `orlando-2026-v7`.

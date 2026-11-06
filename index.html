@@ -191,7 +191,7 @@
       transition: all 0.2s ease;
       padding: 6px 8px;
       border-radius: 12px;
-      width: 14.2%;
+      flex: 1; min-width: 0; padding: 5px 2px; font-size: 0.62rem;
     }
 
     .nav-btn span.icon {
@@ -273,6 +273,81 @@
     .val-positive { color: var(--accent-green); }
     .val-neutral { color: var(--accent-blue); }
     .val-gold { color: var(--accent-gold); }
+
+    
+    /* Sub-navegacao de Parques (Tabs Internas no Topo) */
+    .park-subnav-container {
+      position: sticky;
+      top: 64px;
+      z-index: 95;
+      background: rgba(15, 23, 42, 0.96);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--border-card);
+      border-radius: var(--radius-md);
+      padding: 10px 12px;
+      margin-bottom: 18px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+    }
+    .park-subnav-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent-blue);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .park-subnav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: thin;
+      padding-bottom: 4px;
+      -webkit-overflow-scrolling: touch;
+    }
+    .park-subnav::-webkit-scrollbar {
+      height: 4px;
+    }
+    .park-subnav::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 4px;
+    }
+    .park-subnav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(30, 41, 59, 0.75);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      padding: 7px 12px;
+      color: var(--text-dim);
+      font-size: 0.8rem;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+    .park-subnav-btn:hover {
+      background: rgba(51, 65, 85, 0.9);
+      color: #fff;
+      border-color: rgba(56, 189, 248, 0.4);
+    }
+    .park-subnav-btn.active {
+      background: linear-gradient(135deg, rgba(30, 58, 138, 0.9), rgba(14, 165, 233, 0.9));
+      border-color: var(--accent-blue);
+      color: #ffffff;
+      box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
+    }
+    .park-subnav-btn .ps-badge {
+      background: rgba(0, 0, 0, 0.35);
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
 
     .tab-view {
       display: none;
@@ -832,6 +907,41 @@
     <!-- ========================================== -->
     <div id="tab-dashboard" class="tab-view active">
 
+      <!-- Card Financeiro Vivo -->
+      <div class="finance-banner">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h2 style="font-size: 1.25rem; font-weight: 700;">📊 Gestão Financeira ao Vivo</h2>
+          <span class="tag tag-gold">Conta Chase EUA</span>
+        </div>
+        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
+          Depósito via ACH da Charles Schwab liquidado sem IOF. Saldo em dólar pronto no débito e Apple Pay.
+        </p>
+
+        <div class="finance-metrics">
+          <div class="metric-box">
+            <div class="metric-label">Budget Total Disponível</div>
+            <div class="metric-value val-neutral">$19.991,70</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Chase $14.200 + Ingressos $4.675 + Carro $1.116</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Já Quitado / Pago</div>
+            <div class="metric-value" style="color: var(--accent-green);">$5.791,63</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Ingressos $4.675,40 + Carro SUV $1.116,23</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Compromissado (Chase)</div>
+            <div class="metric-value" style="color: var(--accent-coral);">$5.829,07</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Hotel Hilton $2.914 + Seguro $210 + Gastos $2.705</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Total Livre para Gastar</div>
+            <div class="metric-value val-positive">$8.371,00</div>
+            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Livre no Chase pós-contas (~$418,55/dia compras)</div>
+          </div>
+        </div>
+      </div>
+
+
       <!-- Grid dos 8 Parques (NO TOPO DO APP) -->
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
         <div>
@@ -997,39 +1107,6 @@
 
       </div>
 
-      <!-- Card Financeiro Vivo -->
-      <div class="finance-banner">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-          <h2 style="font-size: 1.25rem; font-weight: 700;">📊 Gestão Financeira ao Vivo</h2>
-          <span class="tag tag-gold">Conta Chase EUA</span>
-        </div>
-        <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 4px;">
-          Depósito via ACH da Charles Schwab liquidado sem IOF. Saldo em dólar pronto no débito e Apple Pay.
-        </p>
-
-        <div class="finance-metrics">
-          <div class="metric-box">
-            <div class="metric-label">Budget Total Disponível</div>
-            <div class="metric-value val-neutral">$19.991,70</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Chase $14.200 + Ingressos $4.675 + Carro $1.116</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Total Já Quitado / Pago</div>
-            <div class="metric-value" style="color: var(--accent-green);">$5.791,63</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Ingressos $4.675,40 + Carro SUV $1.116,23</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Total Compromissado (Chase)</div>
-            <div class="metric-value" style="color: var(--accent-coral);">$5.829,07</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Hotel Hilton $2.914 + Seguro $210 + Gastos $2.705</div>
-          </div>
-          <div class="metric-box">
-            <div class="metric-label">Total Livre para Gastar</div>
-            <div class="metric-value val-positive">$8.371,00</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); margin-top: 2px;">Livre no Chase pós-contas (~$418,55/dia compras)</div>
-          </div>
-        </div>
-      </div>
 
       <!-- Card Rápido de Voos, Carro & Hotel Oficial -->
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 20px;">
@@ -1133,6 +1210,35 @@
       </div>
 
 
+
+
+      <!-- Card Resumo do Checklist na Home -->
+      <div class="glass-card" style="border-left: 5px solid var(--accent-green); cursor: pointer; margin-top: 20px;" onclick="navigateTo('tab-checklist')">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="font-size: 1.3rem;">✅</span>
+            <h3 style="font-size: 1.15rem; font-weight: 800; color: #fff; margin: 0;">Checklist Master da Viagem</h3>
+          </div>
+          <span id="dash-checklist-pct" class="tag tag-green" style="font-size: 0.85rem;">0% Concluído</span>
+        </div>
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px;">
+          22 etapas estratégicas completas: documentos, malas, conexão IAD, carro, reservas e retorno.
+        </p>
+        <div class="checklist-progress-bar" style="margin-bottom: 12px;">
+          <div id="dash-progress-fill" class="progress-fill"></div>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span style="font-size: 0.8rem; color: var(--text-muted);">Toque para abrir a aba dedicada</span>
+          <span class="tag tag-green" style="font-weight: 700; font-size: 0.85rem;">Abrir Checklist Completo (22 Etapas) ➔</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================== -->
+    <!-- ABA: CHECKLIST MASTER DA VIAGEM             -->
+    <!-- ========================================== -->
+    <div id="tab-checklist" class="tab-view">
+      <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
 
       <!-- ============================================================ -->
       <!-- CHECKLIST MASTER INTERATIVO INTEGRADO NA HOME               -->
@@ -1562,7 +1668,9 @@
       </div>
 
 
+
     </div>
+
 
 
     <!-- ========================================== -->
@@ -2192,6 +2300,40 @@
     <!-- ============================================================ -->
     <div id="tab-universal" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn active" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
       
       <div class="glass-card" style="border-left: 5px solid var(--accent-blue);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -2562,6 +2704,40 @@
     <!-- ============================================================ -->
     <div id="tab-magickingdom" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
       
       <div class="glass-card" style="border-left: 5px solid var(--accent-blue);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -2932,6 +3108,40 @@
     <!-- ============================================================ -->
     <div id="tab-epic" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-blue);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -3209,6 +3419,40 @@
     <!-- ============================================================ -->
     <div id="tab-animalkingdom" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-green);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -3462,6 +3706,40 @@
     <!-- ============================================================ -->
     <div id="tab-epcot" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-blue);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -3736,6 +4014,40 @@
     <!-- ============================================================ -->
     <div id="tab-hollywood" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-coral);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -3968,6 +4280,40 @@
     <!-- ============================================================ -->
     <div id="tab-seaworld" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-blue);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -4200,6 +4546,40 @@
     <!-- ============================================================ -->
     <div id="tab-buschgardens" class="tab-view">
       <button class="back-btn" onclick="navigateTo('tab-dashboard')">⬅️ Voltar para Home</button>
+      <!-- Sub-navegação Interna dos 8 Parques (Abas Superiores) -->
+      <div class="park-subnav-container">
+        <div class="park-subnav-header">
+          <span>🎢 ROTEIROS DOS 8 PARQUES (1 A 1)</span>
+          <span class="tag tag-green" style="font-size: 0.7rem;">Toque para alternar</span>
+        </div>
+        <div class="park-subnav">
+          <button class="park-subnav-btn" data-target="tab-universal" onclick="navigateTo('tab-universal')">
+            <span class="ps-badge">1</span> 🎢 Universal <span style="font-size: 0.7rem; opacity: 0.75;">(14/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-magickingdom" onclick="navigateTo('tab-magickingdom')">
+            <span class="ps-badge">2</span> 🏰 Magic Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(16/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epic" onclick="navigateTo('tab-epic')">
+            <span class="ps-badge">3</span> 🪐 Epic Universe <span style="font-size: 0.7rem; opacity: 0.75;">(18/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-animalkingdom" onclick="navigateTo('tab-animalkingdom')">
+            <span class="ps-badge">4</span> 🌳 Animal Kingdom <span style="font-size: 0.7rem; opacity: 0.75;">(19/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-epcot" onclick="navigateTo('tab-epcot')">
+            <span class="ps-badge">5</span> 🌐 EPCOT <span style="font-size: 0.7rem; opacity: 0.75;">(21/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-hollywood" onclick="navigateTo('tab-hollywood')">
+            <span class="ps-badge">6</span> 🎬 Hollywood <span style="font-size: 0.7rem; opacity: 0.75;">(22/12)</span>
+          </button>
+          <button class="park-subnav-btn" data-target="tab-seaworld" onclick="navigateTo('tab-seaworld')">
+            <span class="ps-badge">7</span> 🐬 SeaWorld <span style="font-size: 0.7rem; opacity: 0.75;">(27/12)</span>
+          </button>
+          <button class="park-subnav-btn active" data-target="tab-buschgardens" onclick="navigateTo('tab-buschgardens')">
+            <span class="ps-badge">8</span> 🐆 Busch Gardens <span style="font-size: 0.7rem; opacity: 0.75;">(29/12)</span>
+          </button>
+        </div>
+      </div>
+
 
       <div class="glass-card" style="border-left: 5px solid var(--accent-gold);">
         <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
@@ -4429,11 +4809,15 @@
 
   </main>
 
-  <!-- Bottom Navigation Bar com 7 Abas -->
+    <!-- Bottom Navigation Bar com 9 Abas -->
   <nav class="bottom-nav">
     <button class="nav-btn active" onclick="navigateTo('tab-dashboard')">
       <span class="icon">🏠</span>
       <span>Home</span>
+    </button>
+    <button class="nav-btn" onclick="navigateTo('tab-checklist')">
+      <span class="icon">✅</span>
+      <span>Checklist</span>
     </button>
     <button class="nav-btn" onclick="navigateTo('tab-voos')">
       <span class="icon">✈️</span>
@@ -4467,34 +4851,39 @@
 
   <script>
     function navigateTo(tabId) {
-      if (tabId === 'tab-checklist') {
-        tabId = 'tab-dashboard';
-        setTimeout(() => {
-          const el = document.getElementById('checklist-anchor');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        }, 100);
-      }
       document.querySelectorAll('.tab-view').forEach(tab => tab.classList.remove('active'));
       const target = document.getElementById(tabId);
       if (target) {
         target.classList.add('active');
-        if (tabId !== 'tab-dashboard' || !window.location.hash.includes('checklist')) {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       }
 
       document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
       const navBtns = document.querySelectorAll('.nav-btn');
       if (tabId === 'tab-dashboard' && navBtns[0]) navBtns[0].classList.add('active');
-      else if (tabId === 'tab-voos' && navBtns[1]) navBtns[1].classList.add('active');
-      else if (tabId === 'tab-carro' && navBtns[2]) navBtns[2].classList.add('active');
-      else if (tabId === 'tab-hospedagem' && navBtns[3]) navBtns[3].classList.add('active');
-      else if (tabId === 'tab-financas' && navBtns[4]) navBtns[4].classList.add('active');
+      else if (tabId === 'tab-checklist' && navBtns[1]) navBtns[1].classList.add('active');
+      else if (tabId === 'tab-voos' && navBtns[2]) navBtns[2].classList.add('active');
+      else if (tabId === 'tab-carro' && navBtns[3]) navBtns[3].classList.add('active');
+      else if (tabId === 'tab-hospedagem' && navBtns[4]) navBtns[4].classList.add('active');
+      else if (tabId === 'tab-financas' && navBtns[5]) navBtns[5].classList.add('active');
       else if (tabId.startsWith('tab-') && ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-hollywood', 'tab-epcot', 'tab-seaworld', 'tab-buschgardens'].includes(tabId)) {
-        if (navBtns[5]) navBtns[5].classList.add('active');
+        if (navBtns[6]) navBtns[6].classList.add('active');
       }
-      else if (tabId === 'tab-reservas' && navBtns[6]) navBtns[6].classList.add('active');
-      else if (tabId === 'tab-manual' && navBtns[7]) navBtns[7].classList.add('active');
+      else if (tabId === 'tab-reservas' && navBtns[7]) navBtns[7].classList.add('active');
+      else if (tabId === 'tab-manual' && navBtns[8]) navBtns[8].classList.add('active');
+
+      // Atualiza os botoes da sub-navegacao de parques
+      const parkIds = ['tab-universal', 'tab-magickingdom', 'tab-epic', 'tab-animalkingdom', 'tab-epcot', 'tab-hollywood', 'tab-seaworld', 'tab-buschgardens'];
+      if (parkIds.includes(tabId)) {
+        document.querySelectorAll('.park-subnav-btn').forEach(btn => {
+          if (btn.dataset.target === tabId) {
+            btn.classList.add('active');
+            btn.scrollIntoView({ inline: 'center', behavior: 'smooth', block: 'nearest' });
+          } else {
+            btn.classList.remove('active');
+          }
+        });
+      }
     }
 
     function toggleTask(taskId) {
