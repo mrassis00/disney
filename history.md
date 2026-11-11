@@ -2538,3 +2538,40 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   - `sw.js`: Versão de cache elevada para `orlando-2026-v11`.
   - `roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`: Marcados como quitados/comprados no checklist e na Seção 11.4.
   - Recompilados os HTMLs de apoio (`build_html.ps1`).
+
+
+---
+
+## 📅 Interação 80 — Seguro Saúde Oficial Emitido (IMG Patriot America Plus • PATAP87074813) & Dados de Prontidão Integrados
+
+### 👤 Mensagens do Usuário:
+1. *"vamos agora para o seguro, opcao 2. (ATENCAO, nao comitar nada no git e nem atualizar enquanto eu nao pedir, pois iss demora muito aqui no sistema). Mostrar passo a passo o link que devo acessar para fechar o seguro, e nao ter erro."*
+2. *"eu preciso colocar o dia da chega e saida ou eu preciso colocar a partida dia 11 e chegada no brasil 01 de janeiro? quero estar coberto assim que eu entrar no aviao, este seguro cobre isso?"*
+3. *"voce poderia ler a minha tela e ver se esta coerente? ... avaliar outras configuracoes e mostrar pros e contras numa tabela com um plano matador."*
+4. *"Analisar a melhor opcao considerando a tabela da imagem, sugerir a opcao matadoura. Alem disso, comparar com a concorrente direta e que daria o mesmo tipo de servicoe em orlando. Orlando é prioridade com clinicas proximas e o sistema PPO."*
+5. *"entendido. Pra suportar a decisao final. Eu foquei bastante nas criancas e agora gostaria de focar nos adultos caso tenham algo eu ou minha esposa. Favor avaliar os custos de algo leve e de algo urgente e critico para decidir entre o teto de 250K ou 500K... Thalita doenca rara Hydroa Vacciniforme e enxaqueca, eu tomo remedios de pressao, triglicerides e colesterol... ler a pagina toda para evitar pegadinhas..."*
+6. *"eu saio do brasil no dia 11 ao fim da noite, eu devo fazer a apolice iniciando em 11 ou 12 de dezembro? qual sua recomendacao?"*
+7. *"ok, considerando isso resuma o que devo fazer agora que eu vou pagar e fazer"*
+8. *"Seguro fechado. Todos os dados do seguro com os Id Cards estao na pasta seguro. Ler todos os arquivos desta pasta, atualizar o check list, atualizar o git o app web com os dados de prontidao caso tenhamos uma urgencia."*
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Análise dos Documentos Oficiais na Pasta `seguro/`:**
+  - Extraídos os dados dos arquivos: `Apolice Seguro.pdf`, `Confirmation - Enjoy Your Trip! - IMG.pdf`, `Gmail - Patriot America Plus Confirmation - PATAP87074813.pdf` e os 4 cartões de identificação individual.
+  - **Certificado Principal:** `PATAP87074813` | **Master Policy:** `093883536` | **Subscrição:** SiriusPoint Specialty Insurance Corporation / IMG.
+  - **Vigência:** De **11/12/2026 (12:01 AM)** a **01/01/2027 (expira 02/01/2027 às 12:01 AM)** — 22 dias completos cobrindo o voo de ida e volta.
+  - **Condições:** Policy Maximum de **US$ 500.000,00** por pessoa | Deductible de **US$ 100,00** | Copay de **$25** em Urgent Care / **$15** em Walk-in Clinic.
+  - **Rede PPO:** **UnitedHealthcare Options PPO** (Payor ID: `USN01`, Group: `76570070`).
+  - **Benefício Farmácia (Prescription Discount):** BIN `610020`, Rx Group `IMG427`, PCN `URX001`.
+  - **Prêmio Total Pago:** **US$ 329,62** debitado da conta Chase Bank (0% IOF / 0% Spread):
+    - Marcelo (ID `93883536`): US$ 98,74
+    - Thalita (ID `93883537`): US$ 98,74
+    - Miguel (ID `93883538`): US$ 66,07
+    - Isabela (ID `93883539`): US$ 66,07
+* **2. Atualização dos Sistemas & Prontidão de Emergência:**
+  - Web App (`index.html` e `app_roteiro_orlando.html`):
+    - Card `card-c5` no Checklist marcado como concluído (`🟢 Quitado • Apólice Emitida - US$ 329,62`).
+    - Hub de Emergência na Home enriquecido com banner interativo verde destacando Certificado, Apólice, IDs dos 4 segurados, dados de farmácia PPO e botões de discagem com 1 clique para ligar grátis nos EUA (`1-800-628-4664`) e atendimento 24h em Português (`+1-317-655-4500`).
+  - `sw.js`: Versão de cache atualizada para `orlando-2026-v12`.
+  - Markdowns (`roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`): Checklist e tabelas financeiras marcadas como quitadas (`US$ 329,62`).
+  - HTMLs de apoio recompilados (`build_html.ps1`).
+  - Repositório Git com commit limpo e sincronizado no GitHub.

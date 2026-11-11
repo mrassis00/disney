@@ -49,11 +49,14 @@
 * [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
   * **Carrinho Duplo:** Aluguel de **1 Baby Jogger Summit X3 Double com a Lin Rentals por US$ 130** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
   * **Assento de Elevação (Booster da Isabela - 5 anos):** **NÃO ALUGAR (Economia de US$ 64 / R$ 360)!** O booster será **despachado do Brasil no voo 100% GRATUITO** pela United/Delta (itens infantis não contam na franquia de bagagem). Assim, a Isabela viaja segura e 100% legalizada no trajeto noturno de 1h15 do Aeroporto de Tampa até Orlando pela rodovia I-4.
-* [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
-  * **Cobertura & Rede:** Teto de **US$ 1.000.000 por pessoa**, operando diretamente na **UnitedHealthcare Options PPO** (a maior rede hospitalar dos EUA).  
-  * **Urgências Infantis (Copay Fixo de US$ 25):** Atendimento direto sem franquia na clínica *MD Now Urgent Care* (a 4 min do hotel) e farmácia *Walgreens 24h* a 2 quadras.  
-  * **Contratação & Pagamento:** Contratação oficial no site da IMG (`imglobal.com`) entre **02 e 04 de Novembro de 2026** paga em Dólar Puro com o **cartão de débito do Chase Bank** (~US$ 210 para os 4 segurados por 20 dias, $0 IOF e $0 taxas).  
-  * **Emergências Graves (Protocolo 911 & Hospitais):** Atendimento prioritário no *Dr. P. Phillips Hospital* (a 5 min) e no *Nemours Children's Hospital* com faturamento direto (*Direct Billing*).
+* [x] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **QUITADO / APÓLICE EMITIDA!**
+  * **Apólice & Certificado:** Certificado Oficial `PATAP87074813` | Apólice Master `093883536` (SiriusPoint Specialty Insurance / IMG).
+  * **Vigência:** De **11/12/2026 às 12:01 AM até 01/01/2027 (expira 02/01 às 12:01 AM)** — 22 dias completos cobrindo todo o trânsito aéreo e a estadia na Flórida.
+  * **Cobertura & Rede:** Teto de **US$ 500.000 por pessoa** com **Franquia de US$ 100**, operando na rede **UnitedHealthcare Options PPO** (Payor ID: `USN01` • Group: `76570070`). Inclui início agudo de doenças pré-existentes (*Acute Onset*).
+  * **Segurados Cadastrados:** Marcelo (ID `93883536`), Thalita (ID `93883537`), Miguel (ID `93883538`), Isabela (ID `93883539`).
+  * **Farmácia com Desconto:** BIN `610020` | Rx Group `IMG427` | PCN `URX001` (Help Desk 1-800-329-0988).
+  * **Valor Quitado:** **US$ 329,62** pago integralmente no cartão de débito da conta **Chase Bank** (0% IOF / 0% Spread).
+  * **Contatos de Prontidão 24h:** IMG Global EUA `+1 (800) 628-4664` | Atendimento 24h em Português / Coletável `+1 (317) 655-4500` | Provedores EUA `1 (888) 543-1238`.
 * [ ] 🛣️ **Pedágios Oficiais da Flórida (SunPass PRO Portátil):** **ESTRATÉGIA DEFINIDA!**  
   * **Economia Real vs. AVIS:** **RECUSAR terminantemente o "e-Toll Unlimited" no balcão da AVIS** (economia direta de mais de US$ 240 / R$ 1.350!).  
   * **Trajeto Noturno Tampa ➡️ Orlando (12/12):** 100% livre de pedágio via rodovia interestadual I-4 East (custo US$ 0 e risco zero de multa na noite da chegada).  
@@ -814,7 +817,7 @@ Abaixo está o quadro executivo consolidado com o saldo real do Chase, o valor d
 | 🎟️ **Ingressos dos 8 Parques** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Comprado no Undercover Tourist!** (Disney 4d US$ 2.868,14 + Universal 2d US$ 1.440,94 + SeaWorld & Busch US$ 391,36 − Promo LOYAL20 US$ 25,04). Economia de US$ 900 vs. bilheteria! |
 | 🏨 **Hospedagem (19 noites)** | **COMPROMISSADO** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **COMPROMISSADO** | **US$ 130,00** | **R$ 709,80** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
-| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **COMPROMISSADO** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* para os 4 segurados (Teto de US$ 1M por pessoa, rede UnitedHealthcare PPO, copay de US$ 25 em clínicas). Pago no débito Chase. |
+| 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **QUITADO / EMITIDO** | **US$ 329,62** | **R$ 1.799,73** | *IMG Patriot America Plus* emitido para os 4 (Certificado `PATAP87074813`, teto de US$ 500k por pessoa, franquia US$ 100, rede UnitedHealthcare PPO). Quitado no débito Chase. |
 | 🅿️ **Estacionamentos dos Parques** | **COMPROMISSADO** | **US$ 225,00** | **R$ 1.228,50** | Estacionamentos (SeaWorld/Busch Gardens) + eventuais extras. |
 | 🛣️ **Pedágios Oficiais (SunPass PRO)** | **COMPROMISSADO** | **US$ 25,00** | **R$ 136,50** | Compra do transponder portátil SunPass PRO (US$ 14,95) + saldo recarga. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
 | ⛽ **Combustível Estimado** | **COMPROMISSADO** | **US$ 225,00** | **R$ 1.228,50** | 3 a 4 tanques de gasolina comum (*Regular*) para os 20 dias incluindo bate-volta a Tampa. |

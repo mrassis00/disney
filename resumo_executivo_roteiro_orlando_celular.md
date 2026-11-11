@@ -15,7 +15,7 @@
 * [x] 🎟️ **Ingressos dos 8 Parques (Disney, Universal/Epic, SeaWorld + Busch Gardens):** **COMPRADOS & QUITADOS NO UNDERCOVER TOURIST (`#248579-110526`)!**  
 * [x] 🎂 **Reserva Hard Rock Cafe (Aniversário Marcelo 13/12 às 19h):** **CONCLUÍDO & CONFIRMADO NO OPENTABLE (`#1713319`)!**  
 * [ ] 🛒 **Carrinho Duplo (Lin Rentals) + Booster da Isabela:** **ESTRATÉGIA DEFINIDA!**  
-* [ ] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **DEFINIDO!**  
+* [x] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **QUITADO / APÓLICE PATAP87074813 EMITIDA!** (US$ 329,62 pago no Chase • Teto $500k / Franquia $100 • 11/12 a 01/01)  
 * [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
 * [x] 🧳 **Estratégia Oficial de Bagagens na Ida (Opção 1 Escolhida — Risco Zero):** **DEFINIDO!** A família viaja **sem malas de rodinhas na cabine na ida**, apenas com **4 mochilas leves** (uma para cada). Miguel (7a) e Isabela (5a) levam suas próprias mochilinhas com fone, agasalho e tablet. Entram direto no museu da NASA no raio-X, sem lockers e sem risco!  
 * [ ] 📁 **Pasta da Imigração CBP (Dulles IAD):** **NOVO!** Passaportes, reservas Hilton/Avis/Ingressos, seguro IMG e extrato Chase na mochila do Marcelo.  
@@ -125,7 +125,7 @@
 | 🎟️ **Ingressos (8 Parques)** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Pago no Undercover Tourist!** (Disney 4 dias US$ 2.868,14 + Universal P2P & Epic US$ 1.440,94 + SeaWorld & Busch Gardens US$ 391,36 − Promo LOYAL20 US$ 25,04). |
 | 🏨 **Hospedagem (19 Noites)** | **COMPROMISSADO** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida). Débito Chase. Café quente diário e estacionamento grátis. |
 | 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **COMPROMISSADO** | **US$ 130,00** | **R$ 709,80** | *Summit X3 Double* na Lin Rentals (US$ 130 c/ seguro e capa) + Booster despachado grátis no voo (US$ 0). |
-| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **COMPROMISSADO** | **US$ 210,00** | **R$ 1.146,60** | *IMG Patriot America Plus* (US$ 1M de teto, rede UnitedHealthcare PPO, copay US$ 25). Débito Chase. |
+| 🏥 **Seguro Saúde (IMG Patriot Plus)** | **QUITADO / EMITIDO** | **US$ 329,62** | **R$ 1.799,73** | *IMG Patriot America Plus* emitido para os 4 (Certificado `PATAP87074813`, teto de US$ 500k, franquia US$ 100, rede UnitedHealthcare PPO). Quitado no débito Chase. |
 | 🅿️ **Estacionamentos + Pedágios + Gasolina** | **COMPROMISSADO** | **US$ 475,00** | **R$ 2.593,50** | Estacionamentos (SeaWorld/Busch) + Gasolina (~US$ 150) + SunPass PRO (~US$ 25). |
 | 🍝 **Alimentação Inteligente (20 Dias)** | **COMPROMISSADO** | **US$ 2.100,00** | **R$ 11.466,00** | **Café buffet quente Hilton grátis** + compras no **Walmart/Publix** para cozinhar e petiscos na suíte + **1 refeição sentada/dia** (estilo Olive Garden / Ford's Garage / BBQ). |
 | 💵 **CUSTO TOTAL DA VIAGEM** | **Pago + Compromissado** | **US$ 11.620,70** | **R$ 63.449,02** | **Total geral somando o carro quitado, ingressos e os custos do Chase.** |
