@@ -1035,20 +1035,20 @@ Na saída dos grandes espetáculos noturnos (*Happily Ever After*, *Fantasmic!*,
 
 ### 🛒 11.4 A Lista de Compras Precisa no Amazon.com (Miguel 32 BR & Isabela 29 BR)
 
-**Status Oficial:** 🟡 **Planejado** *(Marcelo irá validar com a esposa Thalita antes de fechar a compra)*.  
-A estratégia de compras foi refinada para adquirir **estritamente o essencial de proteção infantil**:
+**Status Oficial:** 🟢 **Aprovado pelo Casal (Marcelo & Thalita) • Em Compra**.  
+O casal deliberou e definiu a compra estrita do **AirTag 4-Pack + Palmilhas RFUNGUANGO**, dispensando pulseiras em favor de um método mais simples de identificação interna e treinamento das crianças:
 
 | Item a Comprar | Qtd / Especificação | Finalidade, Tamanhos & Links Diretos | Valor Estimado (Amazon.com) | Veredito Técnico |
 | :--- | :---: | :--- | :---: | :---: |
-| **[Apple AirTag (Pack com 4 Unidades)](https://www.amazon.com/s?k=Apple+AirTag+4+pack)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | ⭐ **ESSENCIAL** |
-| **[Palmilhas Infantis AirTag Cut-to-Fit](https://www.amazon.com/s?k=kids+airtag+shoe+insoles+cut+to+fit&s=review-rank)** | 2 pares *(1 p/ Isa, 1 p/ Miguel)* | Palmilha em EVA com nicho sob o calcanhar e tampa adesiva anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Selecionar tamanho **Little Kid 11 - 12.5 (Small)** (~18,5 cm).<br>• 👦 **Miguel (32 BR):** Selecionar tamanho **Little Kid 13 - Big Kid 2 (Medium)** (~20,5 a 21,0 cm). | **~US$ 31,98** *(2x ~$15,99)* | 🏆 **CAMPEÃO ABSOLUTO** |
-| **[Pulseiras de Silicone com Fivela de Aço Inox](https://www.amazon.com/s?k=kids+airtag+wristband+metal+buckle+waterproof)** | 1 kit *(2 pulseiras)* | Silicone impermeável com **fecho tradicional de relógio em fivela de metal** (a criança não abre puxando). No verso: telefone dos pais com DDI `+55`. | **~US$ 12,99** | ⭐ **CONTATO VISUAL** |
+| **[Apple AirTag (Pack com 4 Unidades)](https://www.amazon.com/s?k=Apple+AirTag+4+pack)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | ⭐ **ESSENCIAL (Aprovado)** |
+| **[Palmilha RFUNGUANGO Pink (Isabela)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM)** | 1 par *(Pink)* | Nicho oculto sob o calcanhar com tampa anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Tamanho **6.89 - 7.48 IN** (Toddler 10.5 - 12.5 Little Kid • 175-190 mm). | **~US$ 15,99** | 🏆 **COMPRA CONFIRMADA** |
+| **[Palmilha RFUNGUANGO Blue (Miguel)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1)** | 1 par *(Blue Upgraded)* | Nicho sob o calcanhar e arco plantar.<br>• 👦 **Miguel (32 BR):** Tamanho **7.68 - 8.27 IN** (Little Kid 13.5 - 2 Big Kid • 195-210 mm). | **~US$ 15,99** | 🏆 **COMPRA CONFIRMADA** |
 
-* **Investimento Total Previsto:** **~US$ 124,96** *(débito direto na conta Chase sem incidência de IOF)*.
-* **Itens Dispensados da Lista:**
-  * ❌ **Balança Portátil de Bagagem:** Dispensada (Marcelo já possui).
-  * ❌ **Power Bank Portátil:** Dispensado (Marcelo já possui).
-  * ❌ **Capas de Chuva na Amazon:** Dispensadas. Dezembro é o mês mais seco do ano em Orlando; se necessário, capas descartáveis leves serão compradas no Walmart de Kissimmee por **US$ 1,98 cada** no primeiro domingo (13/12), evitando os US$ 20 cobrados dentro dos parques.
+* **Investimento Total Confirmado:** **~US$ 111,97** *(débito direto na conta Chase sem incidência de IOF)*.
+* **Decisões de Simplificação e Dispensas:**
+  * ❌ **Pulseiras de Silicone:** Dispensadas pelo casal. A palmilha no tênis amarrado resolve 100% da rastreabilidade sem o risco da criança tirar. A identificação telefônica será feita de forma mais simples (etiqueta/cartão de emergência interno no bolso com fone dos pais `+55`) somada ao treinamento das crianças (*Regra da Árvore* e os *2 Heróis Seguros*).
+  * ❌ **Balança Portátil de Bagagem e Power Bank:** Dispensados (Marcelo já possui).
+  * ❌ **Capas de Chuva na Amazon:** Dispensadas (compra no Walmart de Kissimmee por **US$ 1,98 cada** se necessário).
 
 
 

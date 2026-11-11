@@ -175,11 +175,11 @@
 * **📸 Foto Matinal Obrigatória:** Todo dia de manhã no hotel, tirar foto de corpo inteiro das crianças com a roupa do dia para busca policial imediata pelas câmeras da Disney se necessário.
 * **🌲 A Regra da "Árvore" & Os 2 Heróis:** Treinar Miguel e Isabela: se não virem os pais, congelem no lugar como uma árvore. Pedir socorro a quem tem o **crachá oficial da Disney/Universal** ou a **uma mãe empurrando carrinho com crianças**.
 * **🚻 Banheiros Públicos:** Crianças NUNCA entram sozinhas! Miguel com o Papai Marcelo e Isabela com a Mamãe Thalita.
-* **🛒 O Que Comprar no Amazon.com (Total ~US$ 124,96 • Status: 🟡 Planejado c/ Thalita):**
+* **🛒 O Que Comprar no Amazon.com (Total ~US$ 111,97 • Status: 🟢 Aprovado pelo Casal):**
   * 🏷️ [1 Apple AirTag Pack de 4](https://www.amazon.com/s?k=Apple+AirTag+4+pack): **~US$ 79,99** (tênis Miguel, tênis Isabela + 2 mochilas).
-  * 👟 [Palmilhas AirTag Cut-to-Fit](https://www.amazon.com/s?k=kids+airtag+shoe+insoles+cut+to+fit&s=review-rank): **~US$ 31,98** (2 pares: Isa tam 29 BR = Little Kid 11-12.5; Miguel tam 32 BR = Little Kid 13-Big Kid 2).
-  * ⌚ [Kit 2 Pulseiras Silicone com Fivela de Aço Inox](https://www.amazon.com/s?k=kids+airtag+wristband+metal+buckle+waterproof): **~US$ 12,99** (fecho relógio inviolável com fone dos pais gravado no verso).
-  * *(Dispensados: Balança e Power Bank pois já possui; capas de chuva no Walmart de Kissimmee por $1,98 cada se necessário).*
+  * 👟 [Palmilha RFUNGUANGO Pink (Isabela - 29 BR)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM): **~US$ 15,99** (Tamanho 6.89-7.48 IN / 175-190 mm).
+  * 👟 [Palmilha RFUNGUANGO Blue (Miguel - 32 BR)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1): **~US$ 15,99** (Tamanho 7.68-8.27 IN / 195-210 mm).
+  * *(Decisão: Pulseiras dispensadas — rastreamento 100% no tênis; identificação de telefone simplificada com etiqueta interna no bolso e treinamento das crianças. Balança/Power Bank já possuídos; capas no Walmart).*
 
 
 
