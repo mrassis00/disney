@@ -2451,3 +2451,29 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   - Repositório Git totalmente comitado e sincronizado com o GitHub Pages (`origin/main`).
 * **2. Blindagem e Retomada:**
   - Atualizado o [CHECKPOINT_RETOMADA.md](file:///c:/Users/DomínioComp/Desktop/Dev/disney/CHECKPOINT_RETOMADA.md) para permitir reinício imediato no próximo chat com leitura de menos de 1 segundo.
+
+
+---
+
+## 💬 Interação 76 (Refinamento Cirúrgico do Kit de Segurança Infantil: Tamanhos 29 e 32 BR, Status Planejado com Thalita, Links Diretos Amazon US e Dispensas)
+
+### 👤 Solicitação do Usuário:
+> "atualize isso no check list, vou comprar apenas o airtag, a palmilha e a pulseira. Criar todos os links e considerar planejado. Vou validar com minha esposa antes mas vou comprar. O numero do tenis dos meus filhos Isabela, numero 29 no brasil, o miguel numero 32 no Brasil. Achar as palmihas equivalente para este numero e ja atualizar os links para que eu compre certo. Me mostrar o link direto e objetvo da melhor recomendacao e custo beneficio. Para a pulseira infantil, eu nao entendi. Ela é uma pulseira que consegue abrir facilmente? nela vai air tag? como funciona a fivela de aco inox. para o kit de acessorios, nao considerar balanca pois ja tenho e nao considerar power bank pois ja tenho. Sobre as capas de chuva, estou pensando em comprar em orlando se necessario, o que seria melhor? atualizar tudo com os links devidos."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Calibração de Tamanhos e Palmilhas dos Filhos:**
+  - **Isabela:** Tamanho 29 BR ➔ Seleção oficial no Amazon: **US Little Kid 11 - 12.5 (Small)** (~18,5 cm).
+  - **Miguel:** Tamanho 32 BR ➔ Seleção oficial no Amazon: **US Little Kid 13 - Big Kid 2 (Medium)** (~20,5 a 21,0 cm).
+  - Padrão *Cut-to-Fit*: A palmilha original do tênis é usada como molde para recortar a ponta da palmilha com nicho do AirTag.
+* **2. Mecânica da Pulseira Infantil com Fivela de Aço:**
+  - Esclarecido o funcionamento mecânico: não usa pino de borracha sob pressão (que solta fácil), mas fivela clássica tipo relógio em aço inox com pino e passadores duplos, impossível da criança soltar puxando.
+  - Acomoda o AirTag em cápsula estanque no centro do pulso e possui área interna para telefone dos pais com DDI `+55`.
+* **3. Dispensas Operacionais e Capas de Chuva:**
+  - Balança digital de malas: Dispensada (Marcelo já possui).
+  - Power bank magnético: Dispensado (Marcelo já possui).
+  - Capas de chuva: Não comprar na Amazon. Dezembro é o mês mais seco do ano; se necessário, comprar no Walmart de Kissimmee por US$ 1,98 cada na chegada.
+* **4. Atualização Integrada dos Sistemas:**
+  - Criado card dedicado no Checklist do Web App (`card-c-security`) na Fase 1 com links diretos clicáveis para Amazon.com e status `🟡 Planejado (Validar c/ Esposa)`.
+  - Atualizado o card institucional de segurança da Home em `index.html` e `app_roteiro_orlando.html`.
+  - Atualizados os documentos `roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`.
+  - Cache do Service Worker incrementado para `orlando-2026-v8`.

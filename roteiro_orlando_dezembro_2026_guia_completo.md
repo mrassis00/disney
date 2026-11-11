@@ -1033,19 +1033,22 @@ Na saída dos grandes espetáculos noturnos (*Happily Ever After*, *Fantasmic!*,
 
 ---
 
-### 🛒 11.4 A Lista de Compras Precisa no Amazon.com (Apenas para Miguel e Isabela)
+### 🛒 11.4 A Lista de Compras Precisa no Amazon.com (Miguel 32 BR & Isabela 29 BR)
 
-Não é necessário comprar todos os acessórios disponíveis. A combinação ótima (padrão ouro) consiste em **Rastreamento Oculto (Palmilha) + Identificação de Contato (Pulseira/Tatuagem)**:
+**Status Oficial:** 🟡 **Planejado** *(Marcelo irá validar com a esposa Thalita antes de fechar a compra)*.  
+A estratégia de compras foi refinada para adquirir **estritamente o essencial de proteção infantil**:
 
-| Item a Comprar | Qtd (Apenas p/ 2 Filhos) | Finalidade & Modo de Uso | Valor Estimado (Amazon.com) | Veredito Técnico |
+| Item a Comprar | Qtd / Especificação | Finalidade, Tamanhos & Links Diretos | Valor Estimado (Amazon.com) | Veredito Técnico |
 | :--- | :---: | :--- | :---: | :---: |
-| **Apple AirTag (Pack com 4 Unidades)** | 1 caixa *(4 unidades)* | 2 unidades vão nos tênis de Miguel e Isabela. Os outros 2 você pode colocar na mochila das crianças ou na chave do carro. *(O pack com 4 sai por US$ 20 cada vs US$ 29 avulso)*. | **US$ 79,99** | **ESSENCIAL** |
-| **Palmilhas com Compartimento Oculto (*Kids AirTag Shoe Insoles*)** | 2 pares *(1 p/ Miguel, 1 p/ Isa)* | Compartimento sob o calcanhar do tênis. Invisível, não incomoda o pé e é impossível arrancar sem tirar o tênis amarrado. | **US$ 29,99** | **CAMPEÃO (Recomendado)** |
-| **Pulseiras de Silicone com Fivela Tipo Relógio (*Kids AirTag Wristbands*)** | 1 kit *(vem 2 pulseiras)* | Pulseira resistente com fecho tradicional de relógio (a criança não abre puxando). Permite leitura de contato rápida. | **US$ 9,99** | **EXCELENTE OPÇÃO** |
-| **Tatuagens Temporárias de Contato (*Kids Safety Tattoos*)** | 1 cartela *(20 a 30 un)* | Tatuagem transferível à prova d'água no antebraço com espaço para escrever os telefones dos pais. | **US$ 8,99** | **OPCIONAL ECONÔMICO** |
-| **Broche Magnético Oculto (*Magnetic Pin Holder*)** | — | Pino para prender por dentro da bermuda. | US$ 12,99 | **DISPENSÁVEL** *(A palmilha já faz isso com mais segurança)* |
+| **[Apple AirTag (Pack com 4 Unidades)](https://www.amazon.com/s?k=Apple+AirTag+4+pack)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | ⭐ **ESSENCIAL** |
+| **[Palmilhas Infantis AirTag Cut-to-Fit](https://www.amazon.com/s?k=kids+airtag+shoe+insoles+cut+to+fit&s=review-rank)** | 2 pares *(1 p/ Isa, 1 p/ Miguel)* | Palmilha em EVA com nicho sob o calcanhar e tampa adesiva anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Selecionar tamanho **Little Kid 11 - 12.5 (Small)** (~18,5 cm).<br>• 👦 **Miguel (32 BR):** Selecionar tamanho **Little Kid 13 - Big Kid 2 (Medium)** (~20,5 a 21,0 cm). | **~US$ 31,98** *(2x ~$15,99)* | 🏆 **CAMPEÃO ABSOLUTO** |
+| **[Pulseiras de Silicone com Fivela de Aço Inox](https://www.amazon.com/s?k=kids+airtag+wristband+metal+buckle+waterproof)** | 1 kit *(2 pulseiras)* | Silicone impermeável com **fecho tradicional de relógio em fivela de metal** (a criança não abre puxando). No verso: telefone dos pais com DDI `+55`. | **~US$ 12,99** | ⭐ **CONTATO VISUAL** |
 
-* **Investimento Total da Combinação Ideal:** **~US$ 119,97** (AirTag Pack 4 + 2 Pares de Palmilhas + Kit 2 Pulseiras). Crianças 100% blindadas e monitoradas sem desperdício de dinheiro.
+* **Investimento Total Previsto:** **~US$ 124,96** *(débito direto na conta Chase sem incidência de IOF)*.
+* **Itens Dispensados da Lista:**
+  * ❌ **Balança Portátil de Bagagem:** Dispensada (Marcelo já possui).
+  * ❌ **Power Bank Portátil:** Dispensado (Marcelo já possui).
+  * ❌ **Capas de Chuva na Amazon:** Dispensadas. Dezembro é o mês mais seco do ano em Orlando; se necessário, capas descartáveis leves serão compradas no Walmart de Kissimmee por **US$ 1,98 cada** no primeiro domingo (13/12), evitando os US$ 20 cobrados dentro dos parques.
 
 
 

@@ -1,11 +1,11 @@
 # 📌 Checkpoint de Retomada Imediata — Viagem Orlando Dezembro 2026
 
-**Data de Consolidação:** 06/11/2026 às 00:00 (Fechamento Noturno)  
+**Data de Consolidação:** 10/11/2026 às 21:05  
 **Status do Repositório Git:** 100% Limpo e Sincronizado com `origin/main` (`https://github.com/mrassis00/disney.git`)  
 **Últimos Commits:** 
-- `docs: consolidar fechamento noturno e Interacao 75 no history.md e checkpoint`
+- `feat(security): refinar kit seguranca infantil (tamanhos 29 e 32 BR, status planejado, links Amazon US e dispensas)`
+- `ca63142` — *docs: consolidar fechamento noturno e Interacao 75 no history.md e checkpoint*
 - `6d2bee8` — *feat(webapp): gestao financeira no topo da Home, aba dedicada Checklist e abas superiores 1 a 1 nos 8 parques*
-- `6ffda44` — *fix(webapp): corrigir SyntaxError no script de navegacao JS e subir cache sw para v6*
 **Web App em Produção:** [https://mrassis00.github.io/disney](https://mrassis00.github.io/disney)
 
 ---
@@ -39,9 +39,12 @@ O novo agente lerá este arquivo em menos de 1 segundo e estará 100% sincroniza
 
 ## 4. 🛡️ Protocolo de Segurança das Crianças
 * **Tecnologia:** Sistema Triplo Anti-Perda Apple AirTag:
-  1. *Palmilha Anatômica Oculta Kids:* Embaixo do calcanhar no tênis (invisível e impossível de retirar sem descalçar).
-  2. *Pulseira com Fivela de Aço Inviolável:* Silicone grosso no pulso com telefone dos pais (+55 DDI) gravado no verso interno.
-* **Investimento Amazon US:** ~US$ 119,97 (AirTag 4-pack + 2 palmilhas + 2 pulseiras infantis).
+  1. *Palmilhas Anatômicas Ocultas Kids:* Embaixo do calcanhar no tênis (Cut-to-Fit). Tamanho **Little Kid 11-12.5 (Isabela 29 BR)** e **Little Kid 13-Big Kid 2 (Miguel 32 BR)**. Invisível e impossível de retirar sem descalçar.
+  2. *Pulseiras com Fivela de Aço Inoxidável:* Silicone grosso no pulso com fivela estilo relógio e telefone dos pais (+55 DDI) gravado no verso interno.
+  3. *Mochilas de Ombro:* AirTags nas mochilas de cabine.
+* **Status:** 🟡 **Planejado** *(Marcelo irá validar com a esposa Thalita antes de fechar a compra no Amazon.com via débito Chase)*.
+* **Investimento Amazon US:** **~US$ 124,96** (Pack 4 AirTags + 2 Palmilhas + Kit 2 Pulseiras).
+* **Dispensas:** Balança e Power Bank desconsiderados (já possui); capas de chuva descartáveis compradas no Walmart na chegada se necessário.
 * **Protocolos Operacionais:** Foto matinal diária das crianças, Regra da Árvore (congelar no lugar), 2 heróis seguros (crachá oficial ou mãe empurrando carrinho) e regra de ouro: **NUNCA estampar o nome das crianças visível em roupas/bonés**.
 
 ---

@@ -175,10 +175,11 @@
 * **📸 Foto Matinal Obrigatória:** Todo dia de manhã no hotel, tirar foto de corpo inteiro das crianças com a roupa do dia para busca policial imediata pelas câmeras da Disney se necessário.
 * **🌲 A Regra da "Árvore" & Os 2 Heróis:** Treinar Miguel e Isabela: se não virem os pais, congelem no lugar como uma árvore. Pedir socorro a quem tem o **crachá oficial da Disney/Universal** ou a **uma mãe empurrando carrinho com crianças**.
 * **🚻 Banheiros Públicos:** Crianças NUNCA entram sozinhas! Miguel com o Papai Marcelo e Isabela com a Mamãe Thalita.
-* **🛒 O Que Comprar no Amazon.com (Apenas para as 2 Crianças — Total ~US$ 119):**
-  * 1 Apple AirTag Pack de 4: **US$ 79,99** (2 nos tênis das crianças + 2 sobram p/ mochilas/carro).
-  * 2 Pares de Palmilhas Infantis com compartimento oculto: **US$ 29,99**.
-  * 1 Kit com 2 Pulseiras Infantis de Silicone com Fivela: **US$ 9,99**.
+* **🛒 O Que Comprar no Amazon.com (Total ~US$ 124,96 • Status: 🟡 Planejado c/ Thalita):**
+  * 🏷️ [1 Apple AirTag Pack de 4](https://www.amazon.com/s?k=Apple+AirTag+4+pack): **~US$ 79,99** (tênis Miguel, tênis Isabela + 2 mochilas).
+  * 👟 [Palmilhas AirTag Cut-to-Fit](https://www.amazon.com/s?k=kids+airtag+shoe+insoles+cut+to+fit&s=review-rank): **~US$ 31,98** (2 pares: Isa tam 29 BR = Little Kid 11-12.5; Miguel tam 32 BR = Little Kid 13-Big Kid 2).
+  * ⌚ [Kit 2 Pulseiras Silicone com Fivela de Aço Inox](https://www.amazon.com/s?k=kids+airtag+wristband+metal+buckle+waterproof): **~US$ 12,99** (fecho relógio inviolável com fone dos pais gravado no verso).
+  * *(Dispensados: Balança e Power Bank pois já possui; capas de chuva no Walmart de Kissimmee por $1,98 cada se necessário).*
 
 
 
