@@ -1124,6 +1124,18 @@
           </p>
         </div>
 
+        
+        <!-- Card Hub GPS de Pontos de Apoio -->
+        <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-blue);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 1.05rem; font-weight: 700;">🗺️ Hub GPS & Pontos de Apoio</h3>
+            <span class="tag tag-blue" onclick="navigateTo('tab-carro'); setTimeout(() => { const el = document.getElementById('hub-gps-section'); if(el) el.scrollIntoView({behavior:'smooth'}); }, 150);" style="cursor: pointer;">Ver no Mapa ➔</span>
+          </div>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 6px;">
+            <strong>9 Locais Estratégicos:</strong> Publix (4 min), Walmart Kissimmee ($1,98 capa), The Loop, Outlets Vineland, Millenia e Urgência AdventHealth com rotas diretas Waze/Google Maps.
+          </p>
+        </div>
+
         <!-- Carro SUV Quitado -->
         <div class="glass-card" style="margin-bottom: 0; border-left: 4px solid var(--accent-green);">
           <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -2207,6 +2219,62 @@
           <li><strong>Caixas Eletrônicos (ATM):</strong> Qualquer agência Chase em Orlando permite saque de papel-moeda sem nenhuma taxa extra.</li>
         </ul>
       </div>
+
+      <!-- ============================================================ -->
+      <!-- CALCULADORA RÁPIDA DE GORJETAS (TIPS) & IMPOSTOS (FLÓRIDA)  -->
+      <!-- ============================================================ -->
+      <div class="glass-card" style="border-left: 5px solid var(--accent-green); margin-top: 24px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
+          <div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: #fff; margin: 0;">🧮 Calculadora de Gorjeta & Sales Tax (Flórida)</h3>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;">Calcule na hora o valor final da conta no restaurante ou compras em dólar</div>
+          </div>
+          <span class="tag tag-green" style="font-weight: 700;">6,5% Sales Tax Orange County</span>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 14px;">
+          <div>
+            <label style="font-size: 0.82rem; color: var(--text-muted); font-weight: 700; display: block; margin-bottom: 6px;">Valor da Conta / Subtotal (USD $):</label>
+            <input type="number" id="calc-bill-amount" placeholder="Digite o valor (ex: 85.00)" step="0.01" style="width: 100%; padding: 12px 14px; background: rgba(15,23,42,0.9); border: 1px solid var(--border-accent); border-radius: 10px; color: #fff; font-size: 1.25rem; font-weight: 800; font-family: Outfit, sans-serif;" oninput="calculateTip()">
+          </div>
+
+          <div>
+            <label style="font-size: 0.82rem; color: var(--text-muted); font-weight: 700; display: block; margin-bottom: 6px;">Taxa de Gorjeta (Tip):</label>
+            <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+              <button type="button" class="tag tag-gold calc-tip-btn" onclick="setTipPct(0, this)" style="cursor: pointer; padding: 10px 14px; font-size: 0.82rem; border-radius: 8px; border: 1px solid transparent;">0% (Balcão)</button>
+              <button type="button" class="tag tag-blue calc-tip-btn" onclick="setTipPct(15, this)" style="cursor: pointer; padding: 10px 14px; font-size: 0.82rem; border-radius: 8px; border: 1px solid transparent;">15% (Bom)</button>
+              <button type="button" class="tag tag-green calc-tip-btn" onclick="setTipPct(18, this)" style="cursor: pointer; padding: 10px 14px; font-size: 0.82rem; border-radius: 8px; border: 1px solid #fff; font-weight: 800;">18% (Padrão Garçom)</button>
+              <button type="button" class="tag tag-purple calc-tip-btn" onclick="setTipPct(20, this)" style="cursor: pointer; padding: 10px 14px; font-size: 0.82rem; border-radius: 8px; border: 1px solid transparent;">20% (Excelente)</button>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top: 14px; display: flex; align-items: center; gap: 8px; background: rgba(15,23,42,0.5); padding: 10px 14px; border-radius: 8px;">
+          <input type="checkbox" id="calc-include-tax" checked onchange="calculateTip()" style="width: 18px; height: 18px; cursor: pointer; accent-color: var(--accent-green);">
+          <label for="calc-include-tax" style="font-size: 0.84rem; color: var(--text-main); cursor: pointer; font-weight: 600;">Adicionar Sales Tax de 6,5% (desmarque se o imposto já estiver somado na nota)</label>
+        </div>
+
+        <!-- Painel de Resultados Vivos -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin-top: 16px; background: rgba(15,23,42,0.8); padding: 16px; border-radius: 12px; border: 1px solid var(--border-card);">
+          <div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700;">Imposto (6,5%)</div>
+            <div id="calc-res-tax" style="font-size: 1.15rem; font-weight: 800; color: var(--accent-gold); margin-top: 4px;">$0,00</div>
+          </div>
+          <div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700;">Gorjeta Calculada</div>
+            <div id="calc-res-tip" style="font-size: 1.15rem; font-weight: 800; color: var(--accent-blue); margin-top: 4px;">$0,00</div>
+          </div>
+          <div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700;">Total no Débito Chase</div>
+            <div id="calc-res-total" style="font-size: 1.45rem; font-weight: 900; color: var(--accent-green); margin-top: 4px; font-family: Outfit, sans-serif;">$0,00</div>
+          </div>
+          <div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700;">Divisão por Adulto (2)</div>
+            <div id="calc-res-split" style="font-size: 1.15rem; font-weight: 800; color: #fff; margin-top: 4px;">$0,00 / pessoa</div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
 
@@ -4910,6 +4978,57 @@
           }
         });
       }
+    }
+
+    
+    let currentTipPct = 18;
+
+    function setTipPct(pct, btn) {
+      currentTipPct = pct;
+      document.querySelectorAll('.calc-tip-btn').forEach(b => {
+        b.style.borderColor = 'transparent';
+        b.style.fontWeight = '600';
+      });
+      if (btn) {
+        btn.style.borderColor = '#ffffff';
+        btn.style.fontWeight = '800';
+      }
+      calculateTip();
+    }
+
+    function calculateTip() {
+      const billInput = document.getElementById('calc-bill-amount');
+      const includeTax = document.getElementById('calc-include-tax');
+      const resTax = document.getElementById('calc-res-tax');
+      const resTip = document.getElementById('calc-res-tip');
+      const resTotal = document.getElementById('calc-res-total');
+      const resSplit = document.getElementById('calc-res-split');
+
+      if (!billInput) return;
+
+      const rawBill = parseFloat(billInput.value) || 0;
+      const taxRate = (includeTax && includeTax.checked) ? 0.065 : 0;
+      const taxAmount = rawBill * taxRate;
+      const tipAmount = rawBill * (currentTipPct / 100);
+      const totalAmount = rawBill + taxAmount + tipAmount;
+      const splitAmount = totalAmount / 2;
+
+      if (resTax) resTax.innerText = '$' + taxAmount.toFixed(2);
+      if (resTip) resTip.innerText = '$' + tipAmount.toFixed(2);
+      if (resTotal) resTotal.innerText = '$' + totalAmount.toFixed(2);
+      if (resSplit) resSplit.innerText = '$' + splitAmount.toFixed(2) + ' / adult';
+    }
+
+    function filterPoints(cat, btn) {
+      document.querySelectorAll('.point-filter-btn').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      document.querySelectorAll('.point-card').forEach(card => {
+        if (cat === 'all' || card.dataset.category === cat) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
     }
 
     function toggleTask(taskId) {

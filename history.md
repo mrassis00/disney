@@ -2477,3 +2477,21 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   - Atualizado o card institucional de segurança da Home em `index.html` e `app_roteiro_orlando.html`.
   - Atualizados os documentos `roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`.
   - Cache do Service Worker incrementado para `orlando-2026-v8`.
+
+
+---
+
+## 💬 Interação 77 (Implementação da Calculadora de Gorjetas/Taxas e Hub GPS de 9 Pontos de Apoio no Web App + Guia Operacional de Pedágios, App Disney e Carrinho/Seguro)
+
+### 👤 Solicitação do Usuário:
+> "quero voltar neste plano aqui. Considero item 1 enderecado, 2 vou fazer rapidamente, 3 ja detalhar a lojistica de pedagio, lembrando que vou comprar o sunpass pro em algum local e nao vou pegar da locadora. 4) Detalhar a questao do agendamento gastronomico e o lighting lane, eu ja posso neste momento comecar a acionar o disney app experience visto que comprei todos os ingressos do parque no undercover tourist. 5) qureo sim novas funcionalidades no app. isso é de extrema importancia, ja considerar taxas e gorjetas. Adicionar tambem mapa intereativo com pontos de apoio. Atualizar tudo e mostrar o que devo fazer agora. Um dos pontos principais é alugar o carrinho e fechar o seguro."
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Novas Funcionalidades Entregues no Web App PWA:**
+  - **Calculadora Rápida de Gorjeta & Sales Tax na Aba 💰 Finanças:** Campo de entrada com valor da conta em USD, botões rápidos de gorjeta (0% Balcão, 15% Bom, 18% Padrão Garçom, 20% Excelente), seletor de Sales Tax de 6,5% da Flórida (Orange County) e cálculo ao vivo do total a pagar e divisão por adulto.
+  - **Hub GPS com 9 Pontos de Apoio Estratégicos na Aba 🚗 Carro & Card na Home:** Cards interativos com filtro por categoria (Todos, Mercados/Farmácias, Compras/Outlets, Hotel/Saúde) e botões diretos de **📍 Google Maps** e **🚗 Waze** para abrir rotas em 1 segundo no celular.
+  - Cache PWA atualizado para `orlando-2026-v9`.
+* **2. Detalhamento Operacional dos Itens Solicitados:**
+  - **Item 2 (Carrinho Duplo & Seguro):** Especificado o link e passo a passo direto para reserva do carrinho duplo com Lin Rentals / Kingdom Strollers e emissão da apólice IMG Patriot America Plus.
+  - **Item 3 (Logística de Pedágio SunPass PRO):** Rota I-4 East de Tampa ao Homewood Suites é 100% livre de pedágios na chegada; recusa do e-Toll na Avis; compra do SunPass PRO portátil no Publix/Walgreens a 4 min no domingo 13/12 por US$ 14,95.
+  - **Item 4 (My Disney Experience & Lightning Lane):** Orientação exata sobre o que já pode ser feito agora (vincular família e ingressos Undercover Tourist #248579-110526 no app Disney/Universal) e cronograma das janelas de agendamento (Dining aos 60 dias em Outubro/26 e Lightning Lane 3 dias antes em 13/12/26 às 07h00).

@@ -1,11 +1,11 @@
 # 📌 Checkpoint de Retomada Imediata — Viagem Orlando Dezembro 2026
 
-**Data de Consolidação:** 10/11/2026 às 21:05  
+**Data de Consolidação:** 10/11/2026 às 21:10  
 **Status do Repositório Git:** 100% Limpo e Sincronizado com `origin/main` (`https://github.com/mrassis00/disney.git`)  
 **Últimos Commits:** 
-- `feat(security): refinar kit seguranca infantil (tamanhos 29 e 32 BR, status planejado, links Amazon US e dispensas)`
+- `feat(webapp): calculadora de gorjetas/taxas, hub GPS com 9 pontos de apoio e guia operacional de pedagios e app disney`
+- `20d48b8` — *feat(security): refinar kit seguranca infantil (tamanhos 29 e 32 BR, status planejado, links Amazon US e dispensas)*
 - `ca63142` — *docs: consolidar fechamento noturno e Interacao 75 no history.md e checkpoint*
-- `6d2bee8` — *feat(webapp): gestao financeira no topo da Home, aba dedicada Checklist e abas superiores 1 a 1 nos 8 parques*
 **Web App em Produção:** [https://mrassis00.github.io/disney](https://mrassis00.github.io/disney)
 
 ---
