@@ -69,7 +69,7 @@
   * **Malas de Bordo na Volta:** Compradas nos outlets de Orlando para trazer as compras no voo de retorno Delta (MCO ➔ ATL ➔ GRU).
 * [ ] 📁 **Pasta Física da Imigração dos EUA (CBP Washington Dulles):** **NOVO!**  
   * Reunir na mochila do Marcelo: 4 Passaportes com visto, reserva do Hilton Homewood Suites, vouchers das passagens, voucher AVIS Traverse, comprovante dos ingressos Undercover Tourist, seguro IMG e extrato da conta Chase com saldo de US$ 14.200.
-* [ ] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags & Palmilhas):** **NOVO!**  
+* [x] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags 2ª Gen & Palmilhas):** **QUITADO / ORDER PLACED!**  
   * Adquirir 4 Apple AirTags + 2 pares de palmilhas com compartimento oculto + pulseiras reforçadas com trava inviolável.  
   * Configurar Compartilhamento Familiar no iPhone (Marcelo e Thalita) com alertas de distanciamento.  
   * Praticar com Miguel (7a) e Isabela (5a) a regra da árvore ("freeze"), quem são os 2 heróis (crachá oficial e mães com carrinho) e a foto matinal diária com a roupa do dia.
@@ -1035,14 +1035,14 @@ Na saída dos grandes espetáculos noturnos (*Happily Ever After*, *Fantasmic!*,
 
 ### 🛒 11.4 A Lista de Compras Precisa no Amazon.com (Miguel 32 BR & Isabela 29 BR)
 
-**Status Oficial:** 🟢 **Aprovado pelo Casal (Marcelo & Thalita) • Em Compra**.  
+**Status Oficial:** 🟢 **QUITADO / ORDER PLACED no Amazon.com (US$ 111,97)**.  
 O casal deliberou e definiu a compra estrita do **AirTag 4-Pack + Palmilhas RFUNGUANGO**, dispensando pulseiras em favor de um método mais simples de identificação interna e treinamento das crianças:
 
 | Item a Comprar | Qtd / Especificação | Finalidade, Tamanhos & Links Diretos | Valor Estimado (Amazon.com) | Veredito Técnico |
 | :--- | :---: | :--- | :---: | :---: |
-| **[Apple AirTag (Pack com 4 Unidades)](https://www.amazon.com/s?k=Apple+AirTag+4+pack)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | ⭐ **ESSENCIAL (Aprovado)** |
-| **[Palmilha RFUNGUANGO Pink (Isabela)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM)** | 1 par *(Pink)* | Nicho oculto sob o calcanhar com tampa anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Tamanho **6.89 - 7.48 IN** (Toddler 10.5 - 12.5 Little Kid • 175-190 mm). | **~US$ 15,99** | 🏆 **COMPRA CONFIRMADA** |
-| **[Palmilha RFUNGUANGO Blue (Miguel)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1)** | 1 par *(Blue Upgraded)* | Nicho sob o calcanhar e arco plantar.<br>• 👦 **Miguel (32 BR):** Tamanho **7.68 - 8.27 IN** (Little Kid 13.5 - 2 Big Kid • 195-210 mm). | **~US$ 15,99** | 🏆 **COMPRA CONFIRMADA** |
+| **[Apple AirTag 2ª Geração (Pack com 4 Unidades)](https://www.amazon.com/gp/product/B0GJTXVN9Z)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | 🟢 **ORDER PLACED** |
+| **[Palmilha RFUNGUANGO Pink (Isabela)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM)** | 1 par *(Pink)* | Nicho oculto sob o calcanhar com tampa anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Tamanho **6.89 - 7.48 IN** (Toddler 10.5 - 12.5 Little Kid • 175-190 mm). | **~US$ 15,99** | 🟢 **ORDER PLACED** |
+| **[Palmilha RFUNGUANGO Blue (Miguel)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1)** | 1 par *(Blue Upgraded)* | Nicho sob o calcanhar e arco plantar.<br>• 👦 **Miguel (32 BR):** Tamanho **7.68 - 8.27 IN** (Little Kid 13.5 - 2 Big Kid • 195-210 mm). | **~US$ 15,99** | 🟢 **ORDER PLACED** |
 
 * **Investimento Total Confirmado:** **~US$ 111,97** *(débito direto na conta Chase sem incidência de IOF)*.
 * **Decisões de Simplificação e Dispensas:**

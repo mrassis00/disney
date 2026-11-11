@@ -19,7 +19,7 @@
 * [ ] 🛣️ **Pedágios Sem Multas (SunPass PRO Portable):** **ESTRATÉGIA DEFINIDA!**  
 * [x] 🧳 **Estratégia Oficial de Bagagens na Ida (Opção 1 Escolhida — Risco Zero):** **DEFINIDO!** A família viaja **sem malas de rodinhas na cabine na ida**, apenas com **4 mochilas leves** (uma para cada). Miguel (7a) e Isabela (5a) levam suas próprias mochilinhas com fone, agasalho e tablet. Entram direto no museu da NASA no raio-X, sem lockers e sem risco!  
 * [ ] 📁 **Pasta da Imigração CBP (Dulles IAD):** **NOVO!** Passaportes, reservas Hilton/Avis/Ingressos, seguro IMG e extrato Chase na mochila do Marcelo.  
-* [ ] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags & Palmilhas):** **NOVO!** 4 Apple AirTags + palmilhas com compartimento oculto + pulseiras reforçadas + fotos matinais diárias com a roupa do dia.  
+* [x] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags 2ª Gen & Palmilhas):** **QUITADO / ORDER PLACED!** 4 Apple AirTags 2ª Gen + palmilhas RFUNGUANGO (Isabela 29 BR e Miguel 32 BR) compradas na Amazon.com por US$ 111,97.  
 * [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
