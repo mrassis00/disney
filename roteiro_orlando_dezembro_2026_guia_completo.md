@@ -46,8 +46,8 @@
     * 🐬 **SeaWorld Orlando & Busch Gardens Tampa (Two-Park Ticket Promo — US$ 391,36):** 1ª visita em **27/12/2026 (SeaWorld Orlando)** e 2ª visita em **29/12/2026 (Busch Gardens Tampa)** (janela de 14 dias corridos após o 1º uso).  
   * **Entrada 100% Direta nas Catracas (Zero Bilheteria / Will Call):** Ingressos vinculados aos apps com **Disney MagicMobile** adicionado à Apple Wallet / Google Wallet no iPhone e QR Codes da Universal/SeaWorld. A família passa direto pelas catracas sem parar em guichês de troca.  
   * **Agendamento de Filas Rápidas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque Disney em 16/12).
-* [ ] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **ESTRATÉGIA DEFINIDA!**  
-  * **Carrinho Duplo:** Aluguel de **1 Baby Jogger Summit X3 Double com a Lin Rentals por US$ 130** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
+* [x] 🛒 **Carrinho Duplo & Assento Infantil (Lin Rentals + Despacho Grátis do Booster):** **QUITADO / RESERVA #6638 CONFIRMADA!**  
+  * **Carrinho Duplo:** Aluguel quitado de **1 BOB Revolution Flex 3.0 Duallie com a Lin Rentals (Reserva #6638 / Parcelow #599123 por R$ 817,43)** (já com 20% de desconto) para as 19 noites (12 a 31/12). Acompanha seguro perda/roubo, capa de chuva, porta-copos, gancho para bolsas e plaquinha com o nome da família, entregue no Homewood Suites I-Drive.  
   * **Assento de Elevação (Booster da Isabela - 5 anos):** **NÃO ALUGAR (Economia de US$ 64 / R$ 360)!** O booster será **despachado do Brasil no voo 100% GRATUITO** pela United/Delta (itens infantis não contam na franquia de bagagem). Assim, a Isabela viaja segura e 100% legalizada no trajeto noturno de 1h15 do Aeroporto de Tampa até Orlando pela rodovia I-4.
 * [x] 🏥 **Seguro Saúde & Viagem (IMG Patriot America Plus - Rede UnitedHealthcare PPO):** **QUITADO / APÓLICE EMITIDA!**
   * **Apólice & Certificado:** Certificado Oficial `PATAP87074813` | Apólice Master `093883536` (SiriusPoint Specialty Insurance / IMG).
@@ -70,9 +70,14 @@
   * **Zero Lockers & Zero Estresse:** Mochilas entram direto no museu da NASA no raio-X, sem depender de depósitos.  
   * **Malas Despachadas:** 4 malas grandes (23 kg cada = 92 kg) vão de GRU direto para Tampa (re-despacho automático na alfândega de Dulles).  
   * **Malas de Bordo na Volta:** Compradas nos outlets de Orlando para trazer as compras no voo de retorno Delta (MCO ➔ ATL ➔ GRU).
+* [ ] 📱 **Telecom & Conectividade 5G nos Parques (2 iPhones 13):** **NOVO!**  
+  * **Estratégia Blindada de Latência Zero (Lightning Lane):** Não depender exclusivamente do roaming da TIM Brasil (evita o atraso de 200ms de ping via cabos submarinos).  
+  * **iPhone Marcelo (Piloto Operacional):** Instalação do **eSIM Pré-Pago T-Mobile (50 GB 5G Nativo • US$ 50)** via app no iPhone para ping de 15ms, Waze instantâneo, ligações locais e prioridade máxima nas filas virtuais da Disney/Universal.  
+  * **iPhone Thalita:** eSIM internacional de dados (**Airalo 20 GB • ~US$ 26**) ou uso do Roaming Américas TIM como secundário + Hotspot do Marcelo.  
+  * **Dual SIM Configurado:** Chip físico da TIM mantido ativo apenas para SMS bancário do Brasil e WhatsApp mantendo o número brasileiro `+55`.
 * [ ] 📁 **Pasta Física da Imigração dos EUA (CBP Washington Dulles):** **NOVO!**  
   * Reunir na mochila do Marcelo: 4 Passaportes com visto, reserva do Hilton Homewood Suites, vouchers das passagens, voucher AVIS Traverse, comprovante dos ingressos Undercover Tourist, seguro IMG e extrato da conta Chase com saldo de US$ 14.200.
-* [x] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags 2ª Gen & Palmilhas):** **QUITADO / ORDER PLACED!**  
+* [x] 🛡️ **Segurança Infantil & Kit Anti-Perda (AirTags 2ª Gen & Palmilhas):** **ENTREGUE / DELIVERED (Amazon #111-1854572-9427412)!**  
   * Adquirir 4 Apple AirTags + 2 pares de palmilhas com compartimento oculto + pulseiras reforçadas com trava inviolável.  
   * Configurar Compartilhamento Familiar no iPhone (Marcelo e Thalita) com alertas de distanciamento.  
   * Praticar com Miguel (7a) e Isabela (5a) a regra da árvore ("freeze"), quem são os 2 heróis (crachá oficial e mães com carrinho) e a foto matinal diária com a roupa do dia.
@@ -228,7 +233,7 @@ Caso a família decida embarcar com as 4 malinhas de rodinhas na ida, este é o 
 
 A hospedagem oficial da família está **100% confirmada e reservada no Booking.com** por **US$ 2.914,07** já com todas as taxas e impostos da Flórida inclusos *(~R$ 16.318 / apenas US$ 153,37 por noite para 4 pessoas com café da manhã quente e estacionamento grátis)*, com pagamento definido em Dólar Puro no cartão de débito do Chase Bank (Cenário 1):
 
-* **Localização:** 6435 Westwood Blvd, Orlando, FL 32821 (International Drive / Convention Center).
+* **Localização:** 8745 International Drive, Orlando, FL 32819 (International Drive / Convention Center).
 * **Configuração da Suíte:** 2 camas Queen no quarto privativo + sofá-cama Queen na sala + banheiro amplo.
 * **Cozinha Completa:** Geladeira duplex de tamanho real, fogão cooktop de duas bocas, micro-ondas, lava-louças e cafeteira.
 * **Café da Manhã:** Buffet quente completo da rede Hilton **incluso gratuitamente todas as manhãs**.
@@ -799,19 +804,18 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 Abaixo está o quadro executivo consolidado com o saldo real do Chase, o valor do carro quitado, os valores pagos, compromissados e o montante livre para gastar em Dólares (USD) e Reais (R$):
 
-### 💵 Quadro Executivo de Orçamento & Liquidez:
-* **🏦 Budget Total da Viagem (Chase Atual + Carro Quitado + Ingressos Pagos):** **US$ 19.991,70** *(~R$ 109.154 na cotação oficial de R$ 5,46)*  
-  *(Composição: Saldo em conta Chase US$ 14.200,07 + Ingressos pagos US$ 4.675,40 + Carro quitado no cartão BR US$ 1.116,23)*
-* **💳 Total Já Pago / Quitado:** **US$ 5.791,63** *(~R$ 31.622)*  
-  *(Ingressos Undercover `#248579-110526`: US$ 4.675,40 + Carro AVIS `X4X9T9M`: US$ 1.116,23)*
-* **📑 Total Compromissado (Custos Fixos a Debitar do Chase):** **US$ 5.829,07** *(~R$ 31.826)*  
-  *(Hotel Hilton US$ 2.914,07 + Seguro IMG US$ 210,00 + Carrinho Lin Rentals US$ 130,00 + SunPass US$ 25,00 + Alimentação 20d US$ 2.100,00 + Combustível/Estac. US$ 450,00)*
-* **🎉 Total Livre para Gastar / Compras:** **US$ 8.371,00** *(~R$ 45.705)*  
-  *(Dinheiro desimpedido no Chase após a liquidação de todos os compromissos da viagem! Média diária de **~US$ 418,55 / dia**)*
-* **💵 Custo Total da Viagem (Pago + Compromissado):** **US$ 11.620,70** *(~R$ 63.449)*
+### 💵 Quadro Executivo de Orçamento & Liquidez (Reconciliação Exata):
+* **🏦 Saldo Real Atual em Conta Corrente Chase EUA:** **US$ 13.624,27** *(Dólar puro líquido após todos os débitos efetuados)*
+* **💳 Total Quitado no Cartão de Crédito Brasileiro:** **US$ 1.260,90** *(~R$ 6.884)*  
+  *(Composição: SUV Chevrolet Traverse 7L Avis via Rentcars US$ 1.116,23 + Carrinho BOB Duallie Lin Rentals via Parcelow R$ 817,43 / US$ 144,67)*
+* **🎟️ Ingressos 8 Parques Quitados no Chase (Débito 0% IOF):** **US$ 4.675,40** *(Undercover Tourist #248579-110526 pago diretamente em dólar no Chase)*
+* **🔒 Total Compromissado Restante a Pagar pelo Chase:** **US$ 5.619,07** *(~R$ 30.680)*  
+  *(Hospedagem Hilton Homewood Suites US$ 2.914,07 no check-out + Alimentação/Jantares US$ 2.455,00 + Combustível/SunPass US$ 250,00)*  
+  *(Obs: Seguro Saúde IMG PATAP87074813 US$ 329,62 e Kit Segurança Amazon US$ 111,97 também já foram quitados no Chase)*
+* **🛍️ Saldo Líquido 100% Livre para Compras no Chase:** **US$ 8.005,20** *(~R$ 43.708)*  
+  *(Média real disponível de **~US$ 421,32 por dia** livre para outlets, eletrônicos Apple, farmácias, brinquedos e lazer familiar sem comprometer nada do básico)*
 
-| Categoria | Status | Valor em Dólar (USD) | Valor em Reais (R$)* | Descrição / Detalhes Operacionais |
-| :--- | :---: | :---: | :---: | :--- |
+--- | :---: | :---: | :---: | :--- |
 | ✈️ **Passagens Aéreas (4 Pessoas)** | **EMITIDAS** | **US$ 0 (Milhas)** | **R$ 0 (Milhas)** | 100% emitidas com milhas (United na ida via Washington / Delta na volta via Atlanta). Taxas de embarque no cartão Santander Black. |
 | 🚗 **Aluguel de Veículo (19 dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
 | 🎟️ **Ingressos dos 8 Parques** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Comprado no Undercover Tourist!** (Disney 4d US$ 2.868,14 + Universal 2d US$ 1.440,94 + SeaWorld & Busch US$ 391,36 − Promo LOYAL20 US$ 25,04). Economia de US$ 900 vs. bilheteria! |
@@ -1038,14 +1042,14 @@ Na saída dos grandes espetáculos noturnos (*Happily Ever After*, *Fantasmic!*,
 
 ### 🛒 11.4 A Lista de Compras Precisa no Amazon.com (Miguel 32 BR & Isabela 29 BR)
 
-**Status Oficial:** 🟢 **QUITADO / ORDER PLACED no Amazon.com (US$ 111,97)**.  
+**Status Oficial:** 🟢 **ENTREGUE COM SUCESSO / DELIVERED (Pedido Amazon #111-1854572-9427412)**.  
 O casal deliberou e definiu a compra estrita do **AirTag 4-Pack + Palmilhas RFUNGUANGO**, dispensando pulseiras em favor de um método mais simples de identificação interna e treinamento das crianças:
 
 | Item a Comprar | Qtd / Especificação | Finalidade, Tamanhos & Links Diretos | Valor Estimado (Amazon.com) | Veredito Técnico |
 | :--- | :---: | :--- | :---: | :---: |
-| **[Apple AirTag 2ª Geração (Pack com 4 Unidades)](https://www.amazon.com/gp/product/B0GJTXVN9Z)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | 🟢 **ORDER PLACED** |
-| **[Palmilha RFUNGUANGO Pink (Isabela)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM)** | 1 par *(Pink)* | Nicho oculto sob o calcanhar com tampa anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Tamanho **6.89 - 7.48 IN** (Toddler 10.5 - 12.5 Little Kid • 175-190 mm). | **~US$ 15,99** | 🟢 **ORDER PLACED** |
-| **[Palmilha RFUNGUANGO Blue (Miguel)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1)** | 1 par *(Blue Upgraded)* | Nicho sob o calcanhar e arco plantar.<br>• 👦 **Miguel (32 BR):** Tamanho **7.68 - 8.27 IN** (Little Kid 13.5 - 2 Big Kid • 195-210 mm). | **~US$ 15,99** | 🟢 **ORDER PLACED** |
+| **[Apple AirTag 2ª Geração (Pack com 4 Unidades)](https://www.amazon.com/gp/product/B0GJTXVN9Z)** | 1 caixa *(4 unidades)* | 1 no tênis do Miguel, 1 no tênis da Isabela e 2 nas mochilas leves de ombro. Pareamento familiar via app *Buscar (Find My)*. | **~US$ 79,99** | 🟢 **DELIVERED / ENTREGUE** |
+| **[Palmilha RFUNGUANGO Pink (Isabela)](https://www.amazon.com/RFUNGUANGO-Comfortable-Shoes%EF%BC%8CPink-6-89-7-48IN-Toddler-12-5/dp/B0F25R86SM)** | 1 par *(Pink)* | Nicho oculto sob o calcanhar com tampa anti-suor. Ninguém vê e a criança não tira.<br>• 👧 **Isabela (29 BR):** Tamanho **6.89 - 7.48 IN** (Toddler 10.5 - 12.5 Little Kid • 175-190 mm). | **~US$ 15,99** | 🟢 **DELIVERED / ENTREGUE** |
+| **[Palmilha RFUNGUANGO Blue (Miguel)](https://www.amazon.com/dp/B0FWK8BWS5/ref=twister_B0HDYSL3XM?th=1)** | 1 par *(Blue Upgraded)* | Nicho sob o calcanhar e arco plantar.<br>• 👦 **Miguel (32 BR):** Tamanho **7.68 - 8.27 IN** (Little Kid 13.5 - 2 Big Kid • 195-210 mm). | **~US$ 15,99** | 🟢 **DELIVERED / ENTREGUE** |
 
 * **Investimento Total Confirmado:** **~US$ 111,97** *(débito direto na conta Chase sem incidência de IOF)*.
 * **Decisões de Simplificação e Dispensas:**
@@ -1053,6 +1057,21 @@ O casal deliberou e definiu a compra estrita do **AirTag 4-Pack + Palmilhas RFUN
   * ❌ **Balança Portátil de Bagagem e Power Bank:** Dispensados (Marcelo já possui).
   * ❌ **Capas de Chuva na Amazon:** Dispensadas (compra no Walmart de Kissimmee por **US$ 1,98 cada** se necessário).
 
+---
 
+### 📱 11.5 Estratégia de Telecomunicações & Internet 5G de Alta Velocidade (2 iPhones 13)
 
+**Diagnóstico Técnico da Operadora TIM Brasil em Orlando:**
+* **Vantagens:** O plano TIM Black/Américas permite manter a linha conectada sem custo extra de diária se houver benefício ativo. Excelente para receber SMS de bancos brasileiros (Chase/Bradesco/Itaú) e manter o WhatsApp intacto com o número `+55`.
+* **Desvantagens Críticas nos Parques:** Todo o tráfego de dados via roaming internacional da TIM faz um "túnel" de volta aos servidores no Brasil antes de carregar o conteúdo nos EUA. Isso gera uma **latência (ping) alta de 180ms a 250ms** e rebaixamento de prioridade de rede perante as antenas americanas em horários de pico nos parques. Às 07h00 da manhã, na disputa pelas vagas da *Lightning Lane*, essa latência pode causar perda de horários nobres.
+
+#### 🏆 Arquitetura de Conectividade da Família:
+1. **iPhone 13 do Marcelo (Líder Operacional & Lightning Lane):**
+   * **Linha Primária de Dados:** **eSIM Nativo T-Mobile 5G (US$ 50)** com 50 GB de alta velocidade, tethering/hotspot e ligações locais nos EUA inclusas. Comprado e ativado diretamente pelo app oficial *T-Mobile Prepaid eSIM* na semana da viagem.
+   * **Linha Secundária de Voz:** Chip Físico da TIM Brasil mantido ligado (com Roaming de Dados DESATIVADO na linha da TIM para evitar cobranças indevidas).
+2. **iPhone 13 da Thalita:**
+   * **Linha Primária de Dados:** **eSIM Airalo EUA (20 GB por ~US$ 26)** para Instagram, fotos na nuvem, mensagens e navegação, ou pareamento via Hotspot com o Marcelo.
+3. **Regra de Ouro do WhatsApp:**
+   * Ao pousar nos EUA e ativar a linha americana, o WhatsApp exibirá o aviso: *"Novo número detectado. Deseja atualizar o número da sua conta?"*.  
+   * **SELECIONAR SEMPRE: "MANTER NÚMERO ATUAL"**. Isso preserva todas as conversas, fotos, histórico e o número brasileiro original sem nenhuma alteração.
 

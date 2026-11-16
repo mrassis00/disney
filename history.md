@@ -2575,3 +2575,54 @@ Quando o usuário retornar e enviar a mensagem **`restart`**, o assistente deve:
   - Markdowns (`roteiro_orlando_dezembro_2026_guia_completo.md` e `resumo_executivo_roteiro_orlando_celular.md`): Checklist e tabelas financeiras marcadas como quitadas (`US$ 329,62`).
   - HTMLs de apoio recompilados (`build_html.ps1`).
   - Repositório Git com commit limpo e sincronizado no GitHub.
+
+
+---
+
+## 📅 Interação 81 — Validação de Documentos, Carrinho BOB Duallie (#6638) Quitado, Itens Amazon Entregues & Reconciliação Financeira Chase
+
+### 👤 Mensagens do Usuário:
+1. *"restart"*
+2. *"Fazer todas as atualizacoes de forma local e ainda nao publicar no git... Isabela passaporte 20/03/2030 visto 15/05/2035; Miguel passaporte 20/03/2030 visto 27/08/2029 (no 1º passaporte de bebê); Thalita passaporte 01/03/2028 visto 15/05/2035; Marcelo passaporte 23/07/2029 visto 13/02/2035... duvida do visto do Miguel no 1º passaporte de bebê e exigência sanitária do CDC em nov/2026..."*
+3. *"considerando isso, ainda de forma local, mostrar o checklist completo e o que devo fazer agora."*
+4. *"sim, abra os detalhes do carrinho, modelo e passo a passo..."*
+5. *"verifique qual a melhor opcao para a familia no link https://linrentalsorlando.com/pt-br/, qual eu devo escolher."*
+6. *"antes de qualquer coisa, atualizar o endereco do hotel confirmado neste link. Estava errado antes... 8745 International Drive, Orlando, FL 32819"*
+7. *"sim, so estou com duvida em relacao a plaquinha por questoes de seguranca... so escrever ASSIS... pegar no domingo 13..."*
+8. *"colocar no checklist para eu fazer hoje a noite."*
+9. *"alem disso, agora quero um novo topico no roteiro. Quero saber qual o melhor plano de telefone para funcionar nos USA para 2 iphones 13. Hoje o meu operador é a TIM... criar um roteiro matador..."*
+10. *"avaliar a reputacao da LinRental... como nao cair em golpe..."*
+11. *"responder sim para registrar a estratégia de conectividade no guia e criar card no checklist..."*
+12. *"qual a diferenca destes carrinhos? BOB Revolution Flex 3.0 Double / City Mini GT2 Double / Summit X3 Double... Lin Rentals informou que City Mini é só até 5 anos..."*
+13. *"atualizando tudo o miguel tem 25kg e a isabela 20kg."*
+14. *"dados do responsável e entrega para Lin Rentals..."*
+15. *"instruções de pagamento da Lin Rentals reserva #6638..."*
+16. *"detalhes da compra Parcelow R$ 817,43..."*
+17. *"pago, segue comprovante da Parcelow #599123... pode atualizar o checklist local..."*
+18. *"chegou email da reserva #6638 e mensagem de whatsapp da Lin Rentals..."*
+19. *"chegaram os itens da Amazon #111-1854572-9427412 (AirTags 2ª Gen e palmilhas RFUNGUANGO delivered)..."*
+20. *"atualizar a questao financeira: carro e carrinho pagos no cartao BR; ingressos 8 parques pagos no Chase; saldo Chase real de US$ 13.624,27."*
+21. *"restart, comitar tudo, publicar o app web e salvar para eu continuar as outras questoes amanha. Eu ainda nao estou satisfeito com os mapas dos parques e vou querer refinar e /ou criar algo mais impactante amanha."*
+
+### 🤖 Resposta do Assistente (Antigravity):
+* **1. Passaportes & Vistos:**
+  - Auditados os 4 integrantes. Criada a aba dedicada `🛂 Vistos` no Web App com cards individuais.
+  - Visto do Miguel no 1º passaporte de bebê validado como 100% legal e aceito pelo CBP (orientado a levar os 2 passaportes).
+  - Esclarecida a declaração sanitária do CDC (Ebola/Congo) a ser preenchida digitalmente e gratuitamente no check-in da United.
+* **2. Hotel Homewood Suites by Hilton I-Drive:**
+  - Endereço oficial corrigido em todos os arquivos e mapas: `8745 International Drive, Orlando, FL 32819`.
+* **3. Carrinho Duplo (Lin Rentals #6638):**
+  - Devido ao peso do Miguel (25 kg) e Isabela (20 kg), o City Mini GT2 foi descartado e aprovado o **BOB Revolution 3.0 Double**.
+  - Quitado via Parcelow (`#599123`) por R$ 817,43 (US$ 130 + taxas). Contrato de locação oficial emitido por e-mail com entrega no Bell Stand do hotel em 12/12 e retirada em 31/12 às 11h. Plaquinha de segurança definida como `"ASSIS"`.
+* **4. Kit de Segurança Amazon (#111-1854572-9427412):**
+  - Marcado como **Delivered / Entregue** na recepção (AirTag 2ª Gen 4-pack + Palmilhas RFUNGUANGO Blue e Pink).
+* **5. Reconciliação Financeira:**
+  - Saldo real em conta Chase: **US$ 13.624,27**.
+  - Total quitado no Chase: Ingressos 8 Parques ($4.675,40) + Seguro IMG ($329,62) + Kit Segurança ($111,97).
+  - Total quitado no Cartão BR: SUV Avis ($1.116,23) + Carrinho Lin Rentals ($144,67 / R$ 817,43).
+  - Total compromissado restante no Chase: $5.619,07 (Hilton $2.914 + Alimentação $2.455 + Gasolina $250).
+  - Saldo líquido 100% livre no Chase para compras/outlets: **US$ 8.005,20** (~$421/dia).
+* **6. Publicação & Próxima Etapa:**
+  - Cache do Service Worker atualizado para `orlando-2026-v13`.
+  - Git commit e push realizados na branch `main`.
+  - Pauta para amanhã: Refinamento e redesign de alto impacto dos **Mapas dos Parques**.

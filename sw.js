@@ -1,4 +1,4 @@
-const CACHE_NAME = 'orlando-2026-v12';
+const CACHE_NAME = 'orlando-2026-v13';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
