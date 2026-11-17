@@ -318,6 +318,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🎡 PARQUE 1: Universal Studios Florida + Islands of Adventure (Segunda, 14/12 — CIRCUITO 2 EM 1)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Animal Actors on Location! (Studios - 10h45):** Show ao vivo na sombra com cães, gatos, aves e porquinhos treinados. Super fofo para Isabela e Miguel!
+  - **Meet Gabby (A Casa Mágica da Gabby - Studios 10h05):** Encontro na DreamWorks Land para fotos e abraços com a Gabby em carne e osso.
+  - **Raptor Encounter (Islands - Jurassic Park):** De 20 em 20 min, encontro interativo com a velociraptor Blue animatrônica (destaque Miguel!).
+  - **Triwizard Spirit Rally & Frog Choir (Islands - Hogsmeade):** Shows temáticos de rua com danças de Beauxbatons e coral com sapos mágicos.
 * **Por que neste dia?** Lotação mínima histórica (🟢 **4/10 a 5/10**). As escolas americanas ainda estão em período letivo regular. Permite cruzar os 2 parques em um único dia vazio a bordo do trem temático *Hogwarts Express*.
 * **Horário de Funcionamento:** Das **08h30 às 19h00** (parque estendido até o anoitecer) + **CityWalk aberto até 00h00**!
 * **Status Operacional 2026 (Aberto vs Fechado vs Novidades):**
@@ -379,6 +384,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🏰 PARQUE 2: Disney’s Magic Kingdom (Quarta, 16/12 — ROTEIRO VIP DEFINITIVO)
+* **🎭 Shows & Paradas Imperdíveis:**
+  - **Festival of Fantasy Parade (Main Street - 15h00):** A grande parada oficial com princesas, Mickey e o dragão gigante de Malévola cuspindo fogo real! (Chegar 25 min antes).
+  - **Happily Ever After (20h00):** O maior espetáculo de fogos e projeções 3D no Castelo da Cinderela (chegar no gramado do Hub às 19h35).
+  - **Mickey’s Magical Friendship Faire (Palco do Castelo - 10h30, 11h45, 13h10):** Musical com Tiana, Rapunzel, Anna e Elsa cantando ao vivo.
+  - **Enchanted Tales with Belle (Fantasyland - Contínuo):** Espelho mágico e teatro interativo onde Isabela encena com a Bela de verdade!
 * **Por que neste dia?** DIA REGULAR SEM FESTA PRIVADA! Lotação moderada/baixa (🟢 **6/10**). O parque opera até a noite com a nova parada iluminada **Disney Starlight** E o show de fogos no Castelo **Happily Ever After às 20h00**!
 * **Estratégia VIP Ativada:** Agendamento prévio no domingo 13/12 às 07h00 do **Lightning Lane Multi Pass** (~US$ 110 para a família) + **Single Pass do TRON** (~US$ 20 para o Papai Marcelo).
 * **Status Operacional 2026 (Aberto vs Fechado vs Novidades):**
@@ -425,6 +435,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🌳 PARQUE 4: Disney’s Animal Kingdom (Sábado, 19/12 — EXPEDIÇÃO DA SELVA, PANDORA & NOITE MÁGICA)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Festival of the Lion King (África - 10h00, 11h00, 14h00):** Show musical acrobático espetacular sentado no ar-condicionado.
+  - **The Animation Experience (Rafiki’s Planet Watch - 11h15):** Aula oficial com animador Disney ensinando a desenhar um personagem em papel oficial para levar para casa.
+  - **Finding Nemo: The Big Blue... and Beyond! (Dinoland - 11h00, 12h30):** Teatro musical com marionetes gigantes iluminadas.
+  - **Feathered Friends in Flight! (Ásia - 10h30, 11h30):** Aves raras voando em rasante sobre a plateia.
 * **Por que neste dia?** Sábado de menor procura na Disney (🟢 **6/10**). As massas de turistas de fim de semana correm para o Magic Kingdom e Hollywood Studios. Parque bucólico, coberto por vegetação densa, que permite um dia completo e relaxante até o entardecer!
 * **Horário de Funcionamento:** Das **08h00 às 18h30 / 19h00** (aproveitando o parque de ponta a ponta até a iluminação noturna!).
 * **Status Operacional 2026 (Aberto vs Fechado vs Novidades):**
@@ -467,6 +482,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🌐 PARQUE 5: Disney’s EPCOT (Segunda, 21/12 — A VOLTA AO MUNDO, O FUTURO & ALMOÇO NA ITÁLIA)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Luminous: The Symphony of Us (Lagoa - 21h00):** Pirotecnia grandiosa, canções mundiais, fontes dançantes e lasers cruzando o lago central.
+  - **Holiday Storytellers nos Países:** Atores caracterizados contando lendas de Natal na Noruega (Julenisse), Itália (La Befana) e Reino Unido (Father Christmas).
+  - **Voices of Liberty (Pavilhão Americano):** Coral a capella impecável sob a cúpula de acústica perfeita.
+  - **Mariachi Cobre (México):** Danças e canções tradicionais celebrando o Natal.
 * **Por que neste dia?** Segunda-feira após o domingo de descanso (🟡 **7/10**). **Troca Estratégica Oficial:** Ao visitar o EPCOT na segunda 21/12, a família foge do fechamento antecipado do Hollywood Studios (que tem festa paga *Disney Jollywood Nights* em 21/12) e curte o EPCOT completo até as 21h30!
 * **Horário de Funcionamento:** Das **09h00 às 21h30** (encerrando com o show de fogos Luminous às 21h00/21h15).
 * **Status Operacional 2026 (Aberto vs Fechado vs Novidades):**
@@ -509,6 +529,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🎬 PARQUE 6: Disney’s Hollywood Studios (Terça, 22/12 — O CIRCUITO DO CINEMA, STAR WARS & FIM DA JANELA DISNEY)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Fantasmic! (Hollywood Hills Amphitheater - 20h00):** O maior show aquático da Disney com Mickey Feiticeiro, dragão gigante, 50 atores e barcos iluminados (chegar às 19h20!).
+  - **For the First Time in Forever: Frozen Sing-Along (14h30):** Comédia musical com canções ao vivo e NEVE DE VERDADE caindo sobre toda a plateia!
+  - **Disney Junior Play and Dance! (Animation Courtyard - Manhãs):** Salão climatizado com carpete e bolhas para Isabela dançar com Mickey e Timão.
+  - **Indiana Jones Epic Stunt Spectacular!:** Dublês, rochas gigantes, tiros e explosões de cinema.
 * **Por que neste dia?** Terça-feira **SEM festa privada *Jollywood Nights***! Enquanto na segunda (21/12) o parque fecharia às 19h para não-pagantes do evento extra, na **terça 22/12** o parque funciona em horário regular completo até as 21h00/21h30 com o show **Fantasmic!** garantido, encerrando com perfeição a janela de 7 dias do ingresso Disney de 4 dias iniciado em 16/12!
 * **Horário de Funcionamento:** Das **08h30 às 21h00** (parque aberto até a noite com o show Fantasmic!).
 * **Estratégia VIP Ativada:** Agendamento prévio da **Lightning Lane Multi Pass** no app My Disney Experience (Tier 1: *Slinky Dog Dash*; Tier 2: *Toy Story Mania* + *Mickey & Minnie’s Runaway Railway* ou *Tower of Terror*) + Single Pass de *Rise of the Resistance*.
@@ -555,6 +580,11 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🐬 PARQUE 7: SeaWorld Orlando (Domingo, 27/12 — SHOWS DE ESTÁDIO, SHARKS GRILL & VIDA MARINHA)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Orca Encounter (Orca Stadium - 15h00):** Saltos e acrobacias das baleias orcas (sentar acima da 10ª fileira para fugir da água fria).
+  - **Dolphin Adventures (Dolphin Stadium - 11h00):** Show acrobático em alta velocidade dos golfinhos.
+  - **Winter Wonderland on Ice (Bayside Stadium - 17h45):** Patinação artística no gelo com canções e figurinos natalinos.
+  - **Holiday Reflections: Fireworks Finale (18h45):** Fogos e fontes na lagoa central.
 * **Por que neste dia?** Domingo pós-Natal (🟡 **8/10**). Em dias de alta lotação geral em Orlando, **o SeaWorld é a escolha mais inteligente de todas**, pois **85% das experiências principais ocorrem em mega estádios de 4.000 a 5.000 lugares (Orcas e Golfinhos)**, onde a família entra e senta confortavelmente sem enfrentar as filas quilométricas dos brinquedos tradicionais!
 * **Horário de Funcionamento:** Das **09h00 às 19h00**.
 * **Mapas Oficiais Integrados (Originais):**  
@@ -600,6 +630,10 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 ---
 
 ### 🦒 PARQUE 8: Busch Gardens Tampa Bay (Terça, 29/12 — NATUREZA AFRICANA, VILA SÉSAMO & ADRENALINA EXTREMA)
+* **🎭 Shows & Espetáculos Imperdíveis:**
+  - **Turn It Up! / Christmas on Ice (Moroccan Palace - 13h00, 15h00):** Show premiado de patinação artística no gelo no teatro climatizado com ar-condicionado.
+  - **Sesame Street Sunny Day Theater (Vila Sésamo - 11h30):** Teatro musical infantil com Elmo e Come-Come.
+  - **Animal Care Center Demonstrations:** Demonstrações ao vivo de cuidados veterinários reais com animais da savana.
 * **Por que neste dia?** Terça-feira entre o Natal e o Ano Novo (🟡 **8/10**). Estratégia perfeita: após um dia de descanso total na segunda (28/12), a família faz o agradável bate-volta de 1h15 pela rodovia I-4 West até Tampa. O Busch Gardens é o parque ideal para a família pois une **o maior safári aberto da Flórida (Serengeti Plain)**, uma **área gigante da Vila Sésamo (Sesame Street Safari of Fun) para as crianças** e as **montanhas-russas mais premiadas do mundo para o Papai Marcelo e a corajosa Isabela**!
 * **Horário de Funcionamento:** Das **10h00 às 19h00**.
 * **Distância & Rota GPS:** Aprox. 115 km (1h15 de viagem do Homewood Suites via I-4 West livre de pedágios).  

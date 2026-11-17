@@ -812,6 +812,112 @@
     }
 
 
+
+    /* Seção de Shows & Paradas do Dia */
+    .park-shows-box {
+      margin: 18px 0 22px 0;
+      background: rgba(15, 23, 42, 0.85);
+      border-radius: 14px;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      padding: 16px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+    }
+    .park-shows-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .park-shows-title {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: #fbbf24;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .park-shows-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 10px;
+    }
+    .show-mini-card {
+      background: rgba(30, 41, 59, 0.7);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      padding: 10px 12px;
+      transition: border-color 0.2s;
+    }
+    .show-mini-card:hover {
+      border-color: rgba(245, 158, 11, 0.5);
+    }
+    .show-mini-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+      gap: 6px;
+    }
+    .show-mini-time {
+      font-size: 0.78rem;
+      font-weight: 800;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.12);
+      padding: 2px 7px;
+      border-radius: 6px;
+    }
+    .show-mini-badge {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: #fbbf24;
+      text-transform: uppercase;
+    }
+    .show-mini-name {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 4px;
+    }
+    .show-mini-tip {
+      font-size: 0.76rem;
+      color: #cbd5e1;
+      line-height: 1.4;
+    }
+
+    /* Universal Sub-Map Switcher */
+    .univ-map-switcher {
+      display: flex;
+      gap: 8px;
+      padding: 8px 12px;
+      background: rgba(15, 23, 42, 0.95);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      flex-wrap: wrap;
+    }
+    .univ-switch-btn {
+      flex: 1;
+      min-width: 180px;
+      background: rgba(30, 41, 59, 0.8);
+      border: 1.5px solid rgba(148, 163, 184, 0.3);
+      color: #cbd5e1;
+      border-radius: 8px;
+      padding: 7px 12px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
+    .univ-switch-btn.active {
+      background: rgba(56, 189, 248, 0.2);
+      border-color: #38bdf8;
+      color: #ffffff;
+      box-shadow: 0 0 10px rgba(56, 189, 248, 0.25);
+    }
+
     /* Focused Interactive Map Layer */
     .focused-map-box {
       margin: 16px 0 24px 0;
@@ -1430,26 +1536,7 @@
         </div>
       </div>
 
-      <div class="timeline-step">
-        <div class="step-time-col">
-          <div class="step-time">14h05</div>
-          <div style="font-size:0.65rem; color:var(--text-muted); text-align:center;">World Showcase</div>
-        </div>
-        <div class="step-dot" style="background:var(--accent-gold);"></div>
-        <div class="step-card" style="border-left: 3px solid var(--accent-gold);">
-          <div class="step-header">
-            <span class="step-name">📱 DuckTales World Showcase Adventure (Países)</span>
-            <span class="step-prob">⏱️ No App Play Disney</span>
-          </div>
-          <div class="step-meta-pills" style="display:flex; gap:6px; flex-wrap:wrap; margin:6px 0;">
-            <span class="tag tag-gold" style="font-weight:700;">💎 Interatividade Crianças</span>
-            <span class="tag tag-green">Janelas & Vulcões se Mexem de Verdade</span>
-          </div>
-          <div class="step-details">
-            No app oficial no celular, Miguel e Isabela ativam missões secretas nos pavilhões do México, Alemanha e Reino Unido, fazendo portas e relógios dos cenários se abrirem de verdade!
-          </div>
-        </div>
-      </div>
+      
 
 
 
@@ -3000,6 +3087,48 @@
 
       <div class="focused-map-box" id="focused-map-universal"></div>
 
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Imperdíveis para a Família</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h45 / 12h00</span>
+              <span class="show-mini-badge">🐾 Na Sombra</span>
+            </div>
+            <div class="show-mini-name">Animal Actors on Location! (Studios)</div>
+            <div class="show-mini-tip">Show ao vivo sentado na sombra com cães, gatos, aves e porquinhos treinados. Muito fofo para Isabela e Miguel.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ De 20 em 20 min</span>
+              <span class="show-mini-badge">🦖 Destaque Miguel</span>
+            </div>
+            <div class="show-mini-name">Raptor Encounter: Velociraptor Blue (Islands)</div>
+            <div class="show-mini-tip">Encontro interativo na cerca de Jurassic Park com a dinossauro Blue animatrônica. Reações e fotos impagáveis!</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h05 e manhãs</span>
+              <span class="show-mini-badge">🐱 Destaque Isabela</span>
+            </div>
+            <div class="show-mini-name">Meet Gabby: A Casa Mágica da Gabby (Studios)</div>
+            <div class="show-mini-tip">Encontro presencial na fachada temática da Casa Mágica na DreamWorks Land para abraços e autógrafos.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ A cada 45 min</span>
+              <span class="show-mini-badge">🧙 Mundo Bruxo</span>
+            </div>
+            <div class="show-mini-name">Triwizard Spirit Rally &amp; Frog Choir (Islands)</div>
+            <div class="show-mini-tip">Na praça de Hogsmeade: acrobacias das alunas de Beauxbatons, guerreiros de Durmstrang e coral de sapos mágicos.</div>
+          </div>
+        </div>
+      </div>
+
+
       <h3 style="font-size: 1.15rem; font-weight: 700; margin: 18px 0 12px 0;">📍 Roteiro Cirúrgico Turn-by-Turn (Passo a Passo com Decisões)</h3>
 
       <div class="timeline-step">
@@ -3423,6 +3552,48 @@
       </div>
 
       <div class="focused-map-box" id="focused-map-magickingdom"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">A Magia do Magic Kingdom</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 15h00 (Única!)</span>
+              <span class="show-mini-badge">👑 Parada Oficial</span>
+            </div>
+            <div class="show-mini-name">Festival of Fantasy Parade (Main Street)</div>
+            <div class="show-mini-tip">Carros alegóricos gigantes, princesas, Mickey e o dragão de Malévola cuspindo labaredas de fogo real! Chegue 25 min antes na Liberty Square ou Main Street.</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 20h00 (Pontual)</span>
+              <span class="show-mini-badge">🎆 Espetáculo Mestre</span>
+            </div>
+            <div class="show-mini-name">Happily Ever After: Projeções 3D &amp; Fogos</div>
+            <div class="show-mini-tip">O mais emocionante show de fogos e projeções da Disney no Castelo da Cinderela. Garanta lugar no gramado central do Hub às 19h35.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h30, 11h45, 13h10</span>
+              <span class="show-mini-badge">🏰 Palco do Castelo</span>
+            </div>
+            <div class="show-mini-name">Mickey’s Magical Friendship Faire</div>
+            <div class="show-mini-tip">Apresentação musical diante do Castelo com Mickey, Minnie, Tiana, Rapunzel, Anna e Elsa cantando ao vivo.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ Contínuo</span>
+              <span class="show-mini-badge">💎 Atuação Isabela</span>
+            </div>
+            <div class="show-mini-name">Enchanted Tales with Belle (Fantasyland)</div>
+            <div class="show-mini-tip">Entrada pelo espelho mágico até a biblioteca da Fera. A Isabela participa da encenação com a Bela de verdade e ganha lembrança oficial!</div>
+          </div>
+        </div>
+      </div>
+
 
       <h3 style="font-size: 1.15rem; font-weight: 700; margin: 18px 0 12px 0;">📍 Roteiro Cirúrgico Turn-by-Turn (Passo a Passo com Decisões)</h3>
 
@@ -3857,6 +4028,40 @@
           <span class="tag tag-blue" style="font-size: 0.75rem;">5 Portais Interligados</span>
         </div>
         <div class="focused-map-box" id="focused-map-epic"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Superproduções Épicas</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 13h55 / 15h30</span>
+              <span class="show-mini-badge">🐉 Nível Broadway</span>
+            </div>
+            <div class="show-mini-name">The Untrainable Dragon (Isle of Berk)</div>
+            <div class="show-mini-tip">Teatro musical com dragões mecatrônicos voando sobre a plateia e efeitos visuais impressionantes. 100% climatizado; chegue 20 min antes!</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #a855f7;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ Sessões à tarde</span>
+              <span class="show-mini-badge">🧙 Mundo Bruxo</span>
+            </div>
+            <div class="show-mini-name">Le Cirque Arcanus (Ministério da Magia)</div>
+            <div class="show-mini-tip">Espetáculo de ilusionismo, criaturas fantásticas e acrobacias na Paris mágica dos anos 1920.</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ Ao Entardecer</span>
+              <span class="show-mini-badge">✨ Fontes Astrais</span>
+            </div>
+            <div class="show-mini-name">Celestial Park Fountain Spectacular</div>
+            <div class="show-mini-tip">Coreografia de jatos d’água luminosos, música cósmica e efeitos astrais na lagoa central de Celestial Park.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Toque e dê zoom para localizar os 5 mundos: Celestial Park (centro), Super Nintendo (oeste), Berk (noroeste), Harry Potter (leste) e Dark Universe (norte).
         </div>
@@ -4168,6 +4373,48 @@
           <span class="tag tag-green" style="font-size: 0.75rem;">Circuito das Selvas & Pandora</span>
         </div>
         <div class="focused-map-box" id="focused-map-animalkingdom"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Aventuras &amp; Musicais na Selva</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h00, 11h00, 14h00</span>
+              <span class="show-mini-badge">🦁 Nível Broadway</span>
+            </div>
+            <div class="show-mini-name">Festival of the Lion King (África)</div>
+            <div class="show-mini-tip">O melhor show de todo o complexo Disney! Acrobatas, macacos voadores, bonecos gigantes e canções ao vivo no ar-condicionado.</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 11h15, 12h00</span>
+              <span class="show-mini-badge">🎨 Aula Oficial</span>
+            </div>
+            <div class="show-mini-name">The Animation Experience (Rafiki’s Planet Watch)</div>
+            <div class="show-mini-tip">Animador profissional da Disney ensina a família a desenhar um personagem animal em papel oficial para levar de recordação grátis!</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 11h00, 12h30, 14h30</span>
+              <span class="show-mini-badge">🐠 Teatro Musical</span>
+            </div>
+            <div class="show-mini-name">Finding Nemo: The Big Blue... and Beyond!</div>
+            <div class="show-mini-tip">A história de Procurando Nemo contada com marionetes monumentais iluminadas e trilha original. Climatizado e sentado.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h30, 11h30</span>
+              <span class="show-mini-badge">🦅 Voo Livre</span>
+            </div>
+            <div class="show-mini-name">Feathered Friends in Flight! (Ásia)</div>
+            <div class="show-mini-tip">Especialistas demonstram a inteligência e o voo rasante de aves exóticas diretamente sobre as cabeças da plateia.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Circuito inteligente: Oasis ➔ África (Safári) ➔ Rafiki / Ásia ➔ DinoLand ➔ Discovery Island (Almoço) ➔ Pandora (Tarde/Noite).
         </div>
@@ -4498,6 +4745,48 @@
           <span class="tag tag-blue" style="font-size: 0.75rem;">World Celebration, Nature, Discovery & Showcase</span>
         </div>
         <div class="focused-map-box" id="focused-map-epcot"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Festival of the Holidays &amp; Luzes</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 21h00 (Pontual)</span>
+              <span class="show-mini-badge">🎆 Encerramento Épico</span>
+            </div>
+            <div class="show-mini-name">Luminous: The Symphony of Us (Lagoa)</div>
+            <div class="show-mini-tip">Fogos grandiosos, canções multilíngues, fontes iluminadas e lasers cruzando a lagoa central da World Showcase. Vista excelente perto do México/Canadá.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ De hora em hora</span>
+              <span class="show-mini-badge">🎅 Tradições Mundiais</span>
+            </div>
+            <div class="show-mini-name">Holiday Storytellers nos Países</div>
+            <div class="show-mini-tip">Atores contam as lendas de Natal em cada pavilhão: o gnomo Julenisse na Noruega, a bruxa boa La Befana na Itália e o Father Christmas no Reino Unido!</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 12h30, 13h45, 15h00</span>
+              <span class="show-mini-badge">🎶 Coral Acústico</span>
+            </div>
+            <div class="show-mini-name">Voices of Liberty (Pavilhão Americano)</div>
+            <div class="show-mini-tip">Apresentação a capella impecável com canções natalinas e patrióticas sob a cúpula de eco perfeito da rotunda americana.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ Ao longo da tarde</span>
+              <span class="show-mini-badge">🎺 Música Latina</span>
+            </div>
+            <div class="show-mini-name">Mariachi Cobre &amp; Las Posadas (México)</div>
+            <div class="show-mini-tip">Alegria mexicana contagiante na praça do pavilhão do México com dançarinos e mariachis celebrando o Natal.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Spaceship Earth ➔ The Seas (Aquário) ➔ Guardians (Cosmic Rewind) ➔ Club Cool / Moana ➔ World Showcase (Itália almoço, França, Noruega) ➔ Lagoa Luminous.
         </div>
@@ -4632,6 +4921,28 @@
           </div>
         </div>
       </div>
+
+      <div class="timeline-step">
+        <div class="step-time-col">
+          <div class="step-time">14h05</div>
+          <div style="font-size:0.65rem; color:var(--text-muted); text-align:center;">World Showcase</div>
+        </div>
+        <div class="step-dot" style="background:var(--accent-gold);"></div>
+        <div class="step-card" style="border-left: 3px solid var(--accent-gold);">
+          <div class="step-header">
+            <span class="step-name">📱 DuckTales World Showcase Adventure (Países)</span>
+            <span class="step-prob">⏱️ No App Play Disney</span>
+          </div>
+          <div class="step-meta-pills" style="display:flex; gap:6px; flex-wrap:wrap; margin:6px 0;">
+            <span class="tag tag-gold" style="font-weight:700;">💎 Interatividade Crianças</span>
+            <span class="tag tag-green">Janelas &amp; Vulcões se Mexem de Verdade</span>
+          </div>
+          <div class="step-details">
+            No app oficial no celular, Miguel e Isabela ativam missões secretas nos pavilhões do México, Alemanha e Reino Unido, fazendo portas e relógios dos cenários se abrirem de verdade!
+          </div>
+        </div>
+      </div>
+
 
       <div class="timeline-step">
         <div class="step-time-col">
@@ -4806,6 +5117,48 @@
           <span class="tag tag-coral" style="font-size: 0.75rem;">Toy Story, Galaxy's Edge & Sunset Blvd</span>
         </div>
         <div class="focused-map-box" id="focused-map-hollywood"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Magia de Cinema &amp; Neve Real</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 20h00 (Imperdível!)</span>
+              <span class="show-mini-badge">🌊 O Maior Show Disney</span>
+            </div>
+            <div class="show-mini-name">Fantasmic! (Hollywood Hills Amphitheater)</div>
+            <div class="show-mini-tip">Mickey Feiticeiro combate dragões e vilões em telas gigantes de água, com 50 atores, barcos de princesas iluminados e fogos. Chegue às 19h20!</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 14h30 / Sessões horárias</span>
+              <span class="show-mini-badge">❄️ Neve Real no Fim</span>
+            </div>
+            <div class="show-mini-name">Frozen Sing-Along Celebration</div>
+            <div class="show-mini-tip">Comédia hilária com historiadores reais de Arendelle, canções e NEVE DE VERDADE caindo do teto sobre toda a plateia no refrão final!</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #a855f7;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 10h45 / Manhãs</span>
+              <span class="show-mini-badge">🎵 Destaque Isabela</span>
+            </div>
+            <div class="show-mini-name">Disney Junior Play and Dance!</div>
+            <div class="show-mini-tip">Salão acarpetado, climatizado e interativo para dançar com Mickey, Vampirina, Timão e Doutora Brinquedos com bolhas de sabão caindo!</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 11h00, 13h00, 15h00</span>
+              <span class="show-mini-badge">💥 Ação &amp; Dublês</span>
+            </div>
+            <div class="show-mini-name">Indiana Jones Epic Stunt Spectacular!</div>
+            <div class="show-mini-tip">Dublês profissionais demonstram truques de cinema de Hollywood com rochas gigantes rolando, tiros, explosões e aviões em chamas.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Entrada ➔ Toy Story Land (Rope Drop Slinky & Mania) ➔ Galaxy's Edge (Rise & Falcon) ➔ Echo Lake (Frozen & Indiana) ➔ Sunset Blvd (Tower & Anfiteatro Fantasmic).
         </div>
@@ -5072,6 +5425,48 @@
           <span class="tag tag-blue" style="font-size: 0.75rem;">Estádios, Aquários & Vila Sésamo</span>
         </div>
         <div class="focused-map-box" id="focused-map-seaworld"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Espetáculos Marítimos &amp; Natalinos</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 15h00 (Principal)</span>
+              <span class="show-mini-badge">🐋 Estádio Orca</span>
+            </div>
+            <div class="show-mini-name">Orca Encounter (Baleias Orcas)</div>
+            <div class="show-mini-tip">Apresentação majestosa e educativa com saltos impressionantes das orcas. Sente acima da 10ª fileira para fugir da água fria de dezembro!</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #06b6d4;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 11h00 / 13h30</span>
+              <span class="show-mini-badge">🐬 Estádio Dolphin</span>
+            </div>
+            <div class="show-mini-name">Dolphin Adventures (Golfinhos)</div>
+            <div class="show-mini-tip">Acrobacias e alta velocidade dos golfinhos no estádio coberto e sombreado. Chegue 15 min antes para garantir assentos centrais.</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 17h45 (Bayside)</span>
+              <span class="show-mini-badge">⛸️ Patinação no Gelo</span>
+            </div>
+            <div class="show-mini-name">Winter Wonderland on Ice</div>
+            <div class="show-mini-tip">Show especial do Festival de Natal com patinadores profissionais dançando no gelo com figurinos cintilantes e fontes iluminadas.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 18h45 (Encerramento)</span>
+              <span class="show-mini-badge">🎆 Fogos no Lago</span>
+            </div>
+            <div class="show-mini-name">Holiday Reflections: Fireworks Finale</div>
+            <div class="show-mini-tip">Espetáculo de fogos de artifício e fontes coreografadas na lagoa central ao som de canções natalinas.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Portão ➔ Stingray Lagoon ➔ Dolphin Stadium ➔ Penguin Trek ➔ Sharks Underwater Grill (Almoço) ➔ Sesame Street Land ➔ Orca Stadium ➔ Mako / Wild Arctic.
         </div>
@@ -5338,6 +5733,40 @@
           <span class="tag tag-gold" style="font-size: 0.75rem;">Serengeti Plain, Safári da Vila Sésamo & Montanhas-Russas</span>
         </div>
         <div class="focused-map-box" id="focused-map-buschgardens"></div>
+
+      <div class="park-shows-box">
+        <div class="park-shows-header">
+          <div class="park-shows-title">🎭 Shows, Paradas &amp; Espetáculos do Dia (Não Perca!)</div>
+          <span class="tag tag-gold" style="font-weight:700;">Música, Gelo &amp; Natureza</span>
+        </div>
+        <div class="park-shows-grid">
+          <div class="show-mini-card" style="border-left: 3px solid #38bdf8;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 13h00 / 15h00</span>
+              <span class="show-mini-badge">⛸️ Patinação no Gelo</span>
+            </div>
+            <div class="show-mini-name">Turn It Up! / Christmas on Ice (Moroccan Palace)</div>
+            <div class="show-mini-tip">Show premiado internacionalmente de patinação artística no gelo em um teatro monumental com ar-condicionado poderoso. Pausa excelente no calor!</div>
+          </div>
+          <div class="show-mini-card" style="border-left: 3px solid #f59e0b;">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ 11h30 / 14h00</span>
+              <span class="show-mini-badge">🍪 Destaque Infantil</span>
+            </div>
+            <div class="show-mini-name">Sesame Street Sunny Day Theater</div>
+            <div class="show-mini-tip">Apresentação teatral e musical com Elmo, Come-Come, Abby e Ênio na Vila Sésamo. Danças fáceis para Isabela e Miguel participarem.</div>
+          </div>
+          <div class="show-mini-card">
+            <div class="show-mini-top">
+              <span class="show-mini-time">⏰ Contínuo (Nairobi)</span>
+              <span class="show-mini-badge">🩺 Bastidores Reais</span>
+            </div>
+            <div class="show-mini-name">Animal Care Center Demonstrations</div>
+            <div class="show-mini-tip">Apresentações através de vitrines transparentes mostrando veterinários reais tratando, alimentando e cuidando de animais da savana.</div>
+          </div>
+        </div>
+      </div>
+
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Portão ➔ Trem Serengeti Express (Nairobi) ➔ Edge of Africa ➔ Zambia Smokehouse (Almoço) ➔ Safari of Fun (Vila Sésamo) ➔ Kangaloom (Cangurus) ➔ Iron Gwazi / Cheetah Hunt.
         </div>
@@ -5791,10 +6220,10 @@
   // MOTOR DE MAPAS FOCADOS INTERATIVOS (BOLINHAS 1 -> 2 -> 3 + CARD BOB DUALLIE)
   // =========================================================================
   const PARK_FLOW_MAPS = {
-    universal: {
+    universal_studios: {
       img: 'maps/universal_twopark_flow.jpg',
-      alt: 'Mapa Focado Universal Studios & Islands',
-      title: 'Rota Universal Studios (Manhã) ➔ Trem p/ Islands (Tarde)',
+      alt: 'Mapa Focado Universal Studios Florida',
+      title: '☀️ 1. Manhã: Universal Studios Florida (08h30–12h00)',
       steps: [
         { x: 11.5, y: 54.5, time: '08h35–09h15', name: 'Despicable Me: Minion Mayhem', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~10–15 min', stroller: 'Stroller Parking em frente à entrada dos Minions (área coberta).', tip: 'Chegue cedo! Ao sair, tire foto com os Minions na lojinha.' },
         { x: 23.0, y: 49.0, time: '09h20–09h55', name: 'Transformers: The Ride 3D', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~15–20 min', stroller: 'Estacionamento de carrinhos à esquerda da fachada do prédio.', tip: 'Batalha de robôs gigantes; confira a fila de encontro com Optimus Prime na saída!' },
@@ -5802,7 +6231,21 @@
         { x: 35.5, y: 63.5, time: '10h45–11h10', name: 'Animal Actors on Location!', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show sentado', stroller: 'Deixe o BOB Duallie no corredor lateral antes da entrada do teatro.', tip: 'Show na sombra com cães, gatos e araras de cinema — pausa deliciosa para as crianças.' },
         { x: 33.5, y: 67.5, time: '11h10–11h25', name: 'E.T. Adventure', height: 'Miguel ✅ / Isabela ✅ (86cm)', wait: '~10 min', stroller: 'Estacionamento na entrada da floresta do E.T.', tip: 'Voo suave de bicicleta sobre as estrelas; informe os nomes na fila para o E.T. se despedir!' },
         { x: 49.0, y: 27.0, time: '11h30–12h10', name: 'Beco Diagonal & Butterbeer', height: 'Família Toda (Livre)', wait: 'Passeio', stroller: 'Leve o carrinho pelo Beco Diagonal; estacione apenas se entrar em Gringotts.', tip: 'Veja o dragão soltar fogo de verdade no topo do banco e prove a Butterbeer Frozen!' },
-        { x: 43.5, y: 34.0, time: '12h15–12h50', name: 'Hogwarts Express ➔ Islands of Adventure', height: 'Família Toda (Livre)', wait: '~15 min', stroller: 'O BOB Duallie vai dobrado ou no vagão de bagagem direto até Hogsmeade!', tip: 'Embarque na Plataforma 9¾ para almoçar no Três Vassouras, ver a Blue (Raptor) e ir à Marvel!' }
+        { x: 43.5, y: 34.0, time: '12h15–12h50', name: 'Hogwarts Express ➔ Islands of Adventure', height: 'Família Toda (Livre)', wait: '~15 min', stroller: 'O BOB Duallie vai dobrado ou no vagão de bagagem direto até Hogsmeade!', tip: 'Embarque na Plataforma 9¾ para cruzar até o Islands of Adventure com efeitos mágicos na janela!' }
+      ]
+    },
+    universal_islands: {
+      img: 'maps/islands_of_adventure_flow.jpg',
+      alt: 'Mapa Focado Universal Islands of Adventure',
+      title: '🦕 2. Tarde: Universal Islands of Adventure (12h55–19h00)',
+      steps: [
+        { x: 43.0, y: 33.0, time: '12h55–13h55', name: 'Desembarque Hogsmeade & Almoço Três Vassouras', height: 'Família Toda', wait: 'Almoço', stroller: 'Estacionamento ao lado da entrada do Três Vassouras.', tip: 'Costelinhas assadas, frango defumado e milho no Three Broomsticks climatizado!' },
+        { x: 41.0, y: 24.0, time: '14h00–14h20', name: 'Flight of the Hippogriff', height: 'Miguel ✅ / Isabela ✅ (92cm)', wait: '~15 min', stroller: 'Estacionamento na entrada da cabana do Hagrid.', tip: 'Montanha-russa suave do Hipogrifo para a família inteira junta!' },
+        { x: 32.0, y: 29.0, time: '14h25–14h50', name: 'Raptor Encounter: Encontro com a Blue', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~15 min', stroller: 'Mantenha o carrinho perto para fotos na cerca de Jurassic Park.', tip: '💎 Destaque Miguel: Encontro cara a cara com a Velociraptor Blue animatrônica hiper-realista!' },
+        { x: 34.0, y: 35.0, time: '14h55–15h25', name: 'Discovery Center & VelociCoaster (Marcelo)', height: 'Marcelo ✅ / Crianças no Discovery (130cm)', wait: 'Single Rider 12m', stroller: 'Thalita e crianças descansam no Discovery Center com ar-condicionado e fósseis de T-Rex.', tip: 'Marcelo faz a VelociCoaster (112 km/h) via Single Rider enquanto as crianças veem filhote de dinossauro nascendo na incubadora!' },
+        { x: 44.0, y: 55.0, time: '15h30–16h45', name: 'Seuss Landing (Trenzinho, Carrossel & Peixinhos)', height: 'Miguel ✅ / Isabela ✅ (Livre / 92cm)', wait: '~10–15 min', stroller: 'Circulação total com o carrinho por toda a vila colorida.', tip: '💎 Paraíso da Isabela: The High in the Sky Seuss Trolley Train Ride (trenzinho aéreo), Caro-Seuss-el e One Fish Two Fish!' },
+        { x: 28.0, y: 57.0, time: '16h50–17h35', name: 'The Amazing Adventures of Spider-Man', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~15–20 min', stroller: 'Stroller Parking em frente à entrada na Marvel Super Hero Island.', tip: 'Simulador 3D espetacular com o Homem-Aranha saltando no capô do carro da família!' },
+        { x: 29.0, y: 68.0, time: '17h40–18h30', name: 'The Incredible Hulk Coaster (Marcelo)', height: 'Marcelo ✅ / Crianças ❌ (138cm)', wait: 'Single Rider 12m', stroller: 'Thalita e crianças passeiam nas lojinhas da Marvel e tiram fotos com super-heróis.', tip: 'Disparo de 0 a 65 km/h em 2 segundos via Single Rider! Às 18h45 saída para jantar no Toothsome Chocolate Emporium no CityWalk.' }
       ]
     },
     magickingdom: {
@@ -5917,14 +6360,27 @@
   };
 
   const activeMapIndex = {};
+  let currentUniversalMap = 'universal_studios';
+
+  function switchUniversalSubMap(subKey) {
+    currentUniversalMap = subKey;
+    renderFocusedMap('universal', 0);
+  }
 
   function renderFocusedMap(parkId, stepIdx) {
-    const data = PARK_FLOW_MAPS[parkId];
+    let effectiveKey = parkId;
+    let isUniversal = false;
+    if (parkId === 'universal') {
+      isUniversal = true;
+      effectiveKey = currentUniversalMap;
+    }
+
+    const data = PARK_FLOW_MAPS[effectiveKey];
     if (!data) return;
     if (stepIdx === undefined) stepIdx = 0;
     if (stepIdx < 0) stepIdx = 0;
     if (stepIdx >= data.steps.length) stepIdx = data.steps.length - 1;
-    activeMapIndex[parkId] = stepIdx;
+    activeMapIndex[effectiveKey] = stepIdx;
 
     const container = document.getElementById('focused-map-' + parkId);
     if (!container) return;
@@ -5950,7 +6406,24 @@
 
     const isHidden = container.getAttribute('data-pins-hidden') === 'true';
 
+    let universalSwitcherHtml = '';
+    if (isUniversal) {
+      universalSwitcherHtml = `
+        <div class="univ-map-switcher">
+          <button class="univ-switch-btn ${currentUniversalMap === 'universal_studios' ? 'active' : ''}"
+                  onclick="switchUniversalSubMap('universal_studios')">
+            ☀️ 1. Manhã: Universal Studios Florida
+          </button>
+          <button class="univ-switch-btn ${currentUniversalMap === 'universal_islands' ? 'active' : ''}"
+                  onclick="switchUniversalSubMap('universal_islands')">
+            🦕 2. Tarde: Islands of Adventure
+          </button>
+        </div>
+      `;
+    }
+
     container.innerHTML = `
+      ${universalSwitcherHtml}
       <div class="focused-map-topbar">
         <div class="focused-map-title">📍 ${data.title}</div>
         <button class="map-toggle-btn" onclick="toggleMapPins('${parkId}')">
@@ -6000,16 +6473,16 @@
     if (!container) return;
     const currentlyHidden = container.getAttribute('data-pins-hidden') === 'true';
     container.setAttribute('data-pins-hidden', (!currentlyHidden).toString());
-    renderFocusedMap(parkId, activeMapIndex[parkId] || 0);
+    let effectiveKey = parkId === 'universal' ? currentUniversalMap : parkId;
+    renderFocusedMap(parkId, activeMapIndex[effectiveKey] || 0);
   }
 
   function initAllFocusedMaps() {
-    Object.keys(PARK_FLOW_MAPS).forEach(parkId => {
+    ['universal', 'magickingdom', 'epic', 'animalkingdom', 'epcot', 'hollywood', 'seaworld', 'buschgardens'].forEach(parkId => {
       renderFocusedMap(parkId, 0);
     });
   }
 
-  initAllFocusedMaps();
 </script>
 </body>
 </html>

@@ -1,10 +1,11 @@
-const CACHE_NAME = 'orlando-2026-v16';
+const CACHE_NAME = 'orlando-2026-v17';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './app_roteiro_orlando.html',
   './manifest.json',
   './maps/universal_twopark_flow.jpg',
+  './maps/islands_of_adventure_flow.jpg',
   './maps/magic_kingdom_master_map.jpg',
   './maps/epic_universe_flow.jpg',
   './maps/animal_kingdom_flow.jpg',
