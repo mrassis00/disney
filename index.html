@@ -811,6 +811,215 @@
       line-height: 1.4;
     }
 
+
+    /* Focused Interactive Map Layer */
+    .focused-map-box {
+      margin: 16px 0 24px 0;
+      background: rgba(15, 23, 42, 0.92);
+      border-radius: 14px;
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    }
+    .focused-map-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 14px;
+      background: rgba(30, 41, 59, 0.9);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .focused-map-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #38bdf8;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .map-toggle-btn {
+      background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8;
+      border: 1px solid rgba(56, 189, 248, 0.4);
+      border-radius: 20px;
+      padding: 4px 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .focused-map-viewport {
+      position: relative;
+      width: 100%;
+      overflow-x: auto;
+      background: #090d16;
+      -webkit-overflow-scrolling: touch;
+    }
+    .focused-map-stage {
+      position: relative;
+      width: 100%;
+      min-width: 580px;
+      display: inline-block;
+      vertical-align: top;
+    }
+    .focused-map-stage img {
+      width: 100%;
+      height: auto;
+      display: block;
+      user-select: none;
+    }
+    .focused-map-svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 2;
+      transition: opacity 0.25s;
+    }
+    .focused-map-pins {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 3;
+      transition: opacity 0.25s;
+    }
+    .focused-map-stage.pins-hidden .focused-map-svg,
+    .focused-map-stage.pins-hidden .focused-map-pins {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .map-pin-btn {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: #0f172a;
+      color: #ffffff;
+      border: 2.5px solid #38bdf8;
+      font-size: 0.75rem;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.65);
+      transition: transform 0.2s, background 0.2s, border-color 0.2s;
+      padding: 0;
+    }
+    .map-pin-btn:hover {
+      transform: translate(-50%, -50%) scale(1.18);
+    }
+    .map-pin-btn.active {
+      background: #f59e0b;
+      color: #0f172a;
+      border-color: #ffffff;
+      transform: translate(-50%, -50%) scale(1.25);
+      box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.45), 0 4px 12px rgba(0,0,0,0.8);
+      z-index: 5;
+    }
+    .map-step-strip {
+      display: flex;
+      gap: 6px;
+      overflow-x: auto;
+      padding: 10px 12px 6px 12px;
+      background: rgba(15, 23, 42, 0.95);
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .map-pill-btn {
+      flex: 0 0 auto;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      background: rgba(30, 41, 59, 0.85);
+      color: #cbd5e1;
+      font-size: 0.78rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .map-pill-btn.active {
+      background: #f59e0b;
+      color: #0f172a;
+      border-color: #fbbf24;
+    }
+    .map-detail-card {
+      padding: 12px 14px 14px 14px;
+      background: rgba(15, 23, 42, 0.95);
+    }
+    .map-detail-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+    .map-detail-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #fbbf24;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+    .map-detail-name {
+      font-size: 1.02rem;
+      font-weight: 800;
+      color: #ffffff;
+      margin-top: 2px;
+    }
+    .map-detail-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 8px;
+      margin: 8px 0;
+    }
+    .map-info-pill {
+      background: rgba(30, 41, 59, 0.75);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 0.78rem;
+      color: #e2e8f0;
+    }
+    .map-info-pill strong {
+      color: #94a3b8;
+      display: block;
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+    .map-detail-tip {
+      font-size: 0.8rem;
+      color: #cbd5e1;
+      line-height: 1.45;
+      margin-top: 6px;
+    }
+    .map-nav-controls {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 12px;
+    }
+    .map-nav-btn {
+      flex: 1;
+      background: rgba(56, 189, 248, 0.14);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      color: #38bdf8;
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .map-nav-btn:hover {
+      background: rgba(56, 189, 248, 0.25);
+    }
+
     .map-viewer-wrapper {
       margin-bottom: 24px;
       background: rgba(15, 23, 42, 0.8);
@@ -1521,6 +1730,29 @@
             </div>
           </div>
         </div>
+
+        <div class="check-card" data-phase="fase1" id="card-c-apps">
+          <div class="check-header">
+            <div class="custom-checkbox" onclick="toggleTask('c-apps')"></div>
+            <div class="check-main">
+              <div class="check-title" onclick="toggleTask('c-apps')">📱 Baixar os 5 Apps de Economia EUA (TextNow, Upside, Flipp, MinuteCast, Bounce)</div>
+              <div class="check-desc">Garantir até 50% de desconto na CVS/Walgreens (com número virtual TextNow), cashback em combustível e radar de chuva exato nos parques.</div>
+              <div class="check-actions">
+                <span class="tag tag-gold" style="font-weight: 700;">📲 A Fazer com Calma</span>
+                <button class="btn-detail" onclick="toggleDetails('det-c-apps')">Ver Lista dos 5 Apps ▾</button>
+                <button class="btn-skip" onclick="skipTask('c-apps')">Pular</button>
+              </div>
+              <div id="det-c-apps" class="check-details-body">
+                1. <strong>TextNow:</strong> Número americano grátis para cadastrar ExtraCare (CVS) e myWalgreens.<br>
+                2. <strong>Upside:</strong> Cashback em postos de gasolina e restaurantes participantes.<br>
+                3. <strong>AccuWeather (MinuteCast):</strong> Avisa o minuto exato em que a chuva começa/para no parque.<br>
+                4. <strong>Flipp:</strong> Encartes de ofertas semanais de Walmart, Publix e Target.<br>
+                5. <strong>Bounce:</strong> Guarda-volumes barato (~$6/mala) caso precise no último dia.
+              </div>
+            </div>
+          </div>
+        </div>
+
         </div>
 
         <div class="check-card" data-phase="fase1" id="card-c-adr">
@@ -2766,9 +2998,7 @@
         </div>
       </div>
 
-      <div class="map-viewer-wrapper">
-        <div class="map-img-container"><img src="maps/universal_twopark_flow.jpg" alt="Mapa Mestre Universal Studios e Islands"></div>
-      </div>
+      <div class="focused-map-box" id="focused-map-universal"></div>
 
       <h3 style="font-size: 1.15rem; font-weight: 700; margin: 18px 0 12px 0;">📍 Roteiro Cirúrgico Turn-by-Turn (Passo a Passo com Decisões)</h3>
 
@@ -3192,9 +3422,7 @@
         </div>
       </div>
 
-      <div class="map-viewer-wrapper">
-        <div class="map-img-container"><img src="maps/magic_kingdom_master_map.jpg" alt="Mapa Mestre Magic Kingdom"></div>
-      </div>
+      <div class="focused-map-box" id="focused-map-magickingdom"></div>
 
       <h3 style="font-size: 1.15rem; font-weight: 700; margin: 18px 0 12px 0;">📍 Roteiro Cirúrgico Turn-by-Turn (Passo a Passo com Decisões)</h3>
 
@@ -3628,7 +3856,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-blue);">🗺️ Mapa Mestre Operacional Epic Universe</h3>
           <span class="tag tag-blue" style="font-size: 0.75rem;">5 Portais Interligados</span>
         </div>
-        <img src="maps/epic_universe_flow.jpg" alt="Mapa Epic Universe" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/universal-epic-universe-park-map-english.pdf';">
+        <div class="focused-map-box" id="focused-map-epic"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Toque e dê zoom para localizar os 5 mundos: Celestial Park (centro), Super Nintendo (oeste), Berk (noroeste), Harry Potter (leste) e Dark Universe (norte).
         </div>
@@ -3939,7 +4167,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-green);">🗺️ Mapa Mestre Operacional Animal Kingdom</h3>
           <span class="tag tag-green" style="font-size: 0.75rem;">Circuito das Selvas & Pandora</span>
         </div>
-        <img src="maps/animal_kingdom_flow.jpg" alt="Mapa Animal Kingdom" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/DAK_0526_PG_DIGITAL.pdf';">
+        <div class="focused-map-box" id="focused-map-animalkingdom"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Circuito inteligente: Oasis ➔ África (Safári) ➔ Rafiki / Ásia ➔ DinoLand ➔ Discovery Island (Almoço) ➔ Pandora (Tarde/Noite).
         </div>
@@ -4269,7 +4497,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-blue);">🗺️ Mapa Mestre Operacional EPCOT</h3>
           <span class="tag tag-blue" style="font-size: 0.75rem;">World Celebration, Nature, Discovery & Showcase</span>
         </div>
-        <img src="maps/epcot_park_flow.jpg" alt="Mapa EPCOT" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/EPCOT-guidemap_0726_PG-DIGITAL.pdf';">
+        <div class="focused-map-box" id="focused-map-epcot"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Spaceship Earth ➔ The Seas (Aquário) ➔ Guardians (Cosmic Rewind) ➔ Club Cool / Moana ➔ World Showcase (Itália almoço, França, Noruega) ➔ Lagoa Luminous.
         </div>
@@ -4577,7 +4805,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-coral);">🗺️ Mapa Mestre Operacional Hollywood Studios</h3>
           <span class="tag tag-coral" style="font-size: 0.75rem;">Toy Story, Galaxy's Edge & Sunset Blvd</span>
         </div>
-        <img src="maps/hollywood_studios_flow.jpg" alt="Mapa Hollywood Studios" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/DHS_052626_PG-KM.pdf';">
+        <div class="focused-map-box" id="focused-map-hollywood"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Entrada ➔ Toy Story Land (Rope Drop Slinky & Mania) ➔ Galaxy's Edge (Rise & Falcon) ➔ Echo Lake (Frozen & Indiana) ➔ Sunset Blvd (Tower & Anfiteatro Fantasmic).
         </div>
@@ -4843,7 +5071,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-blue);">🗺️ Mapa Mestre Operacional SeaWorld Orlando</h3>
           <span class="tag tag-blue" style="font-size: 0.75rem;">Estádios, Aquários & Vila Sésamo</span>
         </div>
-        <img src="maps/seaworld_park_map_2026.jpg" alt="Mapa SeaWorld" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/2420x1895_swo_2026_jan_map-688107_SeaWorld_PDF.jpg';">
+        <div class="focused-map-box" id="focused-map-seaworld"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Portão ➔ Stingray Lagoon ➔ Dolphin Stadium ➔ Penguin Trek ➔ Sharks Underwater Grill (Almoço) ➔ Sesame Street Land ➔ Orca Stadium ➔ Mako / Wild Arctic.
         </div>
@@ -5109,7 +5337,7 @@
           <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--accent-gold);">🗺️ Mapa Mestre Operacional Busch Gardens Tampa</h3>
           <span class="tag tag-gold" style="font-size: 0.75rem;">Serengeti Plain, Safári da Vila Sésamo & Montanhas-Russas</span>
         </div>
-        <img src="maps/busch_gardens_park_map.jpg" alt="Mapa Busch Gardens" style="width: 100%; border-radius: 8px; border: 1px solid var(--border-card); display: block;" onerror="this.src='maps/2000x1300_Park_Map-659100_Busch.png';">
+        <div class="focused-map-box" id="focused-map-buschgardens"></div>
         <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: center;">
           Fluxo: Portão ➔ Trem Serengeti Express (Nairobi) ➔ Edge of Africa ➔ Zambia Smokehouse (Almoço) ➔ Safari of Fun (Vila Sésamo) ➔ Kangaloom (Cangurus) ➔ Iron Gwazi / Cheetah Hunt.
         </div>
@@ -5558,6 +5786,230 @@
         if (document.getElementById('countdown-days')) document.getElementById('countdown-days').innerText = diffDays + ' dias';
       }
     });
-  </script>
+  
+  // =========================================================================
+  // MOTOR DE MAPAS FOCADOS INTERATIVOS (BOLINHAS 1 -> 2 -> 3 + CARD BOB DUALLIE)
+  // =========================================================================
+  const PARK_FLOW_MAPS = {
+    universal: {
+      img: 'maps/universal_twopark_flow.jpg',
+      alt: 'Mapa Focado Universal Studios & Islands',
+      title: 'Rota Universal Studios (Manhã) ➔ Trem p/ Islands (Tarde)',
+      steps: [
+        { x: 11.5, y: 54.5, time: '08h35–09h15', name: 'Despicable Me: Minion Mayhem', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~10–15 min', stroller: 'Stroller Parking em frente à entrada dos Minions (área coberta).', tip: 'Chegue cedo! Ao sair, tire foto com os Minions na lojinha.' },
+        { x: 23.0, y: 49.0, time: '09h20–09h55', name: 'Transformers: The Ride 3D', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~15–20 min', stroller: 'Estacionamento de carrinhos à esquerda da fachada do prédio.', tip: 'Batalha de robôs gigantes; confira a fila de encontro com Optimus Prime na saída!' },
+        { x: 38.5, y: 76.0, time: '10h05–10h40', name: 'A Casa Mágica da Gabby + Trolls', height: 'Miguel ✅ / Isabela ✅ (Livre / 92cm)', wait: '~10–15 min', stroller: 'Área ampla de carrinhos na entrada da DreamWorks Land.', tip: 'Encontro ao vivo com a Gabby para a Isabela + montanha-russa suave Trolls!' },
+        { x: 35.5, y: 63.5, time: '10h45–11h10', name: 'Animal Actors on Location!', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show sentado', stroller: 'Deixe o BOB Duallie no corredor lateral antes da entrada do teatro.', tip: 'Show na sombra com cães, gatos e araras de cinema — pausa deliciosa para as crianças.' },
+        { x: 33.5, y: 67.5, time: '11h10–11h25', name: 'E.T. Adventure', height: 'Miguel ✅ / Isabela ✅ (86cm)', wait: '~10 min', stroller: 'Estacionamento na entrada da floresta do E.T.', tip: 'Voo suave de bicicleta sobre as estrelas; informe os nomes na fila para o E.T. se despedir!' },
+        { x: 49.0, y: 27.0, time: '11h30–12h10', name: 'Beco Diagonal & Butterbeer', height: 'Família Toda (Livre)', wait: 'Passeio', stroller: 'Leve o carrinho pelo Beco Diagonal; estacione apenas se entrar em Gringotts.', tip: 'Veja o dragão soltar fogo de verdade no topo do banco e prove a Butterbeer Frozen!' },
+        { x: 43.5, y: 34.0, time: '12h15–12h50', name: 'Hogwarts Express ➔ Islands of Adventure', height: 'Família Toda (Livre)', wait: '~15 min', stroller: 'O BOB Duallie vai dobrado ou no vagão de bagagem direto até Hogsmeade!', tip: 'Embarque na Plataforma 9¾ para almoçar no Três Vassouras, ver a Blue (Raptor) e ir à Marvel!' }
+      ]
+    },
+    magickingdom: {
+      img: 'maps/magic_kingdom_master_map.jpg',
+      alt: 'Mapa Focado Magic Kingdom',
+      title: 'Rota Anti-Ziguezague Magic Kingdom (Fantasyland ➔ Tomorrowland)',
+      steps: [
+        { x: 23.0, y: 74.0, time: '08h45–09h00', name: 'Main Street & Foto no Castelo', height: 'Família Toda', wait: 'Livre', stroller: 'Circule livremente com o BOB Duallie até a Fantasyland.', tip: 'Foto clássica com o Castelo antes da multidão da tarde.' },
+        { x: 21.5, y: 37.5, time: '09h05–09h35', name: 'Peter Pan’s Flight', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~15–25 min', stroller: 'Stroller Parking em frente ao Carrossel / lado do Rapunzel Restrooms.', tip: 'Voo mágico no navio pirata sobre Londres iluminada.' },
+        { x: 28.0, y: 33.0, time: '09h40–10h15', name: 'Seven Dwarfs Mine Train', height: 'Miguel ✅ / Isabela ✅ (97cm)', wait: '~20–30 min', stroller: 'Estacionamento dedicado à direita, próximo ao Pooh.', tip: 'Montanha-russa suave dos Sete Anões com carrinhos que balançam nas curvas.' },
+        { x: 24.5, y: 41.5, time: '10h25–11h10', name: 'Princess Fairytale Hall', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~15–20 min', stroller: 'Mesmo estacionamento da Fantasyland central.', tip: 'Abraços e autógrafos reais da Isabela com Cinderela, Rapunzel, Tiana e Elena!' },
+        { x: 27.5, y: 31.0, time: '11h20–12h00', name: 'Enchanted Tales with Belle', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~20 min', stroller: 'Estacionamento logo em frente à entrada da cabana do Maurice.', tip: '💎 Destaque Isabela: ela entra pelo espelho mágico, atua com a Bela e ganha marcador!' },
+        { x: 18.5, y: 43.0, time: '12h20–13h25', name: 'Almoço: Columbia Harbour House', height: 'Família Toda', wait: 'Mobile Order', stroller: 'Deixar o carrinho na área de Liberty Square em frente ao restaurante.', tip: 'Peça pelo app antes de chegar; suba ao 2º andar super silencioso e climatizado!' },
+        { x: 33.0, y: 28.5, time: '13h35–14h25', name: 'Pequena Sereia & Dumbo', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10–15 min', stroller: 'Stroller Parking em frente à Gruta da Ariel / Storybook Circus.', tip: 'No Dumbo, as crianças brincam no parquinho coberto com ar-condicionado enquanto esperam!' },
+        { x: 33.5, y: 57.0, time: '15h50–16h20', name: 'Buzz Lightyear Space Ranger Spin', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~15 min', stroller: 'Estacionamento em frente à loja Star Traders / Buzz.', tip: 'Batalha de laser contra o Zurg; Miguel e Marcelo disputam quem faz mais pontos!' },
+        { x: 35.5, y: 54.0, time: '16h25–16h45', name: 'Tomorrowland PeopleMover', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Zero fila', stroller: 'Estacionamento ao lado da rampa de acesso central da Tomorrowland.', tip: '💎 Descanso da Família: trenzinho aéreo relaxante que entra dentro do TRON e Space Mountain!' },
+        { x: 39.5, y: 32.5, time: '17h10–17h50', name: 'TRON Lightcycle / Run (Marcelo)', height: 'Marcelo ✅ / Crianças ❌ (122cm)', wait: 'Single Pass', stroller: 'Thalita e crianças aguardam com sorvete no Plaza Ice Cream na Main Street.', tip: 'Moto luminosa super veloz com lançamento no escuro.' },
+        { x: 23.0, y: 51.0, time: '19h45–20h30', name: 'Fogos Happily Ever After (20h00)', height: 'Família Toda', wait: 'Show 20h00', stroller: 'Mantenha as crianças sentadas no BOB Duallie ou no colo próximo ao jardim central.', tip: 'Chegue 25 min antes no gramado do Hub para ver projeções no castelo e fogos!' }
+      ]
+    },
+    epic: {
+      img: 'maps/epic_universe_flow.jpg',
+      alt: 'Mapa Focado Epic Universe',
+      title: 'Rota dos Portais Epic Universe (Nintendo ➔ Berk ➔ Paris)',
+      steps: [
+        { x: 30.0, y: 68.0, time: '08h30–08h55', name: 'Portal Celestial Park', height: 'Família Toda', wait: 'Entrada', stroller: 'Passeio amplo pelo jardim central com fontes dançantes.', tip: 'Siga direto para a esquerda rumo ao portal do Super Nintendo World.' },
+        { x: 19.5, y: 60.5, time: '09h25–10h10', name: 'Mario Kart: Bowser’s Challenge', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~30 min', stroller: 'Stroller Parking na entrada principal do Reino dos Cogumelos.', tip: 'Corrida interativa com óculos de realidade aumentada dentro do Castelo do Bowser!' },
+        { x: 19.0, y: 54.5, time: '10h15–10h45', name: 'Yoshi’s Adventure', height: 'Miguel ✅ / Isabela ✅ (86cm)', wait: '~15–20 min', stroller: 'Mesmo estacionamento central da área Nintendo.', tip: '💎 Destaque Isabela: passeio aéreo colorido no casco do Yoshi com vista linda para fotos!' },
+        { x: 11.5, y: 58.5, time: '11h00–11h50', name: 'Donkey Kong: Mine-Cart Madness', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~30 min', stroller: 'Estacionamento de carrinhos à entrada da selva Donkey Kong.', tip: 'Montanha-russa do carrinho de mina que simula pular sobre trilhos quebrados!' },
+        { x: 19.0, y: 57.5, time: '12h10–13h30', name: 'Almoço no Toadstool Cafe', height: 'Família Toda', wait: 'Mobile Order', stroller: 'Deixar na entrada do restaurante.', tip: 'Peça hambúrgueres temáticos de cogumelo e sopas no pão com vista pelas janelas digitais.' },
+        { x: 42.0, y: 73.0, time: '13h55–14h40', name: 'Show: The Untrainable Dragon', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show 35m', stroller: 'Stroller Parking externo à arena do teatro em Isle of Berk.', tip: '💎 Espetáculo Nível Broadway: dragões gigantes voam sobre a plateia no ar-condicionado!' },
+        { x: 43.0, y: 60.0, time: '14h50–16h20', name: 'Fyre Drill & Hiccup’s Wing Gliders', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~20 min', stroller: 'Estacionamento central de Berk ao lado dos barcos vikings.', tip: 'Batalha de alvos com canhões d’água nos barcos e voo suave com Banguela.' },
+        { x: 41.5, y: 21.0, time: '16h50–17h40', name: 'Ministério da Magia (Harry Potter)', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: '~25 min', stroller: 'Estacionamento na praça parisiense antes do metrô mágico.', tip: 'Viagem imersiva da Paris mágica até o julgamento da Dolores Umbridge em Londres!' },
+        { x: 39.0, y: 41.5, time: '17h50–18h40', name: 'Stardust Racers (Marcelo)', height: 'Marcelo ✅ / Crianças ❌ (122cm)', wait: 'Single Rider', stroller: 'Família descansa vendo as fontes luminosas de Celestial Park.', tip: 'Duelo de montanhas-russas duplas acelerando a 100 km/h sob as estrelas!' }
+      ]
+    },
+    animalkingdom: {
+      img: 'maps/animal_kingdom_flow.jpg',
+      alt: 'Mapa Focado Animal Kingdom',
+      title: 'Rota Animal Kingdom (Safári ➔ Trem Rafiki ➔ Pandora)',
+      steps: [
+        { x: 17.5, y: 66.0, time: '08h05–08h15', name: 'Wilderness Explorers (Entrada)', height: 'Família Toda (Gratuito)', wait: '2 min', stroller: 'Pegar no quiosque da ponte logo antes da Árvore da Vida.', tip: '💎 Missão Miguel (7a): livrinho oficial de escoteiro para colecionar adesivos pelo parque!' },
+        { x: 7.0, y: 15.0, time: '08h25–09h35', name: 'Kilimanjaro Safaris', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~15 min', stroller: 'Stroller Parking dedicado à esquerda antes da fila do safári.', tip: 'Horário de ouro! De manhã cedo leões, girafas e elefantes estão super ativos na savana.' },
+        { x: 3.0, y: 40.0, time: '09h55–10h40', name: 'Festival of the Lion King', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show 30m', stroller: 'Área de carrinhos ampla em frente ao teatro Harambe.', tip: 'Espetáculo acrobático e musical ao vivo sentado no ar-condicionado.' },
+        { x: 16.0, y: 9.0, time: '10h55–12h00', name: 'Rafiki’s Planet Watch & Desenho', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Trem', stroller: 'O BOB Duallie vai aberto/dobrado direto dentro do vagão do trem Wildlife Express!', tip: '💎 Aula oficial de desenho Disney (Animation Experience) + fazendinha de cabritos para Isabela!' },
+        { x: 18.5, y: 53.0, time: '12h15–13h15', name: 'Almoço: Flame Tree Barbecue', height: 'Família Toda', wait: 'Mobile Order', stroller: 'Deixar junto à entrada do pátio ao ar livre.', tip: 'Costelinhas defumadas, frango e mac & cheese nos gazebos arborizados à beira do lago.' },
+        { x: 17.0, y: 47.0, time: '13h30–14h35', name: 'The Boneyard & Fotos com Mickey', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10–15 min', stroller: 'Estacionamento em frente ao Adventurers Outpost.', tip: 'Fotos com Mickey e Minnie em trajes de explorador + escavação de fósseis para Miguel.' },
+        { x: 9.0, y: 85.0, time: '14h45–15h25', name: 'Pandora: Na’vi River Journey', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'LL / ~25m', stroller: 'Stroller Parking principal de Pandora perto da ponte de entrada.', tip: 'Barquinho calmo pela floresta fluorescente encantadora — Isabela e Thalita amam!' },
+        { x: 5.5, y: 81.0, time: '15h30–16h20', name: 'Avatar Flight of Passage (Marcelo)', height: 'Marcelo ✅ / Miguel ❓ (112cm)', wait: 'Single Pass', stroller: 'Família toma um Night Blossom refrescante no Pongu Pongu enquanto aguarda.', tip: 'Simulador 3D definitivo voando no Banshee sobre Pandora. Saída relax às 16h30 para piscina!' }
+      ]
+    },
+    epcot: {
+      img: 'maps/epcot_park_flow.jpg',
+      alt: 'Mapa Focado EPCOT',
+      title: 'Rota EPCOT (Esfera ➔ Nemo ➔ Países ➔ Show Luminous)',
+      steps: [
+        { x: 17.5, y: 86.0, time: '08h45–09h30', name: 'Spaceship Earth (A Grande Esfera)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10 min', stroller: 'Stroller Parking bem embaixo da esfera antes da rampa de entrada.', tip: 'Narração em português e desenho animado divertido no tablet criando o futuro da família!' },
+        { x: 24.5, y: 77.5, time: '09h40–10h50', name: 'The Seas with Nemo & Aquário', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10 min', stroller: 'Estacionamento junto aos corais na entrada do pavilhão The Seas.', tip: 'Carrinho concha + aquários gigantes com peixes-boi, golfinhos e tartarugas marinhas!' },
+        { x: 9.5, y: 86.0, time: '11h05–11h40', name: 'Guardians of the Galaxy (Marcelo)', height: 'Marcelo ✅ / Miguel ✅ (107cm)', wait: 'VQ / LL', stroller: 'Thalita e Isabela aguardam na área climatizada do Creations Shop ou Moana.', tip: 'Montanha-russa incrível que gira 360° ao som de rock anos 80!' },
+        { x: 21.0, y: 74.0, time: '11h45–12h20', name: 'Journey of Water (Moana)', height: 'Família Toda (Livre)', wait: 'Passeio', stroller: 'Você pode empurrar o BOB Duallie por todo o jardim interativo.', tip: 'Fontes e cortinas d’água que se abrem e dançam quando as crianças acenam com as mãos!' },
+        { x: 10.5, y: 10.0, time: '12h30–13h50', name: 'Almoço: Via Napoli (Itália)', height: 'Família Toda', wait: 'Reserva/Mesa', stroller: 'Estacionamento lateral na praça do pavilhão da Itália.', tip: 'Pizzas napolitanas gigantes assadas em fornos a lenha — perfeita para dividir em família!' },
+        { x: 17.5, y: 7.0, time: '14h05–14h40', name: 'DuckTales Adventure (App Países)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Sem fila', stroller: 'Passeio livre com o carrinho pelo México, Alemanha e Reino Unido.', tip: '💎 No app Play Disney Parks, as crianças apertam botões e fazem cenários reais se mexerem!' },
+        { x: 29.0, y: 14.0, time: '14h45–15h45', name: 'Remy’s Ratatouille Adventure', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'LL / ~30m', stroller: 'Stroller Parking grande antes do arco da rua de Paris.', tip: 'Carrinho sem trilhos correndo como ratinho pela cozinha 3D do chef Gusteau!' },
+        { x: 5.5, y: 44.5, time: '16h00–16h50', name: 'Frozen Ever After (Noruega)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'LL / ~35m', stroller: 'Estacionamento em frente à igreja de madeira da Noruega.', tip: 'Passeio de barco por Arendelle com Elsa, Anna e Olaf cantando Let It Go!' },
+        { x: 17.5, y: 27.5, time: '19h45–21h30', name: 'Show Noturno Luminous (21h00)', height: 'Família Toda', wait: 'Show 21h00', stroller: 'Estacione o carrinho na grade perto do Canadá/México com vista livre.', tip: 'Fogos, lasers e fontes coreografadas na lagoa central encerrando a volta ao mundo!' }
+      ]
+    },
+    hollywood: {
+      img: 'maps/hollywood_studios_flow.jpg',
+      alt: 'Mapa Focado Hollywood Studios',
+      title: 'Rota Hollywood Studios (Toy Story ➔ Batuu ➔ Fantasmic!)',
+      steps: [
+        { x: 21.0, y: 22.0, time: '08h30–09h15', name: 'Slinky Dog Dash (Toy Story Land)', height: 'Miguel ✅ / Isabela ✅ (97cm)', wait: '~25 min', stroller: 'Stroller Parking amplo no corredor de entrada de Toy Story Land.', tip: 'Montanha-russa suave do cachorrinho de mola ao ar livre — ideal logo na abertura!' },
+        { x: 20.5, y: 28.0, time: '09h20–10h05', name: 'Toy Story Mania! (Competição 4D)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~20 min', stroller: 'Mesmo estacionamento de Toy Story Land.', tip: '💎 Competição 4D da família inteira atirando tortas e dardos virtuais — super divertido!' },
+        { x: 23.0, y: 61.0, time: '10h45–11h25', name: 'Disney Junior Play and Dance!', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show 20m', stroller: 'Estacionamento em frente ao Animation Courtyard.', tip: '💎 Destaque Isabela: salão climatizado e acarpetado com Mickey, Doutora Brinquedos e bolhas!' },
+        { x: 8.5, y: 38.5, time: '11h40–12h20', name: 'Star Wars: Rise of the Resistance', height: 'Miguel ✅ / Isabela ✅ (102cm)', wait: 'LL / ~35m', stroller: 'Stroller Parking na entrada das cavernas de Batuu.', tip: 'A atração mais imersiva da história! Batalha real contra Kylo Ren e stormtroopers.' },
+        { x: 9.0, y: 11.0, time: '12h25–13h00', name: 'Millennium Falcon: Smugglers Run', height: 'Miguel ✅ / Isabela ✅ (97cm)', wait: '~20 min', stroller: 'Estacionamento logo abaixo da nave gigante em tamanho real.', tip: 'Peça ao funcionário para o Miguel ir como PILOTO na cabine da nave de Han Solo!' },
+        { x: 12.5, y: 58.0, time: '14h30–15h20', name: 'Frozen Sing-Along (Com Neve Real)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Show 30m', stroller: 'Estacionamento em Echo Lake em frente ao Hyperion Theater.', tip: 'Comédia musical deliciosa onde cai NEVE DE VERDADE do teto sobre a plateia no final!' },
+        { x: 17.5, y: 54.0, time: '15h40–16h25', name: 'Mickey & Minnie’s Runaway Railway', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~25 min', stroller: 'Stroller Parking em frente ao Teatro Chinês central.', tip: 'Você entra literalmente dentro de um desenho animado colorido e sem trilhos!' },
+        { x: 32.5, y: 92.0, time: '19h30–20h45', name: 'Espetáculo Fantasmic! (20h00)', height: 'Família Toda', wait: 'Anfiteatro', stroller: 'Estacionamento gigante de carrinhos na entrada da Sunset Boulevard.', tip: 'Chegue 30 min antes. Mickey Feiticeiro combate vilões com dragão, água, barcos e fogos!' }
+      ]
+    },
+    seaworld: {
+      img: 'maps/seaworld_park_map_2026.jpg',
+      alt: 'Mapa Focado SeaWorld Orlando',
+      title: 'Rota Leve SeaWorld (Vila Sésamo ➔ Golfinhos ➔ Tubarões ➔ Orcas)',
+      steps: [
+        { x: 47.0, y: 81.5, time: '09h00–09h15', name: 'Entrada do SeaWorld', height: 'Família Toda', wait: 'Catraca PDF', stroller: 'Leitura direta do código de barras do PDF na entrada.', tip: 'Sem pressa! Dia super leve baseado em shows sentados.' },
+        { x: 80.0, y: 31.0, time: '09h25–10h40', name: 'Sesame Street Land', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10 min', stroller: 'Você anda com o carrinho por toda a rua colorida da Vila Sésamo.', tip: 'Casinha do Come-Come, campainhas falantes, parada infantil e brinquedos suaves!' },
+        { x: 18.0, y: 61.5, time: '11h00–11h45', name: 'Show: Dolphin Adventures', height: 'Família Toda (Sentados)', wait: 'Estádio', stroller: 'Stroller Parking amplo no acesso ao Dolphin Stadium.', tip: 'Chegue 15 min antes para pegar sombra e ver os saltos acrobáticos dos golfinhos.' },
+        { x: 42.5, y: 34.0, time: '12h00–13h30', name: 'Almoço: Sharks Underwater Grill', height: 'Família Toda', wait: 'Mesa VIP', stroller: 'Estacionamento na entrada do Shark Encounter.', tip: 'Almoço inesquecível ao lado do aquário gigante onde tubarões nadam ao lado da mesa!' },
+        { x: 22.0, y: 81.0, time: '13h45–14h30', name: 'Stingray Lagoon (Tocar Arraias)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Sem fila', stroller: 'Piscinas baixas acessíveis bem perto do carrinho.', tip: '💎 Crianças tocam a pele aveludada das arraias mansas na piscina e podem alimentá-las!' },
+        { x: 65.5, y: 38.0, time: '15h00–15h45', name: 'Show: Orca Encounter', height: 'Família Toda (Sentados)', wait: 'Estádio', stroller: 'Estacionamento ao redor da entrada do Orca Stadium.', tip: 'Sente acima da linha azul (Soak Zone) para não molhar as crianças no vento de dezembro!' },
+        { x: 27.5, y: 45.0, time: '16h00–17h15', name: 'Antarctica (Pinguins) & Belugas', height: 'Família Toda (Livre)', wait: '~10 min', stroller: 'Estacionamento em frente à fachada gelada de Antártica.', tip: 'Centenas de pinguins reais nadando e caminhando bem na frente dos vidros.' },
+        { x: 53.0, y: 54.0, time: '17h45–19h00', name: 'Natal: Patinação & Fogos no Lago', height: 'Família Toda', wait: 'Show Natal', stroller: 'Vista limpa à beira do lago central.', tip: 'Show de patinação no gelo Winter Wonderland + fogos Holiday Reflections refletidos na água!' }
+      ]
+    },
+    buschgardens: {
+      img: 'maps/busch_gardens_park_map.jpg',
+      alt: 'Mapa Focado Busch Gardens Tampa',
+      title: 'Rota Busch Gardens (Trem Safári ➔ Vila Sésamo ➔ Adrenalina)',
+      steps: [
+        { x: 51.0, y: 91.0, time: '09h15–09h25', name: 'Entrada pelo Portal Marrocos', height: 'Família Toda', wait: 'Catraca PDF', stroller: 'Leitura direta do PDF na catraca; passeio plano na entrada.', tip: 'Chegando de SUV da I-4 (~1h15 de Orlando).' },
+        { x: 42.0, y: 58.5, time: '09h40–10h45', name: 'Serengeti Express Train (Safári)', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10 min', stroller: 'Estação Nairobi: é possível dobrar e levar o carrinho ou deixar na estação.', tip: '💎 Destaque: trem aberto que cruza a savana africana com girafas e zebras bem perto!' },
+        { x: 11.5, y: 74.0, time: '11h00–12h20', name: 'Sesame Street Safari of Fun', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: '~10 min', stroller: 'Circulação super fácil por toda a área infantil.', tip: 'Montanha-russa infantil Air Grover e parquinho colorido para Miguel e Isabela.' },
+        { x: 18.0, y: 48.0, time: '12h30–13h40', name: 'Almoço: Zambia Smokehouse', height: 'Família Toda', wait: 'Balcão', stroller: 'Mesinhas externas espaçosas logo ao lado do restaurante.', tip: 'Costelas defumadas e frango com vista para a queda da montanha-russa SheiKra!' },
+        { x: 38.0, y: 66.0, time: '13h45–15h15', name: 'Animal Care Center & Cangurus', height: 'Miguel ✅ / Isabela ✅ (Livre)', wait: 'Sem fila', stroller: 'Acesso plano em Nairobi e Walkabout Way.', tip: 'Veterinários reais tratando animais através de vitrines + caminhada perto dos cangurus.' },
+        { x: 28.5, y: 74.0, time: '15h25–16h00', name: 'Iron Gwazi (Marcelo)', height: 'Marcelo ✅ / Crianças ❌ (122cm)', wait: 'Single / Rápida', stroller: 'Thalita e crianças descansam no jardim de Marrocos tomando sorvete.', tip: 'A montanha-russa híbrida mais alta e veloz da América do Norte (91° de queda!).' },
+        { x: 17.5, y: 56.0, time: '16h05–16h45', name: 'SheiKra (Marcelo) & Retorno 17h', height: 'Marcelo ✅ / Crianças ❌ (137cm)', wait: 'Single / Rápida', stroller: 'Reencontro em Stanleyville para saída tranquila antes da noite.', tip: 'Queda vertical de 60m a 90 graus! Às 17h00 embarque no SUV para as crianças dormirem no trajeto.' }
+      ]
+    }
+  };
+
+  const activeMapIndex = {};
+
+  function renderFocusedMap(parkId, stepIdx) {
+    const data = PARK_FLOW_MAPS[parkId];
+    if (!data) return;
+    if (stepIdx === undefined) stepIdx = 0;
+    if (stepIdx < 0) stepIdx = 0;
+    if (stepIdx >= data.steps.length) stepIdx = data.steps.length - 1;
+    activeMapIndex[parkId] = stepIdx;
+
+    const container = document.getElementById('focused-map-' + parkId);
+    if (!container) return;
+
+    const step = data.steps[stepIdx];
+    const pointsStr = data.steps.map(s => `${s.x},${s.y}`).join(' ');
+
+    const pinsHtml = data.steps.map((s, idx) => `
+      <button class="map-pin-btn ${idx === stepIdx ? 'active' : ''}"
+              style="left: ${s.x}%; top: ${s.y}%;"
+              onclick="renderFocusedMap('${parkId}', ${idx})"
+              title="${idx + 1}. ${s.name}">
+        ${idx + 1}
+      </button>
+    `).join('');
+
+    const pillsHtml = data.steps.map((s, idx) => `
+      <button class="map-pill-btn ${idx === stepIdx ? 'active' : ''}"
+              onclick="renderFocusedMap('${parkId}', ${idx})">
+        ${idx + 1}
+      </button>
+    `).join('');
+
+    const isHidden = container.getAttribute('data-pins-hidden') === 'true';
+
+    container.innerHTML = `
+      <div class="focused-map-topbar">
+        <div class="focused-map-title">📍 ${data.title}</div>
+        <button class="map-toggle-btn" onclick="toggleMapPins('${parkId}')">
+          ${isHidden ? '📍 Mostrar Rota & Bolinhas' : '🔍 Ver Mapa Limpo'}
+        </button>
+      </div>
+      <div class="focused-map-viewport">
+        <div class="focused-map-stage ${isHidden ? 'pins-hidden' : ''}">
+          <img src="${data.img}" alt="${data.alt}" loading="lazy">
+          <svg class="focused-map-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <polyline points="${pointsStr}" fill="none" stroke="rgba(15, 23, 42, 0.85)" stroke-width="0.95" stroke-linecap="round" stroke-linejoin="round" />
+            <polyline points="${pointsStr}" fill="none" stroke="#38bdf8" stroke-width="0.55" stroke-dasharray="1.6 1.2" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+          <div class="focused-map-pins">${pinsHtml}</div>
+        </div>
+      </div>
+      <div class="map-step-strip">${pillsHtml}</div>
+      <div class="map-detail-card">
+        <div class="map-detail-header">
+          <div>
+            <div class="map-detail-badge">Parada ${stepIdx + 1} de ${data.steps.length} • ⏰ ${step.time}</div>
+            <div class="map-detail-name">${stepIdx + 1}. ${step.name}</div>
+          </div>
+          <span class="tag tag-blue" style="white-space:nowrap;">⏱️ ${step.wait}</span>
+        </div>
+        <div class="map-detail-grid">
+          <div class="map-info-pill">
+            <strong>👦👧 Altura &amp; Perfil</strong>
+            ${step.height}
+          </div>
+          <div class="map-info-pill">
+            <strong>👶 Carrinho BOB Duallie</strong>
+            ${step.stroller}
+          </div>
+        </div>
+        <div class="map-detail-tip">💡 <strong>Dica Prática:</strong> ${step.tip}</div>
+        <div class="map-nav-controls">
+          <button class="map-nav-btn" onclick="renderFocusedMap('${parkId}', ${stepIdx - 1})" ${stepIdx === 0 ? 'style="opacity:0.4;pointer-events:none;"' : ''}>⬅️ Anterior</button>
+          <button class="map-nav-btn" onclick="renderFocusedMap('${parkId}', ${stepIdx + 1})" ${stepIdx === data.steps.length - 1 ? 'style="opacity:0.4;pointer-events:none;"' : ''}>Próxima Parada ➡️</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function toggleMapPins(parkId) {
+    const container = document.getElementById('focused-map-' + parkId);
+    if (!container) return;
+    const currentlyHidden = container.getAttribute('data-pins-hidden') === 'true';
+    container.setAttribute('data-pins-hidden', (!currentlyHidden).toString());
+    renderFocusedMap(parkId, activeMapIndex[parkId] || 0);
+  }
+
+  function initAllFocusedMaps() {
+    Object.keys(PARK_FLOW_MAPS).forEach(parkId => {
+      renderFocusedMap(parkId, 0);
+    });
+  }
+
+  initAllFocusedMaps();
+</script>
 </body>
 </html>

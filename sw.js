@@ -1,4 +1,4 @@
-const CACHE_NAME = 'orlando-2026-v15';
+const CACHE_NAME = 'orlando-2026-v16';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -10,7 +10,8 @@ const ASSETS_TO_CACHE = [
   './maps/animal_kingdom_flow.jpg',
   './maps/hollywood_studios_flow.jpg',
   './maps/epcot_park_flow.jpg',
-  './maps/seaworld_park_flow.jpg'
+  './maps/seaworld_park_map_2026.jpg',
+  './maps/busch_gardens_park_map.jpg'
 ];
 
 // Instalação do Service Worker e gravação do Cache
