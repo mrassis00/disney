@@ -81,7 +81,7 @@
   * Adquirir 4 Apple AirTags + 2 pares de palmilhas com compartimento oculto + pulseiras reforçadas com trava inviolável.  
   * Configurar Compartilhamento Familiar no iPhone (Marcelo e Thalita) com alertas de distanciamento.  
   * Praticar com Miguel (7a) e Isabela (5a) a regra da árvore ("freeze"), quem são os 2 heróis (crachá oficial e mães com carrinho) e a foto matinal diária com a roupa do dia.
-* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 11/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
+* [ ] ⚡ **Agendamento de Filas (Lightning Lane):** 13/12/2026 às 07h00 pelo app My Disney Experience (3 dias antes do primeiro parque).
 
 ---
 
@@ -335,37 +335,43 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
   * ⚠️ **Atenção ao Clima de Dezembro:** As atrações *Dudley Do-Right* e *Popeye* encharcam completamente; pular para manter as crianças sequinhas e protegidas do vento.
 * **Mapa Mestre Operacional GPS:**
 ![Mapa Mestre Operacional GPS - Universal 2 em 1 (Circuito Anti-Ziguezague)](maps/universal_twopark_flow.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h15 às 19h00):**
-  1. **08h15:** Chegada pelo CityWalk. Entrada na **Universal Studios Florida**.
-  2. **08h30 - 10h00 (Universal Studios — Minions & Transformers):**
-     * 08h35: Simulador 3D **Despicable Me: Minion Mayhem** (fila matinal: 10 min).
-     * 09h05: Jogo interativo **Villain-Con Minion Blast**.
-     * 09h30: 🤖 **Transformers: The Ride 3D:** Batalha de robôs gigantes em 3D realista (Miguel e Isabela adoram ver o Optimus Prime e Bumblebee!).
-  3. **10h10 - 11h15 (Universal Studios — DreamWorks Land & E.T.):**
-     * 10h15: 🐱 **Encontro com a Gabby (A Casa Mágica da Gabby):** Abraços e fotos para a Isabela.
-     * 10h35: Montanha-russa infantil **Trolls Trollercoaster**.
-     * 10h50: 🚲 **E.T. Adventure:** Voo suave de bicicleta nas estrelas para toda a família (o E.T. fala o nome das crianças no final!).
-  4. **11h20 - 12h00 (Universal Studios — Diagon Alley):**
-     * 11h25: Beco Diagonal, dragão de Gringotts cuspindo fogo real e provar a **Cerveja Amanteigada (Butterbeer)** na versão Frozen.
-  5. **12h05 - 12h45 (Conexão Mágica no Hogwarts Express):**
-     * Embarque na estação de *King’s Cross* na Plataforma 9 ¾ rumo ao *Islands of Adventure* (descanso físico e atração com efeitos na janela da cabine).
-  6. **12h50 - 13h45 (Almoço Medieval no Hogsmeade):**
-     * Almoço climatizado no **Three Broomsticks (Três Vassouras):** Costelinhas assadas (*Ribs*), frango defumado, milho e batatas rústicas.
-  7. **14h00 - 15h30 (Islands — Jurassic Park do Miguel & VelociCoaster):**
-     * 14h05: **Jurassic Park Discovery Center:** Ver o nascimento de velociraptor na incubadora e réplicas de T-Rex.
-     * 14h35: **Camp Jurassic:** Pontes suspensas, labirintos e cavernas.
-     * 15h05: 🎢 *Momento Marcelo:* **VelociCoaster** via Single Rider (12 min) enquanto Thalita e as crianças compram sorvete.
-     * 15h25: **Flight of the Hippogriff:** Montanha-russa do Hipogrifo (Marcelo, Isabela e Miguel juntos!).
-  8. **15h45 - 17h15 (Islands — Seuss Landing & Trem nas Alturas):**
-     * 15h50: **The High in the Sky Seuss Trolley Train Ride:** Trenzinho panorâmico suspenso sobrevoando a vila colorida.
-     * 16h20: Passeio no carrinho do **The Cat in the Hat** e carrossel **Caro-Seuss-el**.
-  9. **17h30 - 19h00 (Islands — Marvel Super Hero Island / Homem-Aranha & Hulk):**
-     * 17h35: 🕷️ **The Amazing Adventures of Spider-Man:** Simulador 3D histórico (Miguel, Isabela, Thalita e Marcelo juntos com o Homem-Aranha saltando no capô do carro!).
-     * 18h20: ⚡ *Momento Radical Marcelo:* **The Incredible Hulk Coaster** (Marcelo entra na fila Single Rider e é disparado no canhão verde em 12 minutos!).
-     * 18h45: Fotos de despedida sob a iluminação noturna dos lagos do Islands.
-  10. **19h15 - 21h00 (Grande Jantar Familiar no Universal CityWalk):**
-     * Jantar no espetacular **The Toothsome Chocolate Emporium & Savory Feast Kitchen:** Restaurante temático estilo fábrica de chocolate steampunk, com carnes nobres, massas artesanais, hambúrgueres gourmet e sobremesas com milkshakes gigantes com pedaços de bolo inteiros no topo!
-* **O que FUNCIONA vs O que NÃO FUNCIONA na Universal 2 em 1:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h15 às 21h00):**
+  1. **08h15 — Chegada & Estacionamento:** Chegada pelo CityWalk e entrada na **Universal Studios Florida**.
+  2. **08h30 - 09h15 (Universal Studios — Minion Land):**
+     * 08h35: Simulador 3D **Despicable Me: Minion Mayhem** (fila matinal suave de ~10 a 15 min).
+     * 09h05: Fotos com os Minions no saída temática. *(Dica: Pule o Villain-Con se a fila estiver grande, pois o blaster é pesado para a Isabela).*
+  3. **09h15 - 09h55 (Universal Studios — Transformers 3D):**
+     * 09h20: 🤖 **Transformers: The Ride 3D:** Batalha de robôs gigantes (102 cm — **Miguel e Isabela vibram juntos com o Optimus Prime e Bumblebee!**).
+  4. **10h00 - 10h40 (Universal Studios — DreamWorks Land da Isabela):**
+     * 10h05: 🐱 **A Casa Mágica da Gabby (Meet Gabby):** Encontro presencial com a Gabby, abraços, fotos e lojinha temática!
+     * 10h25: Montanha-russa infantil **Trolls Trollercoaster** (suave, colorida e ideal para perder o medo).
+  5. **10h40 - 11h20 (Universal Studios — Bichinhos & Voo do E.T.):**
+     * 10h45: 🐾 **Animal Actors on Location!:** Show ao vivo sentado na sombra com cães, gatos e aves treinadas de cinema (momento super fofo e relaxante).
+     * 11h05: 🚲 **E.T. Adventure:** Voo suave de bicicleta sobre as estrelas e floresta aromática (o E.T. fala o nome das crianças no final!).
+  6. **11h25 - 12h10 (Universal Studios — Beco Diagonal / Harry Potter):**
+     * 11h30: Entrada pelo muro de tijolos no **Diagon Alley**. Ver o dragão gigante em cima de Gringotts soltando **fogo de verdade**.
+     * 11h50: Provar a famosa **Cerveja Amanteigada (Butterbeer)** na versão *Frozen* (refrescante, doce e sem álcool).
+  7. **12h15 - 12h50 (Conexão Mágica no Hogwarts Express):**
+     * Embarque na estação de *King’s Cross* na Plataforma 9 ¾ rumo ao *Islands of Adventure* (descanso físico no ar-condicionado enquanto as cabines mostram efeitos na janela).
+  8. **12h55 - 13h50 (Almoço Medieval em Hogsmeade):**
+     * Almoço no **Three Broomsticks (Três Vassouras):** Costelinhas assadas (*Ribs*), frango defumado, milho na espiga e batatas rústicas.
+  9. **13h55 - 15h15 (Islands — Jurassic Park & Dinossauros do Miguel):**
+     * 14h00: 🦖 **Raptor Encounter (DESTAQUE!):** Encontro cara a cara com a **Velociraptor Blue animatrônica**. Foto imperdível com o Miguel face a face com o dinossauro!
+     * 14h20: **Jurassic Park Discovery Center:** Laboratório interativo com incubadora e réplicas de fósseis de T-Rex.
+     * 14h40: **Camp Jurassic:** Labirinto de pontes de corda e cavernas pré-históricas.
+     * 14h55: 🎢 *Momento Marcelo:* **VelociCoaster** via Single Rider (12 min) enquanto Thalita e crianças tomam sorvete.
+     * 15h10: **Flight of the Hippogriff:** Montanha-russa familiar do Hipogrifo ao lado da cabana do Hagrid (a família toda junta!).
+  10. **15h20 - 16h35 (Islands — Seuss Landing & Encantamento Infantil):**
+     * 15h25: **The High in the Sky Seuss Trolley Train Ride:** Trenzinho suspenso panorâmico sobrevoando a vila colorida.
+     * 15h55: **One Fish, Two Fish, Red Fish, Blue Fish:** Brinquedo aéreo onde as crianças controlam a altura para desviar de esguichos d'água suaves.
+     * 16h15: Carrossel temático **Caro-Seuss-el** e carrinho do **The Cat in the Hat**.
+  11. **16h45 - 18h30 (Islands — Marvel Super Hero Island / Homem-Aranha & Hulk):**
+     * 16h50: 🕷️ **The Amazing Adventures of Spider-Man:** Simulador 3D premiado (Miguel, Isabela, Thalita e Marcelo juntos com o Homem-Aranha no capô do carro!).
+     * 17h40: ⚡ *Momento Radical Marcelo:* **The Incredible Hulk Coaster** (Marcelo entra na fila Single Rider e é disparado a 65 km/h em 2 segundos).
+     * 18h15: Fotos de despedida com o parque iluminado refletindo no lago.
+  12. **18h45 - 21h00 (Grande Jantar Familiar no Universal CityWalk):**
+     * Jantar no espetacular **The Toothsome Chocolate Emporium & Savory Feast Kitchen:** Fábrica de chocolate steampunk, hambúrgueres gourmet, carnes nobres e os famosos milkshakes monumentais servidos com fatias de bolo inteiras no topo!
+*  na Universal 2 em 1:**
   * 🟢 **FUNCIONA:** Fazer os dois parques num dia só na segunda 14/12 (dia 4/10!); usar o Hogwarts Express para descansar; Marcelo aproveitar Single Rider no Hulk e VelociCoaster; jantar com calma no CityWalk.
   * 🔴 **NÃO FUNCIONA:** Comprar Express Pass (desperdício de US$ 800 num dia vazio); se molhar nos botes no frio; sair do parque no meio da tarde sem ver o Spider-Man e o CityWalk iluminado.
 * **Probabilidade de Sucesso:** **🟢 98,4%**.
@@ -383,78 +389,35 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
   * 🔴 **Tom Sawyer Island & Rivers of America:** Área fechada para as obras monumentais de expansão de *Cars / Piston Peak*.
 * **Mapa Mestre Operacional GPS:**
 ![Mapa Mestre Operacional GPS - Magic Kingdom (Circuito Anti-Ziguezague)](maps/magic_kingdom_master_map.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (Apenas 3,9 km de caminhada):**
-  1. **07h45:** Chegada ao TTC. Pegar o **Monorail Express** (vista panorâmica deslumbrante do Castelo sobre a lagoa).
-  2. **08h30 - 10h15 (Fantasyland):** 
-     * 08h35: **Seven Dwarfs Mine Train** (Fila comum da abertura: 15–20 min).
-     * 09h05: **Peter Pan’s Flight** (LIGHTNING LANE — Entrada direta sem fila!). *Ao bipar, o app já libera agendar a próxima atração para a tarde!*
-     * 09h40: **Under the Sea (Pequena Sereia)** (passeio na concha no ar-condicionado).
-     * 10h00: 🎪 *Parada Infantil 1:* **Dumbo Circus Tent Playground** (parquinho coberto e climatizado para as crianças correrem livres enquanto os pais descansam).
-  3. **10h30 - 11h45 (Tomorrowland):**
-     * 10h40: **Buzz Lightyear’s Space Ranger Spin** (LIGHTNING LANE — pistolas novas sem fio e tela de pontuação!).
-     * 11h15: **Tomorrowland Speedway** (LIGHTNING LANE — Miguel pilota o carro de verdade na pista!).
-     * 11h35: 🚀 *Parada Infantil 2:* **Tomorrowland PeopleMover** (passeio elevado de 10 min na brisa fresca e na sombra, zero filas).
-  4. **11h50 - 13h15 (Almoço & Hub Central):**
-     * 11h50: Almoço no **Columbia Harbour House** (Pedido antecipado no app; subir para o 2º andar vazio, calmo e fresco).
-     * 12h45: **Mickey’s PhilharMagic** (Cinema 3D orquestrado com cheiro de torta no ar — digestão perfeita).
-     * 13h15: 👑 *Parada Infantil 3:* **Plaza Gardens** (Gramado verde do Castelo: tirar os sapatos, sentar na grama sintética e tomar picolé do Mickey sem carrinho).
-  5. **13h30 - 15h15 (Frontierland & Desfile):**
-     * 13h40: **Country Bear Musical Jamboree** (Show animado dos ursos cantores em teatro climatizado).
-     * 14h15: **Festival of Fantasy Parade** (Assistir ao desfile na sombra da saída de Frontierland).
-     * 14h50: **Big Thunder Mountain** (LIGHTNING LANE — trilhos novos e suaves para Marcelo e Isabela).
-  6. **15h30 - 17h30 (Adventureland & O Momento do Papai):**
-     * 15h40: **Pirates of the Caribbean** (LIGHTNING LANE — barco refrescante no escuro com Jack Sparrow).
-     * 16h30: 👗 *Momento Isabela:* **Princess Fairytale Hall** (Abraços, fotos e autógrafos com Cinderela e princesas).
-     * 16h45: 🏍️ *Momento Papai Marcelo:* **TRON Lightcycle / Run** (Single Pass das 16h45 — moto a 100 km/h sem atrasar a família!).
-     * 17h15: 🍍 *Parada Infantil 4:* **Aloha Isle** (Sorvete Dole Whip de abacaxi e tambores tribais na rua).
-  7. **18h00 - 20h45 (Noite Mágica: Jantar, Parada Iluminada & Fogos):**
-     * 18h15: Jantar no **Casey's Corner** (Hot dogs tradicionais e batatas fritas na Main Street).
-     * 18h45: Cobrir Miguel e Isabela com as mantinhas do Walmart guardadas na cesta do carrinho (proteção contra o vento frio da noite).
-     * 19h15: Estacionar o carrinho duplo na Main Street próximo ao canteiro do Plaza Garden.
-     * 19h45: ✨ **DISNEY STARLIGHT PARADE** (O novo e monumental desfile noturno de carros de LED!).
-     * 20h20: 🎆 **HAPPILY EVER AFTER** (O lendário show de projeções e fogos de artifício no Castelo!).
-     * 20h50: 🚢 **Saída de Mestre no FERRY BOAT** (Entrar no grande navio de 600 lugares com as crianças dormindo no carrinho aberto, cruzando a lagoa sob as estrelas sem pegar o funil do Monorail!).
-* **Probabilidade de Sucesso:** **🟢 99,2%**.
-
----
-
-### 🪐 PARQUE 3: Universal’s Epic Universe (Quinta, 17/12 — O CIRCUITO DOS 5 PORTAIS)
-* **Por que neste dia?** Quinta-feira da Semana 1 pré-pico de Natal (🟢 **5/10**), ainda mais vazia que a sexta-feira e perfeitamente dentro da janela de 4 dias do ingresso Universal (14/12 a 17/12), deixando a sexta-feira livre para compras e descanso antes do Animal Kingdom!
-* **Horário de Funcionamento:** Das **09h00 às 21h00** (parque aberto à noite com show de iluminação nas fontes!).
-* **Status Operacional 2026 (Os 5 Mundos Interligados):**
-  * 🟢 **Celestial Park (Hub Central):** Fontes dançantes *Astronomica*, carrossel astronômico *Constellation Carousel* e montanha-russa de duelo estelar *Stardust Racers* (com show de LEDs nos trens à noite).
-  * 🟢 **Super Nintendo World:** 100% operacional com *Mario Kart: Bowser’s Challenge* (óculos de realidade aumentada nos karts), *Yoshi’s Adventure*, *Toadstool Cafe* e a novíssima montanha-russa **Donkey Kong Country: Mine-Cart Madness** (carrinhos que simulam saltar sobre trilhos rompidos!).
-  * 🟢 **How to Train Your Dragon – Isle of Berk:** Vila viking com navios, montanha-russa familiar *Hiccup’s Wing Gliders*, simulador de voo acrobático *Dragon Racer's Rally*, batalha de barcos com canhões de água *Fyre Drill* e o gigantesco espetáculo broadway **The Untrainable Dragon**.
-  * 🟢 **The Wizarding World of Harry Potter – Ministry of Magic:** A Paris mágica dos anos 1920 e o elevador do Ministério da Magia Britânico na atração revolucionária *Harry Potter and the Battle at the Ministry*, além do show teatral acrobático **Le Cirque Arcanus**.
-  * 🟢 **Dark Universe:** Mansão dos monstros clássicos com *Monsters Unchained: The Frankenstein Experiment* e montanha-russa giratória *Curse of the Werewolf*.
-* **Mapa Mestre Operacional GPS:**
-![Mapa Mestre Operacional GPS - Epic Universe (Circuito dos 5 Portais)](maps/epic_universe_flow.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (Sentido Horário Inteligente):**
-  1. **08h15:** Chegada ao moderno complexo do Epic Universe. Segurança rápida com biometria facial.
-  2. **08h30 - 11h00 (Portal 1 — Super Nintendo World / O Reino das Crianças):**
-     * 08h40: Entrada pelo Portal Verde. Ativação das pulseiras *Power-Up Bands* para Miguel e Isabela coletarem moedas nos blocos com som oficial do jogo!
-     * 09h00: **Mario Kart: Bowser’s Challenge:** Toda a família junta nos karts disparando cascos virtuais.
-     * 09h50: **Donkey Kong Country: Mine-Cart Madness:** A montanha-russa do carrinho de mina que pula trilhos (Miguel vai pirar!).
-     * 10h30: **Yoshi’s Adventure:** Passeio elevado e colorido sobrevoando o vilarejo dos cogumelos com vista panorâmica.
-     * 10h50: 🍄 *Parada Infantil 1:* Lanche leve no **Toadstool Cafe** com hambúrguer do Mario e fotos com Mario, Luigi e Peach.
-  3. **11h15 - 12h15 (Portal 2 — Dark Universe / Curiosidades):**
-     * 11h20: Montanha-russa familiar do Lobisomem **Curse of the Werewolf** (Isabela e Marcelo).
-     * 11h45: Marcelo na atração radical **Monsters Unchained** (Frankenstein animatrônico gigante) via Single Rider (15 min).
-  4. **12h25 - 14h00 (Portal 3 — Isle of Berk / Almoço Viking & Dragões):**
-     * 12h25: Almoço no **Mead Hall:** Salão imenso dos vikings com carnes nobres assadas na brasa, linguiças artesanais e opções infantis completas.
-     * 13h15: 🎭 **Espetáculo The Untrainable Dragon:** Dragões em tamanho real voando sobre o público em um teatro super climatizado. Um dos momentos mais emocionantes de toda a viagem para Thalita e as crianças!
-  5. **14h10 - 15h15 (Portal 3 — Aventuras Vikings na Água e no Ar):**
-     * 14h15: **Hiccup’s Wing Gliders:** Montanha-russa familiar que sobrevoa as águas da lagoa viking (sensação mágica de voar com o Banguela!).
-     * 14h45: 🐉 *Parada Infantil 2:* Batalha naval suave em *Fyre Drill* disparando água em alvos interativos / Marcelo testa o voo acrobático do *Dragon Racer's Rally*.
-  6. **15h30 - 17h00 (Portal 4 — Ministry of Magic / O Mundo Bruxo):**
-     * 15h35: Explorar as ruas charmosas de Paris mágica e assistir ao show de criaturas fantásticas **Le Cirque Arcanus**.
-     * 16h20: Atração de ponta **Harry Potter and the Battle at the Ministry** (para Marcelo e quem mais quiser encarar o elevador mágico omnidirecional).
-  7. **17h30 - 19h30 (Portal 5 — Celestial Park / O Grande Encerramento Iluminado):**
-     * 17h45: 🎢 *Momento Papai Marcelo:* Montanha-russa de duelo duplo **Stardust Racers** (adrenalina com lançamentos a 100 km/h sem loops invertidos).
-     * 18h30: Passeio em família no belíssimo carrossel das estrelas **Constellation Carousel**.
-     * 19h00: ✨ **Show Noturno de Luzes e Fontes:** Toda a água do Celestial Park dança com projeções de estrelas, música orquestrada e os trilhos do Stardust Racers cortando o céu com feixes de LED azul e dourado!
-     * 19h30: Saída suave sem pressa, contemplando o parque iluminado.
-* **O que FUNCIONA vs O que NÃO FUNCIONA no Epic Universe:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h15 às 20h45):**
+  1. **08h15 — Chegada pelo TTC:** Estacionamento no TTC, travessia cênica de Ferryboat ou Monorail cruzando a Seven Seas Lagoon com vista para o Castelo da Cinderela.
+  2. **08h45 — Rope Drop & Main Street:** Fotos clássicas da família com o Castelo iluminado pelo sol da manhã.
+  3. **09h00 - 10h15 (Fantasyland Clássica):**
+     * 09h05: **Peter Pan’s Flight** (voo suave no navio voador sobre Londres iluminada).
+     * 09h40: **Seven Dwarfs Mine Train:** Montanha-russa dos Sete Anões com carrinhos que balançam e a mina cheia de joias cintilantes.
+  4. **10h20 - 11h15 (Princesas da Isabela):**
+     * 10h25: 👑 **Princess Fairytale Hall:** Encontro com Cinderela, Rapunzel, Tiana e Elena de Avalor (abraços, autógrafos e fotos emocionantes para a Isabela!).
+     * 11h00: **Prince Charming Regal Carrousel:** Passeio clássico de carrossel no coração da Fantasyland.
+  5. **11h20 - 12h15 (Contos com a Bela - DESTAQUE!):**
+     * 11h25: 📖 **Enchanted Tales with Belle:** Travessia pelo espelho mágico até a biblioteca da Fera. A Isabela encena a história junto com a Bela de verdade e ganha um marcador de página de lembrança!
+  6. **12h20 - 13h25 (Almoço Climatizado):**
+     * Almoço no **Columbia Harbour House** (peixe empanado, frango crocante, saladas e camarões) ou restaurante temático reservado.
+  7. **13h30 - 14h25 (Aventura Marítima & Dumbo):**
+     * 13h35: **Under the Sea ~ Journey of the Little Mermaid:** Carrinho concha pelas canções do fundo do mar com a Ariel e Sebastião.
+     * 14h00: **Dumbo the Flying Elephant:** Voo no elefantinho voador com área recreativa coberta e climatizada enquanto aguarda.
+  8. **14h30 - 15h30 (Desfile Oficial na Main Street):**
+     * 15h00: Assistir ao grandioso **Festival of Fantasy Parade** (carros alegóricos monumentais, princesas, Mickey e o dragão gigante da Malévola soltando labaredas de fogo real!).
+  9. **15h45 - 17h00 (Tomorrowland — Missão Espacial & Descanso Inteligente):**
+     * 15h50: **Buzz Lightyear’s Space Ranger Spin:** Batalha de laser interativa contra o Imperador Zurg (Miguel e Marcelo disputam pontos nos canhões!).
+     * 16h25: 🚀 **Tomorrowland Transit Authority PeopleMover (DESTAQUE!):** O trenzinho suspenso relaxante que sobrevoa toda a área e passa por dentro do TRON e Space Mountain. *Zero fila, vento gostoso e descanso absoluto para as pernas da família!*
+     * *(Nota de especialista: Pular o Tomorrowland Speedway se a fila estiver grande — carros a combustão com cheiro forte e pedal duro para crianças).*
+  10. **17h05 - 18h00 (Momento Radical do Papai Marcelo):**
+     * 17h10: 🏍️ **TRON Lightcycle / Run:** Marcelo acelera a moto luminosa no circuito digital mais futurista da Disney (via Single Pass / Lightning Lane) enquanto Thalita e crianças saboreiam sorvete no Plaza Ice Cream Parlor.
+  11. **18h15 - 19h30 (Jantar & Fotos Noturnas):**
+     * Jantar no **Casey’s Corner** (hot dogs temáticos, batatas e corn dog nuggets) com o pianista tocando ao vivo na calçada da Main Street.
+  12. **19h45 - 20h45 (O Grande Espetáculo Happily Ever After):**
+     * 20h00: O lendário show de projeções 3D no Castelo da Cinderela e queima de fogos de artifício **Happily Ever After**. Encerramento mágico e inesquecível do dia!
+*  no Epic Universe:**
   * 🟢 **FUNCIONA:** Ir direto para o *Super Nintendo World* na abertura matinal (menores filas do dia); almoçar no *Mead Hall* às 12h25; assistir ao espetáculo do *Untrainable Dragon* no ar-condicionado; ficar até o anoitecer para ver as luzes mágicas do Celestial Park.
   * 🔴 **NÃO FUNCIONA:** Deixar o Super Nintendo World para o final da tarde (fica intransitável de tanta gente); tentar cruzar de um portal para o outro sem passar pelo anel central (o desenho é em estrela, cruzar pelo meio é mais rápido).
 * **Probabilidade de Sucesso:** **🟢 96,8%**.
@@ -476,31 +439,27 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
   * 🟡 **Dinoland USA:** Transição para Tropical Americas, mas o parquinho de escavação gigante **The Boneyard** e o *TriceraTop Spin* seguem ativos para o Miguel.
 * **Mapa Mestre Operacional GPS:**
 ![Mapa Mestre Operacional GPS - Animal Kingdom (Circuito da Selva)](maps/animal_kingdom_flow.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h00 às 18h30 — O Dia Completo Recheado):**
-  1. **07h45:** Chegada ao parque sob a brisa fresca matinal. Entrada com vista para a colossal *Tree of Life*. Pegar o livreto do *Wilderness Explorers* para Miguel e Isa.
-  2. **08h00 - 09h15 (África & Safári na Savana):**
-     * 08h10: **Kilimanjaro Safaris:** Caminhão de safári aberto cruzando a savana no momento da alimentação. Leões no topo das rochas, girafas e elefantes!
-     * 08h50: Trilha sombreada dos Gorilas bebês e hipopótamos (*Gorilla Falls*).
-  3. **09h30 - 11h00 (Pandora — O Mundo de Avatar):**
-     * 09h35: **Na'vi River Journey:** Barquinho suave deslizando pela floresta mágica de luzes e sons.
-     * 10h15: 🦅 **Avatar Flight of Passage:** Marcelo e Isabela (115 cm) voam no banshee em 3D hiper-realista! Thalita e Miguel tiram fotos incríveis nas montanhas flutuantes com os tambores de Pandora.
-  4. **11h15 - 12h00 (Festival of the Lion King):**
-     * 11h15: **Festival of the Lion King (África):** Teatro climatizado, acrobatas fantasiados de macacos em trapézios e cantores ao vivo cantando *"Hakuna Matata"*.
-  5. **12h15 - 13h15 (Almoço BBQ do Papai Marcelo):**
-     * Almoço no **Flame Tree Barbecue:** Costelinha defumada suculenta (*St. Louis Ribs*), frango defumado e molhos barbecue especiais.
-     * *Mesa Secreta:* Descer até o deque inferior coberto à beira da lagoa, na sombra das árvores, com vista direta para a montanha do Everest e brisa fresca.
-  6. **13h30 - 14h45 (Ásia — O Musical do Nemo & Montanha do Everest):**
-     * 13h35: 🎭 **Finding Nemo: The Big Blue... and Beyond!:** Teatro climatizado com marionetes marinhas gigantes iluminadas contando a história do Nemo.
-     * 14h15: 🎢 *Momento Marcelo:* **Expedition Everest** via Single Rider (10 min) enfrentando o Yeti na montanha russa!
-     * 14h30: Trilha asiática dos tigres de bengala **Maharajah Jungle Trek**.
-  7. **15h00 - 16h30 (Trenzinho da Bluey & Escavação de Fósseis):**
-     * 15h05: Trenzinho até a *Conservation Station* para a experiência interativa **Bluey & Bingo**.
-     * 15h45: Retorno de trem para Dinoland: Miguel mergulha no **The Boneyard**, escavando ossadas gigantes de T-Rex na areia limpa enquanto os pais descansam com picolés na sombra.
-  8. **17h00 - 18h30 (O Grande Espetáculo Noturno: Árvore da Vida & Pandora Iluminada):**
-     * 17h15: 🌳 **Tree of Life Awakenings:** Assistir às projeções de luzes e cores mágicas no tronco da Árvore da Vida, onde animais entalhados parecem se mover e correr na madeira ao som de trilhas sonoras orquestradas.
-     * 17h45: ✨ **Pandora à Noite:** Caminhada mágica pela floresta de Avatar 100% iluminada com luzes bioluminescentes, plantas fluorescentes e o chão brilhando sob a luz negra. Uma das visões mais surreais da Disney!
-     * 18h30: Saída triunfal e relaxada para um jantar leve e noite revigorante antes do domingo livre!
-* **O que FUNCIONA vs O que NÃO FUNCIONA no Animal Kingdom:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h00 às 16h30):**
+  1. **08h00 — Entrada & Missão Especial para o Miguel:**
+     * 08h05: 🦅 **Wilderness Explorers (DESTAQUE!):** Retirar o livrinho gratuito oficial de escoteiro do Russell (filme Up). O Miguel recebe a missão de visitar os postos pelo parque, aprender curiosidades sobre a fauna e colar distintivos adesivos no livro ao longo do dia!
+  2. **08h20 - 09h40 (África & Safári Matinal dos Animais Ativos):**
+     * 08h30: **Kilimanjaro Safaris:** Expedição em jipe aberto pela savana africana no horário mais fresco, quando leões, girafas, rinocerontes e elefantes estão caminhando bem perto do caminho.
+  3. **09h50 - 10h40 (O Maior Show Musical da Disney):**
+     * 10h00: 🦁 **Festival of the Lion King:** Show ao vivo de nível Broadway, climatizado e sentado, com acrobatas, macacos voadores e as músicas inesquecíveis do Rei Leão.
+  4. **10h50 - 12h00 (Rafiki's Planet Watch & Oficina de Desenho):**
+     * 10h55: Embarque no charmoso trem **Wildlife Express Train**.
+     * 11h15: 🎨 **The Animation Experience (DESTAQUE FAMILIAR!):** Aula com um animador profissional da Disney que ensina a família inteira a desenhar um personagem animal (Simba, Dumbo, etc.) em papel oficial da Disney. Cada um leva o seu desenho original para casa de recordação!
+     * 11h45: **Affection Section:** Fazendinha ao ar livre para a Isabela acariciar e escovar cabritinhos dóceis.
+  5. **12h15 - 13h15 (Almoço de Costelinha com Vista para o Lago):**
+     * Almoço no **Flame Tree Barbecue:** Deliciosas costelinhas suínas defumadas, frango marinado e mac & cheese com mesas em gazebos arborizados.
+  6. **13h30 - 14h35 (Dinossauros & Encontros):**
+     * 13h35: 🦕 **The Boneyard:** Escavação de fósseis de T-Rex e parquinho arqueológico de cordas para o Miguel e Isabela brincarem livremente na areia fofa.
+     * 14h15: Encontro para fotos com Mickey e Minnie em trajes de safári no *Adventures Outpost*.
+  7. **14h45 - 16h15 (Pandora — O Mundo de Avatar):**
+     * 14h50: **Na’vi River Journey:** Barquinho suave e poético navegando por uma floresta bioluminescente repleta de plantas brilhantes e o xamã animatrônico mais perfeito já criado (maravilhoso para a Isabela e Thalita).
+     * 15h30: 🦅 **Avatar Flight of Passage:** O simulador 3D definitivo onde você voa nas costas de um Banshee sobre os desfiladeiros de Pandora (Marcelo via Lightning Lane).
+  8. **16h30 — Saída Relaxada:** Retorno ao Homewood Suites para aproveitar o fim de tarde na piscina aquecida e descansar o corpo!
+*  no Animal Kingdom:**
   * 🟢 **FUNCIONA:** Fazer o safári nos primeiros 45 minutos da manhã; almoçar cedo no *Flame Tree Barbecue* no deque inferior; ficar até o pôr do sol para ver Pandora iluminada e o show da Árvore da Vida.
   * 🔴 **NÃO FUNCIONA:** Fazer o safári às 14h (os animais dormem na sombra); levar crianças na atração *It’s Tough to Be a Bug* (o teatro escuro embaixo da árvore assusta com ferroadas e aranhas — manter fora!).
 * **Probabilidade de Sucesso:** **🟢 99,1%**.
@@ -522,34 +481,27 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
   * 🟢 **Luminous: The Symphony of Us (~21h00/21h15):** Show grandioso de fogos, fontes iluminadas e música na lagoa do World Showcase.
 * **Mapa Mestre Operacional GPS:**
 ![Mapa Mestre Operacional GPS - EPCOT (Circuito do Futuro e Culturas)](maps/epcot_park_flow.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (Sentido Horário Circular):**
-  1. **08h30:** Chegada ao parque. Passeio inicial em **Spaceship Earth** dentro da esfera prateada.
-  2. **09h15 - 10h45 (World Nature / Aquário Gigante do Miguel & Soarin'):**
-     * 09h20: **The Seas with Nemo & Friends:** Passeio em conchas no fundo do mar que desemboca diretamente dentro do mega aquário!
-     * 09h50: 🦈 *Momento Mágico do Miguel:* Observar os tubarões gigantes e arraias nadando pelos vidros panorâmicos do aquário e assistir aos peixes-boi.
-     * 10h15: **Turtle Talk with Crush:** Bate-papo ao vivo com a tartaruga Crush que conversa com Miguel e Isa pelo nome!
-     * 10h40: **Soarin’ Around the World:** Voo suave de asa-delta em família sobrevoando as pirâmides e a Torre Eiffel.
-  3. **11h00 - 12h00 (World Discovery & A Montanha-Russa dos Sonhos):**
-     * 11h05: 🚀 **Guardians of the Galaxy: Cosmic Rewind:** Marcelo e Isabela (115 cm) embarcam na melhor montanha-russa do mundo com trilha sonora espetacular!
-     * 11h45: **Club Cool da Coca-Cola:** Degustação grátis de refrigerantes do Japão, Grécia e Itália (Miguel adora experimentar os sabores!).
-  4. **12h15 - 13h45 (O Grande Almoço de Massas do Miguel na ITÁLIA):**
-     * Almoço no **Via Napoli Ristorante e Pizzeria (Pavilhão da Itália):** O restaurante italiano mais aclamado da Disney. Miguel saboreia pratos generosos de espaguete à bolonhesa, fettuccine Alfredo e pizzas napolitanas assadas em fornos a lenha dedicados. *(Janela de reserva já aberta — garantir pelo app My Disney Experience!)*
-  5. **14h00 - 15h30 (França & Ratatouille):**
-     * Caminhada pelas pontes parisienses com cheirinho de padaria francesa.
-     * 14h15: **Remy’s Ratatouille Adventure:** Embarque nos ratinhos 3D fugindo do Chef Skinner sob os fogões da cozinha francesa.
-     * 15h00: 🥐 *Parada Infantil 1:* Sorvete artesanal na *L'Artisan des Glaces* e descanso no carrinho sob a sombra dos salgueiros.
-  6. **15h45 - 17h15 (Noruega, Frozen & México):**
-     * 15h50: **Frozen Ever After (Noruega):** Passeio de barco até o palácio de gelo de Arendelle.
-     * 16h35: **Gran Fiesta Tour Starring The Three Caballeros (México):** Passeio de barco suave no escuro dentro da pirâmide maia com o Pato Donald e Zé Carioca (zero filas!).
-  7. **17h30 - 19h30 (Exploração Cultural & Petiscos do Mundo):**
-     * Passar pelo Pavilhão dos EUA (**Regal Eagle Smokehouse**): Marcelo pode pegar um chope artesanal de **IPA geladíssima** e uma porçãozinha de brisket para degustar enquanto passeia!
-     * Provar pretzels gigantes quentinhos na Alemanha e doces de Natal nos quiosques do *Festival of the Holidays* (ativo de 27/11 a 30/12).
-     * As crianças carimbam seus cartões nos postos do **Kidcot Fun Stops**.
-  8. **20h15 - 21h30 (O Grande Encerramento — LUMINOUS):**
-     * 20h20: Estacionar o carrinho próximo à balaustrada do pavilhão do México ou Canadá para visão desobstruída da lagoa.
-     * 21h00: 🎆 **LUMINOUS: The Symphony of Us:** Show de fogos de artifício em sincronia com luzes, fontes dançantes e canções icônicas da Disney sobre a lagoa.
-     * 21h30: Saída suave rumo ao estacionamento.
-* **O que FUNCIONA vs O que NÃO FUNCIONA no EPCOT:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h30 às 21h30):**
+  1. **08h30 — Entrada Triunfal sob a Esfera:** Entrada pelo portão principal diante da icônica esfera geodésica.
+  2. **08h45 - 09h35 (Passeio na Grande Esfera do Epcot):**
+     * 08h50: 🌐 **Spaceship Earth (DESTAQUE!):** Viagem suave no escuro contando a história da comunicação humana com narração em português. Na descida final, as crianças respondem um questionário no tablet e a tela cria um desenho animado hilário mostrando o futuro da família!
+  3. **09h40 - 10h50 (Oceano do Nemo & Aquário Gigante):**
+     * 09h45: **The Seas with Nemo & Friends:** Carrinho concha pelas profundezas marinhas encontrando Nemo, Dory e tartarugas.
+     * 10h10: **SeaBase:** Visita aos aquários gigantes de 22 milhões de litros com peixes-boi resgatados, golfinhos e tubarões.
+  4. **11h00 - 12h20 (Guardiões da Galáxia & Água da Moana):**
+     * 11h05: 🚀 **Guardians of the Galaxy: Cosmic Rewind:** A primeira montanha-russa com lançamento reverso da Disney, girando 360° ao som de clássicos do rock dos anos 80 (Marcelo e Miguel, se >= 107 cm, via Virtual Queue / Lightning Lane).
+     * 11h45: **Journey of Water, Inspired by Moana:** Trilha interativa com águas dançantes e fontes mágicas que respondem aos gestos das crianças (Isabela e Thalita amam).
+  5. **12h30 - 13h50 (Almoço Italiano Autêntico no Pavilhão da Itália):**
+     * Almoço no **Via Napoli Ristorante e Pizzeria:** As melhores pizzas de massa fina assadas em fornos a lenha esculpidos como os deuses Vulcano, Vesúvio e Etna.
+  6. **14h00 - 17h15 (A Volta ao Mundo com Missão Interativa dos DuckTales):**
+     * 14h05: 📱 **DuckTales World Showcase Adventure (DESTAQUE INTERATIVO!):** No app Play Disney Parks, Miguel e Isabela ativam missões secretas nos países: ao tocar no celular, janelas de prédios se abrem, relógios cantam e efeitos reais acontecem nas fachadas do México, Alemanha e Reino Unido!
+     * 14h45: 🐀 **Remy’s Ratatouille Adventure (França):** Carrinho sem trilhos que encolhe a família até o tamanho de ratinhos correndo pela cozinha do restaurante Gusteau em 3D.
+     * 16h00: ❄️ **Frozen Ever After (Noruega):** Passeio de barco até o castelo de gelo de Arendelle para a Isabela cantar *Let It Go* com Elsa, Anna e Olaf.
+  7. **17h30 - 19h30 (Festival of the Holidays):**
+     * Degustação de comidinhas natalinas e doces típicos nas barraquinhas dos pavilhões mundiais.
+  8. **19h45 - 21h30 (O Grandioso Show Noturno Luminous):**
+     * 21h00: Posicionamento ao redor da lagoa para o espetáculo pirotécnico, fontes dançantes e trilha musical emocionante **Luminous: A Symphony of Us**.
+*  no EPCOT:**
   * 🟢 **FUNCIONA:** Almoçar no *Via Napoli* para satisfazer a paixão do Miguel por massas; garantir o Single Pass de *Guardians of the Galaxy* para o Marcelo (e Isa); usar o aquário do Nemo para entreter o Miguel pela manhã; provar os refrigerantes grátis do Club Cool.
   * 🔴 **NÃO FUNCIONA:** Deixar o World Showcase para o meio-dia sob sol forte (as distâncias ao redor da lagoa somam 2 km sem sombra direta); tentar atravessar a lagoa a pé com pressa (use os barcos *FriendShip Boats* que cruzam a água se as pernas cansarem!).
 * **Probabilidade de Sucesso:** **🟢 98,2%**.
@@ -572,34 +524,30 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
   * 🟢 **Fantasmic! (Sessões ~20h00 / 21h30):** Mega espetáculo aquático noturno com Mickey Feiticeiro em arena de 10.000 lugares sentados.
 * **Mapa Mestre Operacional GPS:**
 ![Mapa Mestre Operacional GPS - Hollywood Studios (Circuito do Cinema)](maps/hollywood_studios_flow.jpg)
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (Sentido Horário Suave — 08h00 às 21h00):**
-  1. **08h00:** Chegada ao parque pelo charmoso *Hollywood Boulevard*.
-  2. **08h30 - 10h15 (Toy Story Land / O Paraíso das Crianças):**
-     * 08h35: **Slinky Dog Dash** (LIGHTNING LANE — A montanha-russa do cãozinho de mola que faz Isabela e Miguel gargalharem!).
-     * 09h10: **Toy Story Mania!** (LIGHTNING LANE — Competição 4D em família atirando tortas e dardos com placar no carrinho!).
-     * 09h45: **Alien Swirling Saucers** (Passeio giratório musical divertido com os alienígenas verdes).
-     * 10h05: 🤠 *Parada Infantil 1:* Picolé e fotos ao vivo com o Xerife Woody e a Vaqueira Jessie.
-  3. **10h30 - 11h45 (Star Wars: Galaxy's Edge & Star Tours):**
-     * 10h35: Entrada pelo túnel de pedra no planeta *Batuu*. Ver a lendária *Millennium Falcon* em tamanho real.
-     * 10h50: **Millennium Falcon: Smugglers Run:** Miguel pilota a nave como piloto oficial, Isabela e Thalita acionam os escudos como engenheiras e Marcelo opera os canhões!
-     * 11h25: **Star Tours – The Adventures Continue:** Voo espacial em 3D encontrando o Grogu (Baby Yoda).
-  4. **12h00 - 13h00 (Almoço com Brisket Defumado):**
-     * Almoço no **Woody’s Lunch Box** ou no **ABC Commissary:** *BBQ Beef Brisket Melt* (sanduíche quente de brisket desfiado com queijo cheddar derretido) e pratos infantis completos em ambiente refrigerado.
-  5. **13h15 - 15h00 (Shows Climatizados de Sucesso: Frozen & Indiana Jones):**
-     * 13h15: ❄️ **For the First Time in Forever: A Frozen Sing-Along Celebration:** Teatro com ar-condicionado e neve mágica caindo sobre a plateia.
-     * 14h15: 🎬 **Indiana Jones Epic Stunt Spectacular:** Truques de cinema, cenários que explodem e acrobacias ao vivo (Miguel e Marcelo ficam hipnotizados!).
-  6. **15h15 - 16h45 (Chinese Theater, Disney Junior & Emoções):**
-     * 15h20: 💃 **Disney Junior Play and Dance!:** Isabela e Miguel dançam com bolhas de sabão junto de Mickey e Timon.
-     * 15h50: **Mickey & Minnie’s Runaway Railway** (LIGHTNING LANE — Viagem mágica dentro do desenho animado do Mickey com tecnologia trackless).
-     * 16h30: ⚡ *Momento Papai Marcelo:* Marcelo entra na clássica **The Twilight Zone Tower of Terror** (e/ou *Rock 'n' Roller Coaster Starring The Muppets*) via fila rápida.
-  7. **17h00 - 18h30 (Star Wars: Rise of the Resistance & Descanso):**
-     * 17h10: **Star Wars: Rise of the Resistance** (A melhor atração do mundo: captura pela Primeira Ordem, AT-ATs em tamanho real e fuga em carrinhos autônomos).
-     * 18h00: 🥛 Provar o famoso *Blue Milk* (Leite Azul refrescante) e lanche leve.
-  8. **18h45 - 20h45 (O Grande Espetáculo Noturno — FANTASMIC!):**
-     * 19h15: Caminhada tranquila até a arena do **Fantasmic!**. Entrada sem aperto e assentos confortáveis no anfiteatro (conferir horários das sessões no app no dia, geralmente 20h00 e 21h30).
-     * 20h00: 🎆 **FANTASMIC!:** Mickey enfrenta os vilões da Disney em meio a projeções em cortinas de água gigante, fogos de artifício e o barco a vapor com todos os personagens acenando.
-     * 20h40 - 21h00: Projeções emocionantes do *Wonderful World of Animation* na fachada do Chinese Theater e saída tranquila.
-* **O que FUNCIONA vs O que NÃO FUNCIONA no Hollywood Studios:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (08h15 às 21h00):**
+  1. **08h15 — Entrada Cineasta:** Acesso pela Hollywood Boulevard com seus teatros clássicos dos anos 30.
+  2. **08h30 - 10h35 (Toy Story Land — O Quintal do Andy):**
+     * 08h35: **Slinky Dog Dash:** A montanha-russa do cão de mola que estica e pula para a família inteira.
+     * 09h20: 🎯 **Toy Story Mania! (DESTAQUE FAMILIAR!):** Jogo em 4D onde Marcelo, Thalita, Miguel e Isabela competem atirando tortas, dardos e anéis em alvos móveis 3D. Altamente viciante e divertido para todas as idades!
+     * 10h05: **Alien Swirling Saucers:** Disco voador giratório dos simpáticos extraterrestres verdes.
+  3. **10h40 - 11h25 (Disney Junior para a Isabela):**
+     * 10h45: 🎵 **Disney Junior Play and Dance! (DESTAQUE!):** Salão acarpetado, climatizado e interativo onde Isabela dança com Mickey, Vampirina, Doutora Brinquedos e Timão com bolhas de sabão caindo do teto!
+  4. **11h35 - 13h00 (Star Wars: Galaxy's Edge — O Planeta Batuu):**
+     * 11h40: 🛸 **Star Wars: Rise of the Resistance:** A maior façanha de entretenimento da história: captura por um Star Destroyer da Primeira Ordem, combate com Kylo Ren e fuga épica.
+     * 12h25: **Millennium Falcon: Smugglers Run:** Miguel assume o comando como Piloto na cabine oficial da nave mais famosa da galáxia!
+  5. **13h05 - 14h10 (Almoço Temático):**
+     * Almoço no **Docking Bay 7 Food and Cargo** ou **Woody’s Lunch Box** (grilled cheese gourmet, brisket tostado e tater tots quentinhos).
+  6. **14h20 - 15h25 (O Musical Mágico de Frozen com Neve Real):**
+     * 14h30: ❄️ **For the First Time in Forever: A Frozen Sing-Along Celebration:** Show hilário e emocionante com os historiadores reais de Arendelle, canções ao vivo e **neve de verdade caindo do teto sobre toda a plateia** durante a canção final!
+  7. **15h35 - 17h15 (Aventuras no Cinema & Runaway Railway):**
+     * 15h40: **Mickey & Minnie’s Runaway Railway:** Carrinho sem trilhos entrando por dentro de um desenho animado maluco com o Pluto e o Pato Donald no Teatro Chinês.
+     * 16h30: Fotos com Chewbacca, BB-8 ou personagens clássicos da Disney.
+  8. **17h30 - 18h45 (Jantar Relaxante):**
+     * Jantar no **ABC Commissary** (climatizado com pratos rápidos de inspiração latina e americana) ou café temático.
+  9. **19h00 - 20h45 (O Inigualável Show Noturno Fantasmic!):**
+     * 19h30: Entrada no anfiteatro aquático de Hollywood Hills.
+     * 20h00: **Fantasmic!:** O espetáculo grandioso onde o Mickey Feiticeiro combate dragões e vilões em telas gigantes de água, com barcos de personagens iluminados, pirotecnia e música ao vivo.
+*  no Hollywood Studios:**
   * 🟢 **FUNCIONA:** Ir na terça 22/12 (fugindo do fechamento antecipado do Jollywood Nights em 21/12); garantir a Lightning Lane do *Slinky Dog Dash* às 07h00; usar os shows do Frozen e Indiana Jones no início da tarde para descansar no ar-condicionado.
   * 🔴 **NÃO FUNCIONA:** Tentar fazer a fila comum de 120 minutos do Slinky Dog no calor das 13h; deixar o Rise of the Resistance para os últimos 30 minutos de parque.
 * **Probabilidade de Sucesso:** **🟢 97,8%**.
@@ -625,29 +573,26 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 * **Como Reservar o Almoço Vendo Tubarões (Sharks Underwater Grill):**
   * **Passo a Passo:** Acesse o site oficial do SeaWorld Orlando, vá na aba *Dining* e selecione *Sharks Underwater Grill - Priority Seating*.
   * **Dica de Ouro:** Não é possível escolher a mesa exata pelo site, mas ao chegar na recepção (podium) com 10 minutos de antecedência, peça cordialmente: *"Could we please wait a few extra minutes for a table right against the glass?"*. Eles acomodam na fileira colada ao vidro e a experiência para o Miguel e Isabela é surreal! Se as vagas online esgotarem, chegue na porta do restaurante pontualmente às **11h00 da manhã** no dia do parque para reservar presencialmente.
-* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (Baseado nos Horários dos Estádios):**
-  1. **09h30:** Chegada tranquila ao parque (sem necessidade de correr na abertura de madrugada).
-  2. **10h00 - 10h45 (Encontro com as Arraias & Berçário de Golfinhos):**
-     * 10h05: **Stingray Lagoon:** Miguel e Isabela colocam as mãozinhas na água rasa e sentem a textura suave das arraias passando na borda do tanque.
-     * 10h30: **Dolphin Nursery:** Ver os filhotes de golfinhos brincando na água rasa.
-  3. **11h00 - 11h45 (Dolphin Stadium / Show dos Golfinhos):**
-     * 11h00: Entrada no grande estádio coberto e sombreado dos golfinhos.
-     * 11h15: **Dolphin Adventures:** Espetáculo com dezenas de golfinhos saltando alto em sincronia com treinadores ao som de música orquestrada.
-  4. **12h00 - 13h30 (O Grande Almoço com Tubarões no SHARKS UNDERWATER GRILL):**
-     * Almoço mágico no **Sharks Underwater Grill:** Comer carnes nobres, peixes grelhados, massas e pratos infantis enquanto tubarões gigantescos passam a poucos centímetros do vidro ao lado da mesa. O Miguel vai ficar de queixo caído!
-  5. **13h45 - 14h45 (Sesame Street Land / A Vila Sésamo & Peixes-Boi):**
-     * 13h45: Caminhada pela famosa rua de tijolinhos da Vila Sésamo. Fotos com o *Elmo* e o *Cookie Monster*.
-     * 14h10: Passeio nos brinquedos infantis suaves: *Elmo’s Choo Choo Train*, *Abby’s Flower Tower* e o parquinho seco de borracha.
-     * 14h30: Visitar os peixes-boi gigantes no **Manatee Rescue**.
-  6. **15h00 - 15h45 (Orca Stadium / O Majestoso Show das Baleias):**
-     * 15h05: Entrada no grandioso estádio das orcas (escolher assentos acima da *Soak Zone* para não tomar banho de água salgada gelada!).
-     * 15h15: **Orca Encounter:** A apresentação das majestosas baleias orcas saltando e nadando com fundo de telões gigantes exibindo a preservação dos oceanos.
-  7. **16h00 - 17h30 (Shark Realm, Wild Arctic, Penguin Trek & O Momento Radical do Papai):**
-     * 16h05: **Shark Realm:** Caminhada fascinante dentro do túnel de vidro cercado por dezenas de tubarões gigantes e peixes-serra.
-     * 16h35: 🎢 **Penguin Trek:** Marcelo, Miguel e Isabela embarcam na novíssima montanha-russa que viaja até os pinguins da Antártica!
-     * 17h00: ⚡ *Momento Papai Marcelo:* Marcelo entra na fila expressa Single Rider da **Mako** (a montanha-russa mais rápida e alta de Orlando) enquanto Thalita e as crianças compram cookies na padaria.
-  8. **17h45:** Caminhada pelas luzes natalinas da ponte central e saída tranquila de volta para a suíte.
-* **O que FUNCIONA vs O que NÃO FUNCIONA no SeaWorld:**
+* **Roteiro Operacional Turn-by-Turn Anti-Ziguezague (09h00 às 19h00):**
+  1. **09h00 — Chegada sem Filas:** Entrada suave e organizada sem necessidade de cordas ou correria.
+  2. **09h20 - 10h40 (Vila Sésamo & Encantamento da Isabela):**
+     * 09h25: 🍪 **Sesame Street Land:** A réplica exata do bairro com a mercearia do Sr. Hooper, campainhas falantes interativas, casinha do Come-Come e parada com Elmo e Ênio.
+  3. **10h50 - 11h45 (O Show dos Golfinhos Sentados na Sombra):**
+     * 11h00: 🐬 **Dolphin Adventures:** Show emocionante no Dolphin Stadium com saltos acrobáticos e acrobacias em alta velocidade.
+  4. **12h00 - 13h30 (Almoço Subaquático com Tubarões):**
+     * Almoço climatizado no lendário **Sharks Underwater Grill:** Mesas de alta gastronomia ao lado das vitrines de vidro onde tubarões gigantes e raias nadam a centímetros da família!
+  5. **13h40 - 14h40 (Interação Real com Animais):**
+     * 13h45: 🌊 **Stingray Lagoon (DESTAQUE!):** Piscinas baixas de toque onde Miguel, Isabela e os pais podem encostar a mão nas costas aveludadas de dezenas de arraias mansas e alimentá-las.
+     * 14h15: **Dolphin Cove:** Observação subaquática dos golfinhos nadando em alta velocidade.
+  6. **14h50 - 15h50 (O Majestoso Espetáculo das Orcas):**
+     * 15h00: 🐋 **Orca Encounter:** No gigantesco Orca Stadium, apresentação majestosa demonstrando a inteligência, força e saltos das baleias orcas.
+  7. **16h00 - 17h15 (Pólo Sul & Ártico dos Pinguins):**
+     * 16h05: **Antarctica: Empire of the Penguin:** Habitat gelado com centenas de pinguins saltando na água e cuidando de filhotinhos.
+     * 16h45: **Wild Arctic:** Encontro com belugas (baleias brancas) e morsas gigantes.
+  8. **17h30 - 19h00 (Celebração de Natal do SeaWorld):**
+     * 17h45: Show de patinação artística no gelo **Winter Wonderland on Ice**.
+     * 18h45: Queima de fogos natalinos **Holiday Reflections** iluminando a lagoa central com fontes coreografadas ao som de sinos natalinos.
+*  no SeaWorld:**
   * 🟢 **FUNCIONA:** Almoçar no *Sharks Underwater Grill* colado ao vidro; organizar o dia ao redor dos horários dos shows de estádio (11h15 golfinhos, 15h15 orcas); sentar sempre no setor intermediário seco para evitar a água salgada gelada nos dias frescos de dezembro.
   * 🔴 **NÃO FUNCIONA:** Ficar na *Soak Zone* (as primeiras 10 fileiras do estádio da orca) sob vento de 16°C (a água que a orca joga é gelada a 12°C e estraga a tarde das crianças); tentar pegar filas de brinquedos radicais convencionais no meio do dia em família (use o Single Rider para o papai).
 * **Probabilidade de Sucesso:** **🟢 98,5%**.
@@ -731,24 +676,24 @@ Avaliando todo o cenário de dezembro (temperatura amena, crowd calendars e o pe
 
 ## 5. Roteiro Completo Dia a Dia — PLANO D+ OFICIAL (Ritmo Perfeito & Menores Filas)
 
-* **12/12 (Sáb) — 🏖️ Chegada, SUV & Hotel:** Pouso no MCO/Tampa às 20h30, retirar SUV na Avis e deslocamento até o **Homewood Suites by Hilton I-Drive Convention Center** (estacionamento 100% grátis).
-* **13/12 (Dom) — 🎂 Aniversário do Papai Marcelo + Entrega do Carrinho:** Carrinho duplo Lin Rentals entregue pela manhã. Abastecimento de comidinhas no Publix e piscina no hotel. Às 19h: Jantar festivo no **Hard Rock Cafe Orlando** (Universal CityWalk — estacionamento grátis após 18h).
-* **14/12 (Seg) — 🎡 PARQUE 1: Universal Studios + Islands of Adventure (2 em 1):** **Lotação 🟢 4/10 (Super vazio!)**: **A Casa Mágica da Gabby** na DreamWorks Land, Minions, **Dinossauros do Jurassic Park** e trem Hogwarts Express entre os parques!
+* **12/12 (Sáb) — 🏖️ Chegada, SUV & Hotel:** Pouso em **Tampa (TPA)** às 20h30, retirar SUV na Avis e deslocamento até o **Homewood Suites by Hilton I-Drive Convention Center** (8745 International Dr • estacionamento 100% grátis). **O carrinho BOB Duplo (Lin Rentals #6638) é entregue hoje entre 10h e 20h no Bell Stand/recepção** e já estará esperando vocês.
+* **13/12 (Dom) — 🎂 Aniversário do Papai Marcelo + Entrega do Carrinho:** Carrinho duplo já está no hotel (entregue em 12/12). **Dia de sobrevivência e gasto baixo:** café buffet do hotel, piscina e uma compra-base no Publix/Walmart (água, frutas, lanches de parque, protetor solar, capas de chuva de US$ 1,98). **07h00: Lightning Lane do 1º dia Disney (16/12).** Às 19h: Jantar festivo no **Hard Rock Cafe Orlando** (Universal CityWalk — estacionamento grátis após 18h).
+* **14/12 (Seg) — 🎡 PARQUE 1: Universal Studios + Islands of Adventure (2 em 1) — ⚖️ PLANO DE CORTE: dia mais pesado da viagem; definir de antemão o que sai se as crianças cansarem (Universal Studios é o primeiro a sair após o almoço).** **Lotação 🟢 4/10 (Super vazio!)**: **A Casa Mágica da Gabby** na DreamWorks Land, Minions, **Dinossauros do Jurassic Park** e trem Hogwarts Express entre os parques!
 * **15/12 (Ter) — 🏖️ DESCANSO 1: Showcase of Citrus (Clermont) & Suncreek IPA:** Passeio no **Monster Truck gigante 4x4** pelos pomares e pântanos de Clermont ([showcaseofcitrus.com](https://www.showcaseofcitrus.com/)) + almoço com IPAs na **Suncreek Brewery**.
 * **16/12 (Qua) — 🎡 PARQUE 2: Disney's Magic Kingdom (Dia Regular):** **INÍCIO DA JANELA DISNEY 7 DIAS (🟢 6/10)!** Princesas (*Fairytale Hall*), pilotar carros no *Speedway*, montanha-russa dos Sete Anões, doces na Main Street e o lendário show de fogos **Happily Ever After às 20h00** no Castelo!
 * **17/12 (Qui) — 🎡 PARQUE 3: Universal's Epic Universe (2º Uso e Fim da Janela Universal):** **VANTAGEM MÁXIMA DA SEMANA 1 (🟢 5/10)!** **Super Nintendo World (Mario Kart e Donkey Kong)**, Isle of Berk (Como Treinar o Seu Dragão com batalha de canhões d'água e show de teatro) e fontes iluminadas à noite.
-* **18/12 (Sex) — 🏖️ DESCANSO 2: Compras no Vineland Outlets & Ford's Garage:** Dormir até mais tarde. Outlets com estoques cheios antes do Natal. Cupons VIP (-15% a -25%), almoço temático no **Ford's Garage** e descanso para o Safári de sábado.
+* **18/12 (Sex) — 🏖️ DESCANSO 2: Compras (Orlando International Premium Outlets na I-Drive, perto do hotel; Vineland como alternativa) + Disney Character Warehouse + Ross/Marshalls & Ford's Garage:** Dormir até mais tarde. Outlets com estoques cheios antes do Natal. Cupons VIP (-15% a -25%), almoço temático no **Ford's Garage** e descanso para o Safári de sábado.
 * **19/12 (Sáb) — 🎡 PARQUE 4: Disney's Animal Kingdom (Dia Calmo aos Sábados):** **🟢 6/10 — O parque mais tranquilo da Disney aos sábados!** Safári na savana africana, **Bluey & Bingo**, escavação de fósseis de T-Rex no *The Boneyard*, Avatar com Isabela e costelinha no *Flame Tree BBQ*. **Saída relaxada às 15h30** para aproveitar a piscina do hotel!
 * **20/12 (Dom) — 🏖️ DESCANSO 3: DOMINGO DE OURO (Fuga dos Parques):** **Fuga total da superlotação dominical!** **O maior museu de carros e Monster Trucks dos EUA** para Miguel e Marcelo ([dezerlandpark.com](https://dezerlandpark.com/)) + **Ulta Beauty / Sephora** para a mamãe Thalita.
 * **21/12 (Seg) — 🎡 PARQUE 5: Disney's EPCOT:** *(Invertido estrategicamente para fugir do fechamento antecipado do Jollywood Nights no HS!)* **Aquário gigante do Nemo (The Seas com tartarugas/tubarões)**, almoço de massas no *Via Napoli* (Itália), *Ratatouille* em Paris, montanha-russa *Guardians of the Galaxy: Cosmic Rewind*, comidinhas natalinas pelo World Showcase e o emocionante show de fogos noturno **Luminous (~21h00)**.
 * **22/12 (Ter) — 🎡 PARQUE 6: Disney's Hollywood Studios (Fim da Janela de 7 Dias — Sem Festa Privada!):** **Toy Story Land completa**, *Star Wars: Rise of the Resistance*, musical de Frozen com neve, BBQ Brisket no Woody's e o grandioso show noturno **Fantasmic!** (parque em horário normal completo!). *(Encerra a janela de 7 dias da Disney com economia de US$ 361!)*
 * **23/12 (Qua) — 🏖️ DESCANSO 4: Início do Feriadão de Natal em Winter Park (Scenic Boat Tour) & Winter Garden:** Passeio de barco **Scenic Boat Tour** pelos canais arborizados de Winter Park pela manhã (das 10h às 16h — já que fecha no dia 25/12) + tarde histórica em Winter Garden com trenzinho e **High Stepper IPA** no **Plant Street Market**.
-* **24/12 (Qui) — 🏖️ DESCANSO 5: Véspera de Natal: Spa & Ceia na Suíte:** Manhã de piscina aquecida no hotel. Ceia caseira de Natal em família com troca de presentes sob a árvore.
+* **24/12 (Qui) — 🏖️ DESCANSO 5: Véspera de Natal: Spa & Ceia na Suíte:** Manhã de piscina aquecida no hotel. Ceia caseira de Natal em família com troca de presentes sob a árvore. **Sugestão: passeio curto de luzes à noite (ICON Park ou Disney Springs, ambos sem ingresso) — conferir horário de funcionamento do dia.**
 * **25/12 (Sex) — 🏖️ DESCANSO 6: Dia de Natal Mágico em Celebration & Passeio em Família:** Fuja do caos dos parques! Manhã tranquila de Natal, almoço especial e tarde/noite em **Celebration** com neve artificial de sabão (*Now Snowing*), carruagens e iluminação natalina.
 * **26/12 (Sáb) — 🏖️ DESCANSO 7: Saldões de Fim de Ano (Boxing Day):** Compras sem pressa com descontos agressivos pós-Natal e tarde relaxante na piscina.
 * **27/12 (Dom) — 🐬 PARQUE 7: SeaWorld Orlando (1º Uso Combo):** Shows de golfinhos e orcas sentados em estádios (zero filas!), almoço no *Sharks Underwater Grill*, **tocar arraias na mão**, pinguins e espetáculos natalinos (**Miracles** e **Holiday Reflections**).
 * **28/12 (Seg) — 🏖️ DESCANSO 8: Tour dos Resorts de Luxo Disney (Gratuito):** Grand Floridian com a casa gigante de pão de gengibre em tamanho real e fogos do Magic Kingdom assistidos na praia de areia branca do Polynesian Resort!
-* **29/12 (Ter) — 🦒 PARQUE 8: Busch Gardens Tampa (2º Uso Combo):** Bate-volta tranquilo a Tampa! Trenzinho pela savana africana (girafas, zebras, rinocerontes), Vila Sésamo para a Isa e o Miguel, Cangurus, Teleférico e Montanhas-Russas.
+* **29/12 (Ter) — 🦒 PARQUE 8: Busch Gardens Tampa (2º Uso Combo):** ⚠️ **Dia longo: ~1h30 de carro por trecho, semana de pico. Sair cedo (~8h) e voltar antes do cansaço da Isabela; avaliar usar esse 2º ingresso em outro dia (janela de 14 dias após o 1º uso).** Bate-volta a Tampa! Trenzinho pela savana africana (girafas, zebras, rinocerontes), Vila Sésamo para a Isa e o Miguel, Cangurus, Teleférico e Montanhas-Russas.
 * **30/12 (Qua) — 🏖️ DESCANSO 9: Despedida em Disney Springs:** Almoço cercado de dinossauros animatrônicos no **T-REX Cafe**, **The Polite Pig (Brisket/IPA)**, compras de laços, LEGO e malas prontas (23 kg).
 * **31/12 (Qui) — ✈️ Check-out & Voo de Retorno:** Devolver SUV no aeroporto MCO às 15h30 e embarque no voo Delta DL 1742 às 18h45 rumo ao Brasil!
 
@@ -820,7 +765,7 @@ Abaixo está o quadro executivo consolidado com o saldo real do Chase, o valor d
 | 🚗 **Aluguel de Veículo (19 dias)** | **QUITADO** | **US$ 1.116,23** | **R$ 6.094,62** | **100% Quitado na Rentcars (Voucher X4X9T9M)**. *Chevrolet Traverse 7 Pax* na Avis com CDW + Danos a Terceiros de US$ 1M + Taxa de Retorno inclusas. |
 | 🎟️ **Ingressos dos 8 Parques** | **QUITADO (`#248579-110526`)** | **US$ 4.675,40** | **R$ 25.527,68** | **Comprado no Undercover Tourist!** (Disney 4d US$ 2.868,14 + Universal 2d US$ 1.440,94 + SeaWorld & Busch US$ 391,36 − Promo LOYAL20 US$ 25,04). Economia de US$ 900 vs. bilheteria! |
 | 🏨 **Hospedagem (19 noites)** | **COMPROMISSADO** | **US$ 2.914,07** | **R$ 15.910,82** | *Homewood Suites by Hilton I-Drive Conv. Ctr* (Total final com impostos da Flórida inclusos). Pagamento em Dólar no débito Chase. Suíte ampla, café buffet quente Hilton incluso e estacionamento 100% grátis. |
-| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **COMPROMISSADO** | **US$ 130,00** | **R$ 709,80** | *Baby Jogger Summit X3 Double* na Lin Rentals (US$ 130 com seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). Economia de US$ 64 / R$ 360! |
+| 🛒 **Carrinho Duplo (Lin Rentals) + Booster** | **QUITADO (cartão BR)** | **US$ 144,67** | **R$ 817,43** | *BOB Revolution 3.0 Double* (Reserva #6638 / Parcelow #599123, seguro e capa inclusos) + Booster da Isabela despachado de graça no voo (US$ 0). |
 | 🏥 **Seguro Saúde & Viagem (IMG Patriot Plus)**| **QUITADO / EMITIDO** | **US$ 329,62** | **R$ 1.799,73** | *IMG Patriot America Plus* emitido para os 4 (Certificado `PATAP87074813`, teto de US$ 500k por pessoa, franquia US$ 100, rede UnitedHealthcare PPO). Quitado no débito Chase. |
 | 🅿️ **Estacionamentos dos Parques** | **COMPROMISSADO** | **US$ 225,00** | **R$ 1.228,50** | Estacionamentos (SeaWorld/Busch Gardens) + eventuais extras. |
 | 🛣️ **Pedágios Oficiais (SunPass PRO)** | **COMPROMISSADO** | **US$ 25,00** | **R$ 136,50** | Compra do transponder portátil SunPass PRO (US$ 14,95) + saldo recarga. Recusa do e-Toll da AVIS (economia de mais de R$ 1.350!). |
@@ -835,7 +780,7 @@ Abaixo está o quadro executivo consolidado com o saldo real do Chase, o valor d
 
 ## 10. Estratégia Financeira, Cartões Internacionais & Salas VIP (Plano Mestre)
 
-A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem de US$ 1.000.000 (IMG / UnitedHealthcare PPO)** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
+A família possui um arsenal financeiro de alto nível para esta viagem. O objetivo é gastar com **IOF Zero**, **Spread Zero**, máximo controle de gastos e usufruir de **Seguro Viagem de US$ 500.000 por pessoa (IMG / UnitedHealthcare PPO)** e **Salas VIP para os 4 integrantes (Marcelo, Thalita, Miguel e Isabela)**.
 
 ### 💳 1. As 3 Estratégias Campeãs de Gastos & Compra de Ingressos em Orlando
 1. **🥇 Estratégia 1: O "Circuito Fechado Americano" (A Campeã — 0% IOF / 0% Spread):**
@@ -876,10 +821,10 @@ Como as taxas de embarque não foram pagas no cartão de crédito brasileiro, o 
 * **O Site Oficial é Seguro?** **Sim, 100% oficial e auditado.** A contratação é feita direto no portal oficial `imglobal.com`. A apólice é emitida na hora e você recebe o cartão digital com o número da apólice (*Certificate Number*) e o logotipo da **UnitedHealthcare PPO**.
 * **Quando Contratar:** Entre **28 e 30 de Outubro de 2026**, junto com os ingressos, logo após os dólares estarem disponíveis no Chase Bank.
 * **Configuração da Apólice Recomendada:**
-  * *Período:* 11/12/2026 a 01/01/2027 (22 dias de cobertura ampla cobrindo saída e chegada).
-  * *Teto de Cobertura (Policy Maximum):* **US$ 1.000.000 por pessoa** (cobertura milionária para total tranquilidade).
-  * *Deductible (Franquia Geral):* **Selecionar US$ 100** *(Importante: na opção de franquia US$ 0 a regra do copay fixo de US$ 25 para clínicas Urgent Care não se aplica; escolhendo US$ 100 de franquia, a franquia é dispensada no Urgent Care e você paga apenas US$ 25 de copay!)*.
-  * *Valor Estimado Família (4 pessoas):* **~US$ 210** pagos à vista no cartão de débito do Chase.
+  * *Período CONTRATADO:* 11/12/2026 a 01/01/2027 (22 dias, cobrindo saída e chegada). **Apólice emitida: `PATAP87074813`.**
+  * *Teto de Cobertura (Policy Maximum) CONTRATADO:* **US$ 500.000 por pessoa**.
+  * *Deductible (Franquia Geral):* **Contratado: US$ 100** *(Importante: na opção de franquia US$ 0 a regra do copay fixo de US$ 25 para clínicas Urgent Care não se aplica; escolhendo US$ 100 de franquia, a franquia é dispensada no Urgent Care e você paga apenas US$ 25 de copay!)*.
+  * *Valor Estimado Família (4 pessoas):* **US$ 329,62 (pago no débito Chase).**
 
 #### B) Protocolo para Urgências Leves ou Moderadas (Febre, Dor de Ouvido, Vômito Infantil, Torção Leve nos Parques):
 1. **Onde Ir (A 4 minutos do seu hotel):**  
@@ -908,7 +853,8 @@ Como as taxas de embarque não foram pagas no cartão de crédito brasileiro, o 
 3. **Acionamento da Seguradora (Pre-certification):**
    * Na admissão do hospital, apresente a carteirinha UnitedHealthcare PPO.
    * Assim que o paciente estiver sob cuidados médicos, ligue para o número de emergência 24h impresso no verso do cartão IMG (`+1-800-628-4664` ou acione via app).
-   * Informe a admissão hospitalar. A equipe da IMG emite a **Carta de Garantia Financeira (*Letter of Financial Guarantee*)** diretamente ao departamento financeiro do hospital, assumindo as contas da internação e procedimentos até o limite de US$ 1.000.000.
+   * Informe a admissão hospitalar. A equipe da IMG emite a **Carta de Garantia Financeira (*Letter of Financial Guarantee*)** diretamente ao departamento financeiro do hospital, assumindo as contas da internação e procedimentos até o limite de US$ 500.000.
+   * ⚠️ **Atenção (conferido na apólice):** em **pronto-socorro hospitalar (ER) por doença** que NÃO vire internação, há uma **franquia de US$ 250 por visita** (acidente/lesão não paga essa franquia). Urgent Care = copay US$ 25 e Walk-in = US$ 15, sem franquia. Por isso, para casos leves prefira **Urgent Care/Walk-in** e use o ER só quando for realmente necessário. O plano exige **pré-certificação** (ligar na IMG) em internações.
 
 ### 🛋️ 3. Roteiro de Salas VIP para os 4 (Marcelo, Thalita, Miguel e Isabela)
 * **Embarque em São Paulo (GRU T3 — United UA 860 às 22:25):**
@@ -1074,4 +1020,46 @@ O casal deliberou e definiu a compra estrita do **AirTag 4-Pack + Palmilhas RFUN
 3. **Regra de Ouro do WhatsApp:**
    * Ao pousar nos EUA e ativar a linha americana, o WhatsApp exibirá o aviso: *"Novo número detectado. Deseja atualizar o número da sua conta?"*.  
    * **SELECIONAR SEMPRE: "MANTER NÚMERO ATUAL"**. Isso preserva todas as conversas, fotos, histórico e o número brasileiro original sem nenhuma alteração.
+
+---
+
+## 12. Reavaliação do Roteiro, Gaps & Plano de Ação (Nov/2026)
+
+> **Fontes:** análise do próprio projeto + pesquisa geral. **Não foi possível ler** os vídeos dos canais *Orlando Diferente* e *Orlando Econômico* nem os posts do Instagram (navegador indisponível / conteúdo não acessível a mim). Itens marcados com 🔎 devem ser conferidos nesses conteúdos e nos sites oficiais.
+
+### 12.1 🔴 Urgente
+1. **Reservas de restaurante Disney (ADR):** a janela de 60 dias de todos os dias Disney (16, 19, 21 e 22/12) **já abriu**. Natal lota. Reservar agora (pelo desktop: disneyworld.disney.go.com/dining).
+2. **Vincular os ingressos no My Disney Experience** (passo a passo em 12.2) — pré-requisito para ADR e Lightning Lane.
+3. 🔎 **Magic Kingdom em 16/12:** confirmar no calendário oficial se essa noite tem a festa de Natal paga (o parque fecha cedo para quem não tem ingresso da festa).
+
+### 12.2 My Disney Experience pelo desktop — para a família toda
+1. Acesse `disneyworld.disney.go.com` e clique em **Log In** (canto superior direito). Use **uma conta do Marcelo** como conta-mestre.
+2. **Monte a "Family & Friends":** menu **My Disney Experience → My Family & Friends → Add a Guest**.
+   * **Thalita:** adicione pelo nome/e-mail (ela recebe convite e aceita, ou crie a conta dela e conecte-se) para ela também ver os planos no celular dela.
+   * **Miguel (7) e Isabela (5):** adicione como convidados que você **gerencia** (datas de nascimento corretas: 14/07/2019 e 15/01/2021).
+3. **Vincule os ingressos:** **My Disney Experience → My Plans → Tickets, Passes & Memory Maker → Link Tickets** (ou `disneyworld.disney.go.com/plan/link/`). Digite o **número/ID do ingresso** que está no e-ticket do Undercover Tourist (pedido `#248579-110526`).
+4. **Atribua cada ingresso à pessoa certa:** o sistema pergunta "quem usa este ingresso?". Escolha Marcelo, Thalita, Miguel e Isabela, 1 ingresso para cada. Confirme com **Save/Continue**.
+5. **Conferir:** em *My Plans* devem aparecer **4 ingressos de 4 dias (16–22/12)**, um por nome. Se atribuiu errado: **Reassign Ticket**.
+6. **No celular de cada adulto:** instale o app **My Disney Experience**, entre com a conta e use o **MagicMobile** (adicionar o cartão do ingresso à Apple Wallet) — entrada pela catraca sem ticket físico.
+7. **Depois de vincular:** reservar ADR e, em 13/12 às 07h00, o Lightning Lane Multi Pass (pelo app).
+> Observação: a tela exata pode mudar de nome; se algum menu não aparecer, a busca do site por "Link Tickets" leva ao mesmo lugar. 🔎
+
+### 12.3 Inconsistências corrigidas nesta rodada (local)
+Lightning Lane 11/12 → **13/12**; pouso **só em Tampa**; carrinho entregue em **12/12**; seguro **US$ 500.000** (não 1M) com a regra do ER de US$ 250; linha de orçamento do carrinho agora **quitada (US$ 144,67)**.
+
+### 12.4 Ajustes de calendário aplicados (reversíveis)
+- **14/12:** plano de corte do dia mais pesado.
+- **18/12:** priorizar *Orlando International Premium Outlets* (I-Drive, perto do hotel), + Disney Character Warehouse + Ross/Marshalls; Vineland como alternativa.
+- **24/12:** passeio curto de luzes à noite.
+- **29/12:** Busch Gardens é dia longo; sair cedo ou trocar o dia do 2º ingresso.
+- **13/12:** virou dia de sobrevivência com compra-base e Lightning Lane às 07h.
+
+### 12.5 Sugestões por tema 🔎 (validar nas fontes)
+**Compras e economia:** Walmart/Target/Five Below/Ross/Marshalls para água, lanches, protetor solar, roupa de frio, brinquedos e souvenirs; cupons no site dos outlets; Disney Character Warehouse; levar garrafa e lanches aos parques (sem vidro).
+**Dias sem parque / Natal simples:** Celebration (25/12), hotéis Disney com árvores e casas de gengibre (28/12), Disney Springs, ICON Park (entrada livre), Winter Park / Park Avenue, Old Town Kissimmee (carros clássicos, combina com o Miguel), Leu Gardens *Dazzling Nights* e Gaylord Palms *ICE!* (pagos; verificar datas).
+**Noites:** fogos vistos de fora do parque (Polynesian), CityWalk, luzes dos resorts.
+**Altura (lacuna real):** Isabela ≈ 1,15 m, Miguel ≈ 1,25 m, Thalita não anda em radicais. Falta a **matriz de altura por atração** (pode / não pode / troca de adulto), a conferir no app oficial; ela vira ícone nas bolinhas dos mapas.
+
+### 12.6 Mapas (ainda NÃO construídos)
+Recomendação: **mapas focados** = bolinhas numeradas + rota + cartão curto por parada, sobre os JPGs atuais, em vez de redesenhar tudo em vetor. O mapa do **Busch Gardens** não aparece no cache do app: confirmar se existe.
 
